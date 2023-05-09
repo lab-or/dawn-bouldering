@@ -236,6 +236,7 @@
       document.documentElement.classList.add('shopify-design-mode');
     }
     </script>
+    {% render 'shogun-head' %}
   </head>
 
   <body class="gradient">
@@ -293,5 +294,14 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+    {% render 'gw-custom-scripts' %}
+    <style>
+          .shogun-badge-container {
+            visibility: hidden;
+          }
+    </style>
+    <!-- **BEGIN** Hextom USB Integration // Main Include - DO NOT MODIFY -->
+        {% render 'hextom_usb_main', product: product, customer: customer %}
+    <!-- **END** Hextom USB Integration // Main Include - DO NOT MODIFY -->
   </body>
 </html>
