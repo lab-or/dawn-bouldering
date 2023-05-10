@@ -1,1 +1,252 @@
-{"sections":{"main":{"type":"main-product","blocks":{"vendor":{"type":"text","settings":{"text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button"}},"quantity_selector":{"type":"quantity_selector","settings":{}},"description":{"type":"description","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true}},"c43b4664-c634-4c2d-8358-11346b5443b5":{"type":"shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.faveButton\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4","settings":{"textColor":"","backgroundColor":"","iconColor":"","boxShadow":"","hoverTextColor":"","hoverBackgroundColor":"","hoverBorderColor":"","hoverBoxShadow":"","margin":"","padding":"","buttonWidth":"","buttonHeight":"","mobileBreakpoint":"","mobileButtonWidth":"","fontSize":"","fontWeight":"","fontFamily":"","letterSpacing":"","textTransform":"","border":"","borderRadius":"","favedIconCode":"","favedIconSize":"","unFavedIconCode":"","unFavedIconSize":""}},"collapsible-row-0":{"type":"collapsible_tab","disabled":true,"settings":{"heading":"Materials","icon":"leather","content":"<p>100% Cotton<\/p>","page":""}},"collapsible-row-1":{"type":"collapsible_tab","disabled":true,"settings":{"heading":"Shipping & Returns","icon":"truck","content":"","page":""}},"collapsible-row-2":{"type":"collapsible_tab","disabled":true,"settings":{"heading":"Dimensions","icon":"ruler","content":"","page":""}},"collapsible-row-3":{"type":"collapsible_tab","disabled":true,"settings":{"heading":"Care Instructions","icon":"heart","content":"","page":""}},"share":{"type":"share","settings":{"share_label":"Share"}}},"block_order":["vendor","title","price","variant_picker","quantity_selector","description","buy_buttons","c43b4664-c634-4c2d-8358-11346b5443b5","collapsible-row-0","collapsible-row-1","collapsible-row-2","collapsible-row-3","share"],"settings":{"enable_sticky_info":true,"media_position":"left","gallery_layout":"stacked","media_size":"large","mobile_thumbnails":"hide","hide_variants":true,"enable_video_looping":false,"padding_top":36,"padding_bottom":12}},"1671105833da759127":{"type":"apps","settings":{"include_margins":true}},"593116363c3bcdb6c8":{"type":"apps","blocks":{"d2c61a41-0a21-4225-869c-15bf1a47028b":{"type":"shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4","settings":{"containerMaxWidth":"","containerMarginTop":"","containerMarginBottom":"","containerSidePadding":"","containerLineHeight":"","containerFontFamily":"","containerLetterSpacing":"","buttonsColor":"","buttonsColorOnHover":"","buttonsBackgroundColor":"","buttonsBackgroundColorOnHover":"","buttonsBorder":"","buttonsBorderColorOnHover":"","buttonsBoxShadow":"","buttonsBoxShadowOnHover":"","buttonsPaddings":"","buttonsTextTransform":"","tabTriggerSelector":"","tabContentSelector":""}}},"block_order":["d2c61a41-0a21-4225-869c-15bf1a47028b"],"settings":{"include_margins":false}},"image-with-text":{"type":"image-with-text","disabled":true,"blocks":{"image-with-text-0":{"type":"heading","settings":{"heading":"Climbskin","heading_size":"h1"}},"image-with-text-1":{"type":"text","settings":{"text":"<p>2013年，攀石護膚品牌  Climbskin 在西班牙成立。一群攀手發現傳統的鎂粉和潤膚膏不足以防止皮膚損傷和促進皮膚再生，旨為找出更有效方法改善皮膚健康和表現而創立  Climbskin 。<\/p><p>針對上述問題，<br\/>Climbskin 團隊找來皮膚科醫生和化學家合作，開發了一系列專門為攀石者設計的護膚產品。產品採用天然和有機成分製成，有助於滋潤和保護皮膚，同時提高抓握力，防止水泡和其他皮膚損傷。<\/p>","text_style":"body"}}},"block_order":["image-with-text-0","image-with-text-1"],"settings":{"image":"shopify:\/\/shop_images\/Climbskin_logo_1024_x_1024px.png","height":"small","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-2","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"You may also like","heading_size":"h2","products_to_show":4,"columns_desktop":4,"color_scheme":"background-1","image_ratio":"square","show_secondary_image":true,"show_vendor":false,"show_rating":false,"columns_mobile":"2","padding_top":36,"padding_bottom":28}}},"order":["main","1671105833da759127","593116363c3bcdb6c8","image-with-text","product-recommendations"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "c43b4664-c634-4c2d-8358-11346b5443b5": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.faveButton\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "textColor": "",
+            "backgroundColor": "",
+            "iconColor": "",
+            "boxShadow": "",
+            "hoverTextColor": "",
+            "hoverBackgroundColor": "",
+            "hoverBorderColor": "",
+            "hoverBoxShadow": "",
+            "margin": "",
+            "padding": "",
+            "buttonWidth": "",
+            "buttonHeight": "",
+            "mobileBreakpoint": "",
+            "mobileButtonWidth": "",
+            "fontSize": "",
+            "fontWeight": "",
+            "fontFamily": "",
+            "letterSpacing": "",
+            "textTransform": "",
+            "border": "",
+            "borderRadius": "",
+            "favedIconCode": "",
+            "favedIconSize": "",
+            "unFavedIconCode": "",
+            "unFavedIconSize": ""
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Materials",
+            "icon": "leather",
+            "content": "<p>100% Cotton<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Shipping & Returns",
+            "icon": "truck",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Dimensions",
+            "icon": "ruler",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-row-3": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Care Instructions",
+            "icon": "heart",
+            "content": "",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "description",
+        "buy_buttons",
+        "c43b4664-c634-4c2d-8358-11346b5443b5",
+        "collapsible-row-0",
+        "collapsible-row-1",
+        "collapsible-row-2",
+        "collapsible-row-3",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "large",
+        "gallery_layout": "stacked",
+        "media_position": "left",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "1671105833da759127": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "593116363c3bcdb6c8": {
+      "type": "apps",
+      "blocks": {
+        "d2c61a41-0a21-4225-869c-15bf1a47028b": {
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+            "containerMaxWidth": "",
+            "containerMarginTop": "",
+            "containerMarginBottom": "",
+            "containerSidePadding": "",
+            "containerLineHeight": "",
+            "containerFontFamily": "",
+            "containerLetterSpacing": "",
+            "buttonsColor": "",
+            "buttonsColorOnHover": "",
+            "buttonsBackgroundColor": "",
+            "buttonsBackgroundColorOnHover": "",
+            "buttonsBorder": "",
+            "buttonsBorderColorOnHover": "",
+            "buttonsBoxShadow": "",
+            "buttonsBoxShadowOnHover": "",
+            "buttonsPaddings": "",
+            "buttonsTextTransform": "",
+            "tabTriggerSelector": "",
+            "tabContentSelector": ""
+          }
+        }
+      },
+      "block_order": [
+        "d2c61a41-0a21-4225-869c-15bf1a47028b"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "image-with-text-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Climbskin",
+            "heading_size": "h1"
+          }
+        },
+        "image-with-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>2013年，攀石護膚品牌  Climbskin 在西班牙成立。一群攀手發現傳統的鎂粉和潤膚膏不足以防止皮膚損傷和促進皮膚再生，旨為找出更有效方法改善皮膚健康和表現而創立  Climbskin 。<\/p><p>針對上述問題，<br\/>Climbskin 團隊找來皮膚科醫生和化學家合作，開發了一系列專門為攀石者設計的護膚產品。產品採用天然和有機成分製成，有助於滋潤和保護皮膚，同時提高抓握力，防止水泡和其他皮膚損傷。<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "image-with-text-0",
+        "image-with-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Climbskin_logo_1024_x_1024px.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1671105833da759127",
+    "593116363c3bcdb6c8",
+    "image-with-text",
+    "product-recommendations"
+  ]
+}

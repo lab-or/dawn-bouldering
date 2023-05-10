@@ -1,1 +1,723 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":0,"padding_bottom":0}},"22337a11-043e-4c72-b740-c26c6d9d0f45":{"type":"multicolumn","disabled":true,"blocks":{"template--15844509417622__22337a11-043e-4c72-b740-c26c6d9d0f45-1666615590eae6374d-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/10.png","title":"","text":"","link_label":"","link":""}}},"block_order":["template--15844509417622__22337a11-043e-4c72-b740-c26c6d9d0f45-1666615590eae6374d-0"],"settings":{"title":"","heading_size":"h2","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":0,"padding_bottom":0}},"383ef268-afee-4bdf-b331-ff65609adc34":{"type":"image-banner","blocks":{"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0":{"type":"heading","settings":{"heading":"選擇門票","heading_size":"h1"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1":{"type":"text","settings":{"text":"Lab-Or會員計劃不只是一個優惠，而是提供一張【VIP禮遇卡】，令每位會員無論是在訂購攀石門票、選購攀石鞋、或選擇其他運動裝備，都可享有獨家待遇，為你提供個人化的一站式購物體驗。","text_style":"body"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2":{"type":"buttons","settings":{"button_label_1":"成為會員","button_link_1":"https:\/\/laborsports.com\/account\/login","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"],"settings":{"image":"shopify:\/\/shop_images\/Updated_Banner_3_05743c2f-333b-4aed-afd5-b90a3e532df7.png","image_overlay_opacity":40,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"94d0fd9d-fc45-4f13-9edd-ba973bf351ca":{"type":"image-with-text","blocks":{"template--15874131591318__94d0fd9d-fc45-4f13-9edd-ba973bf351ca-166790468275895274-0":{"type":"heading","settings":{"heading":"How to earn points","heading_size":"h2"}},"template--15874131591318__94d0fd9d-fc45-4f13-9edd-ba973bf351ca-166790468275895274-1":{"type":"text","settings":{"text":"<p>Create account - <strong>100 points<\/strong><\/p><p>Place order - Get <strong>1 point<\/strong> for every $1 you spend<\/p><p>Facebook share - <strong>50 points<\/strong><\/p><p>Instagram follow - <strong>50 points<\/strong><\/p><p>Customer reviews - <strong>100 points<\/strong><\/p><p>Newsletter subscription - <strong>100 points<\/strong><\/p>","text_style":"body"}}},"block_order":["template--15874131591318__94d0fd9d-fc45-4f13-9edd-ba973bf351ca-166790468275895274-0","template--15874131591318__94d0fd9d-fc45-4f13-9edd-ba973bf351ca-166790468275895274-1"],"settings":{"image":"shopify:\/\/shop_images\/Image_with_text.png","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"88c75914-ceba-40c1-a0a5-afc9f56c290c":{"type":"image-banner","disabled":true,"blocks":{"template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-0","template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-1","template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-2"],"settings":{"image":"shopify:\/\/shop_images\/5_a0fc8a33-1991-4c33-b70d-9b79cea8781f.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":true,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"1667930049246cbe28":{"type":"apps","blocks":{"39590c78-d7cb-4757-92a5-231116ff634f":{"type":"shopify:\/\/apps\/common-ninja-comparison-tables\/blocks\/app-block\/ec6400d6-5ee0-4f0c-bc55-28e6510f1481","settings":{"isVisible":true,"appId":"8f48a65b-9cef-4b17-a891-2eb1a418bbcd"}}},"block_order":["39590c78-d7cb-4757-92a5-231116ff634f"],"settings":{"include_margins":true}},"007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e":{"type":"rich-text","disabled":true,"blocks":{"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0":{"type":"heading","settings":{"heading":"<p>挑戰你的crux<\/p>","heading_size":"h1"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1":{"type":"text","settings":{"text":"<p>地址 - 九龍太子荔枝角道33號百匯軒1樓(太子站C2出口）<\/p><p>開放時間 - 星期一至六: 11am-12pm 星期日及公眾假期: 10am-9pm <\/p><p>場地面積：約2000呎<\/p><p>Crux 意思是關鍵、核心。在攀石中亦可以解作為線路中最有挑戰性的難點。相信不少人都在攀石生涯入面遇到過大大小小的 crux，我們希望各位可以在這攀石館挑戰自己的crux，繼續迎難而上。<\/p><p>*本平台的門票與相關攀石場的價錢皆一致*<\/p>"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":52}},"036b0ac6-9826-4310-b9fd-56c2afd99763":{"type":"multicolumn","disabled":true,"blocks":{"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/1_2.png","title":"Purchase","text":"<p>Get 1 point for every $1 you spend, and get a $5 Reward for every $100 you spend<\/p>","link_label":"","link":""}},"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/1_1.png","title":"Purchase","text":"<p>Get 1 point for every $1 you spend, and get a $5 Reward for every $100 you spend<\/p>","link_label":"","link":""}},"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Facebook.png","title":"","text":"","link_label":"","link":""}},"201491b4-deb5-4728-8810-382a63da656b":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Referral.png","title":"","text":"","link_label":"","link":""}},"e1eb27e8-cb0a-495b-92ce-de5dd362982e":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Reviews.png","title":"","text":"","link_label":"","link":""}}},"block_order":["template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1","template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0","template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2","201491b4-deb5-4728-8810-382a63da656b","e1eb27e8-cb0a-495b-92ce-de5dd362982e"],"settings":{"title":"門票選項","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":2,"column_alignment":"center","background_style":"none","button_label":"了解更多","button_link":"shopify:\/\/pages\/crux場票-選擇你的年齡層","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"d866a1a7-bbb0-4f6f-bed2-26553bdfe490":{"type":"image-banner","disabled":true,"blocks":{"template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-2":{"type":"buttons","settings":{"button_label_1":"了解更多","button_link_1":"shopify:\/\/pages\/crux場票-選擇你的年齡層","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-0","template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-1","template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-2"],"settings":{"image":"shopify:\/\/shop_images\/Updated_Climbing_Gym_Price_List_and_banner_1.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":true,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"336caa79-5f2d-49f0-a405-ea1176f1b06d":{"type":"multicolumn","disabled":true,"blocks":{"template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-0":{"type":"column","settings":{"title":"第二輪消費劵限時優惠9月30日~10月9日","text":"<p><strong>• <\/strong>季票特價發售 (只適用於非季票持有人) - 原價$2100減$210 (折實價$1890)20+1套票特價發售 (每人限買1次) - 原價$4500減$520 (折實價$3980)<\/p><p><strong>• <\/strong>接受八達通，payme，Alipay，tap and go，master，visa，FPS，現金支付<\/p>","link_label":"","link":""}},"template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-1":{"type":"column","settings":{"title":"學生早鳥優惠","text":"<p><strong>• <\/strong>12-25歲全日制學生可以用早鳥價$130，適用於平日11am-3pm，早鳥價更包括租鞋!<\/p>","link_label":"","link":""}},"template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-2":{"type":"column","settings":{"title":"10月換線公告，以下是指定區域的換線日期 (換線當日照常營業)","text":"<p><strong>• <\/strong>10月3日- Comp Wall<\/p><p><strong>• <\/strong>10月11日 - Map<\/p><p><strong>• <\/strong>10月20日 - Slab<\/p><p><strong>• <\/strong>10月24日 - Comp Wall<\/p>","link_label":"","link":""}}},"block_order":["template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-0","template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-1","template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-2"],"settings":{"title":"最新消息","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":12,"padding_bottom":12}},"0564fa5f-91aa-41f2-8515-fcf5c192ec61":{"type":"multicolumn","disabled":true,"blocks":{"template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-0":{"type":"column","settings":{"title":"預訂門票","text":"<p>無論是想假日挑戰自己，或想放工鬆一鬆，門票有效日期長達2星期，令你隨時想攀就攀！入場須知：電子收據將在訂購此場票後顯示，並會發送至閣下提供的電郵，入場時請出示給在場職員。此通行證適用於JUST CLIMB任何分店。<\/p>","link_label":"","link":""}},"template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-1":{"type":"column","settings":{"title":"預訂門票","text":"<p>無論是想假日挑戰自己，或想放工鬆一鬆，門票有效日期長達2星期，令你隨時想攀就攀！入場須知：電子收據將在訂購此場票後顯示，並會發送至閣下提供的電郵，入場時請出示給在場職員。此通行證適用於JUST CLIMB任何分店。<\/p>","link_label":"了解更多","link":""}},"template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-2":{"type":"column","disabled":true,"settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}}},"block_order":["template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-0","template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-1","template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-2"],"settings":{"title":"為什麼選擇Crux?","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"了解更多","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"c894081e-6158-4ba0-b62a-4192291c5e9d":{"type":"rich-text","disabled":true,"blocks":{"template--15844509417622__c894081e-6158-4ba0-b62a-4192291c5e9d-16658168875b8e04b9-0":{"type":"heading","settings":{"heading":"<p>Talk about your brand<\/p>","heading_size":"h1"}},"template--15844509417622__c894081e-6158-4ba0-b62a-4192291c5e9d-16658168875b8e04b9-1":{"type":"text","settings":{"text":"<p><strong>第二輪消費劵限時優惠9月30日~10月9日 <\/strong><\/p><p>季票特價發售 (只適用於非季票持有人) - 原價$2100減$210 (折實價$1890)20+1套票特價發售 (每人限買1次) - 原價$4500減$520 (折實價$3980) 接受八達通，payme，Alipay，tap and go，master，visa，FPS，現金支付<\/p>"}},"template--15844509417622__c894081e-6158-4ba0-b62a-4192291c5e9d-16658168875b8e04b9-2":{"type":"button","settings":{"button_label":"Button label","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15844509417622__c894081e-6158-4ba0-b62a-4192291c5e9d-16658168875b8e04b9-0","template--15844509417622__c894081e-6158-4ba0-b62a-4192291c5e9d-16658168875b8e04b9-1","template--15844509417622__c894081e-6158-4ba0-b62a-4192291c5e9d-16658168875b8e04b9-2"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":52}},"c3695859-725d-4028-83b5-80820473535a":{"type":"image-banner","disabled":true,"blocks":{"template--15844509417622__c3695859-725d-4028-83b5-80820473535a-16660084397fa19283-0":{"type":"heading","settings":{"heading":"第二輪消費劵限時優惠9月30日~10月9日","heading_size":"h2"}},"template--15844509417622__c3695859-725d-4028-83b5-80820473535a-16660084397fa19283-1":{"type":"text","settings":{"text":"🔥 季票特價發售 (只適用於非季票持有人) - 原價$2100減$210 (折實價$1890) 🔥 💲接受八達通，payme，Alipay，tap and go，master，visa，FPS，現金支付","text_style":"body"}},"template--15844509417622__c3695859-725d-4028-83b5-80820473535a-16660084397fa19283-2":{"type":"buttons","settings":{"button_label_1":"了解更多","button_link_1":"shopify:\/\/pages\/just-climb-landing-page-1","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15844509417622__c3695859-725d-4028-83b5-80820473535a-16660084397fa19283-0","template--15844509417622__c3695859-725d-4028-83b5-80820473535a-16660084397fa19283-1","template--15844509417622__c3695859-725d-4028-83b5-80820473535a-16660084397fa19283-2"],"settings":{"image":"shopify:\/\/shop_images\/Sports_Fashion_2000_x_1200_px_30.png","image_overlay_opacity":50,"image_height":"medium","adapt_height_first_image":true,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"3c2ad91f-9c03-441d-9475-44cb8f7faf7d":{"type":"image-banner","disabled":true,"blocks":{"template--15844509417622__3c2ad91f-9c03-441d-9475-44cb8f7faf7d-16660075307d7b98f7-0":{"type":"heading","settings":{"heading":"學生早鳥優惠","heading_size":"h1"}},"template--15844509417622__3c2ad91f-9c03-441d-9475-44cb8f7faf7d-16660075307d7b98f7-1":{"type":"text","settings":{"text":"12-25歲全日制學生可以用早鳥價$130，適用於平日11am-3pm，早鳥價更包括租鞋! 未玩過的同學仔都可以隨時過嚟！每天11am~9pm都會有註場教練，可以提供指導及相關安全知識。","text_style":"body"}},"template--15844509417622__3c2ad91f-9c03-441d-9475-44cb8f7faf7d-16660075307d7b98f7-2":{"type":"buttons","settings":{"button_label_1":"了解更多","button_link_1":"shopify:\/\/pages\/just-climb-landing-page-1","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15844509417622__3c2ad91f-9c03-441d-9475-44cb8f7faf7d-16660075307d7b98f7-0","template--15844509417622__3c2ad91f-9c03-441d-9475-44cb8f7faf7d-16660075307d7b98f7-1","template--15844509417622__3c2ad91f-9c03-441d-9475-44cb8f7faf7d-16660075307d7b98f7-2"],"settings":{"image":"shopify:\/\/shop_images\/BETTER_SHOES_FOR_EVERYONE_5.png","image_overlay_opacity":50,"image_height":"medium","adapt_height_first_image":true,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":true}},"f63aa7f4-5e2c-4c11-8342-63dbef35e762":{"type":"slideshow","disabled":true,"blocks":{"template--15844509417622__f63aa7f4-5e2c-4c11-8342-63dbef35e762-16660104064b36850f-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Sports_Fashion_2000_x_1200_px_30.png","heading":"第二輪消費劵限時優惠9月30日~10月9日","heading_size":"h2","subheading":"🔥 季票特價發售 (只適用於非季票持有人) - 原價$2100減$210 (折實價$1890) 🔥 💲接受八達通，payme，Alipay，tap and go，master，visa，FPS，現金支付","button_label":"了解更多","link":"https:\/\/www.instagram.com\/p\/CjHeniwviK8\/","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":50,"color_scheme":"background-1","text_alignment_mobile":"center"}},"template--15844509417622__f63aa7f4-5e2c-4c11-8342-63dbef35e762-16660104064b36850f-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/BETTER_SHOES_FOR_EVERYONE_5.png","heading":"學生早鳥優惠","heading_size":"h1","subheading":"12-25歲全日制學生可以用早鳥價$130，適用於平日11am-3pm，早鳥價更包括租鞋! 未玩過的同學仔都可以隨時過嚟！每天11am~9pm都會有註場教練，可以提供指導及相關安全知識。","button_label":"了解更多","link":"https:\/\/www.instagram.com\/p\/Ch98x4Wvo_F\/","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":50,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["template--15844509417622__f63aa7f4-5e2c-4c11-8342-63dbef35e762-16660104064b36850f-0","template--15844509417622__f63aa7f4-5e2c-4c11-8342-63dbef35e762-16660104064b36850f-1"],"settings":{"layout":"grid","slide_height":"adapt_image","slider_visual":"dots","auto_rotate":false,"change_slides_speed":5,"show_text_below":true,"accessibility_info":"Slideshow about our brand"}},"c9dfeebd-decb-4d34-9fc5-6f3d32aeed22":{"type":"image-banner","disabled":true,"blocks":{"template--15844509417622__c9dfeebd-decb-4d34-9fc5-6f3d32aeed22-1666006637907aac87-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15844509417622__c9dfeebd-decb-4d34-9fc5-6f3d32aeed22-1666006637907aac87-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15844509417622__c9dfeebd-decb-4d34-9fc5-6f3d32aeed22-1666006637907aac87-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15844509417622__c9dfeebd-decb-4d34-9fc5-6f3d32aeed22-1666006637907aac87-0","template--15844509417622__c9dfeebd-decb-4d34-9fc5-6f3d32aeed22-1666006637907aac87-1","template--15844509417622__c9dfeebd-decb-4d34-9fc5-6f3d32aeed22-1666006637907aac87-2"],"settings":{"image":"shopify:\/\/shop_images\/Sports_Fashion_2000_x_1500_px_13.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":true,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}}},"order":["main","22337a11-043e-4c72-b740-c26c6d9d0f45","383ef268-afee-4bdf-b331-ff65609adc34","94d0fd9d-fc45-4f13-9edd-ba973bf351ca","88c75914-ceba-40c1-a0a5-afc9f56c290c","1667930049246cbe28","007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e","036b0ac6-9826-4310-b9fd-56c2afd99763","d866a1a7-bbb0-4f6f-bed2-26553bdfe490","336caa79-5f2d-49f0-a405-ea1176f1b06d","0564fa5f-91aa-41f2-8515-fcf5c192ec61","c894081e-6158-4ba0-b62a-4192291c5e9d","c3695859-725d-4028-83b5-80820473535a","3c2ad91f-9c03-441d-9475-44cb8f7faf7d","f63aa7f4-5e2c-4c11-8342-63dbef35e762","c9dfeebd-decb-4d34-9fc5-6f3d32aeed22"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "22337a11-043e-4c72-b740-c26c6d9d0f45": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--15844509417622__22337a11-043e-4c72-b740-c26c6d9d0f45-1666615590eae6374d-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/10.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__22337a11-043e-4c72-b740-c26c6d9d0f45-1666615590eae6374d-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "383ef268-afee-4bdf-b331-ff65609adc34": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "選擇門票",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1": {
+          "type": "text",
+          "settings": {
+            "text": "Lab-Or會員計劃不只是一個優惠，而是提供一張【VIP禮遇卡】，令每位會員無論是在訂購攀石門票、選購攀石鞋、或選擇其他運動裝備，都可享有獨家待遇，為你提供個人化的一站式購物體驗。",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "成為會員",
+            "button_link_1": "https:\/\/laborsports.com\/account\/login",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Updated_Banner_3_05743c2f-333b-4aed-afd5-b90a3e532df7.png",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "94d0fd9d-fc45-4f13-9edd-ba973bf351ca": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15874131591318__94d0fd9d-fc45-4f13-9edd-ba973bf351ca-166790468275895274-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How to earn points",
+            "heading_size": "h2"
+          }
+        },
+        "template--15874131591318__94d0fd9d-fc45-4f13-9edd-ba973bf351ca-166790468275895274-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Create account - <strong>100 points<\/strong><\/p><p>Place order - Get <strong>1 point<\/strong> for every $1 you spend<\/p><p>Facebook share - <strong>50 points<\/strong><\/p><p>Instagram follow - <strong>50 points<\/strong><\/p><p>Customer reviews - <strong>100 points<\/strong><\/p><p>Newsletter subscription - <strong>100 points<\/strong><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15874131591318__94d0fd9d-fc45-4f13-9edd-ba973bf351ca-166790468275895274-0",
+        "template--15874131591318__94d0fd9d-fc45-4f13-9edd-ba973bf351ca-166790468275895274-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Image_with_text.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "88c75914-ceba-40c1-a0a5-afc9f56c290c": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-0",
+        "template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-1",
+        "template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/5_a0fc8a33-1991-4c33-b70d-9b79cea8781f.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "1667930049246cbe28": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "挑戰你的crux",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>地址 - 九龍太子荔枝角道33號百匯軒1樓(太子站C2出口）<\/p><p>開放時間 - 星期一至六: 11am-12pm 星期日及公眾假期: 10am-9pm <\/p><p>場地面積：約2000呎<\/p><p>Crux 意思是關鍵、核心。在攀石中亦可以解作為線路中最有挑戰性的難點。相信不少人都在攀石生涯入面遇到過大大小小的 crux，我們希望各位可以在這攀石館挑戰自己的crux，繼續迎難而上。<\/p><p>*本平台的門票與相關攀石場的價錢皆一致*<\/p>"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "036b0ac6-9826-4310-b9fd-56c2afd99763": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_2.png",
+            "title": "Purchase",
+            "text": "<p>Get 1 point for every $1 you spend, and get a $5 Reward for every $100 you spend<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_1.png",
+            "title": "Purchase",
+            "text": "<p>Get 1 point for every $1 you spend, and get a $5 Reward for every $100 you spend<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Facebook.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "201491b4-deb5-4728-8810-382a63da656b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Referral.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e1eb27e8-cb0a-495b-92ce-de5dd362982e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Reviews.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1",
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0",
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2",
+        "201491b4-deb5-4728-8810-382a63da656b",
+        "e1eb27e8-cb0a-495b-92ce-de5dd362982e"
+      ],
+      "settings": {
+        "title": "門票選項",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "了解更多",
+        "button_link": "shopify:\/\/pages\/crux場票-選擇你的年齡層",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d866a1a7-bbb0-4f6f-bed2-26553bdfe490": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "了解更多",
+            "button_link_1": "shopify:\/\/pages\/crux場票-選擇你的年齡層",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-0",
+        "template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-1",
+        "template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Updated_Climbing_Gym_Price_List_and_banner_1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "336caa79-5f2d-49f0-a405-ea1176f1b06d": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-0": {
+          "type": "column",
+          "settings": {
+            "title": "第二輪消費劵限時優惠9月30日~10月9日",
+            "text": "<p><strong>• <\/strong>季票特價發售 (只適用於非季票持有人) - 原價$2100減$210 (折實價$1890)20+1套票特價發售 (每人限買1次) - 原價$4500減$520 (折實價$3980)<\/p><p><strong>• <\/strong>接受八達通，payme，Alipay，tap and go，master，visa，FPS，現金支付<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-1": {
+          "type": "column",
+          "settings": {
+            "title": "學生早鳥優惠",
+            "text": "<p><strong>• <\/strong>12-25歲全日制學生可以用早鳥價$130，適用於平日11am-3pm，早鳥價更包括租鞋!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-2": {
+          "type": "column",
+          "settings": {
+            "title": "10月換線公告，以下是指定區域的換線日期 (換線當日照常營業)",
+            "text": "<p><strong>• <\/strong>10月3日- Comp Wall<\/p><p><strong>• <\/strong>10月11日 - Map<\/p><p><strong>• <\/strong>10月20日 - Slab<\/p><p><strong>• <\/strong>10月24日 - Comp Wall<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-0",
+        "template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-1",
+        "template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-2"
+      ],
+      "settings": {
+        "title": "最新消息",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "0564fa5f-91aa-41f2-8515-fcf5c192ec61": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-0": {
+          "type": "column",
+          "settings": {
+            "title": "預訂門票",
+            "text": "<p>無論是想假日挑戰自己，或想放工鬆一鬆，門票有效日期長達2星期，令你隨時想攀就攀！入場須知：電子收據將在訂購此場票後顯示，並會發送至閣下提供的電郵，入場時請出示給在場職員。此通行證適用於JUST CLIMB任何分店。<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-1": {
+          "type": "column",
+          "settings": {
+            "title": "預訂門票",
+            "text": "<p>無論是想假日挑戰自己，或想放工鬆一鬆，門票有效日期長達2星期，令你隨時想攀就攀！入場須知：電子收據將在訂購此場票後顯示，並會發送至閣下提供的電郵，入場時請出示給在場職員。此通行證適用於JUST CLIMB任何分店。<\/p>",
+            "link_label": "了解更多",
+            "link": ""
+          }
+        },
+        "template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-0",
+        "template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-1",
+        "template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-2"
+      ],
+      "settings": {
+        "title": "為什麼選擇Crux?",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "了解更多",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c894081e-6158-4ba0-b62a-4192291c5e9d": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--15844509417622__c894081e-6158-4ba0-b62a-4192291c5e9d-16658168875b8e04b9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--15844509417622__c894081e-6158-4ba0-b62a-4192291c5e9d-16658168875b8e04b9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>第二輪消費劵限時優惠9月30日~10月9日 <\/strong><\/p><p>季票特價發售 (只適用於非季票持有人) - 原價$2100減$210 (折實價$1890)20+1套票特價發售 (每人限買1次) - 原價$4500減$520 (折實價$3980) 接受八達通，payme，Alipay，tap and go，master，visa，FPS，現金支付<\/p>"
+          }
+        },
+        "template--15844509417622__c894081e-6158-4ba0-b62a-4192291c5e9d-16658168875b8e04b9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__c894081e-6158-4ba0-b62a-4192291c5e9d-16658168875b8e04b9-0",
+        "template--15844509417622__c894081e-6158-4ba0-b62a-4192291c5e9d-16658168875b8e04b9-1",
+        "template--15844509417622__c894081e-6158-4ba0-b62a-4192291c5e9d-16658168875b8e04b9-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "c3695859-725d-4028-83b5-80820473535a": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--15844509417622__c3695859-725d-4028-83b5-80820473535a-16660084397fa19283-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "第二輪消費劵限時優惠9月30日~10月9日",
+            "heading_size": "h2"
+          }
+        },
+        "template--15844509417622__c3695859-725d-4028-83b5-80820473535a-16660084397fa19283-1": {
+          "type": "text",
+          "settings": {
+            "text": "🔥 季票特價發售 (只適用於非季票持有人) - 原價$2100減$210 (折實價$1890) 🔥 💲接受八達通，payme，Alipay，tap and go，master，visa，FPS，現金支付",
+            "text_style": "body"
+          }
+        },
+        "template--15844509417622__c3695859-725d-4028-83b5-80820473535a-16660084397fa19283-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "了解更多",
+            "button_link_1": "shopify:\/\/pages\/just-climb-landing-page-1",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__c3695859-725d-4028-83b5-80820473535a-16660084397fa19283-0",
+        "template--15844509417622__c3695859-725d-4028-83b5-80820473535a-16660084397fa19283-1",
+        "template--15844509417622__c3695859-725d-4028-83b5-80820473535a-16660084397fa19283-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Sports_Fashion_2000_x_1200_px_30.png",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "3c2ad91f-9c03-441d-9475-44cb8f7faf7d": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--15844509417622__3c2ad91f-9c03-441d-9475-44cb8f7faf7d-16660075307d7b98f7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "學生早鳥優惠",
+            "heading_size": "h1"
+          }
+        },
+        "template--15844509417622__3c2ad91f-9c03-441d-9475-44cb8f7faf7d-16660075307d7b98f7-1": {
+          "type": "text",
+          "settings": {
+            "text": "12-25歲全日制學生可以用早鳥價$130，適用於平日11am-3pm，早鳥價更包括租鞋! 未玩過的同學仔都可以隨時過嚟！每天11am~9pm都會有註場教練，可以提供指導及相關安全知識。",
+            "text_style": "body"
+          }
+        },
+        "template--15844509417622__3c2ad91f-9c03-441d-9475-44cb8f7faf7d-16660075307d7b98f7-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "了解更多",
+            "button_link_1": "shopify:\/\/pages\/just-climb-landing-page-1",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__3c2ad91f-9c03-441d-9475-44cb8f7faf7d-16660075307d7b98f7-0",
+        "template--15844509417622__3c2ad91f-9c03-441d-9475-44cb8f7faf7d-16660075307d7b98f7-1",
+        "template--15844509417622__3c2ad91f-9c03-441d-9475-44cb8f7faf7d-16660075307d7b98f7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BETTER_SHOES_FOR_EVERYONE_5.png",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "f63aa7f4-5e2c-4c11-8342-63dbef35e762": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--15844509417622__f63aa7f4-5e2c-4c11-8342-63dbef35e762-16660104064b36850f-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sports_Fashion_2000_x_1200_px_30.png",
+            "heading": "第二輪消費劵限時優惠9月30日~10月9日",
+            "heading_size": "h2",
+            "subheading": "🔥 季票特價發售 (只適用於非季票持有人) - 原價$2100減$210 (折實價$1890) 🔥 💲接受八達通，payme，Alipay，tap and go，master，visa，FPS，現金支付",
+            "button_label": "了解更多",
+            "link": "https:\/\/www.instagram.com\/p\/CjHeniwviK8\/",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 50,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--15844509417622__f63aa7f4-5e2c-4c11-8342-63dbef35e762-16660104064b36850f-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BETTER_SHOES_FOR_EVERYONE_5.png",
+            "heading": "學生早鳥優惠",
+            "heading_size": "h1",
+            "subheading": "12-25歲全日制學生可以用早鳥價$130，適用於平日11am-3pm，早鳥價更包括租鞋! 未玩過的同學仔都可以隨時過嚟！每天11am~9pm都會有註場教練，可以提供指導及相關安全知識。",
+            "button_label": "了解更多",
+            "link": "https:\/\/www.instagram.com\/p\/Ch98x4Wvo_F\/",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 50,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__f63aa7f4-5e2c-4c11-8342-63dbef35e762-16660104064b36850f-0",
+        "template--15844509417622__f63aa7f4-5e2c-4c11-8342-63dbef35e762-16660104064b36850f-1"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "c9dfeebd-decb-4d34-9fc5-6f3d32aeed22": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--15844509417622__c9dfeebd-decb-4d34-9fc5-6f3d32aeed22-1666006637907aac87-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15844509417622__c9dfeebd-decb-4d34-9fc5-6f3d32aeed22-1666006637907aac87-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15844509417622__c9dfeebd-decb-4d34-9fc5-6f3d32aeed22-1666006637907aac87-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__c9dfeebd-decb-4d34-9fc5-6f3d32aeed22-1666006637907aac87-0",
+        "template--15844509417622__c9dfeebd-decb-4d34-9fc5-6f3d32aeed22-1666006637907aac87-1",
+        "template--15844509417622__c9dfeebd-decb-4d34-9fc5-6f3d32aeed22-1666006637907aac87-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Sports_Fashion_2000_x_1500_px_13.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "22337a11-043e-4c72-b740-c26c6d9d0f45",
+    "383ef268-afee-4bdf-b331-ff65609adc34",
+    "94d0fd9d-fc45-4f13-9edd-ba973bf351ca",
+    "88c75914-ceba-40c1-a0a5-afc9f56c290c",
+    "1667930049246cbe28",
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
+    "036b0ac6-9826-4310-b9fd-56c2afd99763",
+    "d866a1a7-bbb0-4f6f-bed2-26553bdfe490",
+    "336caa79-5f2d-49f0-a405-ea1176f1b06d",
+    "0564fa5f-91aa-41f2-8515-fcf5c192ec61",
+    "c894081e-6158-4ba0-b62a-4192291c5e9d",
+    "c3695859-725d-4028-83b5-80820473535a",
+    "3c2ad91f-9c03-441d-9475-44cb8f7faf7d",
+    "f63aa7f4-5e2c-4c11-8342-63dbef35e762",
+    "c9dfeebd-decb-4d34-9fc5-6f3d32aeed22"
+  ]
+}

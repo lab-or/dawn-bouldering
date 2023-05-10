@@ -1,1 +1,127 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":28,"padding_bottom":28}},"d38b5b01-d441-4639-84a5-c880695d05ef":{"type":"multicolumn","blocks":{"template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Demo.png","title":"位於佐敦的攀石場","text":"<p>地址 - 九龍佐敦廣東道600號1樓全層<\/p><p>開放時間 - 星期一至星期日: 10am-12am<\/p>","link_label":"選擇","link":"shopify:\/\/pages\/about-campus-climbing-hk"}},"41df194e-4291-4a3f-895a-335670a839e5":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Demo_8_76c9c47f-a2d0-40eb-a0a6-e90ceaeb9215.png","title":"挑戰你的crux","text":"<p>地址 - 九龍太子荔枝角道33號百匯軒1樓(太子站C2出口）<\/p><p>開放時間 - 星期一至六: 11am-12pm 星期日及公眾假期: 10am-9pm  <\/p>","link_label":"選擇","link":"shopify:\/\/pages\/關於crux"}},"b6b0215b-142c-4108-bc98-bac9937e496e":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Demo_4.png","title":"任憑天翻地覆、斗轉星移，將人連結起來，是「Kizuna」","text":"<p>地址 - 新界將軍澳唐俊街28號海天晉滙120C及120D號舖<\/p><p>開放時間 - 星期一至五: 1pm-10pm 星期六: 11am-10pm <\/p><p>星期日及公眾假期: 10am-8pm<\/p>","link_label":"選擇","link":"shopify:\/\/pages\/關於kizuna"}},"template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Demo_2.png","title":"有滑梯的攀石場","text":"<p>地址 - 九龍灣臨興街32號美羅中心1期2樓11室<\/p><p>開放時間 - 星期一至六及公眾假期: 12pm-11pm 星期日: 12pm-9pm<\/p>","link_label":"選擇","link":"shopify:\/\/pages\/關於project_climb-boulder-hk"}},"6293fb32-863a-461f-bfea-7089cf187cd2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Demo_6.png","title":"令攀石大眾化的浣熊Raccoon","text":"<p>地址 - 九龍土瓜灣馬頭圍道200號傲形地下A−B號舖<\/p><p>開放時間 - 星期一至六: 11am-11pm 星期日: 11am-8pm<\/p>","link_label":"選擇","link":"shopify:\/\/pages\/關於raccoon-bouldering"}},"3964bc00-1f6c-46d6-a5df-1db25777f628":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Demo_3.png","title":"石屎森林中的山屋","text":"<p>地址 - 九龍深水埗大南街234號<\/p><p>開放時間 - 星期一至五: 11am-11pm 星期六至日及公眾假期: 11am-8pm<\/p>","link_label":"選擇","link":"shopify:\/\/pages\/關於尚山"}},"template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Demo_5.png","title":"多元化訓練設備的攀石場","text":"<p>地址 - 九龍美孚荔景山路272號荔灣花園6A及6B1舖<\/p><p>開放時間 - 星期一至五: 12pm-11pm 星期六至日及公眾假期: 10am-8pm<\/p>","link_label":"選擇","link":"shopify:\/\/pages\/關於the-player-climbinggym"}},"13da0170-87fe-4f8d-83a1-df7b3dbb0dd8":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Demo_7.png","title":"挑戰你的極限!","text":"<p>地址 - 新界葵涌葵豐街38號大鴻輝（葵涌）中心二期地下2號舖<\/p><p>開放時間 - 星期一至五: 11am-11pm <\/p><p>星期六至日及公眾假期: 10am-10pm<\/p>","link_label":"選擇","link":"shopify:\/\/pages\/關於urban-stone"}}},"block_order":["template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-0","41df194e-4291-4a3f-895a-335670a839e5","b6b0215b-142c-4108-bc98-bac9937e496e","template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-1","6293fb32-863a-461f-bfea-7089cf187cd2","3964bc00-1f6c-46d6-a5df-1db25777f628","template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-2","13da0170-87fe-4f8d-83a1-df7b3dbb0dd8"],"settings":{"title":"請選擇攀石場","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":2,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}}},"order":["main","d38b5b01-d441-4639-84a5-c880695d05ef"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "d38b5b01-d441-4639-84a5-c880695d05ef": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Demo.png",
+            "title": "位於佐敦的攀石場",
+            "text": "<p>地址 - 九龍佐敦廣東道600號1樓全層<\/p><p>開放時間 - 星期一至星期日: 10am-12am<\/p>",
+            "link_label": "選擇",
+            "link": "shopify:\/\/pages\/about-campus-climbing-hk"
+          }
+        },
+        "41df194e-4291-4a3f-895a-335670a839e5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Demo_8_76c9c47f-a2d0-40eb-a0a6-e90ceaeb9215.png",
+            "title": "挑戰你的crux",
+            "text": "<p>地址 - 九龍太子荔枝角道33號百匯軒1樓(太子站C2出口）<\/p><p>開放時間 - 星期一至六: 11am-12pm 星期日及公眾假期: 10am-9pm  <\/p>",
+            "link_label": "選擇",
+            "link": "shopify:\/\/pages\/關於crux"
+          }
+        },
+        "b6b0215b-142c-4108-bc98-bac9937e496e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Demo_4.png",
+            "title": "任憑天翻地覆、斗轉星移，將人連結起來，是「Kizuna」",
+            "text": "<p>地址 - 新界將軍澳唐俊街28號海天晉滙120C及120D號舖<\/p><p>開放時間 - 星期一至五: 1pm-10pm 星期六: 11am-10pm <\/p><p>星期日及公眾假期: 10am-8pm<\/p>",
+            "link_label": "選擇",
+            "link": "shopify:\/\/pages\/關於kizuna"
+          }
+        },
+        "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Demo_2.png",
+            "title": "有滑梯的攀石場",
+            "text": "<p>地址 - 九龍灣臨興街32號美羅中心1期2樓11室<\/p><p>開放時間 - 星期一至六及公眾假期: 12pm-11pm 星期日: 12pm-9pm<\/p>",
+            "link_label": "選擇",
+            "link": "shopify:\/\/pages\/關於project_climb-boulder-hk"
+          }
+        },
+        "6293fb32-863a-461f-bfea-7089cf187cd2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Demo_6.png",
+            "title": "令攀石大眾化的浣熊Raccoon",
+            "text": "<p>地址 - 九龍土瓜灣馬頭圍道200號傲形地下A−B號舖<\/p><p>開放時間 - 星期一至六: 11am-11pm 星期日: 11am-8pm<\/p>",
+            "link_label": "選擇",
+            "link": "shopify:\/\/pages\/關於raccoon-bouldering"
+          }
+        },
+        "3964bc00-1f6c-46d6-a5df-1db25777f628": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Demo_3.png",
+            "title": "石屎森林中的山屋",
+            "text": "<p>地址 - 九龍深水埗大南街234號<\/p><p>開放時間 - 星期一至五: 11am-11pm 星期六至日及公眾假期: 11am-8pm<\/p>",
+            "link_label": "選擇",
+            "link": "shopify:\/\/pages\/關於尚山"
+          }
+        },
+        "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Demo_5.png",
+            "title": "多元化訓練設備的攀石場",
+            "text": "<p>地址 - 九龍美孚荔景山路272號荔灣花園6A及6B1舖<\/p><p>開放時間 - 星期一至五: 12pm-11pm 星期六至日及公眾假期: 10am-8pm<\/p>",
+            "link_label": "選擇",
+            "link": "shopify:\/\/pages\/關於the-player-climbinggym"
+          }
+        },
+        "13da0170-87fe-4f8d-83a1-df7b3dbb0dd8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Demo_7.png",
+            "title": "挑戰你的極限!",
+            "text": "<p>地址 - 新界葵涌葵豐街38號大鴻輝（葵涌）中心二期地下2號舖<\/p><p>開放時間 - 星期一至五: 11am-11pm <\/p><p>星期六至日及公眾假期: 10am-10pm<\/p>",
+            "link_label": "選擇",
+            "link": "shopify:\/\/pages\/關於urban-stone"
+          }
+        }
+      },
+      "block_order": [
+        "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-0",
+        "41df194e-4291-4a3f-895a-335670a839e5",
+        "b6b0215b-142c-4108-bc98-bac9937e496e",
+        "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-1",
+        "6293fb32-863a-461f-bfea-7089cf187cd2",
+        "3964bc00-1f6c-46d6-a5df-1db25777f628",
+        "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-2",
+        "13da0170-87fe-4f8d-83a1-df7b3dbb0dd8"
+      ],
+      "settings": {
+        "title": "請選擇攀石場",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "d38b5b01-d441-4639-84a5-c880695d05ef"
+  ]
+}

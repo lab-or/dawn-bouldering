@@ -1,1 +1,418 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":0,"padding_bottom":0}},"383ef268-afee-4bdf-b331-ff65609adc34":{"type":"image-banner","blocks":{"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"],"custom_css":[".media {right: 10%; left: 10%; width: 80%;}"],"settings":{"image":"shopify:\/\/shop_images\/3_f0261049-e5b9-4446-ac25-bb7682373514.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e":{"type":"rich-text","blocks":{"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0":{"type":"heading","settings":{"heading":"<p>多元化訓練設備的攀石場<\/p>","heading_size":"h1"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1":{"type":"text","settings":{"text":"<p>地址 - 九龍美孚荔景山路272號荔灣花園6B及6B1舖<\/p><p>開放時間 - 星期一至五: 2pm-10:30pm 星期六至日及公眾假期: 10am-8pm<\/p><p>The Player Climbingym的石牆難度道分為V0-V7，並提供多款路線(牆身高達約4.5米)，均適合新手及有經驗的climber！<br\/>除此以外，The Player Climbingym更提供完善的訓練設施，包括campus training board、finger board、pull up bar、TRX訓練套裝、aerial yoga 吊床套裝等等，讓每位climber都能進行全面的體格訓練！<\/p>"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":32}},"3840052f-b99d-4d73-8914-adc89eda3f4f":{"type":"multicolumn","blocks":{"template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/waterfall.png","title":"多條路線選項","text":"","link_label":"","link":""}},"452c7c6a-7177-4513-8997-06ad5f6603df":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/point.png","title":"交通方便","text":"","link_label":"","link":""}},"1628567c-5e0f-4e71-a7dd-db9246367281":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/stars.png","title":"設有moodboard","text":"","link_label":"","link":""}},"0294b889-8894-4b86-ab6c-071ea1fdeab9":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/weight.png","title":"提供鍛鍊設施","text":"","link_label":"","link":""}}},"block_order":["template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0","452c7c6a-7177-4513-8997-06ad5f6603df","1628567c-5e0f-4e71-a7dd-db9246367281","0294b889-8894-4b86-ab6c-071ea1fdeab9"],"custom_css":["h3 {color: white;}",".slider-counter {font-size: large;}"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":4,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":true,"padding_top":8,"padding_bottom":32}},"58e307aa-714b-4251-9ae4-97d80834d754":{"type":"slideshow","blocks":{"template--15851515576470__58e307aa-714b-4251-9ae4-97d80834d754-16827351153069a2a2-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/The_Player_1.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"f953f309-a52d-43fe-bde9-4fcef38e5ff8":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/The_Player_2_86ccf2c6-2c9b-4ebe-9eae-671d68e3f468.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"31d20823-7529-4bf0-8df8-7751459ff1c7":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/The_Player_3_911e7f93-3981-4715-9c6a-92f7619723ca.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"b1c1a693-4177-4dd3-8b4c-586724bac00d":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/The_Player_4_45516450-45f9-46fc-94f5-50f16ee4f5da.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["template--15851515576470__58e307aa-714b-4251-9ae4-97d80834d754-16827351153069a2a2-0","f953f309-a52d-43fe-bde9-4fcef38e5ff8","31d20823-7529-4bf0-8df8-7751459ff1c7","b1c1a693-4177-4dd3-8b4c-586724bac00d"],"settings":{"layout":"grid","slide_height":"adapt_image","slider_visual":"counter","auto_rotate":false,"change_slides_speed":5,"show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"5bddf5a3-0622-481a-8eed-cf220c1f55d4":{"type":"multicolumn","blocks":{"template--15851515576470__5bddf5a3-0622-481a-8eed-cf220c1f55d4-1666934668fbc4d3ac-0":{"type":"column","settings":{"title":"","text":"<p>日票 $288 (*學生$218) (*殘疾人士$148)<\/p>","link_label":"","link":""}},"template--15851515576470__5bddf5a3-0622-481a-8eed-cf220c1f55d4-1666934668fbc4d3ac-1":{"type":"column","settings":{"title":"","text":"<p>2週票 $458 (購票期：即日起至2023年6月30日)<\/p>","link_label":"","link":""}},"template--15851515576470__5bddf5a3-0622-481a-8eed-cf220c1f55d4-1666934668fbc4d3ac-2":{"type":"column","settings":{"title":"","text":"<p>月票 $798 (*學生$648) (*殘疾人士$398)<\/p>","link_label":"","link":""}},"b4115f42-2027-4585-b745-fb35fd7ac497":{"type":"column","settings":{"title":"","text":"<p>季票 $2118 (*學生$1768)<\/p>","link_label":"","link":""}},"24fe23b8-aacc-40fa-8fe8-13e7a127a369":{"type":"column","settings":{"title":"","text":"<p>6個月套票 $3958 (*學生$3328)<\/p>","link_label":"","link":""}},"aff3f307-493f-4ab3-a928-d430abc11a8e":{"type":"column","settings":{"title":"","text":"<p>1年套票 $7128 (*學生$6178)<\/p>","link_label":"","link":""}},"59fd147d-0121-4f38-bd07-15ae05bfacd7":{"type":"column","settings":{"title":"","text":"<p>5天共享套票 $1298 (2個月有效期)<\/p>","link_label":"","link":""}},"9bfd0528-425a-418a-8581-7279eb4fbbec":{"type":"column","settings":{"title":"","text":"<p>10天共享套票 $2308 (3個月有效期)<\/p>","link_label":"","link":""}},"6da64fa9-49b4-4611-b31a-94ed864aadbd":{"type":"column","settings":{"title":"","text":"<p>25天共享套票 $5048 (6個月有效期)<\/p>","link_label":"","link":""}},"5608abb7-9794-403f-9481-2b3ddef46701":{"type":"column","settings":{"title":"","text":"<p>50天共享套票 $8648 (12個月有效期)<\/p>","link_label":"","link":""}},"07638257-4d91-44ea-a16f-917cf7693713":{"type":"column","settings":{"title":"","text":"<p>攀石鞋及運動襪租借 $40<\/p>","link_label":"","link":""}}},"block_order":["template--15851515576470__5bddf5a3-0622-481a-8eed-cf220c1f55d4-1666934668fbc4d3ac-0","template--15851515576470__5bddf5a3-0622-481a-8eed-cf220c1f55d4-1666934668fbc4d3ac-1","template--15851515576470__5bddf5a3-0622-481a-8eed-cf220c1f55d4-1666934668fbc4d3ac-2","b4115f42-2027-4585-b745-fb35fd7ac497","24fe23b8-aacc-40fa-8fe8-13e7a127a369","aff3f307-493f-4ab3-a928-d430abc11a8e","59fd147d-0121-4f38-bd07-15ae05bfacd7","9bfd0528-425a-418a-8581-7279eb4fbbec","6da64fa9-49b4-4611-b31a-94ed864aadbd","5608abb7-9794-403f-9481-2b3ddef46701","07638257-4d91-44ea-a16f-917cf7693713"],"settings":{"title":"門票選項 (*學生\/殘疾人士)","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"315ec122-3b7a-484e-be3e-f42818bc2a44":{"type":"custom-liquid","settings":{"custom_liquid":"<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3690.314864605626!2d114.1338633155775!3d22.341736947033887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3403f8ae9c66561f%3A0xb9c9fc272dd9aac6!2sThe%20Player%20Climbingym!5e0!3m2!1sen!2shk!4v1669473726035!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>","color_scheme":"background-1","padding_top":40,"padding_bottom":52}}},"order":["main","383ef268-afee-4bdf-b331-ff65609adc34","007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e","3840052f-b99d-4d73-8914-adc89eda3f4f","58e307aa-714b-4251-9ae4-97d80834d754","5bddf5a3-0622-481a-8eed-cf220c1f55d4","315ec122-3b7a-484e-be3e-f42818bc2a44"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "383ef268-afee-4bdf-b331-ff65609adc34": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"
+      ],
+      "custom_css": [
+        ".media {right: 10%; left: 10%; width: 80%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3_f0261049-e5b9-4446-ac25-bb7682373514.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "多元化訓練設備的攀石場",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>地址 - 九龍美孚荔景山路272號荔灣花園6B及6B1舖<\/p><p>開放時間 - 星期一至五: 2pm-10:30pm 星期六至日及公眾假期: 10am-8pm<\/p><p>The Player Climbingym的石牆難度道分為V0-V7，並提供多款路線(牆身高達約4.5米)，均適合新手及有經驗的climber！<br\/>除此以外，The Player Climbingym更提供完善的訓練設施，包括campus training board、finger board、pull up bar、TRX訓練套裝、aerial yoga 吊床套裝等等，讓每位climber都能進行全面的體格訓練！<\/p>"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 32
+      }
+    },
+    "3840052f-b99d-4d73-8914-adc89eda3f4f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/waterfall.png",
+            "title": "多條路線選項",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "452c7c6a-7177-4513-8997-06ad5f6603df": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/point.png",
+            "title": "交通方便",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1628567c-5e0f-4e71-a7dd-db9246367281": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stars.png",
+            "title": "設有moodboard",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0294b889-8894-4b86-ab6c-071ea1fdeab9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/weight.png",
+            "title": "提供鍛鍊設施",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0",
+        "452c7c6a-7177-4513-8997-06ad5f6603df",
+        "1628567c-5e0f-4e71-a7dd-db9246367281",
+        "0294b889-8894-4b86-ab6c-071ea1fdeab9"
+      ],
+      "custom_css": [
+        "h3 {color: white;}",
+        ".slider-counter {font-size: large;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 32
+      }
+    },
+    "58e307aa-714b-4251-9ae4-97d80834d754": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15851515576470__58e307aa-714b-4251-9ae4-97d80834d754-16827351153069a2a2-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_Player_1.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "f953f309-a52d-43fe-bde9-4fcef38e5ff8": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_Player_2_86ccf2c6-2c9b-4ebe-9eae-671d68e3f468.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "31d20823-7529-4bf0-8df8-7751459ff1c7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_Player_3_911e7f93-3981-4715-9c6a-92f7619723ca.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "b1c1a693-4177-4dd3-8b4c-586724bac00d": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_Player_4_45516450-45f9-46fc-94f5-50f16ee4f5da.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15851515576470__58e307aa-714b-4251-9ae4-97d80834d754-16827351153069a2a2-0",
+        "f953f309-a52d-43fe-bde9-4fcef38e5ff8",
+        "31d20823-7529-4bf0-8df8-7751459ff1c7",
+        "b1c1a693-4177-4dd3-8b4c-586724bac00d"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "5bddf5a3-0622-481a-8eed-cf220c1f55d4": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15851515576470__5bddf5a3-0622-481a-8eed-cf220c1f55d4-1666934668fbc4d3ac-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>日票 $288 (*學生$218) (*殘疾人士$148)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15851515576470__5bddf5a3-0622-481a-8eed-cf220c1f55d4-1666934668fbc4d3ac-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>2週票 $458 (購票期：即日起至2023年6月30日)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15851515576470__5bddf5a3-0622-481a-8eed-cf220c1f55d4-1666934668fbc4d3ac-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>月票 $798 (*學生$648) (*殘疾人士$398)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b4115f42-2027-4585-b745-fb35fd7ac497": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>季票 $2118 (*學生$1768)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "24fe23b8-aacc-40fa-8fe8-13e7a127a369": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>6個月套票 $3958 (*學生$3328)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "aff3f307-493f-4ab3-a928-d430abc11a8e": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>1年套票 $7128 (*學生$6178)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "59fd147d-0121-4f38-bd07-15ae05bfacd7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>5天共享套票 $1298 (2個月有效期)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "9bfd0528-425a-418a-8581-7279eb4fbbec": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>10天共享套票 $2308 (3個月有效期)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6da64fa9-49b4-4611-b31a-94ed864aadbd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>25天共享套票 $5048 (6個月有效期)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5608abb7-9794-403f-9481-2b3ddef46701": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>50天共享套票 $8648 (12個月有效期)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "07638257-4d91-44ea-a16f-917cf7693713": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>攀石鞋及運動襪租借 $40<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15851515576470__5bddf5a3-0622-481a-8eed-cf220c1f55d4-1666934668fbc4d3ac-0",
+        "template--15851515576470__5bddf5a3-0622-481a-8eed-cf220c1f55d4-1666934668fbc4d3ac-1",
+        "template--15851515576470__5bddf5a3-0622-481a-8eed-cf220c1f55d4-1666934668fbc4d3ac-2",
+        "b4115f42-2027-4585-b745-fb35fd7ac497",
+        "24fe23b8-aacc-40fa-8fe8-13e7a127a369",
+        "aff3f307-493f-4ab3-a928-d430abc11a8e",
+        "59fd147d-0121-4f38-bd07-15ae05bfacd7",
+        "9bfd0528-425a-418a-8581-7279eb4fbbec",
+        "6da64fa9-49b4-4611-b31a-94ed864aadbd",
+        "5608abb7-9794-403f-9481-2b3ddef46701",
+        "07638257-4d91-44ea-a16f-917cf7693713"
+      ],
+      "settings": {
+        "title": "門票選項 (*學生\/殘疾人士)",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "315ec122-3b7a-484e-be3e-f42818bc2a44": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3690.314864605626!2d114.1338633155775!3d22.341736947033887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3403f8ae9c66561f%3A0xb9c9fc272dd9aac6!2sThe%20Player%20Climbingym!5e0!3m2!1sen!2shk!4v1669473726035!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "383ef268-afee-4bdf-b331-ff65609adc34",
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
+    "3840052f-b99d-4d73-8914-adc89eda3f4f",
+    "58e307aa-714b-4251-9ae4-97d80834d754",
+    "5bddf5a3-0622-481a-8eed-cf220c1f55d4",
+    "315ec122-3b7a-484e-be3e-f42818bc2a44"
+  ]
+}

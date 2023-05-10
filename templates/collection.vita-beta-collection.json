@@ -1,1 +1,260 @@
-{"sections":{"banner":{"type":"main-collection-banner","settings":{"show_collection_description":true,"show_collection_image":false,"color_scheme":"background-1"}},"product-grid":{"type":"main-collection-product-grid","disabled":true,"settings":{"products_per_page":16,"columns_desktop":4,"image_ratio":"adapt","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"enable_filtering":true,"filter_type":"horizontal","enable_sorting":true,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"96a0b3b9-e4e1-4d22-856f-b3093f89c963":{"type":"image-banner","blocks":{"template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-0","template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-1","template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-2"],"settings":{"image":"shopify:\/\/shop_images\/19.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"fdc75db7-b35c-49f3-9b6d-a32204de53e9":{"type":"multicolumn","blocks":{"template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-0":{"type":"column","settings":{"title":"日票 $198 (*$168)","text":"","link_label":"","link":""}},"template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-1":{"type":"column","settings":{"title":"月票 $698 (*$598) (連續月費 -$50，最多 -$100)","text":"","link_label":"","link":""}},"template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-2":{"type":"column","settings":{"title":"季票 $1798 (*$1528)","text":"","link_label":"","link":""}},"28a49a60-b671-4eb2-bf34-2d65a1225bc3":{"type":"column","settings":{"title":"6個月套票 $3298 (*$2798)","text":"","link_label":"","link":""}},"f7fe9d3f-7160-4554-a41d-e1ffb60ea550":{"type":"column","settings":{"title":"1年套票 $5798 (*$4928)","text":"","link_label":"","link":""}},"c678b9c3-95e9-48be-9587-bcccedaabe95":{"type":"column","settings":{"title":"10張套票 (有效日期：4個月) $1800","text":"","link_label":"","link":""}},"b55bd506-a16b-424c-96d4-0db38fd6793c":{"type":"column","settings":{"title":"20張共享套票 (有效日期：3個月) $3600","text":"","link_label":"","link":""}},"6d4bfea5-f520-4dc0-8ad5-ac1b2c8f3468":{"type":"column","settings":{"title":"50張共享套票 (有效日期：6個月) $8000","text":"","link_label":"","link":""}},"066c76c0-5647-4753-90f5-c8343300aea2":{"type":"column","settings":{"title":"會員費第1次入場 $50","text":"","link_label":"","link":""}},"516dbc54-9abc-4e30-b152-97f569d5898a":{"type":"column","settings":{"title":"攀石鞋租借 $20","text":"","link_label":"","link":""}},"af2269df-b4c8-4798-8842-3f916cf914be":{"type":"column","settings":{"title":"12歲以下或小童監護人進場 - $100","text":"","link_label":"","link":""}}},"block_order":["template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-0","template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-1","template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-2","28a49a60-b671-4eb2-bf34-2d65a1225bc3","f7fe9d3f-7160-4554-a41d-e1ffb60ea550","c678b9c3-95e9-48be-9587-bcccedaabe95","b55bd506-a16b-424c-96d4-0db38fd6793c","6d4bfea5-f520-4dc0-8ad5-ac1b2c8f3468","066c76c0-5647-4753-90f5-c8343300aea2","516dbc54-9abc-4e30-b152-97f569d5898a","af2269df-b4c8-4798-8842-3f916cf914be"],"settings":{"title":"門票選項 (*學生\/殘疾人士)","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"2cbffcdd-85a7-4739-b9ac-6a4e4a1ddbb0":{"type":"rich-text","blocks":{"template--15885550026902__2cbffcdd-85a7-4739-b9ac-6a4e4a1ddbb0-1669000867e9197712-0":{"type":"heading","settings":{"heading":"<p>備註<\/p>","heading_size":"h2"}},"template--15885550026902__2cbffcdd-85a7-4739-b9ac-6a4e4a1ddbb0-1669000867e9197712-1":{"type":"text","settings":{"text":"<p>• 每名12歲小童雖有監護人陪同付費方可入場<\/p><p>• 所有會員必須在參與攀爬活動前簽署<\/p>"}},"template--15885550026902__2cbffcdd-85a7-4739-b9ac-6a4e4a1ddbb0-1669000867e9197712-2":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15885550026902__2cbffcdd-85a7-4739-b9ac-6a4e4a1ddbb0-1669000867e9197712-0","template--15885550026902__2cbffcdd-85a7-4739-b9ac-6a4e4a1ddbb0-1669000867e9197712-1","template--15885550026902__2cbffcdd-85a7-4739-b9ac-6a4e4a1ddbb0-1669000867e9197712-2"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":52}}},"order":["banner","product-grid","96a0b3b9-e4e1-4d22-856f-b3093f89c963","fdc75db7-b35c-49f3-9b6d-a32204de53e9","2cbffcdd-85a7-4739-b9ac-6a4e4a1ddbb0"]}
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96a0b3b9-e4e1-4d22-856f-b3093f89c963": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-0",
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-1",
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/19.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "fdc75db7-b35c-49f3-9b6d-a32204de53e9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-0": {
+          "type": "column",
+          "settings": {
+            "title": "日票 $198 (*$168)",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-1": {
+          "type": "column",
+          "settings": {
+            "title": "月票 $698 (*$598) (連續月費 -$50，最多 -$100)",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-2": {
+          "type": "column",
+          "settings": {
+            "title": "季票 $1798 (*$1528)",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "28a49a60-b671-4eb2-bf34-2d65a1225bc3": {
+          "type": "column",
+          "settings": {
+            "title": "6個月套票 $3298 (*$2798)",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f7fe9d3f-7160-4554-a41d-e1ffb60ea550": {
+          "type": "column",
+          "settings": {
+            "title": "1年套票 $5798 (*$4928)",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c678b9c3-95e9-48be-9587-bcccedaabe95": {
+          "type": "column",
+          "settings": {
+            "title": "10張套票 (有效日期：4個月) $1800",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b55bd506-a16b-424c-96d4-0db38fd6793c": {
+          "type": "column",
+          "settings": {
+            "title": "20張共享套票 (有效日期：3個月) $3600",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6d4bfea5-f520-4dc0-8ad5-ac1b2c8f3468": {
+          "type": "column",
+          "settings": {
+            "title": "50張共享套票 (有效日期：6個月) $8000",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "066c76c0-5647-4753-90f5-c8343300aea2": {
+          "type": "column",
+          "settings": {
+            "title": "會員費第1次入場 $50",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "516dbc54-9abc-4e30-b152-97f569d5898a": {
+          "type": "column",
+          "settings": {
+            "title": "攀石鞋租借 $20",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "af2269df-b4c8-4798-8842-3f916cf914be": {
+          "type": "column",
+          "settings": {
+            "title": "12歲以下或小童監護人進場 - $100",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-0",
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-1",
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-2",
+        "28a49a60-b671-4eb2-bf34-2d65a1225bc3",
+        "f7fe9d3f-7160-4554-a41d-e1ffb60ea550",
+        "c678b9c3-95e9-48be-9587-bcccedaabe95",
+        "b55bd506-a16b-424c-96d4-0db38fd6793c",
+        "6d4bfea5-f520-4dc0-8ad5-ac1b2c8f3468",
+        "066c76c0-5647-4753-90f5-c8343300aea2",
+        "516dbc54-9abc-4e30-b152-97f569d5898a",
+        "af2269df-b4c8-4798-8842-3f916cf914be"
+      ],
+      "settings": {
+        "title": "門票選項 (*學生\/殘疾人士)",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2cbffcdd-85a7-4739-b9ac-6a4e4a1ddbb0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15885550026902__2cbffcdd-85a7-4739-b9ac-6a4e4a1ddbb0-1669000867e9197712-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "備註",
+            "heading_size": "h2"
+          }
+        },
+        "template--15885550026902__2cbffcdd-85a7-4739-b9ac-6a4e4a1ddbb0-1669000867e9197712-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>• 每名12歲小童雖有監護人陪同付費方可入場<\/p><p>• 所有會員必須在參與攀爬活動前簽署<\/p>"
+          }
+        },
+        "template--15885550026902__2cbffcdd-85a7-4739-b9ac-6a4e4a1ddbb0-1669000867e9197712-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15885550026902__2cbffcdd-85a7-4739-b9ac-6a4e4a1ddbb0-1669000867e9197712-0",
+        "template--15885550026902__2cbffcdd-85a7-4739-b9ac-6a4e4a1ddbb0-1669000867e9197712-1",
+        "template--15885550026902__2cbffcdd-85a7-4739-b9ac-6a4e4a1ddbb0-1669000867e9197712-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "96a0b3b9-e4e1-4d22-856f-b3093f89c963",
+    "fdc75db7-b35c-49f3-9b6d-a32204de53e9",
+    "2cbffcdd-85a7-4739-b9ac-6a4e4a1ddbb0"
+  ]
+}

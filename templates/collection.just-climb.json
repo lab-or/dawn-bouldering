@@ -1,1 +1,285 @@
-{"sections":{"banner":{"type":"main-collection-banner","settings":{"show_collection_description":true,"show_collection_image":false,"color_scheme":"background-1"}},"product-grid":{"type":"main-collection-product-grid","disabled":true,"settings":{"products_per_page":16,"columns_desktop":4,"image_ratio":"adapt","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"enable_filtering":true,"filter_type":"horizontal","enable_sorting":true,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"96a0b3b9-e4e1-4d22-856f-b3093f89c963":{"type":"image-banner","blocks":{"template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-0","template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-1","template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-2"],"settings":{"image":"shopify:\/\/shop_images\/16.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"fdc75db7-b35c-49f3-9b6d-a32204de53e9":{"type":"multicolumn","blocks":{"template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-0":{"type":"column","settings":{"title":"全日攀 $278 (*$248)","text":"","link_label":"","link":""}},"template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-1":{"type":"column","settings":{"title":"全月攀 $998","text":"","link_label":"","link":""}},"3ab22ec2-af87-45fa-9351-7e6842a784b1":{"type":"column","settings":{"title":"","text":"<p>JUST CLIMBER $598\/月 <br\/>計劃啟動費$700<br\/>暫停 $90\/月<\/p>","link_label":"","link":""}},"template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-2":{"type":"column","settings":{"title":"10張共享攀套票(3個月有效期)  $2368","text":"","link_label":"","link":""}},"28a49a60-b671-4eb2-bf34-2d65a1225bc3":{"type":"column","settings":{"title":"20張共享攀套票 (6個月有效期) $4268","text":"","link_label":"","link":""}},"c678b9c3-95e9-48be-9587-bcccedaabe95":{"type":"column","settings":{"title":"40張共享攀套票 (9個月有效期) $7920","text":"","link_label":"","link":""}},"913b88b7-0b10-46c8-926e-6a82e7c750f4":{"type":"column","settings":{"title":"攀石鞋租借 $40","text":"","link_label":"","link":""}},"86c86f1a-f390-4f64-8bde-b5ebe9dc1b41":{"type":"column","settings":{"title":"粉袋租借 $30","text":"","link_label":"","link":""}},"74f33ac7-8387-44b9-ab4e-1cd45458a931":{"type":"column","settings":{"title":"攀石鞋+粉袋租借 $50","text":"","link_label":"","link":""}}},"block_order":["template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-0","template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-1","3ab22ec2-af87-45fa-9351-7e6842a784b1","template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-2","28a49a60-b671-4eb2-bf34-2d65a1225bc3","c678b9c3-95e9-48be-9587-bcccedaabe95","913b88b7-0b10-46c8-926e-6a82e7c750f4","86c86f1a-f390-4f64-8bde-b5ebe9dc1b41","74f33ac7-8387-44b9-ab4e-1cd45458a931"],"settings":{"title":"門票選項 (*學生)","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"ba7b54bc-ad12-4aed-bbf8-00a93afd86d4":{"type":"image-with-text","blocks":{"template--15848679112854__ba7b54bc-ad12-4aed-bbf8-00a93afd86d4-1665630079b5d3e3d3-0":{"type":"heading","settings":{"heading":"JUST CLIMBER 計劃 優惠價 $498\/月 (原價 $598\/月)","heading_size":"h2"}},"template--15848679112854__ba7b54bc-ad12-4aed-bbf8-00a93afd86d4-1665630079b5d3e3d3-1":{"type":"text","settings":{"text":"<p>全港最抵玩，大把獨家優惠等緊你<\/p><p>無限次入場我哋所有分店，<br\/>享有石門店&太古店 24\/7全天候服務！<br\/>優先報名參加所有比賽️&派對<br\/>買所有正價貨品仲可以享有9折添！<\/p><p>攀石咁好玩點可以吾分享<br\/>JUST CLIMBER每月可免費邀請1位從未登記過嘅新朋友一齊來體驗攀石‍<\/p><p>每當成功介紹1個朋友參與JUST CLIMBER計劃<br\/>即送你3張*Day Pass！️️️（ 價值: $278\/張）<br\/>成功介紹個朋友，就有6個Day Pass，如此類推！<\/p><p>2次Day Pass已經等於一個月費，仲有咩要考慮？！<br\/>快啲叫埋朋友仔一齊嚟玩啦！<\/p>","text_style":"body"}},"template--15848679112854__ba7b54bc-ad12-4aed-bbf8-00a93afd86d4-1665630079b5d3e3d3-2":{"type":"button","settings":{"button_label":"","button_link":""}}},"block_order":["template--15848679112854__ba7b54bc-ad12-4aed-bbf8-00a93afd86d4-1665630079b5d3e3d3-0","template--15848679112854__ba7b54bc-ad12-4aed-bbf8-00a93afd86d4-1665630079b5d3e3d3-1","template--15848679112854__ba7b54bc-ad12-4aed-bbf8-00a93afd86d4-1665630079b5d3e3d3-2"],"settings":{"image":"shopify:\/\/shop_images\/rock-climber-tackles-a-tough-spot-on-a-wall.jpg","height":"small","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"3eb1b8b5-8225-422c-b61c-a18e3b63b079":{"type":"rich-text","blocks":{"template--15886305951894__3eb1b8b5-8225-422c-b61c-a18e3b63b079-1669035173c70b7736-0":{"type":"heading","settings":{"heading":"<p>備註<\/p>","heading_size":"h2"}},"template--15886305951894__3eb1b8b5-8225-422c-b61c-a18e3b63b079-1669035173c70b7736-1":{"type":"text","settings":{"text":"<p>學生門票適用於22歲或以下或及持有有效全日制學生證<\/p>"}},"template--15886305951894__3eb1b8b5-8225-422c-b61c-a18e3b63b079-1669035173c70b7736-2":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15886305951894__3eb1b8b5-8225-422c-b61c-a18e3b63b079-1669035173c70b7736-0","template--15886305951894__3eb1b8b5-8225-422c-b61c-a18e3b63b079-1669035173c70b7736-1","template--15886305951894__3eb1b8b5-8225-422c-b61c-a18e3b63b079-1669035173c70b7736-2"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":52}}},"order":["banner","product-grid","96a0b3b9-e4e1-4d22-856f-b3093f89c963","fdc75db7-b35c-49f3-9b6d-a32204de53e9","ba7b54bc-ad12-4aed-bbf8-00a93afd86d4","3eb1b8b5-8225-422c-b61c-a18e3b63b079"]}
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96a0b3b9-e4e1-4d22-856f-b3093f89c963": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-0",
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-1",
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/16.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "fdc75db7-b35c-49f3-9b6d-a32204de53e9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-0": {
+          "type": "column",
+          "settings": {
+            "title": "全日攀 $278 (*$248)",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-1": {
+          "type": "column",
+          "settings": {
+            "title": "全月攀 $998",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3ab22ec2-af87-45fa-9351-7e6842a784b1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>JUST CLIMBER $598\/月 <br\/>計劃啟動費$700<br\/>暫停 $90\/月<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-2": {
+          "type": "column",
+          "settings": {
+            "title": "10張共享攀套票(3個月有效期)  $2368",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "28a49a60-b671-4eb2-bf34-2d65a1225bc3": {
+          "type": "column",
+          "settings": {
+            "title": "20張共享攀套票 (6個月有效期) $4268",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c678b9c3-95e9-48be-9587-bcccedaabe95": {
+          "type": "column",
+          "settings": {
+            "title": "40張共享攀套票 (9個月有效期) $7920",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "913b88b7-0b10-46c8-926e-6a82e7c750f4": {
+          "type": "column",
+          "settings": {
+            "title": "攀石鞋租借 $40",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "86c86f1a-f390-4f64-8bde-b5ebe9dc1b41": {
+          "type": "column",
+          "settings": {
+            "title": "粉袋租借 $30",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "74f33ac7-8387-44b9-ab4e-1cd45458a931": {
+          "type": "column",
+          "settings": {
+            "title": "攀石鞋+粉袋租借 $50",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-0",
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-1",
+        "3ab22ec2-af87-45fa-9351-7e6842a784b1",
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-2",
+        "28a49a60-b671-4eb2-bf34-2d65a1225bc3",
+        "c678b9c3-95e9-48be-9587-bcccedaabe95",
+        "913b88b7-0b10-46c8-926e-6a82e7c750f4",
+        "86c86f1a-f390-4f64-8bde-b5ebe9dc1b41",
+        "74f33ac7-8387-44b9-ab4e-1cd45458a931"
+      ],
+      "settings": {
+        "title": "門票選項 (*學生)",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ba7b54bc-ad12-4aed-bbf8-00a93afd86d4": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15848679112854__ba7b54bc-ad12-4aed-bbf8-00a93afd86d4-1665630079b5d3e3d3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "JUST CLIMBER 計劃 優惠價 $498\/月 (原價 $598\/月)",
+            "heading_size": "h2"
+          }
+        },
+        "template--15848679112854__ba7b54bc-ad12-4aed-bbf8-00a93afd86d4-1665630079b5d3e3d3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>全港最抵玩，大把獨家優惠等緊你<\/p><p>無限次入場我哋所有分店，<br\/>享有石門店&太古店 24\/7全天候服務！<br\/>優先報名參加所有比賽️&派對<br\/>買所有正價貨品仲可以享有9折添！<\/p><p>攀石咁好玩點可以吾分享<br\/>JUST CLIMBER每月可免費邀請1位從未登記過嘅新朋友一齊來體驗攀石‍<\/p><p>每當成功介紹1個朋友參與JUST CLIMBER計劃<br\/>即送你3張*Day Pass！️️️（ 價值: $278\/張）<br\/>成功介紹個朋友，就有6個Day Pass，如此類推！<\/p><p>2次Day Pass已經等於一個月費，仲有咩要考慮？！<br\/>快啲叫埋朋友仔一齊嚟玩啦！<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15848679112854__ba7b54bc-ad12-4aed-bbf8-00a93afd86d4-1665630079b5d3e3d3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15848679112854__ba7b54bc-ad12-4aed-bbf8-00a93afd86d4-1665630079b5d3e3d3-0",
+        "template--15848679112854__ba7b54bc-ad12-4aed-bbf8-00a93afd86d4-1665630079b5d3e3d3-1",
+        "template--15848679112854__ba7b54bc-ad12-4aed-bbf8-00a93afd86d4-1665630079b5d3e3d3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/rock-climber-tackles-a-tough-spot-on-a-wall.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3eb1b8b5-8225-422c-b61c-a18e3b63b079": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15886305951894__3eb1b8b5-8225-422c-b61c-a18e3b63b079-1669035173c70b7736-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "備註",
+            "heading_size": "h2"
+          }
+        },
+        "template--15886305951894__3eb1b8b5-8225-422c-b61c-a18e3b63b079-1669035173c70b7736-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>學生門票適用於22歲或以下或及持有有效全日制學生證<\/p>"
+          }
+        },
+        "template--15886305951894__3eb1b8b5-8225-422c-b61c-a18e3b63b079-1669035173c70b7736-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15886305951894__3eb1b8b5-8225-422c-b61c-a18e3b63b079-1669035173c70b7736-0",
+        "template--15886305951894__3eb1b8b5-8225-422c-b61c-a18e3b63b079-1669035173c70b7736-1",
+        "template--15886305951894__3eb1b8b5-8225-422c-b61c-a18e3b63b079-1669035173c70b7736-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "96a0b3b9-e4e1-4d22-856f-b3093f89c963",
+    "fdc75db7-b35c-49f3-9b6d-a32204de53e9",
+    "ba7b54bc-ad12-4aed-bbf8-00a93afd86d4",
+    "3eb1b8b5-8225-422c-b61c-a18e3b63b079"
+  ]
+}

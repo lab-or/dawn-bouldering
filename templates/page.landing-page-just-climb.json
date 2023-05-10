@@ -1,1 +1,466 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":0,"padding_bottom":0}},"383ef268-afee-4bdf-b331-ff65609adc34":{"type":"image-banner","blocks":{"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"],"custom_css":[".media {right: 10%; left: 10%; width: 80%;}"],"settings":{"image":"shopify:\/\/shop_images\/16.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e":{"type":"rich-text","blocks":{"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0":{"type":"heading","settings":{"heading":"<p>全港最多分店的攀石場<\/p>","heading_size":"h1"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1":{"type":"text","settings":{"text":"<p>分店地址 (開放時間)<\/p><p>屯門店 - 新界屯門建發里4號地下1號舖 (星期一至五: 1pm-10pm)<\/p><p>九龍店 - 九龍新蒲崗太子道東706號太子工業大廈地下D室 (星期一至五: 2pm-11pm)<\/p><p>太古店 - 香港鰂魚涌英皇道1001號6樓01室 (開放24\/7，設有人面識別進場)<\/p><p>石門店 - 新界沙田石門安平街 6號新貿中心地下4室 (開放24\/7，設有人面識別進場)<\/p><p>兒童攀石學校 (新蒲崗) - 九龍新蒲崗太子道東704號新時代工貿商業大廈地下B室 (星期一至五: 2pm-11pm)<\/p><p>兒童攀石學校 (將軍澳) -  將軍澳唐賢街33號CAPRI（商場）B03 舖 (星期一至五: 1pm-10pm)<\/p><p>星期六至日及公眾假期開放時：10am-8pm<br\/>(適用於所有分店)<\/p><p>JUST CLIMB 室內攀石場自2011年成立，設全港最多分店，由前全國攀石冠軍何善揮創立，多年致力推動攀石運動，更開設全港首間的兒童攀石學校，讓不同年齡人士都能體會攀石樂趣。<br\/>Just Climb另一特點是位於屯門的分店切又多塊落地大玻璃，除了環境開陽舒適外，更設有全港最高戶外攀石牆！<\/p>"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":32}},"3840052f-b99d-4d73-8914-adc89eda3f4f":{"type":"multicolumn","blocks":{"template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/climber.png","title":"適合新手","text":"","link_label":"","link":""}},"452c7c6a-7177-4513-8997-06ad5f6603df":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/money.jpg","title":"高性價比","text":"","link_label":"","link":""}},"1628567c-5e0f-4e71-a7dd-db9246367281":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/shower.png","title":"提供浴室設施","text":"","link_label":"","link":""}},"0294b889-8894-4b86-ab6c-071ea1fdeab9":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/wipe.png","title":"設有餐飲區域","text":"","link_label":"","link":""}}},"block_order":["template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0","452c7c6a-7177-4513-8997-06ad5f6603df","1628567c-5e0f-4e71-a7dd-db9246367281","0294b889-8894-4b86-ab6c-071ea1fdeab9"],"custom_css":["h3 {color: white;}",".slider-counter {font-size: large;}"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":4,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":true,"padding_top":8,"padding_bottom":32}},"2a631a92-666e-4a34-a597-f6412a0a78f2":{"type":"slideshow","blocks":{"template--15885162479766__2a631a92-666e-4a34-a597-f6412a0a78f2-16827351153069a2a2-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Just_Climb_1.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"0854f519-e879-499b-8ee7-422515e30a00":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Just_Climb_2_202728c7-7f15-4af8-bfce-4c9ad3bafb6e.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"5671eae4-74a3-4b5f-8b46-b0ccf2a02685":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Just_Climb_3_c259c91d-ac4c-48e6-9cb1-9e36d8d2edf5.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"051860cf-4ab4-4ffb-a419-16f207bee88a":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Just_Climb_4.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["template--15885162479766__2a631a92-666e-4a34-a597-f6412a0a78f2-16827351153069a2a2-0","0854f519-e879-499b-8ee7-422515e30a00","5671eae4-74a3-4b5f-8b46-b0ccf2a02685","051860cf-4ab4-4ffb-a419-16f207bee88a"],"settings":{"layout":"grid","slide_height":"adapt_image","slider_visual":"counter","auto_rotate":false,"change_slides_speed":5,"show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"036b0ac6-9826-4310-b9fd-56c2afd99763":{"type":"multicolumn","blocks":{"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0":{"type":"column","settings":{"title":"","text":"<p>全日攀 $278 (*$248)<\/p>","link_label":"","link":""}},"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1":{"type":"column","settings":{"title":"","text":"<p>全月攀 $998<\/p>","link_label":"","link":""}},"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2":{"type":"column","settings":{"title":"","text":"<p>JUST CLIMBER $598\/月 <br\/>計劃啟動費$700<br\/>暫停 $90\/月<\/p>","link_label":"","link":""}},"201491b4-deb5-4728-8810-382a63da656b":{"type":"column","settings":{"title":"","text":"<p>10張共享攀套票(3個月有效期)  $2368<\/p>","link_label":"","link":""}},"c8e2fa84-09a5-41cd-b0e2-1dfd8368fbb3":{"type":"column","settings":{"title":"","text":"<p>20張共享攀套票 (6個月有效期) $4268<\/p>","link_label":"","link":""}},"3f6324a0-4a04-4509-86a0-77a4e36e4f45":{"type":"column","settings":{"title":"","text":"<p>40張共享攀套票 (9個月有效期) $7920<\/p>","link_label":"","link":""}},"24117e04-3116-447c-ab79-362192505498":{"type":"column","settings":{"title":"","text":"<p>攀石鞋租借 $40<\/p>","link_label":"","link":""}},"614bbe5e-1a5e-4700-8205-9a40713aa7fe":{"type":"column","settings":{"title":"","text":"<p>粉袋租借 $30<\/p>","link_label":"","link":""}},"274b0e14-a123-4ed0-a7f8-f052c963072a":{"type":"column","settings":{"title":"","text":"<p>攀石鞋+粉袋租借 $50<\/p>","link_label":"","link":""}}},"block_order":["template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0","template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1","template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2","201491b4-deb5-4728-8810-382a63da656b","c8e2fa84-09a5-41cd-b0e2-1dfd8368fbb3","3f6324a0-4a04-4509-86a0-77a4e36e4f45","24117e04-3116-447c-ab79-362192505498","614bbe5e-1a5e-4700-8205-9a40713aa7fe","274b0e14-a123-4ed0-a7f8-f052c963072a"],"settings":{"title":"門票選項 (*學生)","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"22650c2b-cd97-4870-b41e-8972d3c76375":{"type":"image-with-text","blocks":{"template--15885162479766__22650c2b-cd97-4870-b41e-8972d3c76375-168328473096c7511a-0":{"type":"heading","settings":{"heading":"JUST CLIMBER 計劃 優惠價 $498\/月 (原價 $598\/月)","heading_size":"h2"}},"template--15885162479766__22650c2b-cd97-4870-b41e-8972d3c76375-168328473096c7511a-1":{"type":"text","settings":{"text":"<p>全港最抵玩，大把獨家優惠等緊你<\/p><p>無限次入場我哋所有分店，<br\/>享有石門店&太古店 24\/7全天候服務！<br\/>優先報名參加所有比賽️&派對<br\/>買所有正價貨品仲可以享有9折添！<\/p><p>攀石咁好玩點可以吾分享<br\/>JUST CLIMBER每月可免費邀請1位從未登記過嘅新朋友一齊來體驗攀石‍<\/p><p>每當成功介紹1個朋友參與JUST CLIMBER計劃<br\/>即送你3張*Day Pass！️️️（ 價值: $278\/張）<br\/>成功介紹個朋友，就有6個Day Pass，如此類推！<\/p><p>2次Day Pass已經等於一個月費，仲有咩要考慮？！<br\/>快啲叫埋朋友仔一齊嚟玩啦！<\/p>","text_style":"body"}}},"block_order":["template--15885162479766__22650c2b-cd97-4870-b41e-8972d3c76375-168328473096c7511a-0","template--15885162479766__22650c2b-cd97-4870-b41e-8972d3c76375-168328473096c7511a-1"],"settings":{"image":"shopify:\/\/shop_images\/rock-climber-tackles-a-tough-spot-on-a-wall.jpg","height":"small","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"52ccb275-1184-48ce-847e-380e43f2076a":{"type":"rich-text","blocks":{"template--15885162479766__52ccb275-1184-48ce-847e-380e43f2076a-1683283947ebf2ddb7-0":{"type":"heading","settings":{"heading":"<p>備註<\/p>","heading_size":"h2"}},"template--15885162479766__52ccb275-1184-48ce-847e-380e43f2076a-1683283947ebf2ddb7-1":{"type":"text","settings":{"text":"<p>學生門票適用於22歲或以下或及持有有效全日制學生證<\/p>"}}},"block_order":["template--15885162479766__52ccb275-1184-48ce-847e-380e43f2076a-1683283947ebf2ddb7-0","template--15885162479766__52ccb275-1184-48ce-847e-380e43f2076a-1683283947ebf2ddb7-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":16,"padding_bottom":24}},"e47ebf13-582a-4b34-990d-e7f9f45e1e44":{"type":"custom-liquid","settings":{"custom_liquid":"<iframe src=\"https:\/\/storage.googleapis.com\/maps-solutions-e1fvbieesf\/locator-plus\/buth\/locator-plus.html\"\n  width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" \n  loading=\"lazy\">\n<\/iframe>","color_scheme":"background-1","padding_top":40,"padding_bottom":52}}},"order":["main","383ef268-afee-4bdf-b331-ff65609adc34","007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e","3840052f-b99d-4d73-8914-adc89eda3f4f","2a631a92-666e-4a34-a597-f6412a0a78f2","036b0ac6-9826-4310-b9fd-56c2afd99763","22650c2b-cd97-4870-b41e-8972d3c76375","52ccb275-1184-48ce-847e-380e43f2076a","e47ebf13-582a-4b34-990d-e7f9f45e1e44"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "383ef268-afee-4bdf-b331-ff65609adc34": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"
+      ],
+      "custom_css": [
+        ".media {right: 10%; left: 10%; width: 80%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/16.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "全港最多分店的攀石場",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>分店地址 (開放時間)<\/p><p>屯門店 - 新界屯門建發里4號地下1號舖 (星期一至五: 1pm-10pm)<\/p><p>九龍店 - 九龍新蒲崗太子道東706號太子工業大廈地下D室 (星期一至五: 2pm-11pm)<\/p><p>太古店 - 香港鰂魚涌英皇道1001號6樓01室 (開放24\/7，設有人面識別進場)<\/p><p>石門店 - 新界沙田石門安平街 6號新貿中心地下4室 (開放24\/7，設有人面識別進場)<\/p><p>兒童攀石學校 (新蒲崗) - 九龍新蒲崗太子道東704號新時代工貿商業大廈地下B室 (星期一至五: 2pm-11pm)<\/p><p>兒童攀石學校 (將軍澳) -  將軍澳唐賢街33號CAPRI（商場）B03 舖 (星期一至五: 1pm-10pm)<\/p><p>星期六至日及公眾假期開放時：10am-8pm<br\/>(適用於所有分店)<\/p><p>JUST CLIMB 室內攀石場自2011年成立，設全港最多分店，由前全國攀石冠軍何善揮創立，多年致力推動攀石運動，更開設全港首間的兒童攀石學校，讓不同年齡人士都能體會攀石樂趣。<br\/>Just Climb另一特點是位於屯門的分店切又多塊落地大玻璃，除了環境開陽舒適外，更設有全港最高戶外攀石牆！<\/p>"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 32
+      }
+    },
+    "3840052f-b99d-4d73-8914-adc89eda3f4f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/climber.png",
+            "title": "適合新手",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "452c7c6a-7177-4513-8997-06ad5f6603df": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/money.jpg",
+            "title": "高性價比",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1628567c-5e0f-4e71-a7dd-db9246367281": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shower.png",
+            "title": "提供浴室設施",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0294b889-8894-4b86-ab6c-071ea1fdeab9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wipe.png",
+            "title": "設有餐飲區域",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0",
+        "452c7c6a-7177-4513-8997-06ad5f6603df",
+        "1628567c-5e0f-4e71-a7dd-db9246367281",
+        "0294b889-8894-4b86-ab6c-071ea1fdeab9"
+      ],
+      "custom_css": [
+        "h3 {color: white;}",
+        ".slider-counter {font-size: large;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 32
+      }
+    },
+    "2a631a92-666e-4a34-a597-f6412a0a78f2": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15885162479766__2a631a92-666e-4a34-a597-f6412a0a78f2-16827351153069a2a2-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Just_Climb_1.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "0854f519-e879-499b-8ee7-422515e30a00": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Just_Climb_2_202728c7-7f15-4af8-bfce-4c9ad3bafb6e.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "5671eae4-74a3-4b5f-8b46-b0ccf2a02685": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Just_Climb_3_c259c91d-ac4c-48e6-9cb1-9e36d8d2edf5.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "051860cf-4ab4-4ffb-a419-16f207bee88a": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Just_Climb_4.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15885162479766__2a631a92-666e-4a34-a597-f6412a0a78f2-16827351153069a2a2-0",
+        "0854f519-e879-499b-8ee7-422515e30a00",
+        "5671eae4-74a3-4b5f-8b46-b0ccf2a02685",
+        "051860cf-4ab4-4ffb-a419-16f207bee88a"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "036b0ac6-9826-4310-b9fd-56c2afd99763": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>全日攀 $278 (*$248)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>全月攀 $998<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>JUST CLIMBER $598\/月 <br\/>計劃啟動費$700<br\/>暫停 $90\/月<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "201491b4-deb5-4728-8810-382a63da656b": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>10張共享攀套票(3個月有效期)  $2368<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c8e2fa84-09a5-41cd-b0e2-1dfd8368fbb3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>20張共享攀套票 (6個月有效期) $4268<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3f6324a0-4a04-4509-86a0-77a4e36e4f45": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>40張共享攀套票 (9個月有效期) $7920<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "24117e04-3116-447c-ab79-362192505498": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>攀石鞋租借 $40<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "614bbe5e-1a5e-4700-8205-9a40713aa7fe": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>粉袋租借 $30<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "274b0e14-a123-4ed0-a7f8-f052c963072a": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>攀石鞋+粉袋租借 $50<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0",
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1",
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2",
+        "201491b4-deb5-4728-8810-382a63da656b",
+        "c8e2fa84-09a5-41cd-b0e2-1dfd8368fbb3",
+        "3f6324a0-4a04-4509-86a0-77a4e36e4f45",
+        "24117e04-3116-447c-ab79-362192505498",
+        "614bbe5e-1a5e-4700-8205-9a40713aa7fe",
+        "274b0e14-a123-4ed0-a7f8-f052c963072a"
+      ],
+      "settings": {
+        "title": "門票選項 (*學生)",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "22650c2b-cd97-4870-b41e-8972d3c76375": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15885162479766__22650c2b-cd97-4870-b41e-8972d3c76375-168328473096c7511a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "JUST CLIMBER 計劃 優惠價 $498\/月 (原價 $598\/月)",
+            "heading_size": "h2"
+          }
+        },
+        "template--15885162479766__22650c2b-cd97-4870-b41e-8972d3c76375-168328473096c7511a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>全港最抵玩，大把獨家優惠等緊你<\/p><p>無限次入場我哋所有分店，<br\/>享有石門店&太古店 24\/7全天候服務！<br\/>優先報名參加所有比賽️&派對<br\/>買所有正價貨品仲可以享有9折添！<\/p><p>攀石咁好玩點可以吾分享<br\/>JUST CLIMBER每月可免費邀請1位從未登記過嘅新朋友一齊來體驗攀石‍<\/p><p>每當成功介紹1個朋友參與JUST CLIMBER計劃<br\/>即送你3張*Day Pass！️️️（ 價值: $278\/張）<br\/>成功介紹個朋友，就有6個Day Pass，如此類推！<\/p><p>2次Day Pass已經等於一個月費，仲有咩要考慮？！<br\/>快啲叫埋朋友仔一齊嚟玩啦！<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15885162479766__22650c2b-cd97-4870-b41e-8972d3c76375-168328473096c7511a-0",
+        "template--15885162479766__22650c2b-cd97-4870-b41e-8972d3c76375-168328473096c7511a-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/rock-climber-tackles-a-tough-spot-on-a-wall.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "52ccb275-1184-48ce-847e-380e43f2076a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15885162479766__52ccb275-1184-48ce-847e-380e43f2076a-1683283947ebf2ddb7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "備註",
+            "heading_size": "h2"
+          }
+        },
+        "template--15885162479766__52ccb275-1184-48ce-847e-380e43f2076a-1683283947ebf2ddb7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>學生門票適用於22歲或以下或及持有有效全日制學生證<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15885162479766__52ccb275-1184-48ce-847e-380e43f2076a-1683283947ebf2ddb7-0",
+        "template--15885162479766__52ccb275-1184-48ce-847e-380e43f2076a-1683283947ebf2ddb7-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 24
+      }
+    },
+    "e47ebf13-582a-4b34-990d-e7f9f45e1e44": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/storage.googleapis.com\/maps-solutions-e1fvbieesf\/locator-plus\/buth\/locator-plus.html\"\n  width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" \n  loading=\"lazy\">\n<\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "383ef268-afee-4bdf-b331-ff65609adc34",
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
+    "3840052f-b99d-4d73-8914-adc89eda3f4f",
+    "2a631a92-666e-4a34-a597-f6412a0a78f2",
+    "036b0ac6-9826-4310-b9fd-56c2afd99763",
+    "22650c2b-cd97-4870-b41e-8972d3c76375",
+    "52ccb275-1184-48ce-847e-380e43f2076a",
+    "e47ebf13-582a-4b34-990d-e7f9f45e1e44"
+  ]
+}

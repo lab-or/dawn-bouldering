@@ -1,1 +1,281 @@
-{"sections":{"7f05e8a9-36fe-442d-9f7e-6e5cd488b5b2":{"type":"multicolumn","blocks":{"template--15859034456214__7f05e8a9-36fe-442d-9f7e-6e5cd488b5b2-16666192208f83d2fd-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/10_copy_3.png","title":"","text":"","link_label":"","link":""}},"template--15859034456214__7f05e8a9-36fe-442d-9f7e-6e5cd488b5b2-16666192208f83d2fd-1":{"type":"column","disabled":true,"settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"template--15859034456214__7f05e8a9-36fe-442d-9f7e-6e5cd488b5b2-16666192208f83d2fd-2":{"type":"column","disabled":true,"settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}}},"block_order":["template--15859034456214__7f05e8a9-36fe-442d-9f7e-6e5cd488b5b2-16666192208f83d2fd-0","template--15859034456214__7f05e8a9-36fe-442d-9f7e-6e5cd488b5b2-16666192208f83d2fd-1","template--15859034456214__7f05e8a9-36fe-442d-9f7e-6e5cd488b5b2-16666192208f83d2fd-2"],"settings":{"title":"","heading_size":"h2","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":0,"padding_bottom":0}},"main":{"type":"main-page","disabled":true,"settings":{"padding_top":28,"padding_bottom":28}},"3adc90e2-d8e4-4b9e-ada7-94d6b5afdb4e":{"type":"multicolumn","blocks":{"template--15859034456214__3adc90e2-d8e4-4b9e-ada7-94d6b5afdb4e-16669417992ec71e70-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/The_Player_3_d4559cea-9197-49b1-abed-74f4d0d628c5.png","title":"","text":"","link_label":"立刻訂購","link":"shopify:\/\/products\/the-player-climbingym-成人場票"}},"template--15859034456214__3adc90e2-d8e4-4b9e-ada7-94d6b5afdb4e-16669417992ec71e70-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/The_Player_2_f47eed1b-01ca-4619-911c-6686828923e9.png","title":"","text":"","link_label":"立刻訂購","link":"shopify:\/\/products\/the-player-climbingym-學生場票"}},"template--15859034456214__3adc90e2-d8e4-4b9e-ada7-94d6b5afdb4e-16669417992ec71e70-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/The_Player_9b163001-01bb-49e4-b1bc-7cd1ada4ed9b.png","title":"","text":"","link_label":"立刻訂購","link":"shopify:\/\/products\/the-player-climbingym-殘疾人士場票"}}},"block_order":["template--15859034456214__3adc90e2-d8e4-4b9e-ada7-94d6b5afdb4e-16669417992ec71e70-0","template--15859034456214__3adc90e2-d8e4-4b9e-ada7-94d6b5afdb4e-16669417992ec71e70-1","template--15859034456214__3adc90e2-d8e4-4b9e-ada7-94d6b5afdb4e-16669417992ec71e70-2"],"settings":{"title":"門票選項","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":2,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"584b17f0-7f1f-45fd-bf4d-3907b8cebcee":{"type":"image-banner","blocks":{"template--15859028557974__584b17f0-7f1f-45fd-bf4d-3907b8cebcee-16664090562061aa85-0":{"type":"heading","settings":{"heading":"選擇你的年齡層","heading_size":"h1"}},"template--15859028557974__584b17f0-7f1f-45fd-bf4d-3907b8cebcee-16664090562061aa85-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15859028557974__584b17f0-7f1f-45fd-bf4d-3907b8cebcee-16664090562061aa85-2":{"type":"buttons","settings":{"button_label_1":"成人","button_link_1":"shopify:\/\/products\/the-player-climbingym-成人場票","button_style_secondary_1":false,"button_label_2":"學生","button_link_2":"shopify:\/\/products\/the-player-climbingym-學生場票","button_style_secondary_2":false}}},"block_order":["template--15859028557974__584b17f0-7f1f-45fd-bf4d-3907b8cebcee-16664090562061aa85-0","template--15859028557974__584b17f0-7f1f-45fd-bf4d-3907b8cebcee-16664090562061aa85-1","template--15859028557974__584b17f0-7f1f-45fd-bf4d-3907b8cebcee-16664090562061aa85-2"],"settings":{"image":"shopify:\/\/shop_images\/Untitled_design_29.png","image_overlay_opacity":40,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":false}},"d202cf46-f2c5-4722-b26c-1574e7e089e1":{"type":"image-banner","blocks":{"template--15859028557974__d202cf46-f2c5-4722-b26c-1574e7e089e1-16664090562061aa85-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15859028557974__d202cf46-f2c5-4722-b26c-1574e7e089e1-16664090562061aa85-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15859028557974__d202cf46-f2c5-4722-b26c-1574e7e089e1-16664090562061aa85-2":{"type":"buttons","settings":{"button_label_1":"殘疾人士","button_link_1":"shopify:\/\/products\/the-player-climbingym-殘疾人士場票","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15859028557974__d202cf46-f2c5-4722-b26c-1574e7e089e1-16664090562061aa85-0","template--15859028557974__d202cf46-f2c5-4722-b26c-1574e7e089e1-16664090562061aa85-1","template--15859028557974__d202cf46-f2c5-4722-b26c-1574e7e089e1-16664090562061aa85-2"],"settings":{"image":"shopify:\/\/shop_images\/Updated_Banner_fd4bb654-bfbe-488f-9f1f-17f00e78d5fd.png","image_overlay_opacity":50,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"1260dce1-f364-40d8-aff3-2a249a5f6129":{"type":"multicolumn","disabled":true,"blocks":{"template--15859028557974__1260dce1-f364-40d8-aff3-2a249a5f6129-1666409469435400ef-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_29.png","title":"成人","text":"","link_label":"訂購合適的場票","link":"shopify:\/\/products\/crux-成人場票"}},"template--15859028557974__1260dce1-f364-40d8-aff3-2a249a5f6129-1666409469435400ef-1":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"template--15859028557974__1260dce1-f364-40d8-aff3-2a249a5f6129-1666409469435400ef-2":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}}},"block_order":["template--15859028557974__1260dce1-f364-40d8-aff3-2a249a5f6129-1666409469435400ef-0","template--15859028557974__1260dce1-f364-40d8-aff3-2a249a5f6129-1666409469435400ef-1","template--15859028557974__1260dce1-f364-40d8-aff3-2a249a5f6129-1666409469435400ef-2"],"settings":{"title":"Multicolumn","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"Button label","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}}},"order":["7f05e8a9-36fe-442d-9f7e-6e5cd488b5b2","main","3adc90e2-d8e4-4b9e-ada7-94d6b5afdb4e","584b17f0-7f1f-45fd-bf4d-3907b8cebcee","d202cf46-f2c5-4722-b26c-1574e7e089e1","1260dce1-f364-40d8-aff3-2a249a5f6129"]}
+{
+  "sections": {
+    "7f05e8a9-36fe-442d-9f7e-6e5cd488b5b2": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15859034456214__7f05e8a9-36fe-442d-9f7e-6e5cd488b5b2-16666192208f83d2fd-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/10_copy_3.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15859034456214__7f05e8a9-36fe-442d-9f7e-6e5cd488b5b2-16666192208f83d2fd-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15859034456214__7f05e8a9-36fe-442d-9f7e-6e5cd488b5b2-16666192208f83d2fd-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15859034456214__7f05e8a9-36fe-442d-9f7e-6e5cd488b5b2-16666192208f83d2fd-0",
+        "template--15859034456214__7f05e8a9-36fe-442d-9f7e-6e5cd488b5b2-16666192208f83d2fd-1",
+        "template--15859034456214__7f05e8a9-36fe-442d-9f7e-6e5cd488b5b2-16666192208f83d2fd-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "3adc90e2-d8e4-4b9e-ada7-94d6b5afdb4e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15859034456214__3adc90e2-d8e4-4b9e-ada7-94d6b5afdb4e-16669417992ec71e70-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_Player_3_d4559cea-9197-49b1-abed-74f4d0d628c5.png",
+            "title": "",
+            "text": "",
+            "link_label": "立刻訂購",
+            "link": "shopify:\/\/products\/the-player-climbingym-成人場票"
+          }
+        },
+        "template--15859034456214__3adc90e2-d8e4-4b9e-ada7-94d6b5afdb4e-16669417992ec71e70-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_Player_2_f47eed1b-01ca-4619-911c-6686828923e9.png",
+            "title": "",
+            "text": "",
+            "link_label": "立刻訂購",
+            "link": "shopify:\/\/products\/the-player-climbingym-學生場票"
+          }
+        },
+        "template--15859034456214__3adc90e2-d8e4-4b9e-ada7-94d6b5afdb4e-16669417992ec71e70-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_Player_9b163001-01bb-49e4-b1bc-7cd1ada4ed9b.png",
+            "title": "",
+            "text": "",
+            "link_label": "立刻訂購",
+            "link": "shopify:\/\/products\/the-player-climbingym-殘疾人士場票"
+          }
+        }
+      },
+      "block_order": [
+        "template--15859034456214__3adc90e2-d8e4-4b9e-ada7-94d6b5afdb4e-16669417992ec71e70-0",
+        "template--15859034456214__3adc90e2-d8e4-4b9e-ada7-94d6b5afdb4e-16669417992ec71e70-1",
+        "template--15859034456214__3adc90e2-d8e4-4b9e-ada7-94d6b5afdb4e-16669417992ec71e70-2"
+      ],
+      "settings": {
+        "title": "門票選項",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "584b17f0-7f1f-45fd-bf4d-3907b8cebcee": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15859028557974__584b17f0-7f1f-45fd-bf4d-3907b8cebcee-16664090562061aa85-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "選擇你的年齡層",
+            "heading_size": "h1"
+          }
+        },
+        "template--15859028557974__584b17f0-7f1f-45fd-bf4d-3907b8cebcee-16664090562061aa85-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15859028557974__584b17f0-7f1f-45fd-bf4d-3907b8cebcee-16664090562061aa85-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "成人",
+            "button_link_1": "shopify:\/\/products\/the-player-climbingym-成人場票",
+            "button_style_secondary_1": false,
+            "button_label_2": "學生",
+            "button_link_2": "shopify:\/\/products\/the-player-climbingym-學生場票",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15859028557974__584b17f0-7f1f-45fd-bf4d-3907b8cebcee-16664090562061aa85-0",
+        "template--15859028557974__584b17f0-7f1f-45fd-bf4d-3907b8cebcee-16664090562061aa85-1",
+        "template--15859028557974__584b17f0-7f1f-45fd-bf4d-3907b8cebcee-16664090562061aa85-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_29.png",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "d202cf46-f2c5-4722-b26c-1574e7e089e1": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15859028557974__d202cf46-f2c5-4722-b26c-1574e7e089e1-16664090562061aa85-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15859028557974__d202cf46-f2c5-4722-b26c-1574e7e089e1-16664090562061aa85-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15859028557974__d202cf46-f2c5-4722-b26c-1574e7e089e1-16664090562061aa85-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "殘疾人士",
+            "button_link_1": "shopify:\/\/products\/the-player-climbingym-殘疾人士場票",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15859028557974__d202cf46-f2c5-4722-b26c-1574e7e089e1-16664090562061aa85-0",
+        "template--15859028557974__d202cf46-f2c5-4722-b26c-1574e7e089e1-16664090562061aa85-1",
+        "template--15859028557974__d202cf46-f2c5-4722-b26c-1574e7e089e1-16664090562061aa85-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Updated_Banner_fd4bb654-bfbe-488f-9f1f-17f00e78d5fd.png",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "1260dce1-f364-40d8-aff3-2a249a5f6129": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--15859028557974__1260dce1-f364-40d8-aff3-2a249a5f6129-1666409469435400ef-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_29.png",
+            "title": "成人",
+            "text": "",
+            "link_label": "訂購合適的場票",
+            "link": "shopify:\/\/products\/crux-成人場票"
+          }
+        },
+        "template--15859028557974__1260dce1-f364-40d8-aff3-2a249a5f6129-1666409469435400ef-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15859028557974__1260dce1-f364-40d8-aff3-2a249a5f6129-1666409469435400ef-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15859028557974__1260dce1-f364-40d8-aff3-2a249a5f6129-1666409469435400ef-0",
+        "template--15859028557974__1260dce1-f364-40d8-aff3-2a249a5f6129-1666409469435400ef-1",
+        "template--15859028557974__1260dce1-f364-40d8-aff3-2a249a5f6129-1666409469435400ef-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "7f05e8a9-36fe-442d-9f7e-6e5cd488b5b2",
+    "main",
+    "3adc90e2-d8e4-4b9e-ada7-94d6b5afdb4e",
+    "584b17f0-7f1f-45fd-bf4d-3907b8cebcee",
+    "d202cf46-f2c5-4722-b26c-1574e7e089e1",
+    "1260dce1-f364-40d8-aff3-2a249a5f6129"
+  ]
+}

@@ -1,1 +1,411 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":0,"padding_bottom":0}},"383ef268-afee-4bdf-b331-ff65609adc34":{"type":"image-banner","blocks":{"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"],"custom_css":[".media {right: 10%; left: 10%; width: 80%;}"],"settings":{"image":"shopify:\/\/shop_images\/19.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e":{"type":"rich-text","blocks":{"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0":{"type":"heading","settings":{"heading":"<p>具有獨特設計的攀石場<\/p>","heading_size":"h1"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1":{"type":"text","settings":{"text":"<p>地址 - 新界荃灣沙咀道29-35號科技中心1樓2室<\/p><p>開放時間 - 星期一: 10am-11:59am <\/p><p>星期二至四: 8am-11:59am <\/p><p>星期五10am至星期六11:59pm<\/p><p>星期日及公眾假期: 10am-8pm <\/p><p>VitaBeta在會員的眼中是「荃灣社區中心」，館主希望令人生顯得不一樣。VitaBeta 長駐教練指導，非常適合新手，當中的top up設計(先爬到一面的牆身頂部，再爬到另一面的牆身)更是香港攀石場少有的設計。另外，VitaBeta亦會定時舉辦不同的活動，例如戶外攀石及伸展班。<\/p>"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":32}},"3840052f-b99d-4d73-8914-adc89eda3f4f":{"type":"multicolumn","blocks":{"template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/climber.png","title":"適合新手","text":"","link_label":"","link":""}},"452c7c6a-7177-4513-8997-06ad5f6603df":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/stars.png","title":"設有Kilter Board","text":"","link_label":"","link":""}},"1628567c-5e0f-4e71-a7dd-db9246367281":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/coffee.png","title":"設有休閒區","text":"","link_label":"","link":""}},"0294b889-8894-4b86-ab6c-071ea1fdeab9":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/weight.png","title":"逢星期五通宵營業","text":"","link_label":"","link":""}}},"block_order":["template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0","452c7c6a-7177-4513-8997-06ad5f6603df","1628567c-5e0f-4e71-a7dd-db9246367281","0294b889-8894-4b86-ab6c-071ea1fdeab9"],"custom_css":["h3 {color: white;}",".slider-counter {font-size: large;}"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":4,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":true,"padding_top":8,"padding_bottom":32}},"0f326d8b-1f43-4991-ab7b-d6364c2a85b6":{"type":"slideshow","blocks":{"template--15882697801878__0f326d8b-1f43-4991-ab7b-d6364c2a85b6-16827351153069a2a2-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Vita_1.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"317dba81-9709-42bc-af05-7fe8dbf87ff6":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Vita_2.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["template--15882697801878__0f326d8b-1f43-4991-ab7b-d6364c2a85b6-16827351153069a2a2-1","317dba81-9709-42bc-af05-7fe8dbf87ff6"],"settings":{"layout":"grid","slide_height":"adapt_image","slider_visual":"counter","auto_rotate":false,"change_slides_speed":5,"show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"036b0ac6-9826-4310-b9fd-56c2afd99763":{"type":"multicolumn","blocks":{"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0":{"type":"column","settings":{"title":"","text":"<p>日票 $198 (*$168)<\/p>","link_label":"","link":""}},"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1":{"type":"column","settings":{"title":"","text":"<p>月票 $698 (*$598) (連續月費 -$50，最多 -$100)<\/p>","link_label":"","link":""}},"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2":{"type":"column","settings":{"title":"","text":"<p>季票 $1798 (*$1528)<\/p>","link_label":"","link":""}},"201491b4-deb5-4728-8810-382a63da656b":{"type":"column","settings":{"title":"","text":"<p>6個月套票 $3298 (*$2798)<\/p>","link_label":"","link":""}},"e1eb27e8-cb0a-495b-92ce-de5dd362982e":{"type":"column","settings":{"title":"","text":"<p>1年套票 $5798 (*$4928)<\/p>","link_label":"","link":""}},"3bd7d3d5-05af-456e-8de5-08b91d645c3a":{"type":"column","settings":{"title":"","text":"<p>10張套票 (有效日期：4個月) $1800<\/p>","link_label":"","link":""}},"4cd90037-7e53-4f16-ac58-c68ba8568f8c":{"type":"column","settings":{"title":"","text":"<p>20張共享套票 (有效日期：3個月) $3600<\/p>","link_label":"","link":""}},"c7d856c3-9353-4468-b100-ad3b12f741b8":{"type":"column","settings":{"title":"","text":"<p>50張共享套票 (有效日期：6個月) $8000<\/p>","link_label":"","link":""}},"4473774d-0e74-4ca7-9828-9c23ae856462":{"type":"column","settings":{"title":"","text":"<p>會員費第1次入場 $50<\/p>","link_label":"","link":""}},"ff99656b-b240-467f-8def-2cc70cac377b":{"type":"column","settings":{"title":"","text":"<p>攀石鞋租借 $20<\/p>","link_label":"","link":""}},"dd6fe9bb-015d-46ca-935d-a409f43c7f67":{"type":"column","settings":{"title":"","text":"<p>12歲以下或小童監護人進場 - $100<\/p>","link_label":"","link":""}}},"block_order":["template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0","template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1","template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2","201491b4-deb5-4728-8810-382a63da656b","e1eb27e8-cb0a-495b-92ce-de5dd362982e","3bd7d3d5-05af-456e-8de5-08b91d645c3a","4cd90037-7e53-4f16-ac58-c68ba8568f8c","c7d856c3-9353-4468-b100-ad3b12f741b8","4473774d-0e74-4ca7-9828-9c23ae856462","ff99656b-b240-467f-8def-2cc70cac377b","dd6fe9bb-015d-46ca-935d-a409f43c7f67"],"settings":{"title":"門票選項 (*學生\/殘疾人士)","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"dcb1ca16-3678-4434-8349-1815e7e01830":{"type":"rich-text","blocks":{"template--15882697801878__dcb1ca16-3678-4434-8349-1815e7e01830-1683283947ebf2ddb7-0":{"type":"heading","settings":{"heading":"<p>備註<\/p>","heading_size":"h2"}},"template--15882697801878__dcb1ca16-3678-4434-8349-1815e7e01830-1683283947ebf2ddb7-1":{"type":"text","settings":{"text":"<p>• 每名12歲小童雖有監護人陪同付費方可入場<\/p><p>• 所有會員必須在參與攀爬活動前簽署<\/p>"}}},"block_order":["template--15882697801878__dcb1ca16-3678-4434-8349-1815e7e01830-1683283947ebf2ddb7-0","template--15882697801878__dcb1ca16-3678-4434-8349-1815e7e01830-1683283947ebf2ddb7-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":20,"padding_bottom":28}},"9de6d64b-1aa8-45c8-9a76-57f2794fb8bb":{"type":"custom-liquid","settings":{"custom_liquid":"<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3689.4542013838495!2d114.10677031557792!3d22.374228545859854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3403f969be2d0b7b%3A0x285dbfdb1c4ddf1!2sVita%20Beta%20Climbing%20Gym!5e0!3m2!1sen!2shk!4v1669474028415!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>","color_scheme":"background-1","padding_top":40,"padding_bottom":52}}},"order":["main","383ef268-afee-4bdf-b331-ff65609adc34","007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e","3840052f-b99d-4d73-8914-adc89eda3f4f","0f326d8b-1f43-4991-ab7b-d6364c2a85b6","036b0ac6-9826-4310-b9fd-56c2afd99763","dcb1ca16-3678-4434-8349-1815e7e01830","9de6d64b-1aa8-45c8-9a76-57f2794fb8bb"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "383ef268-afee-4bdf-b331-ff65609adc34": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"
+      ],
+      "custom_css": [
+        ".media {right: 10%; left: 10%; width: 80%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/19.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "具有獨特設計的攀石場",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>地址 - 新界荃灣沙咀道29-35號科技中心1樓2室<\/p><p>開放時間 - 星期一: 10am-11:59am <\/p><p>星期二至四: 8am-11:59am <\/p><p>星期五10am至星期六11:59pm<\/p><p>星期日及公眾假期: 10am-8pm <\/p><p>VitaBeta在會員的眼中是「荃灣社區中心」，館主希望令人生顯得不一樣。VitaBeta 長駐教練指導，非常適合新手，當中的top up設計(先爬到一面的牆身頂部，再爬到另一面的牆身)更是香港攀石場少有的設計。另外，VitaBeta亦會定時舉辦不同的活動，例如戶外攀石及伸展班。<\/p>"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 32
+      }
+    },
+    "3840052f-b99d-4d73-8914-adc89eda3f4f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/climber.png",
+            "title": "適合新手",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "452c7c6a-7177-4513-8997-06ad5f6603df": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stars.png",
+            "title": "設有Kilter Board",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1628567c-5e0f-4e71-a7dd-db9246367281": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/coffee.png",
+            "title": "設有休閒區",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0294b889-8894-4b86-ab6c-071ea1fdeab9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/weight.png",
+            "title": "逢星期五通宵營業",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0",
+        "452c7c6a-7177-4513-8997-06ad5f6603df",
+        "1628567c-5e0f-4e71-a7dd-db9246367281",
+        "0294b889-8894-4b86-ab6c-071ea1fdeab9"
+      ],
+      "custom_css": [
+        "h3 {color: white;}",
+        ".slider-counter {font-size: large;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 32
+      }
+    },
+    "0f326d8b-1f43-4991-ab7b-d6364c2a85b6": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15882697801878__0f326d8b-1f43-4991-ab7b-d6364c2a85b6-16827351153069a2a2-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vita_1.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "317dba81-9709-42bc-af05-7fe8dbf87ff6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vita_2.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882697801878__0f326d8b-1f43-4991-ab7b-d6364c2a85b6-16827351153069a2a2-1",
+        "317dba81-9709-42bc-af05-7fe8dbf87ff6"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "036b0ac6-9826-4310-b9fd-56c2afd99763": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>日票 $198 (*$168)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>月票 $698 (*$598) (連續月費 -$50，最多 -$100)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>季票 $1798 (*$1528)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "201491b4-deb5-4728-8810-382a63da656b": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>6個月套票 $3298 (*$2798)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e1eb27e8-cb0a-495b-92ce-de5dd362982e": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>1年套票 $5798 (*$4928)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3bd7d3d5-05af-456e-8de5-08b91d645c3a": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>10張套票 (有效日期：4個月) $1800<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4cd90037-7e53-4f16-ac58-c68ba8568f8c": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>20張共享套票 (有效日期：3個月) $3600<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c7d856c3-9353-4468-b100-ad3b12f741b8": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>50張共享套票 (有效日期：6個月) $8000<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4473774d-0e74-4ca7-9828-9c23ae856462": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>會員費第1次入場 $50<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ff99656b-b240-467f-8def-2cc70cac377b": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>攀石鞋租借 $20<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "dd6fe9bb-015d-46ca-935d-a409f43c7f67": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>12歲以下或小童監護人進場 - $100<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0",
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1",
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2",
+        "201491b4-deb5-4728-8810-382a63da656b",
+        "e1eb27e8-cb0a-495b-92ce-de5dd362982e",
+        "3bd7d3d5-05af-456e-8de5-08b91d645c3a",
+        "4cd90037-7e53-4f16-ac58-c68ba8568f8c",
+        "c7d856c3-9353-4468-b100-ad3b12f741b8",
+        "4473774d-0e74-4ca7-9828-9c23ae856462",
+        "ff99656b-b240-467f-8def-2cc70cac377b",
+        "dd6fe9bb-015d-46ca-935d-a409f43c7f67"
+      ],
+      "settings": {
+        "title": "門票選項 (*學生\/殘疾人士)",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "dcb1ca16-3678-4434-8349-1815e7e01830": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15882697801878__dcb1ca16-3678-4434-8349-1815e7e01830-1683283947ebf2ddb7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "備註",
+            "heading_size": "h2"
+          }
+        },
+        "template--15882697801878__dcb1ca16-3678-4434-8349-1815e7e01830-1683283947ebf2ddb7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>• 每名12歲小童雖有監護人陪同付費方可入場<\/p><p>• 所有會員必須在參與攀爬活動前簽署<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882697801878__dcb1ca16-3678-4434-8349-1815e7e01830-1683283947ebf2ddb7-0",
+        "template--15882697801878__dcb1ca16-3678-4434-8349-1815e7e01830-1683283947ebf2ddb7-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 28
+      }
+    },
+    "9de6d64b-1aa8-45c8-9a76-57f2794fb8bb": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3689.4542013838495!2d114.10677031557792!3d22.374228545859854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3403f969be2d0b7b%3A0x285dbfdb1c4ddf1!2sVita%20Beta%20Climbing%20Gym!5e0!3m2!1sen!2shk!4v1669474028415!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "383ef268-afee-4bdf-b331-ff65609adc34",
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
+    "3840052f-b99d-4d73-8914-adc89eda3f4f",
+    "0f326d8b-1f43-4991-ab7b-d6364c2a85b6",
+    "036b0ac6-9826-4310-b9fd-56c2afd99763",
+    "dcb1ca16-3678-4434-8349-1815e7e01830",
+    "9de6d64b-1aa8-45c8-9a76-57f2794fb8bb"
+  ]
+}

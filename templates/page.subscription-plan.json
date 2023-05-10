@@ -1,1 +1,119 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":28,"padding_bottom":0}},"d328c95d-0d6f-4d53-a692-f97ab7a13dc4":{"type":"multicolumn","blocks":{"bf4a914d-9bbc-44da-ae73-35cfdae070f5":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/1_1832a2f5-21e0-44e8-b537-4fb99a7c056f.png","title":"管理你的訂閱計劃方法 - 建立帳戶","text":"<p>閣下可在下單前先建立帳戶，當訂單確認後，只需點擊帳戶管理，並選擇’Manage Subscription’。為了更方便管理訂閱計劃，我們建議建立屬於閣下的帳戶，並免費加入會員計劃，更可獲取積分而兌換多重優惠！<\/p>","link_label":"建立帳戶","link":"shopify:\/\/pages\/loyalty-program"}}},"block_order":["bf4a914d-9bbc-44da-ae73-35cfdae070f5"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"08c4c0b3-f2f0-49e3-9de9-60c7f5f19ab6":{"type":"multicolumn","blocks":{"962f366a-a7fe-481e-a2ae-cf69da461b5b":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Subscription_Info_1.png","title":"管理訂閱計劃頁面","text":"<p>進入管理訂閱計劃頁面後，閣下可查閱訂單資料，亦可自由訂制或修改自己的計劃內容，包括頻率，跳過及新增訂單貨品等等。<\/p>","link_label":"","link":"shopify:\/\/pages\/loyalty-program"}}},"block_order":["962f366a-a7fe-481e-a2ae-cf69da461b5b"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"ad54e9e6-f8dc-4355-9391-df3362a656f2":{"type":"multicolumn","blocks":{"04a7c6be-aad0-48f9-a99c-5088d67c266b":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Subscription_Info_2.png","title":"取消或暫停訂閱計劃","text":"<p>如果閣下需要取消或暫停已選擇的訂閱計劃，可隨時在Manage Subscription的頁面內選擇所需的選項。一旦取消或暫停該訂閱計劃後，我們將不會再收取計劃的任何費用，亦不設任何退款。<\/p>","link_label":"","link":"shopify:\/\/pages\/loyalty-program"}}},"block_order":["04a7c6be-aad0-48f9-a99c-5088d67c266b"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}}},"order":["main","d328c95d-0d6f-4d53-a692-f97ab7a13dc4","08c4c0b3-f2f0-49e3-9de9-60c7f5f19ab6","ad54e9e6-f8dc-4355-9391-df3362a656f2"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "d328c95d-0d6f-4d53-a692-f97ab7a13dc4": {
+      "type": "multicolumn",
+      "blocks": {
+        "bf4a914d-9bbc-44da-ae73-35cfdae070f5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_1832a2f5-21e0-44e8-b537-4fb99a7c056f.png",
+            "title": "管理你的訂閱計劃方法 - 建立帳戶",
+            "text": "<p>閣下可在下單前先建立帳戶，當訂單確認後，只需點擊帳戶管理，並選擇’Manage Subscription’。為了更方便管理訂閱計劃，我們建議建立屬於閣下的帳戶，並免費加入會員計劃，更可獲取積分而兌換多重優惠！<\/p>",
+            "link_label": "建立帳戶",
+            "link": "shopify:\/\/pages\/loyalty-program"
+          }
+        }
+      },
+      "block_order": [
+        "bf4a914d-9bbc-44da-ae73-35cfdae070f5"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "08c4c0b3-f2f0-49e3-9de9-60c7f5f19ab6": {
+      "type": "multicolumn",
+      "blocks": {
+        "962f366a-a7fe-481e-a2ae-cf69da461b5b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Subscription_Info_1.png",
+            "title": "管理訂閱計劃頁面",
+            "text": "<p>進入管理訂閱計劃頁面後，閣下可查閱訂單資料，亦可自由訂制或修改自己的計劃內容，包括頻率，跳過及新增訂單貨品等等。<\/p>",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/loyalty-program"
+          }
+        }
+      },
+      "block_order": [
+        "962f366a-a7fe-481e-a2ae-cf69da461b5b"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ad54e9e6-f8dc-4355-9391-df3362a656f2": {
+      "type": "multicolumn",
+      "blocks": {
+        "04a7c6be-aad0-48f9-a99c-5088d67c266b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Subscription_Info_2.png",
+            "title": "取消或暫停訂閱計劃",
+            "text": "<p>如果閣下需要取消或暫停已選擇的訂閱計劃，可隨時在Manage Subscription的頁面內選擇所需的選項。一旦取消或暫停該訂閱計劃後，我們將不會再收取計劃的任何費用，亦不設任何退款。<\/p>",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/loyalty-program"
+          }
+        }
+      },
+      "block_order": [
+        "04a7c6be-aad0-48f9-a99c-5088d67c266b"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "d328c95d-0d6f-4d53-a692-f97ab7a13dc4",
+    "08c4c0b3-f2f0-49e3-9de9-60c7f5f19ab6",
+    "ad54e9e6-f8dc-4355-9391-df3362a656f2"
+  ]
+}
