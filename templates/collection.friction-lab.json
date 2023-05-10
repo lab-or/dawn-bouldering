@@ -28,7 +28,9 @@
       "block_order": [
         "template--15986512232598__6b44fe93-d4c0-4538-b59a-b249ecf71f21-168005756763cace1b-2"
       ],
-      "custom_css": [],
+      "custom_css": [
+
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -59,7 +61,7 @@
         "template--15828001554582__14451700-484b-42b4-afbc-6dd73d220b50-1680056126a8985ade-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Friction Labs 團隊是由一群運動員所組成。他們意識到優質的鎂粉具備影響力——無論運動者用在攀石、揮動壺鈴還是網球場上，更好的抓握力意味著更好的表現。 經過與世界上一眾最優秀的登山者和運動員進行一系列嚴格測試後，終於創造出現時的配方。<\/p>"
+            "text": "<p>Friction Labs 團隊是由一群運動員所組成。他們意識到優質的鎂粉具備影響力——無論運動者用在攀石、揮動壺鈴還是網球場上，更好的抓握力意味著更好的表現。 經過與世界上一眾最優秀的登山者和運動員進行一系列嚴格測試後，終於創造出現時的配方。hiya<\/p>"
           }
         }
       },
@@ -108,6 +110,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36

@@ -65,7 +65,6 @@
         "image": "shopify:\/\/shop_images\/7_d7a02dc9-98f1-43cc-ab16-0263ca852a92.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
