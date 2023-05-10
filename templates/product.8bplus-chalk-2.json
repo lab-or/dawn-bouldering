@@ -12,11 +12,13 @@
         },
         "title": {
           "type": "title",
-          "settings": {}
+          "settings": {
+          }
         },
         "price": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -26,11 +28,13 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {}
+          "settings": {
+          }
         },
         "description": {
           "type": "description",
-          "settings": {}
+          "settings": {
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -132,9 +136,9 @@
       ],
       "settings": {
         "enable_sticky_info": true,
-        "media_position": "left",
-        "gallery_layout": "stacked",
         "media_size": "large",
+        "gallery_layout": "stacked",
+        "media_position": "left",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
@@ -147,7 +151,8 @@
       "blocks": {
         "2e329f04-044c-400f-b3c0-204c38b7e728": {
           "type": "shopify:\/\/apps\/upsell-cross-sell-selleasy\/blocks\/lb-upsell-addon-block\/790c1a03-a71f-4bc1-9869-00dad526d3c2",
-          "settings": {}
+          "settings": {
+          }
         }
       },
       "block_order": [

@@ -81,7 +81,6 @@
         "image": "shopify:\/\/shop_images\/Updated_Banner_3_05743c2f-333b-4aed-afd5-b90a3e532df7.png",
         "image_overlay_opacity": 40,
         "image_height": "medium",
-        "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -166,7 +165,6 @@
         "image": "shopify:\/\/shop_images\/5_a0fc8a33-1991-4c33-b70d-9b79cea8781f.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -178,18 +176,6 @@
     },
     "1667930049246cbe28": {
       "type": "apps",
-      "blocks": {
-        "39590c78-d7cb-4757-92a5-231116ff634f": {
-          "type": "shopify:\/\/apps\/common-ninja-comparison-tables\/blocks\/app-block\/ec6400d6-5ee0-4f0c-bc55-28e6510f1481",
-          "settings": {
-            "isVisible": true,
-            "appId": "8f48a65b-9cef-4b17-a891-2eb1a418bbcd"
-          }
-        }
-      },
-      "block_order": [
-        "39590c78-d7cb-4757-92a5-231116ff634f"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -355,7 +341,6 @@
         "image": "shopify:\/\/shop_images\/Updated_Climbing_Gym_Price_List_and_banner_1.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -556,7 +541,6 @@
         "image": "shopify:\/\/shop_images\/Sports_Fashion_2000_x_1200_px_30.png",
         "image_overlay_opacity": 50,
         "image_height": "medium",
-        "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -605,7 +589,6 @@
         "image": "shopify:\/\/shop_images\/BETTER_SHOES_FOR_EVERYONE_5.png",
         "image_overlay_opacity": 50,
         "image_height": "medium",
-        "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -709,7 +692,6 @@
         "image": "shopify:\/\/shop_images\/Sports_Fashion_2000_x_1500_px_13.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
