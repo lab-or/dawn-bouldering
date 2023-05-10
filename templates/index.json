@@ -214,11 +214,190 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "456fd9f6-eb77-4b87-8a19-fdddcb3f1173": {
+      "type": "collection-list",
+      "blocks": {
+        "template--15828001620118__456fd9f6-eb77-4b87-8a19-fdddcb3f1173-1665148860fe18e5f5-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lab-or"
+          }
+        },
+        "7076afb9-24e9-4ecd-a925-07f29112febe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "backflag"
+          }
+        },
+        "template--15828001620118__456fd9f6-eb77-4b87-8a19-fdddcb3f1173-1665148860fe18e5f5-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "frictionlabs"
+          }
+        },
+        "template--15828001620118__456fd9f6-eb77-4b87-8a19-fdddcb3f1173-1665148860fe18e5f5-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kletterretter"
+          }
+        },
+        "1d6f7a6c-809d-4053-98f2-a56ad0666799": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "volcano"
+          }
+        },
+        "b5831398-71bc-46e8-b837-f09f4ec2627e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "black-diamond"
+          }
+        },
+        "ce627488-6fd8-46ea-95ef-dd10e9f67005": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "8bplus"
+          }
+        },
+        "f7d99446-e525-4658-af79-ac35a0460674": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tenaya"
+          }
+        },
+        "d9e93abc-6e9e-48cf-a808-943b66bcb29f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "climbskin"
+          }
+        }
+      },
+      "block_order": [
+        "template--15828001620118__456fd9f6-eb77-4b87-8a19-fdddcb3f1173-1665148860fe18e5f5-0",
+        "7076afb9-24e9-4ecd-a925-07f29112febe",
+        "template--15828001620118__456fd9f6-eb77-4b87-8a19-fdddcb3f1173-1665148860fe18e5f5-2",
+        "template--15828001620118__456fd9f6-eb77-4b87-8a19-fdddcb3f1173-1665148860fe18e5f5-1",
+        "1d6f7a6c-809d-4053-98f2-a56ad0666799",
+        "b5831398-71bc-46e8-b837-f09f4ec2627e",
+        "ce627488-6fd8-46ea-95ef-dd10e9f67005",
+        "f7d99446-e525-4658-af79-ac35a0460674",
+        "d9e93abc-6e9e-48cf-a808-943b66bcb29f"
+      ],
+      "settings": {
+        "title": "選擇品牌",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ef14b0ae-f382-4540-8313-1acba6535481": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15828001620118__ef14b0ae-f382-4540-8313-1acba6535481-16651501978492c248-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "我們的故事",
+            "heading_size": "h1"
+          }
+        },
+        "template--15828001620118__ef14b0ae-f382-4540-8313-1acba6535481-16651501978492c248-1": {
+          "type": "text",
+          "settings": {
+            "text": "我們是為運動社群而設的平台，不是品牌！",
+            "text_style": "body"
+          }
+        },
+        "template--15828001620118__ef14b0ae-f382-4540-8313-1acba6535481-16651501978492c248-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "了解更多",
+            "button_link_1": "shopify:\/\/pages\/關於我們",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15828001620118__ef14b0ae-f382-4540-8313-1acba6535481-16651501978492c248-0",
+        "template--15828001620118__ef14b0ae-f382-4540-8313-1acba6535481-16651501978492c248-1",
+        "template--15828001620118__ef14b0ae-f382-4540-8313-1acba6535481-16651501978492c248-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BETTER_SHOES_FOR_EVERYONE_4.png",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "ce5988e8-e95d-4b45-a637-f6a32bf421bd": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15828001620118__ce5988e8-e95d-4b45-a637-f6a32bf421bd-1666965589830c8cf8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "只需要選擇區域，即可快速找到攀石場的位置！",
+            "heading_size": "h2"
+          }
+        },
+        "template--15828001620118__ce5988e8-e95d-4b45-a637-f6a32bf421bd-1666965589830c8cf8-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15828001620118__ce5988e8-e95d-4b45-a637-f6a32bf421bd-1666965589830c8cf8-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "開始搜尋",
+            "button_link_1": "shopify:\/\/pages\/selected-area",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15828001620118__ce5988e8-e95d-4b45-a637-f6a32bf421bd-1666965589830c8cf8-0",
+        "template--15828001620118__ce5988e8-e95d-4b45-a637-f6a32bf421bd-1666965589830c8cf8-1",
+        "template--15828001620118__ce5988e8-e95d-4b45-a637-f6a32bf421bd-1666965589830c8cf8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Updated_Banner_9a5ff58b-d9ce-4463-b997-7f20ba7c9fdb.png",
+        "image_overlay_opacity": 60,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
     }
   },
   "order": [
     "85ae0ad4-4b3f-40dd-a70f-013c272aa89e",
     "507acba5-5310-4bda-a090-86817d0f5244",
-    "e9cfbde5-c3d6-4cd5-9de7-09095b873920"
+    "e9cfbde5-c3d6-4cd5-9de7-09095b873920",
+    "456fd9f6-eb77-4b87-8a19-fdddcb3f1173",
+    "ef14b0ae-f382-4540-8313-1acba6535481",
+    "ce5988e8-e95d-4b45-a637-f6a32bf421bd"
   ]
 }
