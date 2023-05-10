@@ -49,7 +49,6 @@
         "image": "shopify:\/\/shop_images\/T_Up_Logo_1800x1000px.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -167,22 +166,19 @@
         "2a8cccf2-7cca-4628-8cff-c0ca0b0e050f": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/T-UP_1.jpg",
-            "image_padding": false
+            "image": "shopify:\/\/shop_images\/T-UP_1.jpg"
           }
         },
         "f159bcac-3dd0-46eb-91a4-e21da3cd59fa": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/T-UP_4.jpg",
-            "image_padding": false
+            "image": "shopify:\/\/shop_images\/T-UP_4.jpg"
           }
         },
         "ec0fd321-4ebf-41ce-93dd-19f2139cd8f8": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/T-UP_3.jpg",
-            "image_padding": false
+            "image": "shopify:\/\/shop_images\/T-UP_3.jpg"
           }
         }
       },

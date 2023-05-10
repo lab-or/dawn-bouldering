@@ -49,7 +49,6 @@
         "image": "shopify:\/\/shop_images\/12_56dad1a8-e15d-4324-baa5-a8f2a2e21779.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -235,7 +234,9 @@
         "a014c3e4-1aa0-4966-afab-2b83689ae2e4",
         "8c154f54-1d9b-45ad-9201-49b1fd795719"
       ],
-      "custom_css": [],
+      "custom_css": [
+
+      ],
       "settings": {
         "layout": "grid",
         "slide_height": "adapt_image",
