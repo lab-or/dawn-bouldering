@@ -72,13 +72,13 @@
         "slider_visual": "dots",
         "auto_rotate": true,
         "change_slides_speed": 3,
+        "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
     },
     "507acba5-5310-4bda-a090-86817d0f5244": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "精選商品",
         "heading_size": "h1",
@@ -106,6 +106,7 @@
     },
     "e9cfbde5-c3d6-4cd5-9de7-09095b873920": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--15828001620118__e9cfbde5-c3d6-4cd5-9de7-09095b873920-168318781427a40857-0": {
           "type": "column",
@@ -339,6 +340,7 @@
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
@@ -386,6 +388,7 @@
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
