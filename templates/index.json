@@ -3,10 +3,10 @@
     "85ae0ad4-4b3f-40dd-a70f-013c272aa89e": {
       "type": "slideshow",
       "blocks": {
-        "template--16013545373846__85ae0ad4-4b3f-40dd-a70f-013c272aa89e-1683682542e894dca1-0": {
+        "16c8f386-da8e-4211-b33f-44d2b634aaf3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Website_Banner.png",
+            "image": "shopify:\/\/shop_images\/1st_banner.png",
             "heading": "成功全憑自己創造！",
             "heading_size": "h1",
             "subheading": "我們旨在為閣下提供一站式的運動體驗！",
@@ -21,7 +21,7 @@
             "text_alignment_mobile": "center"
           }
         },
-        "template--16013545373846__85ae0ad4-4b3f-40dd-a70f-013c272aa89e-1683682542e894dca1-1": {
+        "370b5b57-2c9f-4515-82f1-59d0f68a5bc1": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Banners_4.png",
@@ -34,23 +34,44 @@
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 40,
+            "image_overlay_opacity": 30,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "13db4520-59c8-4b40-8180-a4ff5f73f8d3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Subscription_Plan_banner_-_darker_resized.png",
+            "heading": "折扣高達八五折！",
+            "heading_size": "h1",
+            "subheading": "鎂粉訂閱計劃",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 20,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "template--16013545373846__85ae0ad4-4b3f-40dd-a70f-013c272aa89e-1683682542e894dca1-0",
-        "template--16013545373846__85ae0ad4-4b3f-40dd-a70f-013c272aa89e-1683682542e894dca1-1"
+        "16c8f386-da8e-4211-b33f-44d2b634aaf3",
+        "370b5b57-2c9f-4515-82f1-59d0f68a5bc1",
+        "13db4520-59c8-4b40-8180-a4ff5f73f8d3"
+      ],
+      "custom_css": [
+        "slideshow-component {}"
       ],
       "settings": {
         "layout": "grid",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
