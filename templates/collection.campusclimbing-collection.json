@@ -1,1 +1,208 @@
-{"sections":{"banner":{"type":"main-collection-banner","settings":{"show_collection_description":true,"show_collection_image":false,"color_scheme":"background-1"}},"product-grid":{"type":"main-collection-product-grid","disabled":true,"settings":{"products_per_page":16,"columns_desktop":4,"image_ratio":"adapt","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"enable_filtering":true,"filter_type":"horizontal","enable_sorting":true,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"96a0b3b9-e4e1-4d22-856f-b3093f89c963":{"type":"image-banner","blocks":{"template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-0","template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-1","template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-2"],"settings":{"image":"shopify:\/\/shop_images\/7_d7a02dc9-98f1-43cc-ab16-0263ca852a92.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"fdc75db7-b35c-49f3-9b6d-a32204de53e9":{"type":"multicolumn","blocks":{"template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-0":{"type":"column","settings":{"title":"日票 $180 (*$150)","text":"","link_label":"","link":""}},"template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-1":{"type":"column","settings":{"title":"新手優惠日票+攀石鞋租借 $150","text":"","link_label":"","link":""}},"template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-2":{"type":"column","settings":{"title":"晨操票10am-2:00pm $110","text":"","link_label":"","link":""}},"c678b9c3-95e9-48be-9587-bcccedaabe95":{"type":"column","settings":{"title":"月票 $590 (*$480)","text":"","link_label":"","link":""}},"2c628af4-3d3a-4d27-ac0e-e8b1c8010142":{"type":"column","settings":{"title":"季票 $1600","text":"","link_label":"","link":""}},"b55bd506-a16b-424c-96d4-0db38fd6793c":{"type":"column","settings":{"title":"10張多人運動票 $1700","text":"","link_label":"","link":""}},"f3676c3e-e65d-4aee-aad2-69b90805b898":{"type":"column","settings":{"title":"20張多人運動票 $3000","text":"","link_label":"","link":""}},"70100987-a81a-4ad7-a731-f12b1e4bf877":{"type":"column","settings":{"title":"30張多人運動票 $3900","text":"","link_label":"","link":""}},"86c86f1a-f390-4f64-8bde-b5ebe9dc1b41":{"type":"column","settings":{"title":"攀石鞋租借 $20","text":"","link_label":"","link":""}},"54e0194d-9fd9-43c5-9923-be9dd166f19e":{"type":"column","settings":{"title":"粉袋租借 $10","text":"","link_label":"","link":""}}},"block_order":["template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-0","template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-1","template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-2","c678b9c3-95e9-48be-9587-bcccedaabe95","2c628af4-3d3a-4d27-ac0e-e8b1c8010142","b55bd506-a16b-424c-96d4-0db38fd6793c","f3676c3e-e65d-4aee-aad2-69b90805b898","70100987-a81a-4ad7-a731-f12b1e4bf877","86c86f1a-f390-4f64-8bde-b5ebe9dc1b41","54e0194d-9fd9-43c5-9923-be9dd166f19e"],"settings":{"title":"門票選項 (*學生)","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}}},"order":["banner","product-grid","96a0b3b9-e4e1-4d22-856f-b3093f89c963","fdc75db7-b35c-49f3-9b6d-a32204de53e9"]}
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96a0b3b9-e4e1-4d22-856f-b3093f89c963": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-0",
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-1",
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/7_d7a02dc9-98f1-43cc-ab16-0263ca852a92.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "fdc75db7-b35c-49f3-9b6d-a32204de53e9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-0": {
+          "type": "column",
+          "settings": {
+            "title": "日票 $180 (*$150)",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-1": {
+          "type": "column",
+          "settings": {
+            "title": "新手優惠日票+攀石鞋租借 $150",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-2": {
+          "type": "column",
+          "settings": {
+            "title": "晨操票10am-2:00pm $110",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c678b9c3-95e9-48be-9587-bcccedaabe95": {
+          "type": "column",
+          "settings": {
+            "title": "月票 $590 (*$480)",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2c628af4-3d3a-4d27-ac0e-e8b1c8010142": {
+          "type": "column",
+          "settings": {
+            "title": "季票 $1600",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b55bd506-a16b-424c-96d4-0db38fd6793c": {
+          "type": "column",
+          "settings": {
+            "title": "10張多人運動票 $1700",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f3676c3e-e65d-4aee-aad2-69b90805b898": {
+          "type": "column",
+          "settings": {
+            "title": "20張多人運動票 $3000",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "70100987-a81a-4ad7-a731-f12b1e4bf877": {
+          "type": "column",
+          "settings": {
+            "title": "30張多人運動票 $3900",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "86c86f1a-f390-4f64-8bde-b5ebe9dc1b41": {
+          "type": "column",
+          "settings": {
+            "title": "攀石鞋租借 $20",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "54e0194d-9fd9-43c5-9923-be9dd166f19e": {
+          "type": "column",
+          "settings": {
+            "title": "粉袋租借 $10",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-0",
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-1",
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-2",
+        "c678b9c3-95e9-48be-9587-bcccedaabe95",
+        "2c628af4-3d3a-4d27-ac0e-e8b1c8010142",
+        "b55bd506-a16b-424c-96d4-0db38fd6793c",
+        "f3676c3e-e65d-4aee-aad2-69b90805b898",
+        "70100987-a81a-4ad7-a731-f12b1e4bf877",
+        "86c86f1a-f390-4f64-8bde-b5ebe9dc1b41",
+        "54e0194d-9fd9-43c5-9923-be9dd166f19e"
+      ],
+      "settings": {
+        "title": "門票選項 (*學生)",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "96a0b3b9-e4e1-4d22-856f-b3093f89c963",
+    "fdc75db7-b35c-49f3-9b6d-a32204de53e9"
+  ]
+}

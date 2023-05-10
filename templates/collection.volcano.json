@@ -1,1 +1,105 @@
-{"sections":{"banner":{"type":"main-collection-banner","disabled":true,"custom_css":["h1 {text-align: center;}"],"settings":{"show_collection_description":false,"show_collection_image":false,"color_scheme":"background-1"}},"6b44fe93-d4c0-4538-b59a-b249ecf71f21":{"type":"multicolumn","blocks":{"template--15986512232598__6b44fe93-d4c0-4538-b59a-b249ecf71f21-168005756763cace1b-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Climbing_Gyms_Product_Shot_23.png","title":"","text":"","link_label":"","link":""}}},"block_order":["template--15986512232598__6b44fe93-d4c0-4538-b59a-b249ecf71f21-168005756763cace1b-2"],"custom_css":[],"settings":{"title":"","heading_size":"h1","image_width":"third","image_ratio":"square","columns_desktop":3,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":0,"padding_bottom":0}},"14451700-484b-42b4-afbc-6dd73d220b50":{"type":"rich-text","blocks":{"template--15828001554582__14451700-484b-42b4-afbc-6dd73d220b50-1680056126a8985ade-0":{"type":"heading","settings":{"heading":"<h2>關於 Volcano<\/h2>","heading_size":"h1"}},"template--15828001554582__14451700-484b-42b4-afbc-6dd73d220b50-1680056126a8985ade-1":{"type":"text","settings":{"text":"<p>VOLCANO HK 在2020年底由幾位運動員創立，大部分的成員主要接觸攀岩或體操這兩項運動。他們覺得在不斷變遷的生活環境中，大家常常要面對很多壓力，身心難免會疲累，他們希望可以透過 「<strong>IGNITE YOUR  PASSION<\/strong>」提醒大家心裡對目標的那份熱情，向著目標需要保持着無畏無懼、不屈不撓的精神。<\/p><p>在香港第三波的疫情期間，幾位成員因討論出體操及攀岩其中一個共通點是鎂粉的使用，但為什麼香港沒有本地製作的鎂粉？所以他們就決定做出能媲美日本鎂粉的香港鎂粉。說實話其實整個研發過程並不容易，只是調配鎂粉的品質也用了半年時間。無論是鎂粉的乾爽度、持續力、目數(每顆鎂粉的大小)及香味，也經過多番的嘗試及失敗才能研發出今天的VOLCANO CHALK。直到現在他們仍不斷地優化品質，開業後也曾兩度提升品質，務求做到極緻的效果，幫助各位有更好的運動表現。<\/p>"}}},"block_order":["template--15828001554582__14451700-484b-42b4-afbc-6dd73d220b50-1680056126a8985ade-0","template--15828001554582__14451700-484b-42b4-afbc-6dd73d220b50-1680056126a8985ade-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":0,"padding_bottom":0}},"product-grid":{"type":"main-collection-product-grid","settings":{"products_per_page":16,"columns_desktop":4,"image_ratio":"adapt","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"enable_filtering":false,"filter_type":"horizontal","enable_sorting":false,"columns_mobile":"2","padding_top":36,"padding_bottom":36}}},"order":["banner","6b44fe93-d4c0-4538-b59a-b249ecf71f21","14451700-484b-42b4-afbc-6dd73d220b50","product-grid"]}
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "custom_css": [
+        "h1 {text-align: center;}"
+      ],
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "6b44fe93-d4c0-4538-b59a-b249ecf71f21": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15986512232598__6b44fe93-d4c0-4538-b59a-b249ecf71f21-168005756763cace1b-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Climbing_Gyms_Product_Shot_23.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15986512232598__6b44fe93-d4c0-4538-b59a-b249ecf71f21-168005756763cace1b-2"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "14451700-484b-42b4-afbc-6dd73d220b50": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15828001554582__14451700-484b-42b4-afbc-6dd73d220b50-1680056126a8985ade-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "關於 Volcano",
+            "heading_size": "h1"
+          }
+        },
+        "template--15828001554582__14451700-484b-42b4-afbc-6dd73d220b50-1680056126a8985ade-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>VOLCANO HK 在2020年底由幾位運動員創立，大部分的成員主要接觸攀岩或體操這兩項運動。他們覺得在不斷變遷的生活環境中，大家常常要面對很多壓力，身心難免會疲累，他們希望可以透過 「<strong>IGNITE YOUR  PASSION<\/strong>」提醒大家心裡對目標的那份熱情，向著目標需要保持着無畏無懼、不屈不撓的精神。<\/p><p>在香港第三波的疫情期間，幾位成員因討論出體操及攀岩其中一個共通點是鎂粉的使用，但為什麼香港沒有本地製作的鎂粉？所以他們就決定做出能媲美日本鎂粉的香港鎂粉。說實話其實整個研發過程並不容易，只是調配鎂粉的品質也用了半年時間。無論是鎂粉的乾爽度、持續力、目數(每顆鎂粉的大小)及香味，也經過多番的嘗試及失敗才能研發出今天的VOLCANO CHALK。直到現在他們仍不斷地優化品質，開業後也曾兩度提升品質，務求做到極緻的效果，幫助各位有更好的運動表現。<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15828001554582__14451700-484b-42b4-afbc-6dd73d220b50-1680056126a8985ade-0",
+        "template--15828001554582__14451700-484b-42b4-afbc-6dd73d220b50-1680056126a8985ade-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "6b44fe93-d4c0-4538-b59a-b249ecf71f21",
+    "14451700-484b-42b4-afbc-6dd73d220b50",
+    "product-grid"
+  ]
+}

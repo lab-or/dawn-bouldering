@@ -1,1 +1,231 @@
-{"sections":{"banner":{"type":"main-collection-banner","settings":{"show_collection_description":true,"show_collection_image":false,"color_scheme":"background-1"}},"product-grid":{"type":"main-collection-product-grid","disabled":true,"settings":{"products_per_page":16,"columns_desktop":4,"image_ratio":"adapt","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"enable_filtering":true,"filter_type":"horizontal","enable_sorting":true,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"96a0b3b9-e4e1-4d22-856f-b3093f89c963":{"type":"image-banner","blocks":{"template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-0","template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-1","template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-2"],"settings":{"image":"shopify:\/\/shop_images\/10_dcc1677c-b9df-46b6-a999-52afcfa6a946.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"fdc75db7-b35c-49f3-9b6d-a32204de53e9":{"type":"multicolumn","blocks":{"template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-0":{"type":"column","settings":{"title":"日票 $220 (*$180)","text":"","link_label":"","link":""}},"template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-1":{"type":"column","settings":{"title":"月票 $760 (*$700)","text":"","link_label":"","link":""}},"f02d6585-806f-4d54-b075-7b282db09614":{"type":"column","settings":{"title":"持續月票 $700 (*$650)","text":"","link_label":"","link":""}},"template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-2":{"type":"column","settings":{"title":"3個月套票 $2080","text":"","link_label":"","link":""}},"28a49a60-b671-4eb2-bf34-2d65a1225bc3":{"type":"column","settings":{"title":"1年套票 $7800","text":"","link_label":"","link":""}},"c678b9c3-95e9-48be-9587-bcccedaabe95":{"type":"column","settings":{"title":"10張套票 (附送1張共享套票) (4個月有效期) $2200","text":"","link_label":"","link":""}},"b55bd506-a16b-424c-96d4-0db38fd6793c":{"type":"column","settings":{"title":"50張套票 (8個月有效期) $9000","text":"","link_label":"","link":""}},"42de2647-7a9f-4846-a99b-eb6667194ac2":{"type":"column","settings":{"title":"攀石鞋租借 $30","text":"","link_label":"","link":""}}},"block_order":["template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-0","template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-1","f02d6585-806f-4d54-b075-7b282db09614","template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-2","28a49a60-b671-4eb2-bf34-2d65a1225bc3","c678b9c3-95e9-48be-9587-bcccedaabe95","b55bd506-a16b-424c-96d4-0db38fd6793c","42de2647-7a9f-4846-a99b-eb6667194ac2"],"settings":{"title":"門票選項 (*學生\/殘疾人士)","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"6c566fe1-9d91-4ffd-9b2f-62f4f157f327":{"type":"rich-text","blocks":{"template--15851474092182__6c566fe1-9d91-4ffd-9b2f-62f4f157f327-1665842150cb4dd651-0":{"type":"heading","settings":{"heading":"<p>備註<\/p>","heading_size":"h2"}},"template--15851474092182__6c566fe1-9d91-4ffd-9b2f-62f4f157f327-1665842150cb4dd651-1":{"type":"text","settings":{"text":"<p>當購買月票後而選擇再度購買月票時，成人的價錢為$700\/每月，學生則為$650\/每月 <\/p>"}},"template--15851474092182__6c566fe1-9d91-4ffd-9b2f-62f4f157f327-1665842150cb4dd651-2":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15851474092182__6c566fe1-9d91-4ffd-9b2f-62f4f157f327-1665842150cb4dd651-0","template--15851474092182__6c566fe1-9d91-4ffd-9b2f-62f4f157f327-1665842150cb4dd651-1","template--15851474092182__6c566fe1-9d91-4ffd-9b2f-62f4f157f327-1665842150cb4dd651-2"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":52}}},"order":["banner","product-grid","96a0b3b9-e4e1-4d22-856f-b3093f89c963","fdc75db7-b35c-49f3-9b6d-a32204de53e9","6c566fe1-9d91-4ffd-9b2f-62f4f157f327"]}
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96a0b3b9-e4e1-4d22-856f-b3093f89c963": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-0",
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-1",
+        "template--15848679112854__96a0b3b9-e4e1-4d22-856f-b3093f89c963-166562918758e6e56c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/10_dcc1677c-b9df-46b6-a999-52afcfa6a946.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "fdc75db7-b35c-49f3-9b6d-a32204de53e9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-0": {
+          "type": "column",
+          "settings": {
+            "title": "日票 $220 (*$180)",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-1": {
+          "type": "column",
+          "settings": {
+            "title": "月票 $760 (*$700)",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f02d6585-806f-4d54-b075-7b282db09614": {
+          "type": "column",
+          "settings": {
+            "title": "持續月票 $700 (*$650)",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-2": {
+          "type": "column",
+          "settings": {
+            "title": "3個月套票 $2080",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "28a49a60-b671-4eb2-bf34-2d65a1225bc3": {
+          "type": "column",
+          "settings": {
+            "title": "1年套票 $7800",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c678b9c3-95e9-48be-9587-bcccedaabe95": {
+          "type": "column",
+          "settings": {
+            "title": "10張套票 (附送1張共享套票) (4個月有效期) $2200",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b55bd506-a16b-424c-96d4-0db38fd6793c": {
+          "type": "column",
+          "settings": {
+            "title": "50張套票 (8個月有效期) $9000",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "42de2647-7a9f-4846-a99b-eb6667194ac2": {
+          "type": "column",
+          "settings": {
+            "title": "攀石鞋租借 $30",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-0",
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-1",
+        "f02d6585-806f-4d54-b075-7b282db09614",
+        "template--15848679112854__fdc75db7-b35c-49f3-9b6d-a32204de53e9-16656310803366896f-2",
+        "28a49a60-b671-4eb2-bf34-2d65a1225bc3",
+        "c678b9c3-95e9-48be-9587-bcccedaabe95",
+        "b55bd506-a16b-424c-96d4-0db38fd6793c",
+        "42de2647-7a9f-4846-a99b-eb6667194ac2"
+      ],
+      "settings": {
+        "title": "門票選項 (*學生\/殘疾人士)",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6c566fe1-9d91-4ffd-9b2f-62f4f157f327": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15851474092182__6c566fe1-9d91-4ffd-9b2f-62f4f157f327-1665842150cb4dd651-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "備註",
+            "heading_size": "h2"
+          }
+        },
+        "template--15851474092182__6c566fe1-9d91-4ffd-9b2f-62f4f157f327-1665842150cb4dd651-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>當購買月票後而選擇再度購買月票時，成人的價錢為$700\/每月，學生則為$650\/每月 <\/p>"
+          }
+        },
+        "template--15851474092182__6c566fe1-9d91-4ffd-9b2f-62f4f157f327-1665842150cb4dd651-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15851474092182__6c566fe1-9d91-4ffd-9b2f-62f4f157f327-1665842150cb4dd651-0",
+        "template--15851474092182__6c566fe1-9d91-4ffd-9b2f-62f4f157f327-1665842150cb4dd651-1",
+        "template--15851474092182__6c566fe1-9d91-4ffd-9b2f-62f4f157f327-1665842150cb4dd651-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "96a0b3b9-e4e1-4d22-856f-b3093f89c963",
+    "fdc75db7-b35c-49f3-9b6d-a32204de53e9",
+    "6c566fe1-9d91-4ffd-9b2f-62f4f157f327"
+  ]
+}
