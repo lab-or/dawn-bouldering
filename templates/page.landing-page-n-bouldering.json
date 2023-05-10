@@ -1,1 +1,524 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":0,"padding_bottom":0}},"383ef268-afee-4bdf-b331-ff65609adc34":{"type":"image-banner","blocks":{"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"],"custom_css":[".media {right: 10%; left: 10%; width: 80%;}"],"settings":{"image":"shopify:\/\/shop_images\/13_4a6df52b-390c-493c-bb8e-05293343c94a.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e":{"type":"rich-text","blocks":{"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0":{"type":"heading","settings":{"heading":"<p>n°55 梯臺<\/p>","heading_size":"h1"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1":{"type":"text","settings":{"text":"<p>地址 - 香港灣仔軒尼詩道245-251號守時商業大廈24樓<\/p><p>開放時間 - 星期一至五: 10:30am-10:30pm <\/p><p>星期六: 11:00am-11:00pm <\/p><p>星期日及公眾假期: 11:00am-8:00pm <\/p><p>在灣仔商廈頂層的n bouldering設有1-7級難度。頻繁的路線更換令有經驗的climber或新手都可經常體驗多款路線！此攀石場最大的特色當然是獨有的「n°55 梯臺」，高達7米長，可令climber全面訓練技巧及體能！另外，n bouldering提供早鳥優惠，在平日3:00前check out即可獲得日票的半價優惠，特別適合港島上班族。<br\/>‘n’為未知數，各位climbers快到n bouldering磨練出未知的技巧啦！<\/p>"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":32}},"3840052f-b99d-4d73-8914-adc89eda3f4f":{"type":"multicolumn","blocks":{"template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/climber.png","title":"適合新手","text":"","link_label":"","link":""}},"452c7c6a-7177-4513-8997-06ad5f6603df":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/infinity.png","title":"定期更換路線","text":"","link_label":"","link":""}},"1628567c-5e0f-4e71-a7dd-db9246367281":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/weight.png","title":"提供鍛鍊設施","text":"","link_label":"","link":""}},"0294b889-8894-4b86-ab6c-071ea1fdeab9":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/coffee.png","title":"設有休閒區","text":"","link_label":"","link":""}}},"block_order":["template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0","452c7c6a-7177-4513-8997-06ad5f6603df","1628567c-5e0f-4e71-a7dd-db9246367281","0294b889-8894-4b86-ab6c-071ea1fdeab9"],"custom_css":["h3 {color: white;}",".slider-counter {font-size: large;}"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":4,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":true,"padding_top":8,"padding_bottom":32}},"ba5683dc-2d5a-48ba-b749-106b755429d6":{"type":"slideshow","blocks":{"8e69144d-81b5-446b-b4fc-7da676f86096":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/N_bouldering_b7f0885b-5e7c-4786-9c56-6ab8cd82bf84.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"1f9b3dba-ccf9-42c8-b7de-ad4f360bb5d7":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/N_bouldering_2_3a546e92-5ffa-4e94-ae86-78ad9e71f7ab.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"e9ef6e10-a5c0-403e-aaf6-22e5bc22c73b":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/N_bouldering_3_e4f78aaf-68d5-48ff-8a91-784c36fe3a2d.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["8e69144d-81b5-446b-b4fc-7da676f86096","1f9b3dba-ccf9-42c8-b7de-ad4f360bb5d7","e9ef6e10-a5c0-403e-aaf6-22e5bc22c73b"],"settings":{"layout":"grid","slide_height":"adapt_image","slider_visual":"dots","auto_rotate":false,"change_slides_speed":5,"show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"036b0ac6-9826-4310-b9fd-56c2afd99763":{"type":"multicolumn","blocks":{"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0":{"type":"column","settings":{"title":"","text":"<p>日票 $220 (*$160)<\/p>","link_label":"","link":""}},"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1":{"type":"column","settings":{"title":"","text":"<p>早鳥價票 (適用於平日10:30am-3:00pm)<br\/>星期六晚票 (需要7:00pm入場)<br\/> $150<\/p>","link_label":"","link":""}},"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2":{"type":"column","settings":{"title":"","text":"<p>月票 $800 (*$620)<\/p>","link_label":"","link":""}},"201491b4-deb5-4728-8810-382a63da656b":{"type":"column","settings":{"title":"","text":"<p>季票 $2000 (*$1500)<\/p>","link_label":"","link":""}},"e1eb27e8-cb0a-495b-92ce-de5dd362982e":{"type":"column","settings":{"title":"","text":"<p>年票 $7300 (*$5600)<\/p>","link_label":"","link":""}},"3bd7d3d5-05af-456e-8de5-08b91d645c3a":{"type":"column","settings":{"title":"","text":"<p>10張共享套票 (3個月有效期) (附送1張門票) $2200<\/p>","link_label":"","link":""}},"cba4327a-699a-4c3e-a448-7f289b948800":{"type":"column","settings":{"title":"","text":"<p>30張共享套票 (6個月有效期) $5550<\/p>","link_label":"","link":""}},"b39154ca-c7d9-428d-b71a-b3a22b736dbd":{"type":"column","settings":{"title":"","text":"<p>50張共享套票 (9個月有效期) $8250<\/p>","link_label":"","link":""}},"d0dcc4cf-b76a-409f-a0ae-63cc5400a2cf":{"type":"column","settings":{"title":"","text":"<p>攀石鞋租借 $50 (豁免持有日票的新會員)<\/p>","link_label":"","link":""}}},"block_order":["template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0","template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1","template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2","201491b4-deb5-4728-8810-382a63da656b","e1eb27e8-cb0a-495b-92ce-de5dd362982e","3bd7d3d5-05af-456e-8de5-08b91d645c3a","cba4327a-699a-4c3e-a448-7f289b948800","b39154ca-c7d9-428d-b71a-b3a22b736dbd","d0dcc4cf-b76a-409f-a0ae-63cc5400a2cf"],"settings":{"title":"門票選項 (*學生)","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"88f49ba6-7778-4a93-a507-f23babb1bac9":{"type":"rich-text","blocks":{"template--15882729586838__88f49ba6-7778-4a93-a507-f23babb1bac9-1683283947ebf2ddb7-0":{"type":"heading","settings":{"heading":"<p>備註<\/p>","heading_size":"h2"}},"template--15882729586838__88f49ba6-7778-4a93-a507-f23babb1bac9-1683283947ebf2ddb7-1":{"type":"text","settings":{"text":"<p>• 學生門票適用於全日制學生<\/p>"}}},"block_order":["template--15882729586838__88f49ba6-7778-4a93-a507-f23babb1bac9-1683283947ebf2ddb7-0","template--15882729586838__88f49ba6-7778-4a93-a507-f23babb1bac9-1683283947ebf2ddb7-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":20,"padding_bottom":28}},"c25bfe77-c2dc-4b45-b32c-3fa56069fab5":{"type":"custom-liquid","settings":{"custom_liquid":"<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3691.995258497693!2d114.17402661557692!3d22.27816944932632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340401426dcbbbdf%3A0x18a6df87ab8b2f24!2sn%20bouldering!5e0!3m2!1sen!2shk!4v1669473278008!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>","color_scheme":"background-1","padding_top":40,"padding_bottom":52}},"1b314274-d80e-4e3c-bb24-3f945285c81c":{"type":"slideshow","disabled":true,"blocks":{"template--15882729586838__1b314274-d80e-4e3c-bb24-3f945285c81c-16729976320b7c8684-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/N_Bouldering_3_9ee8511b-ed46-4393-944e-5a092e8639b4.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"template--15882729586838__1b314274-d80e-4e3c-bb24-3f945285c81c-16729976320b7c8684-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/N_Bouldering_4e48d986-ac00-4b6f-8cd3-ea82f56ab270.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"94ad8463-cfdc-489f-8e9b-e7a1fa0b83a9":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/N_Bouldering_2_159ced9d-528a-4bd7-a4f8-ac9a17dcdd58.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"81eed515-6a2b-4a0e-a765-caffd27d106a":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/N_Bouldering_2_feb16ed1-58f2-41d3-8d63-b43eb89e4bd2.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"7bb61faa-143c-4cca-bdf4-c719d925c49f":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/N_Bouldering_0cedb01d-5187-410c-bdaf-8a8160ec59f1.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["template--15882729586838__1b314274-d80e-4e3c-bb24-3f945285c81c-16729976320b7c8684-0","template--15882729586838__1b314274-d80e-4e3c-bb24-3f945285c81c-16729976320b7c8684-1","94ad8463-cfdc-489f-8e9b-e7a1fa0b83a9","81eed515-6a2b-4a0e-a765-caffd27d106a","7bb61faa-143c-4cca-bdf4-c719d925c49f"],"settings":{"layout":"full_bleed","slide_height":"adapt_image","slider_visual":"dots","auto_rotate":false,"change_slides_speed":5,"show_text_below":false,"accessibility_info":"Slideshow about our brand"}}},"order":["main","383ef268-afee-4bdf-b331-ff65609adc34","007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e","3840052f-b99d-4d73-8914-adc89eda3f4f","ba5683dc-2d5a-48ba-b749-106b755429d6","036b0ac6-9826-4310-b9fd-56c2afd99763","88f49ba6-7778-4a93-a507-f23babb1bac9","c25bfe77-c2dc-4b45-b32c-3fa56069fab5","1b314274-d80e-4e3c-bb24-3f945285c81c"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "383ef268-afee-4bdf-b331-ff65609adc34": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"
+      ],
+      "custom_css": [
+        ".media {right: 10%; left: 10%; width: 80%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/13_4a6df52b-390c-493c-bb8e-05293343c94a.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "n°55 梯臺",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>地址 - 香港灣仔軒尼詩道245-251號守時商業大廈24樓<\/p><p>開放時間 - 星期一至五: 10:30am-10:30pm <\/p><p>星期六: 11:00am-11:00pm <\/p><p>星期日及公眾假期: 11:00am-8:00pm <\/p><p>在灣仔商廈頂層的n bouldering設有1-7級難度。頻繁的路線更換令有經驗的climber或新手都可經常體驗多款路線！此攀石場最大的特色當然是獨有的「n°55 梯臺」，高達7米長，可令climber全面訓練技巧及體能！另外，n bouldering提供早鳥優惠，在平日3:00前check out即可獲得日票的半價優惠，特別適合港島上班族。<br\/>‘n’為未知數，各位climbers快到n bouldering磨練出未知的技巧啦！<\/p>"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 32
+      }
+    },
+    "3840052f-b99d-4d73-8914-adc89eda3f4f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/climber.png",
+            "title": "適合新手",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "452c7c6a-7177-4513-8997-06ad5f6603df": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/infinity.png",
+            "title": "定期更換路線",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1628567c-5e0f-4e71-a7dd-db9246367281": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/weight.png",
+            "title": "提供鍛鍊設施",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0294b889-8894-4b86-ab6c-071ea1fdeab9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/coffee.png",
+            "title": "設有休閒區",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0",
+        "452c7c6a-7177-4513-8997-06ad5f6603df",
+        "1628567c-5e0f-4e71-a7dd-db9246367281",
+        "0294b889-8894-4b86-ab6c-071ea1fdeab9"
+      ],
+      "custom_css": [
+        "h3 {color: white;}",
+        ".slider-counter {font-size: large;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 32
+      }
+    },
+    "ba5683dc-2d5a-48ba-b749-106b755429d6": {
+      "type": "slideshow",
+      "blocks": {
+        "8e69144d-81b5-446b-b4fc-7da676f86096": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/N_bouldering_b7f0885b-5e7c-4786-9c56-6ab8cd82bf84.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1f9b3dba-ccf9-42c8-b7de-ad4f360bb5d7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/N_bouldering_2_3a546e92-5ffa-4e94-ae86-78ad9e71f7ab.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "e9ef6e10-a5c0-403e-aaf6-22e5bc22c73b": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/N_bouldering_3_e4f78aaf-68d5-48ff-8a91-784c36fe3a2d.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "8e69144d-81b5-446b-b4fc-7da676f86096",
+        "1f9b3dba-ccf9-42c8-b7de-ad4f360bb5d7",
+        "e9ef6e10-a5c0-403e-aaf6-22e5bc22c73b"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "036b0ac6-9826-4310-b9fd-56c2afd99763": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>日票 $220 (*$160)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>早鳥價票 (適用於平日10:30am-3:00pm)<br\/>星期六晚票 (需要7:00pm入場)<br\/> $150<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>月票 $800 (*$620)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "201491b4-deb5-4728-8810-382a63da656b": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>季票 $2000 (*$1500)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e1eb27e8-cb0a-495b-92ce-de5dd362982e": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>年票 $7300 (*$5600)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3bd7d3d5-05af-456e-8de5-08b91d645c3a": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>10張共享套票 (3個月有效期) (附送1張門票) $2200<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "cba4327a-699a-4c3e-a448-7f289b948800": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>30張共享套票 (6個月有效期) $5550<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b39154ca-c7d9-428d-b71a-b3a22b736dbd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>50張共享套票 (9個月有效期) $8250<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d0dcc4cf-b76a-409f-a0ae-63cc5400a2cf": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>攀石鞋租借 $50 (豁免持有日票的新會員)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0",
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1",
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2",
+        "201491b4-deb5-4728-8810-382a63da656b",
+        "e1eb27e8-cb0a-495b-92ce-de5dd362982e",
+        "3bd7d3d5-05af-456e-8de5-08b91d645c3a",
+        "cba4327a-699a-4c3e-a448-7f289b948800",
+        "b39154ca-c7d9-428d-b71a-b3a22b736dbd",
+        "d0dcc4cf-b76a-409f-a0ae-63cc5400a2cf"
+      ],
+      "settings": {
+        "title": "門票選項 (*學生)",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "88f49ba6-7778-4a93-a507-f23babb1bac9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15882729586838__88f49ba6-7778-4a93-a507-f23babb1bac9-1683283947ebf2ddb7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "備註",
+            "heading_size": "h2"
+          }
+        },
+        "template--15882729586838__88f49ba6-7778-4a93-a507-f23babb1bac9-1683283947ebf2ddb7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>• 學生門票適用於全日制學生<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882729586838__88f49ba6-7778-4a93-a507-f23babb1bac9-1683283947ebf2ddb7-0",
+        "template--15882729586838__88f49ba6-7778-4a93-a507-f23babb1bac9-1683283947ebf2ddb7-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 28
+      }
+    },
+    "c25bfe77-c2dc-4b45-b32c-3fa56069fab5": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3691.995258497693!2d114.17402661557692!3d22.27816944932632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340401426dcbbbdf%3A0x18a6df87ab8b2f24!2sn%20bouldering!5e0!3m2!1sen!2shk!4v1669473278008!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1b314274-d80e-4e3c-bb24-3f945285c81c": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--15882729586838__1b314274-d80e-4e3c-bb24-3f945285c81c-16729976320b7c8684-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/N_Bouldering_3_9ee8511b-ed46-4393-944e-5a092e8639b4.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--15882729586838__1b314274-d80e-4e3c-bb24-3f945285c81c-16729976320b7c8684-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/N_Bouldering_4e48d986-ac00-4b6f-8cd3-ea82f56ab270.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "94ad8463-cfdc-489f-8e9b-e7a1fa0b83a9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/N_Bouldering_2_159ced9d-528a-4bd7-a4f8-ac9a17dcdd58.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "81eed515-6a2b-4a0e-a765-caffd27d106a": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/N_Bouldering_2_feb16ed1-58f2-41d3-8d63-b43eb89e4bd2.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "7bb61faa-143c-4cca-bdf4-c719d925c49f": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/N_Bouldering_0cedb01d-5187-410c-bdaf-8a8160ec59f1.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15882729586838__1b314274-d80e-4e3c-bb24-3f945285c81c-16729976320b7c8684-0",
+        "template--15882729586838__1b314274-d80e-4e3c-bb24-3f945285c81c-16729976320b7c8684-1",
+        "94ad8463-cfdc-489f-8e9b-e7a1fa0b83a9",
+        "81eed515-6a2b-4a0e-a765-caffd27d106a",
+        "7bb61faa-143c-4cca-bdf4-c719d925c49f"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "383ef268-afee-4bdf-b331-ff65609adc34",
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
+    "3840052f-b99d-4d73-8914-adc89eda3f4f",
+    "ba5683dc-2d5a-48ba-b749-106b755429d6",
+    "036b0ac6-9826-4310-b9fd-56c2afd99763",
+    "88f49ba6-7778-4a93-a507-f23babb1bac9",
+    "c25bfe77-c2dc-4b45-b32c-3fa56069fab5",
+    "1b314274-d80e-4e3c-bb24-3f945285c81c"
+  ]
+}

@@ -1,1 +1,504 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":0,"padding_bottom":0}},"383ef268-afee-4bdf-b331-ff65609adc34":{"type":"image-banner","blocks":{"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"],"custom_css":[".media {right: 10%; left: 10%; width: 80%;}"],"settings":{"image":"shopify:\/\/shop_images\/15_ee69049c-dd9b-4658-b38f-ceeff933327b.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e":{"type":"rich-text","blocks":{"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0":{"type":"heading","settings":{"heading":"<p>親子歷險攀爬樂園 <\/p>","heading_size":"h1"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1":{"type":"text","settings":{"text":"<p>地址 - 新界荃灣楊屋道88號7樓全層、8樓802號舖<\/p><p>開放時間 - 星期一至五: 11am-11pm 星期六至日及公眾假期: 10am-9pm <\/p><p>Triangle Plus 樂園由六大極具挑戰性及多元化的設施所組成，場內更設有3間派對房間及「Triangle Cafe」餐飲區，為您帶來獨一無二的親子歷險體驗！讓小朋友在專業攀岩教練團隊的帶領下，從玩樂中學習新技能，感受最原始的快樂！<\/p><p>Triangle Plus 由Walltopia提供各種設備，所使用產品及物料，均取得歐盟標準認證，在安全性上毋庸置疑。<\/p>"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":32}},"8c4baa0d-8a13-4a87-97e2-a76b91b22002":{"type":"multicolumn","blocks":{"template--15885057360022__8c4baa0d-8a13-4a87-97e2-a76b91b22002-1677220780d984222e-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/fireworks.png","title":"6大玩樂區域","text":"","link_label":"","link":""}},"0e0a9b0d-f77b-4142-9d1f-c0773b5d44a8":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/booth.png","title":"經典攤位遊戲","text":"","link_label":"","link":""}},"template--15885057360022__8c4baa0d-8a13-4a87-97e2-a76b91b22002-1677220780d984222e-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/coach.png","title":"專業教練駐場","text":"","link_label":"","link":""}},"template--15885057360022__8c4baa0d-8a13-4a87-97e2-a76b91b22002-1677220780d984222e-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/restaurant.png","title":"設有餐飲區域","text":"","link_label":"","link":""}}},"block_order":["template--15885057360022__8c4baa0d-8a13-4a87-97e2-a76b91b22002-1677220780d984222e-1","0e0a9b0d-f77b-4142-9d1f-c0773b5d44a8","template--15885057360022__8c4baa0d-8a13-4a87-97e2-a76b91b22002-1677220780d984222e-2","template--15885057360022__8c4baa0d-8a13-4a87-97e2-a76b91b22002-1677220780d984222e-0"],"custom_css":["h3 {color: white;}",".slider-counter {font-size: large;}"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":4,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":true,"padding_top":8,"padding_bottom":32}},"fe00c212-da00-451c-bebc-4e43d7aa4421":{"type":"slideshow","blocks":{"template--15885057360022__fe00c212-da00-451c-bebc-4e43d7aa4421-16827351153069a2a2-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Triangle_1.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"a389da0f-bb36-4544-b59c-301e2f3d34cc":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Triangle_2.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"3518cb59-c23b-452a-b898-1ad92213208e":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Triangle_3.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"3b0269d7-09cb-4259-8153-368bb82efd30":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Triangle_4.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["template--15885057360022__fe00c212-da00-451c-bebc-4e43d7aa4421-16827351153069a2a2-0","a389da0f-bb36-4544-b59c-301e2f3d34cc","3518cb59-c23b-452a-b898-1ad92213208e","3b0269d7-09cb-4259-8153-368bb82efd30"],"settings":{"layout":"grid","slide_height":"adapt_image","slider_visual":"counter","auto_rotate":false,"change_slides_speed":5,"show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"036b0ac6-9826-4310-b9fd-56c2afd99763":{"type":"multicolumn","blocks":{"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0":{"type":"column","settings":{"title":"","text":"<p>日票 $198 (*$168) - 早鳥優惠$158 - 星期一至五下午3時前入場<\/p>","link_label":"","link":""}},"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1":{"type":"column","settings":{"title":"","text":"<p>月票 $700 (*$600) - 首次購買月票即享首月優惠$400，續會再享8折優惠<\/p>","link_label":"","link":""}},"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2":{"type":"column","settings":{"title":"","text":"<p>季票 $1800 (*$1500)<\/p>","link_label":"","link":""}},"201491b4-deb5-4728-8810-382a63da656b":{"type":"column","settings":{"title":"","text":"<p>半年票 $3000 (*$2400)<\/p>","link_label":"","link":""}},"e1eb27e8-cb0a-495b-92ce-de5dd362982e":{"type":"column","settings":{"title":"","text":"<p>年票 $4800 (*$3600)<\/p>","link_label":"","link":""}},"a456a829-9d07-4467-b78f-c0f05abb09bf":{"type":"column","settings":{"title":"","text":"<p>10次套票 (有效日期: 3個月，可與人分享) $1780<\/p>","link_label":"","link":""}},"c01fe166-45aa-42fe-9914-e0845e168452":{"type":"column","settings":{"title":"","text":"<p>20次套票 (有效日期: 6個月，可與人分享) $3160<\/p>","link_label":"","link":""}},"d5b15edc-7d63-48b8-bc87-556adf34d5c4":{"type":"column","settings":{"title":"","text":"<p>50次套票 (有效日期: 12個月，可與人分享) $6900<\/p>","link_label":"","link":""}}},"block_order":["template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0","template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1","template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2","201491b4-deb5-4728-8810-382a63da656b","e1eb27e8-cb0a-495b-92ce-de5dd362982e","a456a829-9d07-4467-b78f-c0f05abb09bf","c01fe166-45aa-42fe-9914-e0845e168452","d5b15edc-7d63-48b8-bc87-556adf34d5c4"],"settings":{"title":"攀石埸門票選項(*學生)","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"a2391cb2-e44b-40d5-a01b-7a091d796909":{"type":"multicolumn","blocks":{"template--15885057360022__a2391cb2-e44b-40d5-a01b-7a091d796909-1668839677612b15fa-0":{"type":"column","settings":{"title":"","text":"<p>平日單節門票 $248 (新年限定優惠: 星期一至四6pm-8pm優惠時段收費$180)<\/p>","link_label":"","link":""}},"template--15885057360022__a2391cb2-e44b-40d5-a01b-7a091d796909-1668839677612b15fa-1":{"type":"column","settings":{"title":"","text":"<p>假日單節門票 $298<\/p>","link_label":"","link":""}},"6a447d7e-9c2a-4b5c-9526-56089414f3f6":{"type":"column","settings":{"title":"","text":"<p>平日單節門票: 監護人優惠價 (新年限定優惠: 星期一至四6pm-8pm優惠時段收費$90) $130<\/p>","link_label":"","link":""}},"4cda2ab2-e93d-4763-95e4-024d9a64bd63":{"type":"column","settings":{"title":"","text":"<p>假日單節門票: 監護人優惠價 $150<\/p>","link_label":"","link":""}},"673b36c2-9dea-47e1-9894-4c32b99687fe":{"type":"column","settings":{"title":"","text":"<p>10次共享套票 (3個月有效期) $1998 (星期六，日及公眾假期使用需每次加$70)<\/p>","link_label":"","link":""}},"c609f5eb-08aa-401b-9522-8de2e5b5bf70":{"type":"column","settings":{"title":"","text":"<p>10次共享套票 (3個月有效期) $2480 (可於星期一至日使用，無需收取任何額外收費)<\/p>","link_label":"","link":""}}},"block_order":["template--15885057360022__a2391cb2-e44b-40d5-a01b-7a091d796909-1668839677612b15fa-0","template--15885057360022__a2391cb2-e44b-40d5-a01b-7a091d796909-1668839677612b15fa-1","6a447d7e-9c2a-4b5c-9526-56089414f3f6","4cda2ab2-e93d-4763-95e4-024d9a64bd63","673b36c2-9dea-47e1-9894-4c32b99687fe","c609f5eb-08aa-401b-9522-8de2e5b5bf70"],"settings":{"title":"樂園門票選項","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"a8346efd-8194-44a1-b470-85522836bce1":{"type":"rich-text","blocks":{"template--15885057360022__a8346efd-8194-44a1-b470-85522836bce1-1683283947ebf2ddb7-0":{"type":"heading","settings":{"heading":"<p>備註<\/p>","heading_size":"h2"}},"template--15885057360022__a8346efd-8194-44a1-b470-85522836bce1-1683283947ebf2ddb7-1":{"type":"text","settings":{"text":"<p>• 每一位監護人同時可帶兩位未滿8歲小童進入同一場區域遊玩<\/p><p>• 其他優惠不能同時使用<\/p>"}}},"block_order":["template--15885057360022__a8346efd-8194-44a1-b470-85522836bce1-1683283947ebf2ddb7-0","template--15885057360022__a8346efd-8194-44a1-b470-85522836bce1-1683283947ebf2ddb7-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":16,"padding_bottom":28}},"fac52d91-68a0-49ee-9b2d-4aed72223bc4":{"type":"custom-liquid","settings":{"custom_liquid":"<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3689.4542013838495!2d114.10677031557792!3d22.374228545859854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3403f982756f15d9%3A0x20c4b7fe8c55a062!2sTriangle%20Plus!5e0!3m2!1sen!2shk!4v1669474081382!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>","color_scheme":"background-1","padding_top":40,"padding_bottom":52}}},"order":["main","383ef268-afee-4bdf-b331-ff65609adc34","007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e","8c4baa0d-8a13-4a87-97e2-a76b91b22002","fe00c212-da00-451c-bebc-4e43d7aa4421","036b0ac6-9826-4310-b9fd-56c2afd99763","a2391cb2-e44b-40d5-a01b-7a091d796909","a8346efd-8194-44a1-b470-85522836bce1","fac52d91-68a0-49ee-9b2d-4aed72223bc4"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "383ef268-afee-4bdf-b331-ff65609adc34": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"
+      ],
+      "custom_css": [
+        ".media {right: 10%; left: 10%; width: 80%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/15_ee69049c-dd9b-4658-b38f-ceeff933327b.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "親子歷險攀爬樂園",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>地址 - 新界荃灣楊屋道88號7樓全層、8樓802號舖<\/p><p>開放時間 - 星期一至五: 11am-11pm 星期六至日及公眾假期: 10am-9pm <\/p><p>Triangle Plus 樂園由六大極具挑戰性及多元化的設施所組成，場內更設有3間派對房間及「Triangle Cafe」餐飲區，為您帶來獨一無二的親子歷險體驗！讓小朋友在專業攀岩教練團隊的帶領下，從玩樂中學習新技能，感受最原始的快樂！<\/p><p>Triangle Plus 由Walltopia提供各種設備，所使用產品及物料，均取得歐盟標準認證，在安全性上毋庸置疑。<\/p>"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 32
+      }
+    },
+    "8c4baa0d-8a13-4a87-97e2-a76b91b22002": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15885057360022__8c4baa0d-8a13-4a87-97e2-a76b91b22002-1677220780d984222e-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fireworks.png",
+            "title": "6大玩樂區域",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0e0a9b0d-f77b-4142-9d1f-c0773b5d44a8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/booth.png",
+            "title": "經典攤位遊戲",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15885057360022__8c4baa0d-8a13-4a87-97e2-a76b91b22002-1677220780d984222e-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/coach.png",
+            "title": "專業教練駐場",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15885057360022__8c4baa0d-8a13-4a87-97e2-a76b91b22002-1677220780d984222e-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/restaurant.png",
+            "title": "設有餐飲區域",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15885057360022__8c4baa0d-8a13-4a87-97e2-a76b91b22002-1677220780d984222e-1",
+        "0e0a9b0d-f77b-4142-9d1f-c0773b5d44a8",
+        "template--15885057360022__8c4baa0d-8a13-4a87-97e2-a76b91b22002-1677220780d984222e-2",
+        "template--15885057360022__8c4baa0d-8a13-4a87-97e2-a76b91b22002-1677220780d984222e-0"
+      ],
+      "custom_css": [
+        "h3 {color: white;}",
+        ".slider-counter {font-size: large;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 32
+      }
+    },
+    "fe00c212-da00-451c-bebc-4e43d7aa4421": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15885057360022__fe00c212-da00-451c-bebc-4e43d7aa4421-16827351153069a2a2-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Triangle_1.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "a389da0f-bb36-4544-b59c-301e2f3d34cc": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Triangle_2.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "3518cb59-c23b-452a-b898-1ad92213208e": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Triangle_3.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "3b0269d7-09cb-4259-8153-368bb82efd30": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Triangle_4.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15885057360022__fe00c212-da00-451c-bebc-4e43d7aa4421-16827351153069a2a2-0",
+        "a389da0f-bb36-4544-b59c-301e2f3d34cc",
+        "3518cb59-c23b-452a-b898-1ad92213208e",
+        "3b0269d7-09cb-4259-8153-368bb82efd30"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "036b0ac6-9826-4310-b9fd-56c2afd99763": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>日票 $198 (*$168) - 早鳥優惠$158 - 星期一至五下午3時前入場<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>月票 $700 (*$600) - 首次購買月票即享首月優惠$400，續會再享8折優惠<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>季票 $1800 (*$1500)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "201491b4-deb5-4728-8810-382a63da656b": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>半年票 $3000 (*$2400)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e1eb27e8-cb0a-495b-92ce-de5dd362982e": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>年票 $4800 (*$3600)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a456a829-9d07-4467-b78f-c0f05abb09bf": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>10次套票 (有效日期: 3個月，可與人分享) $1780<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c01fe166-45aa-42fe-9914-e0845e168452": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>20次套票 (有效日期: 6個月，可與人分享) $3160<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d5b15edc-7d63-48b8-bc87-556adf34d5c4": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>50次套票 (有效日期: 12個月，可與人分享) $6900<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0",
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1",
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2",
+        "201491b4-deb5-4728-8810-382a63da656b",
+        "e1eb27e8-cb0a-495b-92ce-de5dd362982e",
+        "a456a829-9d07-4467-b78f-c0f05abb09bf",
+        "c01fe166-45aa-42fe-9914-e0845e168452",
+        "d5b15edc-7d63-48b8-bc87-556adf34d5c4"
+      ],
+      "settings": {
+        "title": "攀石埸門票選項(*學生)",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a2391cb2-e44b-40d5-a01b-7a091d796909": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15885057360022__a2391cb2-e44b-40d5-a01b-7a091d796909-1668839677612b15fa-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>平日單節門票 $248 (新年限定優惠: 星期一至四6pm-8pm優惠時段收費$180)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15885057360022__a2391cb2-e44b-40d5-a01b-7a091d796909-1668839677612b15fa-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>假日單節門票 $298<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6a447d7e-9c2a-4b5c-9526-56089414f3f6": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>平日單節門票: 監護人優惠價 (新年限定優惠: 星期一至四6pm-8pm優惠時段收費$90) $130<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4cda2ab2-e93d-4763-95e4-024d9a64bd63": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>假日單節門票: 監護人優惠價 $150<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "673b36c2-9dea-47e1-9894-4c32b99687fe": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>10次共享套票 (3個月有效期) $1998 (星期六，日及公眾假期使用需每次加$70)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c609f5eb-08aa-401b-9522-8de2e5b5bf70": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>10次共享套票 (3個月有效期) $2480 (可於星期一至日使用，無需收取任何額外收費)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15885057360022__a2391cb2-e44b-40d5-a01b-7a091d796909-1668839677612b15fa-0",
+        "template--15885057360022__a2391cb2-e44b-40d5-a01b-7a091d796909-1668839677612b15fa-1",
+        "6a447d7e-9c2a-4b5c-9526-56089414f3f6",
+        "4cda2ab2-e93d-4763-95e4-024d9a64bd63",
+        "673b36c2-9dea-47e1-9894-4c32b99687fe",
+        "c609f5eb-08aa-401b-9522-8de2e5b5bf70"
+      ],
+      "settings": {
+        "title": "樂園門票選項",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a8346efd-8194-44a1-b470-85522836bce1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15885057360022__a8346efd-8194-44a1-b470-85522836bce1-1683283947ebf2ddb7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "備註",
+            "heading_size": "h2"
+          }
+        },
+        "template--15885057360022__a8346efd-8194-44a1-b470-85522836bce1-1683283947ebf2ddb7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>• 每一位監護人同時可帶兩位未滿8歲小童進入同一場區域遊玩<\/p><p>• 其他優惠不能同時使用<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15885057360022__a8346efd-8194-44a1-b470-85522836bce1-1683283947ebf2ddb7-0",
+        "template--15885057360022__a8346efd-8194-44a1-b470-85522836bce1-1683283947ebf2ddb7-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 28
+      }
+    },
+    "fac52d91-68a0-49ee-9b2d-4aed72223bc4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3689.4542013838495!2d114.10677031557792!3d22.374228545859854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3403f982756f15d9%3A0x20c4b7fe8c55a062!2sTriangle%20Plus!5e0!3m2!1sen!2shk!4v1669474081382!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "383ef268-afee-4bdf-b331-ff65609adc34",
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
+    "8c4baa0d-8a13-4a87-97e2-a76b91b22002",
+    "fe00c212-da00-451c-bebc-4e43d7aa4421",
+    "036b0ac6-9826-4310-b9fd-56c2afd99763",
+    "a2391cb2-e44b-40d5-a01b-7a091d796909",
+    "a8346efd-8194-44a1-b470-85522836bce1",
+    "fac52d91-68a0-49ee-9b2d-4aed72223bc4"
+  ]
+}

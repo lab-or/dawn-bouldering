@@ -1,1 +1,401 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":0,"padding_bottom":0}},"383ef268-afee-4bdf-b331-ff65609adc34":{"type":"image-banner","blocks":{"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"],"custom_css":[".media {right: 10%; left: 10%; width: 80%;}"],"settings":{"image":"shopify:\/\/shop_images\/10_dcc1677c-b9df-46b6-a999-52afcfa6a946.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e":{"type":"rich-text","blocks":{"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0":{"type":"heading","settings":{"heading":"<p>有滑梯的攀石場<\/p>","heading_size":"h1"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1":{"type":"text","settings":{"text":"<p>地址 - 九龍九龍灣臨興街32號美羅中心1期2樓11室<\/p><p>開放時間 - 星期一至六及公眾假期: 12pm-11pm 星期日: 12pm-9pm<\/p><p>Project_climb & boulder hk有各種款式的把手，令路線風格多元化，而且有不同角度的斜牆，不同風格的climber，絕對是提升體能及技術的修練場！另外，Project Climb設有滑梯(創辦人表示純粹增加趣味)，大人小朋友都可以玩架！<\/p>"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":32}},"3840052f-b99d-4d73-8914-adc89eda3f4f":{"type":"multicolumn","blocks":{"template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/waterfall.png","title":"多條路線選項","text":"","link_label":"","link":""}},"452c7c6a-7177-4513-8997-06ad5f6603df":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/kids.png","title":"設有為小朋友而設的牆身","text":"","link_label":"","link":""}},"1628567c-5e0f-4e71-a7dd-db9246367281":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/stars.png","title":"設有moodboard","text":"","link_label":"","link":""}},"0294b889-8894-4b86-ab6c-071ea1fdeab9":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/weight.png","title":"提供鍛鍊設施","text":"","link_label":"","link":""}}},"block_order":["template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0","452c7c6a-7177-4513-8997-06ad5f6603df","1628567c-5e0f-4e71-a7dd-db9246367281","0294b889-8894-4b86-ab6c-071ea1fdeab9"],"custom_css":["h3 {color: white;}",".slider-counter {font-size: large;}"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":4,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":true,"padding_top":8,"padding_bottom":32}},"2c8e3db6-d025-4572-aa8a-b68bd1d269c9":{"type":"slideshow","blocks":{"template--15851411013782__2c8e3db6-d025-4572-aa8a-b68bd1d269c9-16827351153069a2a2-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Project_Climbing_1.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"7c700149-3065-4c32-b14c-bd260414ccec":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Project_Climbing_2.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"a9d56325-6603-4be8-be6a-ec4f5068da2f":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Project_Climbing_3.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["template--15851411013782__2c8e3db6-d025-4572-aa8a-b68bd1d269c9-16827351153069a2a2-0","7c700149-3065-4c32-b14c-bd260414ccec","a9d56325-6603-4be8-be6a-ec4f5068da2f"],"settings":{"layout":"grid","slide_height":"adapt_image","slider_visual":"counter","auto_rotate":false,"change_slides_speed":5,"show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"4eaeae13-32de-424a-b264-814b761bd9fe":{"type":"multicolumn","blocks":{"template--15851411013782__4eaeae13-32de-424a-b264-814b761bd9fe-166693423343003e72-0":{"type":"column","settings":{"title":"","text":"<p>日票 $220 (*$180)<\/p>","link_label":"","link":""}},"template--15851411013782__4eaeae13-32de-424a-b264-814b761bd9fe-166693423343003e72-1":{"type":"column","settings":{"title":"","text":"<p>月票 $760 (*$700)<\/p>","link_label":"","link":""}},"template--15851411013782__4eaeae13-32de-424a-b264-814b761bd9fe-166693423343003e72-2":{"type":"column","settings":{"title":"","text":"<p>持續月票 $700 (*$650)<\/p>","link_label":"","link":""}},"58e544a6-4047-4ec3-a112-e352f41b0181":{"type":"column","settings":{"title":"","text":"<p>3個月套票 $2080<\/p>","link_label":"","link":""}},"c84e2803-127c-4a6d-805c-5f411de3bced":{"type":"column","settings":{"title":"","text":"<p>1年套票 $7800<\/p>","link_label":"","link":""}},"2b71521f-fc85-41e5-b82f-d59cb041d906":{"type":"column","settings":{"title":"","text":"<p>10張套票 (附送1張共享套票) (4個月有效期) $2200<\/p>","link_label":"","link":""}},"c64b9592-0839-44c0-857d-e36722f62dc9":{"type":"column","settings":{"title":"","text":"<p>50張套票 (8個月有效期) $9000<\/p>","link_label":"","link":""}},"c557c6ad-93d8-436c-babd-82cf439a5c0a":{"type":"column","settings":{"title":"","text":"<p>攀石鞋租借 $30<\/p>","link_label":"","link":""}}},"block_order":["template--15851411013782__4eaeae13-32de-424a-b264-814b761bd9fe-166693423343003e72-0","template--15851411013782__4eaeae13-32de-424a-b264-814b761bd9fe-166693423343003e72-1","template--15851411013782__4eaeae13-32de-424a-b264-814b761bd9fe-166693423343003e72-2","58e544a6-4047-4ec3-a112-e352f41b0181","c84e2803-127c-4a6d-805c-5f411de3bced","2b71521f-fc85-41e5-b82f-d59cb041d906","c64b9592-0839-44c0-857d-e36722f62dc9","c557c6ad-93d8-436c-babd-82cf439a5c0a"],"settings":{"title":"門票選項 (*學生\/殘疾人士)","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"2212198d-192c-4c19-a8f0-aa47944619b3":{"type":"rich-text","blocks":{"template--15851411013782__2212198d-192c-4c19-a8f0-aa47944619b3-1683283947ebf2ddb7-0":{"type":"heading","settings":{"heading":"<p>備註<\/p>","heading_size":"h2"}},"template--15851411013782__2212198d-192c-4c19-a8f0-aa47944619b3-1683283947ebf2ddb7-1":{"type":"text","settings":{"text":"<p>當購買月票後而選擇再度購買月票時，成人的價錢為$700\/每月，學生則為$650\/每月 <\/p>"}}},"block_order":["template--15851411013782__2212198d-192c-4c19-a8f0-aa47944619b3-1683283947ebf2ddb7-0","template--15851411013782__2212198d-192c-4c19-a8f0-aa47944619b3-1683283947ebf2ddb7-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":20,"padding_bottom":28}},"bed93c61-43b3-441f-b3fd-2ba47b5c4dfd":{"type":"custom-liquid","settings":{"custom_liquid":"<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3690.7751335337975!2d114.2082803155773!3d22.324342547661807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34040152cfd22fb3%3A0x95928735364b00ef!2sProject_climb%20%26%20boulder%20HK!5e0!3m2!1sen!2shk!4v1669473421424!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>","color_scheme":"background-1","padding_top":40,"padding_bottom":52}}},"order":["main","383ef268-afee-4bdf-b331-ff65609adc34","007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e","3840052f-b99d-4d73-8914-adc89eda3f4f","2c8e3db6-d025-4572-aa8a-b68bd1d269c9","4eaeae13-32de-424a-b264-814b761bd9fe","2212198d-192c-4c19-a8f0-aa47944619b3","bed93c61-43b3-441f-b3fd-2ba47b5c4dfd"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "383ef268-afee-4bdf-b331-ff65609adc34": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"
+      ],
+      "custom_css": [
+        ".media {right: 10%; left: 10%; width: 80%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/10_dcc1677c-b9df-46b6-a999-52afcfa6a946.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "有滑梯的攀石場",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>地址 - 九龍九龍灣臨興街32號美羅中心1期2樓11室<\/p><p>開放時間 - 星期一至六及公眾假期: 12pm-11pm 星期日: 12pm-9pm<\/p><p>Project_climb & boulder hk有各種款式的把手，令路線風格多元化，而且有不同角度的斜牆，不同風格的climber，絕對是提升體能及技術的修練場！另外，Project Climb設有滑梯(創辦人表示純粹增加趣味)，大人小朋友都可以玩架！<\/p>"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 32
+      }
+    },
+    "3840052f-b99d-4d73-8914-adc89eda3f4f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/waterfall.png",
+            "title": "多條路線選項",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "452c7c6a-7177-4513-8997-06ad5f6603df": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kids.png",
+            "title": "設有為小朋友而設的牆身",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1628567c-5e0f-4e71-a7dd-db9246367281": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stars.png",
+            "title": "設有moodboard",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0294b889-8894-4b86-ab6c-071ea1fdeab9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/weight.png",
+            "title": "提供鍛鍊設施",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0",
+        "452c7c6a-7177-4513-8997-06ad5f6603df",
+        "1628567c-5e0f-4e71-a7dd-db9246367281",
+        "0294b889-8894-4b86-ab6c-071ea1fdeab9"
+      ],
+      "custom_css": [
+        "h3 {color: white;}",
+        ".slider-counter {font-size: large;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 32
+      }
+    },
+    "2c8e3db6-d025-4572-aa8a-b68bd1d269c9": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15851411013782__2c8e3db6-d025-4572-aa8a-b68bd1d269c9-16827351153069a2a2-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Project_Climbing_1.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "7c700149-3065-4c32-b14c-bd260414ccec": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Project_Climbing_2.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "a9d56325-6603-4be8-be6a-ec4f5068da2f": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Project_Climbing_3.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15851411013782__2c8e3db6-d025-4572-aa8a-b68bd1d269c9-16827351153069a2a2-0",
+        "7c700149-3065-4c32-b14c-bd260414ccec",
+        "a9d56325-6603-4be8-be6a-ec4f5068da2f"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "4eaeae13-32de-424a-b264-814b761bd9fe": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15851411013782__4eaeae13-32de-424a-b264-814b761bd9fe-166693423343003e72-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>日票 $220 (*$180)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15851411013782__4eaeae13-32de-424a-b264-814b761bd9fe-166693423343003e72-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>月票 $760 (*$700)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15851411013782__4eaeae13-32de-424a-b264-814b761bd9fe-166693423343003e72-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>持續月票 $700 (*$650)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "58e544a6-4047-4ec3-a112-e352f41b0181": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>3個月套票 $2080<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c84e2803-127c-4a6d-805c-5f411de3bced": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>1年套票 $7800<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2b71521f-fc85-41e5-b82f-d59cb041d906": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>10張套票 (附送1張共享套票) (4個月有效期) $2200<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c64b9592-0839-44c0-857d-e36722f62dc9": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>50張套票 (8個月有效期) $9000<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c557c6ad-93d8-436c-babd-82cf439a5c0a": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>攀石鞋租借 $30<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15851411013782__4eaeae13-32de-424a-b264-814b761bd9fe-166693423343003e72-0",
+        "template--15851411013782__4eaeae13-32de-424a-b264-814b761bd9fe-166693423343003e72-1",
+        "template--15851411013782__4eaeae13-32de-424a-b264-814b761bd9fe-166693423343003e72-2",
+        "58e544a6-4047-4ec3-a112-e352f41b0181",
+        "c84e2803-127c-4a6d-805c-5f411de3bced",
+        "2b71521f-fc85-41e5-b82f-d59cb041d906",
+        "c64b9592-0839-44c0-857d-e36722f62dc9",
+        "c557c6ad-93d8-436c-babd-82cf439a5c0a"
+      ],
+      "settings": {
+        "title": "門票選項 (*學生\/殘疾人士)",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2212198d-192c-4c19-a8f0-aa47944619b3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15851411013782__2212198d-192c-4c19-a8f0-aa47944619b3-1683283947ebf2ddb7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "備註",
+            "heading_size": "h2"
+          }
+        },
+        "template--15851411013782__2212198d-192c-4c19-a8f0-aa47944619b3-1683283947ebf2ddb7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>當購買月票後而選擇再度購買月票時，成人的價錢為$700\/每月，學生則為$650\/每月 <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15851411013782__2212198d-192c-4c19-a8f0-aa47944619b3-1683283947ebf2ddb7-0",
+        "template--15851411013782__2212198d-192c-4c19-a8f0-aa47944619b3-1683283947ebf2ddb7-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 28
+      }
+    },
+    "bed93c61-43b3-441f-b3fd-2ba47b5c4dfd": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3690.7751335337975!2d114.2082803155773!3d22.324342547661807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34040152cfd22fb3%3A0x95928735364b00ef!2sProject_climb%20%26%20boulder%20HK!5e0!3m2!1sen!2shk!4v1669473421424!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "383ef268-afee-4bdf-b331-ff65609adc34",
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
+    "3840052f-b99d-4d73-8914-adc89eda3f4f",
+    "2c8e3db6-d025-4572-aa8a-b68bd1d269c9",
+    "4eaeae13-32de-424a-b264-814b761bd9fe",
+    "2212198d-192c-4c19-a8f0-aa47944619b3",
+    "bed93c61-43b3-441f-b3fd-2ba47b5c4dfd"
+  ]
+}

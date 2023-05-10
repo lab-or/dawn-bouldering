@@ -1,1 +1,337 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":28,"padding_bottom":28}},"1041b404-70ea-4310-809e-80b9c0c4fe4a":{"type":"image-banner","blocks":{"template--15891164659862__1041b404-70ea-4310-809e-80b9c0c4fe4a-166944510947432677-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15891164659862__1041b404-70ea-4310-809e-80b9c0c4fe4a-166944510947432677-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15891164659862__1041b404-70ea-4310-809e-80b9c0c4fe4a-166944510947432677-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15891164659862__1041b404-70ea-4310-809e-80b9c0c4fe4a-166944510947432677-0","template--15891164659862__1041b404-70ea-4310-809e-80b9c0c4fe4a-166944510947432677-1","template--15891164659862__1041b404-70ea-4310-809e-80b9c0c4fe4a-166944510947432677-2"],"settings":{"image":"shopify:\/\/shop_images\/BETTER_SHOES_FOR_EVERYONE_4.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"77302f3c-568d-4eab-a8b1-0e9f8c71d2ba":{"type":"rich-text","blocks":{"template--15891164659862__77302f3c-568d-4eab-a8b1-0e9f8c71d2ba-1669445321eac10c62-0":{"type":"heading","settings":{"heading":"<p>關於我們<\/p>","heading_size":"h1"}},"template--15891164659862__77302f3c-568d-4eab-a8b1-0e9f8c71d2ba-1669445321eac10c62-1":{"type":"text","settings":{"text":"<p>Lab-Or 由五名從事不同行業的成員創立，包括金融、法律、審計及市場營銷。我們的目標是將我們從不同行業所累積到的經驗應用於運動行業當中，為專業和業餘運動員帶來有建設性的改變。<\/p><p>Lab-Or的創辦人因運動而結緣，並希望把這份難得的緣分分享給身邊的人。<\/p>"}},"template--15891164659862__77302f3c-568d-4eab-a8b1-0e9f8c71d2ba-1669445321eac10c62-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15891164659862__77302f3c-568d-4eab-a8b1-0e9f8c71d2ba-1669445321eac10c62-0","template--15891164659862__77302f3c-568d-4eab-a8b1-0e9f8c71d2ba-1669445321eac10c62-1","template--15891164659862__77302f3c-568d-4eab-a8b1-0e9f8c71d2ba-1669445321eac10c62-2"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":52}},"3a294ada-62cf-4372-8f14-f54c1c7099cf":{"type":"image-with-text","blocks":{"template--15891164659862__3a294ada-62cf-4372-8f14-f54c1c7099cf-1669440721f8521bb3-0":{"type":"heading","settings":{"heading":"Matthew","heading_size":"h1"}},"template--15891164659862__3a294ada-62cf-4372-8f14-f54c1c7099cf-1669440721f8521bb3-1":{"type":"text","settings":{"text":"<p>Matthew 擁有多年在香港和英國國際律師行工作的經驗。他專攻商業合同和資本市場。除了 Matthew 沉悶的法律生涯之外，自 2018年以來，他對抱石產生了濃烈的興趣。此外，他從小就是籃球的忠實粉絲，並癡迷於健身。<br\/><\/p>","text_style":"body"}},"template--15891164659862__3a294ada-62cf-4372-8f14-f54c1c7099cf-1669440721f8521bb3-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":""}}},"block_order":["template--15891164659862__3a294ada-62cf-4372-8f14-f54c1c7099cf-1669440721f8521bb3-0","template--15891164659862__3a294ada-62cf-4372-8f14-f54c1c7099cf-1669440721f8521bb3-1","template--15891164659862__3a294ada-62cf-4372-8f14-f54c1c7099cf-1669440721f8521bb3-2"],"settings":{"image":"shopify:\/\/shop_images\/1_1d250760-7517-4dec-97c7-698af9baf6d1.png","height":"adapt","desktop_image_width":"small","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"9f2b6154-1a5f-4900-b5a9-3e61e6ee0c72":{"type":"image-with-text","blocks":{"template--15891164659862__9f2b6154-1a5f-4900-b5a9-3e61e6ee0c72-1669444564eb4f633f-0":{"type":"heading","settings":{"heading":"Ray","heading_size":"h1"}},"template--15891164659862__9f2b6154-1a5f-4900-b5a9-3e61e6ee0c72-1669444564eb4f633f-1":{"type":"text","settings":{"text":"<p>Ray 在初創行業擁有廣泛的經驗。過去數年,他一直涉足於電子商務管理、社交媒體及數碼營銷。Ray 從小就參加不同的運動比賽，如:籃球、橄欖球和乒乓球等，並勇於探索其他運動。他最近將這份競爭力帶到了抱石上，並不斷挑戰團隊中的其他成員!<br\/><br\/><\/p>","text_style":"body"}},"template--15891164659862__9f2b6154-1a5f-4900-b5a9-3e61e6ee0c72-1669444564eb4f633f-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":""}}},"block_order":["template--15891164659862__9f2b6154-1a5f-4900-b5a9-3e61e6ee0c72-1669444564eb4f633f-0","template--15891164659862__9f2b6154-1a5f-4900-b5a9-3e61e6ee0c72-1669444564eb4f633f-1","template--15891164659862__9f2b6154-1a5f-4900-b5a9-3e61e6ee0c72-1669444564eb4f633f-2"],"settings":{"image":"shopify:\/\/shop_images\/2_58ec9bc1-b153-4425-9a5d-ce5cd1b5772d.png","height":"adapt","desktop_image_width":"small","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"3055e78e-db74-42c2-a6c1-5e3c5b388ea7":{"type":"image-with-text","blocks":{"template--15891164659862__3055e78e-db74-42c2-a6c1-5e3c5b388ea7-1669444608a1cee519-0":{"type":"heading","settings":{"heading":"Ricky","heading_size":"h1"}},"template--15891164659862__3055e78e-db74-42c2-a6c1-5e3c5b388ea7-1669444608a1cee519-1":{"type":"text","settings":{"text":"<p>除了 Ricky 在金融界的工作外，他和團隊其他成員一樣，同樣是一個體育狂迷。Ricky 珍惜每一個涉及運動的機會。不管是對於他熱愛的運動還是嘗試新的運動，他都擁有同樣的熱情。<br\/>他將運動中所面臨的挑戰視為良好的學習機會，並享受運動將人們聚在一起的魅力。這就是Ricky 的信念，也是Lab-Or旨在帶給客人的特點。<br\/><\/p>","text_style":"body"}},"template--15891164659862__3055e78e-db74-42c2-a6c1-5e3c5b388ea7-1669444608a1cee519-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":""}}},"block_order":["template--15891164659862__3055e78e-db74-42c2-a6c1-5e3c5b388ea7-1669444608a1cee519-0","template--15891164659862__3055e78e-db74-42c2-a6c1-5e3c5b388ea7-1669444608a1cee519-1","template--15891164659862__3055e78e-db74-42c2-a6c1-5e3c5b388ea7-1669444608a1cee519-2"],"settings":{"image":"shopify:\/\/shop_images\/3_a51dd867-cf92-4eba-8e61-8c5645bc5550.png","height":"adapt","desktop_image_width":"small","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"85a68067-9aa9-4054-8e76-b4c583266bd4":{"type":"image-with-text","blocks":{"template--15891164659862__85a68067-9aa9-4054-8e76-b4c583266bd4-1669444649cf4f790b-0":{"type":"heading","settings":{"heading":"Eric","heading_size":"h1"}},"template--15891164659862__85a68067-9aa9-4054-8e76-b4c583266bd4-1669444649cf4f790b-1":{"type":"text","settings":{"text":"<p>Eric 畢業後在四大之一的會計師行和一家國際銀行工作，從而積累了對金融界的知識。他熟悉審計、商業貸款和貿易融資。<\/p><p>除了Eric在金融界的生活，Eric和團隊的其他成員一樣都是另一個籃球迷，並在最近對觸式橄欖球產生了興趣。作為另一位體育迷，Eric認為體育是一種可以輕鬆將人們聚集在一起的通用語言。他樂於探索不同的運動，並通過運動與人交流。<br\/><\/p>","text_style":"body"}},"template--15891164659862__85a68067-9aa9-4054-8e76-b4c583266bd4-1669444649cf4f790b-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":""}}},"block_order":["template--15891164659862__85a68067-9aa9-4054-8e76-b4c583266bd4-1669444649cf4f790b-0","template--15891164659862__85a68067-9aa9-4054-8e76-b4c583266bd4-1669444649cf4f790b-1","template--15891164659862__85a68067-9aa9-4054-8e76-b4c583266bd4-1669444649cf4f790b-2"],"settings":{"image":"shopify:\/\/shop_images\/4_1b4e484b-199c-4cb6-9f24-df8b1e6f5c32.png","height":"adapt","desktop_image_width":"small","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"f652214d-9aca-476e-89a0-8a9f42f7a9bf":{"type":"image-with-text","blocks":{"template--15891164659862__f652214d-9aca-476e-89a0-8a9f42f7a9bf-1669444649cf4f790b-0":{"type":"heading","settings":{"heading":"Felix","heading_size":"h1"}},"template--15891164659862__f652214d-9aca-476e-89a0-8a9f42f7a9bf-1669444649cf4f790b-1":{"type":"text","settings":{"text":"<p>團隊最靚仔嗰個先可以出樣，掌管整個網站設計。<\/p><p>其他成員表示：妒忌心極重，一意孤行、自私自利、公器私用咁將我哋嘅相打格仔 😟<\/p>","text_style":"body"}},"template--15891164659862__f652214d-9aca-476e-89a0-8a9f42f7a9bf-1669444649cf4f790b-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":""}}},"block_order":["template--15891164659862__f652214d-9aca-476e-89a0-8a9f42f7a9bf-1669444649cf4f790b-0","template--15891164659862__f652214d-9aca-476e-89a0-8a9f42f7a9bf-1669444649cf4f790b-1","template--15891164659862__f652214d-9aca-476e-89a0-8a9f42f7a9bf-1669444649cf4f790b-2"],"settings":{"image":"shopify:\/\/shop_images\/5_c446125f-b13a-4cac-88e2-d501d775bf1f.png","height":"adapt","desktop_image_width":"small","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}}},"order":["main","1041b404-70ea-4310-809e-80b9c0c4fe4a","77302f3c-568d-4eab-a8b1-0e9f8c71d2ba","3a294ada-62cf-4372-8f14-f54c1c7099cf","9f2b6154-1a5f-4900-b5a9-3e61e6ee0c72","3055e78e-db74-42c2-a6c1-5e3c5b388ea7","85a68067-9aa9-4054-8e76-b4c583266bd4","f652214d-9aca-476e-89a0-8a9f42f7a9bf"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1041b404-70ea-4310-809e-80b9c0c4fe4a": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15891164659862__1041b404-70ea-4310-809e-80b9c0c4fe4a-166944510947432677-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15891164659862__1041b404-70ea-4310-809e-80b9c0c4fe4a-166944510947432677-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15891164659862__1041b404-70ea-4310-809e-80b9c0c4fe4a-166944510947432677-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15891164659862__1041b404-70ea-4310-809e-80b9c0c4fe4a-166944510947432677-0",
+        "template--15891164659862__1041b404-70ea-4310-809e-80b9c0c4fe4a-166944510947432677-1",
+        "template--15891164659862__1041b404-70ea-4310-809e-80b9c0c4fe4a-166944510947432677-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BETTER_SHOES_FOR_EVERYONE_4.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "77302f3c-568d-4eab-a8b1-0e9f8c71d2ba": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15891164659862__77302f3c-568d-4eab-a8b1-0e9f8c71d2ba-1669445321eac10c62-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "關於我們",
+            "heading_size": "h1"
+          }
+        },
+        "template--15891164659862__77302f3c-568d-4eab-a8b1-0e9f8c71d2ba-1669445321eac10c62-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lab-Or 由五名從事不同行業的成員創立，包括金融、法律、審計及市場營銷。我們的目標是將我們從不同行業所累積到的經驗應用於運動行業當中，為專業和業餘運動員帶來有建設性的改變。<\/p><p>Lab-Or的創辦人因運動而結緣，並希望把這份難得的緣分分享給身邊的人。<\/p>"
+          }
+        },
+        "template--15891164659862__77302f3c-568d-4eab-a8b1-0e9f8c71d2ba-1669445321eac10c62-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15891164659862__77302f3c-568d-4eab-a8b1-0e9f8c71d2ba-1669445321eac10c62-0",
+        "template--15891164659862__77302f3c-568d-4eab-a8b1-0e9f8c71d2ba-1669445321eac10c62-1",
+        "template--15891164659862__77302f3c-568d-4eab-a8b1-0e9f8c71d2ba-1669445321eac10c62-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "3a294ada-62cf-4372-8f14-f54c1c7099cf": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15891164659862__3a294ada-62cf-4372-8f14-f54c1c7099cf-1669440721f8521bb3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Matthew",
+            "heading_size": "h1"
+          }
+        },
+        "template--15891164659862__3a294ada-62cf-4372-8f14-f54c1c7099cf-1669440721f8521bb3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Matthew 擁有多年在香港和英國國際律師行工作的經驗。他專攻商業合同和資本市場。除了 Matthew 沉悶的法律生涯之外，自 2018年以來，他對抱石產生了濃烈的興趣。此外，他從小就是籃球的忠實粉絲，並癡迷於健身。<br\/><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15891164659862__3a294ada-62cf-4372-8f14-f54c1c7099cf-1669440721f8521bb3-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15891164659862__3a294ada-62cf-4372-8f14-f54c1c7099cf-1669440721f8521bb3-0",
+        "template--15891164659862__3a294ada-62cf-4372-8f14-f54c1c7099cf-1669440721f8521bb3-1",
+        "template--15891164659862__3a294ada-62cf-4372-8f14-f54c1c7099cf-1669440721f8521bb3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1_1d250760-7517-4dec-97c7-698af9baf6d1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9f2b6154-1a5f-4900-b5a9-3e61e6ee0c72": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15891164659862__9f2b6154-1a5f-4900-b5a9-3e61e6ee0c72-1669444564eb4f633f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ray",
+            "heading_size": "h1"
+          }
+        },
+        "template--15891164659862__9f2b6154-1a5f-4900-b5a9-3e61e6ee0c72-1669444564eb4f633f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ray 在初創行業擁有廣泛的經驗。過去數年,他一直涉足於電子商務管理、社交媒體及數碼營銷。Ray 從小就參加不同的運動比賽，如:籃球、橄欖球和乒乓球等，並勇於探索其他運動。他最近將這份競爭力帶到了抱石上，並不斷挑戰團隊中的其他成員!<br\/><br\/><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15891164659862__9f2b6154-1a5f-4900-b5a9-3e61e6ee0c72-1669444564eb4f633f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15891164659862__9f2b6154-1a5f-4900-b5a9-3e61e6ee0c72-1669444564eb4f633f-0",
+        "template--15891164659862__9f2b6154-1a5f-4900-b5a9-3e61e6ee0c72-1669444564eb4f633f-1",
+        "template--15891164659862__9f2b6154-1a5f-4900-b5a9-3e61e6ee0c72-1669444564eb4f633f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2_58ec9bc1-b153-4425-9a5d-ce5cd1b5772d.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3055e78e-db74-42c2-a6c1-5e3c5b388ea7": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15891164659862__3055e78e-db74-42c2-a6c1-5e3c5b388ea7-1669444608a1cee519-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ricky",
+            "heading_size": "h1"
+          }
+        },
+        "template--15891164659862__3055e78e-db74-42c2-a6c1-5e3c5b388ea7-1669444608a1cee519-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>除了 Ricky 在金融界的工作外，他和團隊其他成員一樣，同樣是一個體育狂迷。Ricky 珍惜每一個涉及運動的機會。不管是對於他熱愛的運動還是嘗試新的運動，他都擁有同樣的熱情。<br\/>他將運動中所面臨的挑戰視為良好的學習機會，並享受運動將人們聚在一起的魅力。這就是Ricky 的信念，也是Lab-Or旨在帶給客人的特點。<br\/><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15891164659862__3055e78e-db74-42c2-a6c1-5e3c5b388ea7-1669444608a1cee519-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15891164659862__3055e78e-db74-42c2-a6c1-5e3c5b388ea7-1669444608a1cee519-0",
+        "template--15891164659862__3055e78e-db74-42c2-a6c1-5e3c5b388ea7-1669444608a1cee519-1",
+        "template--15891164659862__3055e78e-db74-42c2-a6c1-5e3c5b388ea7-1669444608a1cee519-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3_a51dd867-cf92-4eba-8e61-8c5645bc5550.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "85a68067-9aa9-4054-8e76-b4c583266bd4": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15891164659862__85a68067-9aa9-4054-8e76-b4c583266bd4-1669444649cf4f790b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Eric",
+            "heading_size": "h1"
+          }
+        },
+        "template--15891164659862__85a68067-9aa9-4054-8e76-b4c583266bd4-1669444649cf4f790b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Eric 畢業後在四大之一的會計師行和一家國際銀行工作，從而積累了對金融界的知識。他熟悉審計、商業貸款和貿易融資。<\/p><p>除了Eric在金融界的生活，Eric和團隊的其他成員一樣都是另一個籃球迷，並在最近對觸式橄欖球產生了興趣。作為另一位體育迷，Eric認為體育是一種可以輕鬆將人們聚集在一起的通用語言。他樂於探索不同的運動，並通過運動與人交流。<br\/><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15891164659862__85a68067-9aa9-4054-8e76-b4c583266bd4-1669444649cf4f790b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15891164659862__85a68067-9aa9-4054-8e76-b4c583266bd4-1669444649cf4f790b-0",
+        "template--15891164659862__85a68067-9aa9-4054-8e76-b4c583266bd4-1669444649cf4f790b-1",
+        "template--15891164659862__85a68067-9aa9-4054-8e76-b4c583266bd4-1669444649cf4f790b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/4_1b4e484b-199c-4cb6-9f24-df8b1e6f5c32.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f652214d-9aca-476e-89a0-8a9f42f7a9bf": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15891164659862__f652214d-9aca-476e-89a0-8a9f42f7a9bf-1669444649cf4f790b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Felix",
+            "heading_size": "h1"
+          }
+        },
+        "template--15891164659862__f652214d-9aca-476e-89a0-8a9f42f7a9bf-1669444649cf4f790b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>團隊最靚仔嗰個先可以出樣，掌管整個網站設計。<\/p><p>其他成員表示：妒忌心極重，一意孤行、自私自利、公器私用咁將我哋嘅相打格仔 😟<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15891164659862__f652214d-9aca-476e-89a0-8a9f42f7a9bf-1669444649cf4f790b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15891164659862__f652214d-9aca-476e-89a0-8a9f42f7a9bf-1669444649cf4f790b-0",
+        "template--15891164659862__f652214d-9aca-476e-89a0-8a9f42f7a9bf-1669444649cf4f790b-1",
+        "template--15891164659862__f652214d-9aca-476e-89a0-8a9f42f7a9bf-1669444649cf4f790b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/5_c446125f-b13a-4cac-88e2-d501d775bf1f.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1041b404-70ea-4310-809e-80b9c0c4fe4a",
+    "77302f3c-568d-4eab-a8b1-0e9f8c71d2ba",
+    "3a294ada-62cf-4372-8f14-f54c1c7099cf",
+    "9f2b6154-1a5f-4900-b5a9-3e61e6ee0c72",
+    "3055e78e-db74-42c2-a6c1-5e3c5b388ea7",
+    "85a68067-9aa9-4054-8e76-b4c583266bd4",
+    "f652214d-9aca-476e-89a0-8a9f42f7a9bf"
+  ]
+}

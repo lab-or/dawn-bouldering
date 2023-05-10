@@ -1,1 +1,527 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":0,"padding_bottom":0}},"22337a11-043e-4c72-b740-c26c6d9d0f45":{"type":"multicolumn","disabled":true,"blocks":{"template--15844509417622__22337a11-043e-4c72-b740-c26c6d9d0f45-1666615590eae6374d-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Gym_Elements_6.png","title":"","text":"<p><\/p>","link_label":"","link":""}}},"block_order":["template--15844509417622__22337a11-043e-4c72-b740-c26c6d9d0f45-1666615590eae6374d-0"],"settings":{"title":"","heading_size":"h2","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":0,"padding_bottom":0}},"383ef268-afee-4bdf-b331-ff65609adc34":{"type":"image-banner","blocks":{"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"],"settings":{"image":"shopify:\/\/shop_images\/Gym_banners_2.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":true,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"af8e40b4-9bd5-4905-aae3-f0a01d1bafeb":{"type":"custom-liquid","disabled":true,"settings":{"custom_liquid":"<style>\nh3 {\n  color:white; \n  font-size: 2vmin;\n  word-break:normal;\n}\n<\/style>\n<div class=\"page-width section-template--15885031407766__b2b95b2b-6119-4bcf-8522-7f1497832fa6-padding isolate\">\n      <ul class=\"multicolumn-list contains-content-container grid grid--4-col-tablet-down grid--4-col-desktop\" id=\"Slider-template--15885031407766__b2b95b2b-6119-4bcf-8522-7f1497832fa6\" role=\"list\"><li id=\"Slide-template--15885031407766__b2b95b2b-6119-4bcf-8522-7f1497832fa6-1\" class=\"multicolumn-list__item grid__item center\">\n            <div class=\"multicolumn-card content-container\">\n                <div class=\"multicolumn-card__image-wrapper multicolumn-card__image-wrapper--full-width\">\n                  <div class=\"media media--transparent media--adapt\" style=\"padding-bottom: 100.0%;\"><img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/3bddc3656288f76481f8533ca0a5b2a8.jpg?v=1670294284&amp;width=1420\" alt=\"\" srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/3bddc3656288f76481f8533ca0a5b2a8.jpg?v=1670294284&amp;width=275 275w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/3bddc3656288f76481f8533ca0a5b2a8.jpg?v=1670294284&amp;width=550 550w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/3bddc3656288f76481f8533ca0a5b2a8.jpg?v=1670294284&amp;width=710 710w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/3bddc3656288f76481f8533ca0a5b2a8.jpg?v=1670294284&amp;width=1420 1420w\" width=\"1420\" height=\"1420\" loading=\"lazy\" sizes=\"(min-width: 990px) 550px, (min-width: 750px) 550px, calc(120vw - 30px)\" class=\"multicolumn-card__image\">\n                  <\/div>\n                <\/div><div class=\"multicolumn-card__info\"><h3>交通方便<\/h3><\/div>\n            <\/div>\n          <\/li><li id=\"Slide-template--15885031407766__b2b95b2b-6119-4bcf-8522-7f1497832fa6-2\" class=\"multicolumn-list__item grid__item center\">\n            <div class=\"multicolumn-card content-container\">\n                <div class=\"multicolumn-card__image-wrapper multicolumn-card__image-wrapper--full-width\">\n                  <div class=\"media media--transparent media--adapt\" style=\"padding-bottom: 100.0%;\"><img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48.jpg?v=1670313209&amp;width=1420\" alt=\"\" srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48.jpg?v=1670313209&amp;width=275 275w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48.jpg?v=1670313209&amp;width=550 550w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48.jpg?v=1670313209&amp;width=710 710w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48.jpg?v=1670313209&amp;width=1420 1420w\" width=\"1420\" height=\"1420\" loading=\"lazy\" sizes=\"(min-width: 990px) 550px, (min-width: 750px) 550px, calc(120vw - 30px)\" class=\"multicolumn-card__image\">\n                  <\/div>\n                <\/div><div class=\"multicolumn-card__info\"><h3>高性價比<\/h3><\/div>\n            <\/div>\n          <\/li><li id=\"Slide-template--15885031407766__b2b95b2b-6119-4bcf-8522-7f1497832fa6-3\" class=\"multicolumn-list__item grid__item center\">\n            <div class=\"multicolumn-card content-container\">\n                <div class=\"multicolumn-card__image-wrapper multicolumn-card__image-wrapper--full-width\">\n                  <div class=\"media media--transparent media--adapt\" style=\"padding-bottom: 100.0%;\"><img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48_1.jpg?v=1670313205&amp;width=1420\" alt=\"\" srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48_1.jpg?v=1670313205&amp;width=275 275w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48_1.jpg?v=1670313205&amp;width=550 550w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48_1.jpg?v=1670313205&amp;width=710 710w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48_1.jpg?v=1670313205&amp;width=1420 1420w\" width=\"1420\" height=\"1420\" loading=\"lazy\" sizes=\"(min-width: 990px) 550px, (min-width: 750px) 550px, calc(120vw - 30px)\" class=\"multicolumn-card__image\">\n                  <\/div>\n                <\/div><div class=\"multicolumn-card__info\"><h3>舒適的空間感<\/h3><\/div>\n            <\/div>\n          <\/li><li id=\"Slide-template--15885031407766__b2b95b2b-6119-4bcf-8522-7f1497832fa6-4\" class=\"multicolumn-list__item grid__item center\">\n            <div class=\"multicolumn-card content-container\">\n                <div class=\"multicolumn-card__image-wrapper multicolumn-card__image-wrapper--full-width\">\n                  <div class=\"media media--transparent media--adapt\" style=\"padding-bottom: 100.0%;\"><img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.47.jpg?v=1670313201&amp;width=1420\" alt=\"\" srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.47.jpg?v=1670313201&amp;width=275 275w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.47.jpg?v=1670313201&amp;width=550 550w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.47.jpg?v=1670313201&amp;width=710 710w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.47.jpg?v=1670313201&amp;width=1420 1420w\" width=\"1420\" height=\"1420\" loading=\"lazy\" sizes=\"(min-width: 990px) 550px, (min-width: 750px) 550px, calc(120vw - 30px)\" class=\"multicolumn-card__image\">\n                  <\/div>\n                <\/div><div class=\"multicolumn-card__info\"><h3>多條路線選項<\/h3><\/div>\n            <\/div>\n          <\/li><\/ul>\n    <div class=\"center\"><\/div>\n  <\/div>","color_scheme":"background-1","padding_top":0,"padding_bottom":0}},"88c75914-ceba-40c1-a0a5-afc9f56c290c":{"type":"image-banner","disabled":true,"blocks":{"template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-0","template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-1","template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-2"],"settings":{"image":"shopify:\/\/shop_images\/Mad_Adventure.png","image_2":"shopify:\/\/shop_images\/Gym_Elements_25.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":true,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e":{"type":"rich-text","blocks":{"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0":{"type":"heading","settings":{"heading":"<p>送禮題目：你認為優質嘅鎂粉需要具備咩條件？<\/p>","heading_size":"h2"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1":{"type":"text","settings":{"text":"<p>各位爬手，現在只需要參與送禮活動，即可享用<strong>免運費優惠1個月<\/strong>，而購物時加入會員計劃即可獲得<strong>雙倍分數<\/strong>，而且更可贏得FrictionLabs 王牌產品！<\/p>"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2":{"type":"button","settings":{"button_label":"立即參加","button_link":"https:\/\/www.instagram.com\/p\/CmjN7rryaGh\/","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":52}},"036b0ac6-9826-4310-b9fd-56c2afd99763":{"type":"multicolumn","disabled":true,"blocks":{"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Boulder_Mad_3.png","title":"","text":"<p><\/p>","link_label":"","link":""}},"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Boulder_Mad_2.png","title":"","text":"<p><\/p>","link_label":"","link":""}},"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Boulder_Mad_4a3e75f0-5dda-40ff-8861-92a8d91b6f32.png","title":"","text":"<p><\/p>","link_label":"","link":""}},"201491b4-deb5-4728-8810-382a63da656b":{"type":"column","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Vita_Beta_3.png","title":"","text":"<p><\/p>","link_label":"","link":""}},"e1eb27e8-cb0a-495b-92ce-de5dd362982e":{"type":"column","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Vita_Beta_2.png","title":"","text":"<p><\/p>","link_label":"","link":""}},"3bd7d3d5-05af-456e-8de5-08b91d645c3a":{"type":"column","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Vita_Beta.png","title":"","text":"<p><\/p>","link_label":"","link":""}}},"block_order":["template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0","template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1","template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2","201491b4-deb5-4728-8810-382a63da656b","e1eb27e8-cb0a-495b-92ce-de5dd362982e","3bd7d3d5-05af-456e-8de5-08b91d645c3a"],"settings":{"title":"門票選項","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":2,"column_alignment":"center","background_style":"none","button_label":"了解更多","button_link":"https:\/\/www.instagram.com\/p\/CmjN7rryaGh\/","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"d866a1a7-bbb0-4f6f-bed2-26553bdfe490":{"type":"image-banner","disabled":true,"blocks":{"template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-2":{"type":"buttons","settings":{"button_label_1":"了解更多","button_link_1":"shopify:\/\/pages\/crux場票-選擇你的年齡層","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-0","template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-1","template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-2"],"settings":{"image":"shopify:\/\/shop_images\/Updated_Climbing_Gym_Price_List_and_banner_1.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":true,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"da011621-bd0d-46af-ac41-748180f08331":{"type":"custom-liquid","disabled":true,"settings":{"custom_liquid":"<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3692.753173276779!2d114.16563491557658!3d22.249441950360126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404002205fa3c67%3A0x4d3953bb1c245105!2sAttic%20V%20Climbing%20Gym!5e0!3m2!1sen!2shk!4v1669383036747!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%;\npadding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>","color_scheme":"background-1","padding_top":40,"padding_bottom":52}},"336caa79-5f2d-49f0-a405-ea1176f1b06d":{"type":"multicolumn","disabled":true,"blocks":{"template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-1":{"type":"column","settings":{"title":"更換路線","text":"<p>快到Attic V挑戰新路線啦！<\/p><p><\/p><p><\/p><p><br\/><\/p>","link_label":"了解更多","link":"https:\/\/www.instagram.com\/p\/CkyNIL1PHs-\/"}},"template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-0":{"type":"column","settings":{"title":"新手班再次開放！","text":"<p>由11月30日開始一連三個星期三晚上，老闆會親自教大家基本攀爬技巧，如何更輕鬆自如地完成新嘅綠色及粉紅色線路，如何不要用蠻力爬石，如何做好動作為升Level作準備。<br\/><br\/>費用全免，歡迎持有個人會員卡嘅會員參加。<br\/><br\/>每堂8至10人，有意參加者，請到Attic V Climbing Gym 前台報名。先報先得!<\/p>","link_label":"了解更多","link":"https:\/\/www.instagram.com\/p\/ClGSfH_pg_o\/"}},"template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-2":{"type":"column","settings":{"title":"Route-setting wrokshop再次開放！","text":"<p>日期： NOV 4, 2022 (星期五） <br\/>時間： 下午 7:00 - 11:00<br\/> 費用： 全免 (所有器材的損耗，絕不追究責任 <br\/>名額 ： 8人 (2人一組，需自組報名，先報先得）<\/p>","link_label":"了解更多","link":"https:\/\/www.instagram.com\/p\/CkKk8NJpm5L\/"}}},"block_order":["template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-1","template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-0","template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-2"],"settings":{"title":"最新消息","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":12,"padding_bottom":12}},"0564fa5f-91aa-41f2-8515-fcf5c192ec61":{"type":"multicolumn","disabled":true,"blocks":{"template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-0":{"type":"column","settings":{"title":"預訂門票","text":"<p>無論是想假日挑戰自己，或想放工鬆一鬆，門票有效日期長達2星期，令你隨時想攀就攀！入場須知：電子收據將在訂購此場票後顯示，並會發送至閣下提供的電郵，入場時請出示給在場職員。此通行證適用於JUST CLIMB任何分店。<\/p>","link_label":"","link":""}},"template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-1":{"type":"column","settings":{"title":"預訂門票","text":"<p>無論是想假日挑戰自己，或想放工鬆一鬆，門票有效日期長達2星期，令你隨時想攀就攀！入場須知：電子收據將在訂購此場票後顯示，並會發送至閣下提供的電郵，入場時請出示給在場職員。此通行證適用於JUST CLIMB任何分店。<\/p>","link_label":"了解更多","link":""}},"template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-2":{"type":"column","disabled":true,"settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}}},"block_order":["template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-0","template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-1","template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-2"],"settings":{"title":"為什麼選擇Crux?","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"了解更多","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"f63aa7f4-5e2c-4c11-8342-63dbef35e762":{"type":"slideshow","disabled":true,"blocks":{"template--15844509417622__f63aa7f4-5e2c-4c11-8342-63dbef35e762-16660104064b36850f-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Sports_Fashion_2000_x_1200_px_30.png","heading":"第二輪消費劵限時優惠9月30日~10月9日","heading_size":"h2","subheading":"🔥 季票特價發售 (只適用於非季票持有人) - 原價$2100減$210 (折實價$1890) 🔥 💲接受八達通，payme，Alipay，tap and go，master，visa，FPS，現金支付","button_label":"了解更多","link":"https:\/\/www.instagram.com\/p\/CjHeniwviK8\/","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":50,"color_scheme":"background-1","text_alignment_mobile":"center"}},"template--15844509417622__f63aa7f4-5e2c-4c11-8342-63dbef35e762-16660104064b36850f-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/BETTER_SHOES_FOR_EVERYONE_5.png","heading":"學生早鳥優惠","heading_size":"h1","subheading":"12-25歲全日制學生可以用早鳥價$130，適用於平日11am-3pm，早鳥價更包括租鞋! 未玩過的同學仔都可以隨時過嚟！每天11am~9pm都會有註場教練，可以提供指導及相關安全知識。","button_label":"了解更多","link":"https:\/\/www.instagram.com\/p\/Ch98x4Wvo_F\/","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":50,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["template--15844509417622__f63aa7f4-5e2c-4c11-8342-63dbef35e762-16660104064b36850f-0","template--15844509417622__f63aa7f4-5e2c-4c11-8342-63dbef35e762-16660104064b36850f-1"],"settings":{"layout":"grid","slide_height":"adapt_image","slider_visual":"dots","auto_rotate":false,"change_slides_speed":5,"show_text_below":true,"accessibility_info":"Slideshow about our brand"}}},"order":["main","22337a11-043e-4c72-b740-c26c6d9d0f45","383ef268-afee-4bdf-b331-ff65609adc34","af8e40b4-9bd5-4905-aae3-f0a01d1bafeb","88c75914-ceba-40c1-a0a5-afc9f56c290c","007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e","036b0ac6-9826-4310-b9fd-56c2afd99763","d866a1a7-bbb0-4f6f-bed2-26553bdfe490","da011621-bd0d-46af-ac41-748180f08331","336caa79-5f2d-49f0-a405-ea1176f1b06d","0564fa5f-91aa-41f2-8515-fcf5c192ec61","f63aa7f4-5e2c-4c11-8342-63dbef35e762"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "22337a11-043e-4c72-b740-c26c6d9d0f45": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--15844509417622__22337a11-043e-4c72-b740-c26c6d9d0f45-1666615590eae6374d-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gym_Elements_6.png",
+            "title": "",
+            "text": "<p><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__22337a11-043e-4c72-b740-c26c6d9d0f45-1666615590eae6374d-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "383ef268-afee-4bdf-b331-ff65609adc34": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Gym_banners_2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "af8e40b4-9bd5-4905-aae3-f0a01d1bafeb": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<style>\nh3 {\n  color:white; \n  font-size: 2vmin;\n  word-break:normal;\n}\n<\/style>\n<div class=\"page-width section-template--15885031407766__b2b95b2b-6119-4bcf-8522-7f1497832fa6-padding isolate\">\n      <ul class=\"multicolumn-list contains-content-container grid grid--4-col-tablet-down grid--4-col-desktop\" id=\"Slider-template--15885031407766__b2b95b2b-6119-4bcf-8522-7f1497832fa6\" role=\"list\"><li id=\"Slide-template--15885031407766__b2b95b2b-6119-4bcf-8522-7f1497832fa6-1\" class=\"multicolumn-list__item grid__item center\">\n            <div class=\"multicolumn-card content-container\">\n                <div class=\"multicolumn-card__image-wrapper multicolumn-card__image-wrapper--full-width\">\n                  <div class=\"media media--transparent media--adapt\" style=\"padding-bottom: 100.0%;\"><img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/3bddc3656288f76481f8533ca0a5b2a8.jpg?v=1670294284&amp;width=1420\" alt=\"\" srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/3bddc3656288f76481f8533ca0a5b2a8.jpg?v=1670294284&amp;width=275 275w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/3bddc3656288f76481f8533ca0a5b2a8.jpg?v=1670294284&amp;width=550 550w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/3bddc3656288f76481f8533ca0a5b2a8.jpg?v=1670294284&amp;width=710 710w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/3bddc3656288f76481f8533ca0a5b2a8.jpg?v=1670294284&amp;width=1420 1420w\" width=\"1420\" height=\"1420\" loading=\"lazy\" sizes=\"(min-width: 990px) 550px, (min-width: 750px) 550px, calc(120vw - 30px)\" class=\"multicolumn-card__image\">\n                  <\/div>\n                <\/div><div class=\"multicolumn-card__info\"><h3>交通方便<\/h3><\/div>\n            <\/div>\n          <\/li><li id=\"Slide-template--15885031407766__b2b95b2b-6119-4bcf-8522-7f1497832fa6-2\" class=\"multicolumn-list__item grid__item center\">\n            <div class=\"multicolumn-card content-container\">\n                <div class=\"multicolumn-card__image-wrapper multicolumn-card__image-wrapper--full-width\">\n                  <div class=\"media media--transparent media--adapt\" style=\"padding-bottom: 100.0%;\"><img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48.jpg?v=1670313209&amp;width=1420\" alt=\"\" srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48.jpg?v=1670313209&amp;width=275 275w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48.jpg?v=1670313209&amp;width=550 550w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48.jpg?v=1670313209&amp;width=710 710w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48.jpg?v=1670313209&amp;width=1420 1420w\" width=\"1420\" height=\"1420\" loading=\"lazy\" sizes=\"(min-width: 990px) 550px, (min-width: 750px) 550px, calc(120vw - 30px)\" class=\"multicolumn-card__image\">\n                  <\/div>\n                <\/div><div class=\"multicolumn-card__info\"><h3>高性價比<\/h3><\/div>\n            <\/div>\n          <\/li><li id=\"Slide-template--15885031407766__b2b95b2b-6119-4bcf-8522-7f1497832fa6-3\" class=\"multicolumn-list__item grid__item center\">\n            <div class=\"multicolumn-card content-container\">\n                <div class=\"multicolumn-card__image-wrapper multicolumn-card__image-wrapper--full-width\">\n                  <div class=\"media media--transparent media--adapt\" style=\"padding-bottom: 100.0%;\"><img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48_1.jpg?v=1670313205&amp;width=1420\" alt=\"\" srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48_1.jpg?v=1670313205&amp;width=275 275w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48_1.jpg?v=1670313205&amp;width=550 550w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48_1.jpg?v=1670313205&amp;width=710 710w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.48_1.jpg?v=1670313205&amp;width=1420 1420w\" width=\"1420\" height=\"1420\" loading=\"lazy\" sizes=\"(min-width: 990px) 550px, (min-width: 750px) 550px, calc(120vw - 30px)\" class=\"multicolumn-card__image\">\n                  <\/div>\n                <\/div><div class=\"multicolumn-card__info\"><h3>舒適的空間感<\/h3><\/div>\n            <\/div>\n          <\/li><li id=\"Slide-template--15885031407766__b2b95b2b-6119-4bcf-8522-7f1497832fa6-4\" class=\"multicolumn-list__item grid__item center\">\n            <div class=\"multicolumn-card content-container\">\n                <div class=\"multicolumn-card__image-wrapper multicolumn-card__image-wrapper--full-width\">\n                  <div class=\"media media--transparent media--adapt\" style=\"padding-bottom: 100.0%;\"><img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.47.jpg?v=1670313201&amp;width=1420\" alt=\"\" srcset=\"\/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.47.jpg?v=1670313201&amp;width=275 275w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.47.jpg?v=1670313201&amp;width=550 550w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.47.jpg?v=1670313201&amp;width=710 710w, \/\/cdn.shopify.com\/s\/files\/1\/0619\/3761\/4998\/files\/WhatsApp_Image_2022-12-06_at_10.31.47.jpg?v=1670313201&amp;width=1420 1420w\" width=\"1420\" height=\"1420\" loading=\"lazy\" sizes=\"(min-width: 990px) 550px, (min-width: 750px) 550px, calc(120vw - 30px)\" class=\"multicolumn-card__image\">\n                  <\/div>\n                <\/div><div class=\"multicolumn-card__info\"><h3>多條路線選項<\/h3><\/div>\n            <\/div>\n          <\/li><\/ul>\n    <div class=\"center\"><\/div>\n  <\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "88c75914-ceba-40c1-a0a5-afc9f56c290c": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-0",
+        "template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-1",
+        "template--15837400858774__88c75914-ceba-40c1-a0a5-afc9f56c290c-1665238462d969986f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mad_Adventure.png",
+        "image_2": "shopify:\/\/shop_images\/Gym_Elements_25.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "送禮題目：你認為優質嘅鎂粉需要具備咩條件？",
+            "heading_size": "h2"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>各位爬手，現在只需要參與送禮活動，即可享用<strong>免運費優惠1個月<\/strong>，而購物時加入會員計劃即可獲得<strong>雙倍分數<\/strong>，而且更可贏得FrictionLabs 王牌產品！<\/p>"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "立即參加",
+            "button_link": "https:\/\/www.instagram.com\/p\/CmjN7rryaGh\/",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "036b0ac6-9826-4310-b9fd-56c2afd99763": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Boulder_Mad_3.png",
+            "title": "",
+            "text": "<p><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Boulder_Mad_2.png",
+            "title": "",
+            "text": "<p><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Boulder_Mad_4a3e75f0-5dda-40ff-8861-92a8d91b6f32.png",
+            "title": "",
+            "text": "<p><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "201491b4-deb5-4728-8810-382a63da656b": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vita_Beta_3.png",
+            "title": "",
+            "text": "<p><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e1eb27e8-cb0a-495b-92ce-de5dd362982e": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vita_Beta_2.png",
+            "title": "",
+            "text": "<p><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3bd7d3d5-05af-456e-8de5-08b91d645c3a": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vita_Beta.png",
+            "title": "",
+            "text": "<p><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0",
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1",
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2",
+        "201491b4-deb5-4728-8810-382a63da656b",
+        "e1eb27e8-cb0a-495b-92ce-de5dd362982e",
+        "3bd7d3d5-05af-456e-8de5-08b91d645c3a"
+      ],
+      "settings": {
+        "title": "門票選項",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "了解更多",
+        "button_link": "https:\/\/www.instagram.com\/p\/CmjN7rryaGh\/",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d866a1a7-bbb0-4f6f-bed2-26553bdfe490": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "了解更多",
+            "button_link_1": "shopify:\/\/pages\/crux場票-選擇你的年齡層",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-0",
+        "template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-1",
+        "template--15837400858774__d866a1a7-bbb0-4f6f-bed2-26553bdfe490-1665238462d969986f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Updated_Climbing_Gym_Price_List_and_banner_1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "da011621-bd0d-46af-ac41-748180f08331": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3692.753173276779!2d114.16563491557658!3d22.249441950360126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404002205fa3c67%3A0x4d3953bb1c245105!2sAttic%20V%20Climbing%20Gym!5e0!3m2!1sen!2shk!4v1669383036747!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%;\npadding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "336caa79-5f2d-49f0-a405-ea1176f1b06d": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-1": {
+          "type": "column",
+          "settings": {
+            "title": "更換路線",
+            "text": "<p>快到Attic V挑戰新路線啦！<\/p><p><\/p><p><\/p><p><br\/><\/p>",
+            "link_label": "了解更多",
+            "link": "https:\/\/www.instagram.com\/p\/CkyNIL1PHs-\/"
+          }
+        },
+        "template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-0": {
+          "type": "column",
+          "settings": {
+            "title": "新手班再次開放！",
+            "text": "<p>由11月30日開始一連三個星期三晚上，老闆會親自教大家基本攀爬技巧，如何更輕鬆自如地完成新嘅綠色及粉紅色線路，如何不要用蠻力爬石，如何做好動作為升Level作準備。<br\/><br\/>費用全免，歡迎持有個人會員卡嘅會員參加。<br\/><br\/>每堂8至10人，有意參加者，請到Attic V Climbing Gym 前台報名。先報先得!<\/p>",
+            "link_label": "了解更多",
+            "link": "https:\/\/www.instagram.com\/p\/ClGSfH_pg_o\/"
+          }
+        },
+        "template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-2": {
+          "type": "column",
+          "settings": {
+            "title": "Route-setting wrokshop再次開放！",
+            "text": "<p>日期： NOV 4, 2022 (星期五） <br\/>時間： 下午 7:00 - 11:00<br\/> 費用： 全免 (所有器材的損耗，絕不追究責任 <br\/>名額 ： 8人 (2人一組，需自組報名，先報先得）<\/p>",
+            "link_label": "了解更多",
+            "link": "https:\/\/www.instagram.com\/p\/CkKk8NJpm5L\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-1",
+        "template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-0",
+        "template--15844509417622__336caa79-5f2d-49f0-a405-ea1176f1b06d-16658169590dfc8ce4-2"
+      ],
+      "settings": {
+        "title": "最新消息",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "0564fa5f-91aa-41f2-8515-fcf5c192ec61": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-0": {
+          "type": "column",
+          "settings": {
+            "title": "預訂門票",
+            "text": "<p>無論是想假日挑戰自己，或想放工鬆一鬆，門票有效日期長達2星期，令你隨時想攀就攀！入場須知：電子收據將在訂購此場票後顯示，並會發送至閣下提供的電郵，入場時請出示給在場職員。此通行證適用於JUST CLIMB任何分店。<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-1": {
+          "type": "column",
+          "settings": {
+            "title": "預訂門票",
+            "text": "<p>無論是想假日挑戰自己，或想放工鬆一鬆，門票有效日期長達2星期，令你隨時想攀就攀！入場須知：電子收據將在訂購此場票後顯示，並會發送至閣下提供的電郵，入場時請出示給在場職員。此通行證適用於JUST CLIMB任何分店。<\/p>",
+            "link_label": "了解更多",
+            "link": ""
+          }
+        },
+        "template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-0",
+        "template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-1",
+        "template--15837400858774__0564fa5f-91aa-41f2-8515-fcf5c192ec61-166524053083ee8cc0-2"
+      ],
+      "settings": {
+        "title": "為什麼選擇Crux?",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "了解更多",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f63aa7f4-5e2c-4c11-8342-63dbef35e762": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--15844509417622__f63aa7f4-5e2c-4c11-8342-63dbef35e762-16660104064b36850f-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sports_Fashion_2000_x_1200_px_30.png",
+            "heading": "第二輪消費劵限時優惠9月30日~10月9日",
+            "heading_size": "h2",
+            "subheading": "🔥 季票特價發售 (只適用於非季票持有人) - 原價$2100減$210 (折實價$1890) 🔥 💲接受八達通，payme，Alipay，tap and go，master，visa，FPS，現金支付",
+            "button_label": "了解更多",
+            "link": "https:\/\/www.instagram.com\/p\/CjHeniwviK8\/",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 50,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--15844509417622__f63aa7f4-5e2c-4c11-8342-63dbef35e762-16660104064b36850f-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BETTER_SHOES_FOR_EVERYONE_5.png",
+            "heading": "學生早鳥優惠",
+            "heading_size": "h1",
+            "subheading": "12-25歲全日制學生可以用早鳥價$130，適用於平日11am-3pm，早鳥價更包括租鞋! 未玩過的同學仔都可以隨時過嚟！每天11am~9pm都會有註場教練，可以提供指導及相關安全知識。",
+            "button_label": "了解更多",
+            "link": "https:\/\/www.instagram.com\/p\/Ch98x4Wvo_F\/",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 50,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__f63aa7f4-5e2c-4c11-8342-63dbef35e762-16660104064b36850f-0",
+        "template--15844509417622__f63aa7f4-5e2c-4c11-8342-63dbef35e762-16660104064b36850f-1"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "22337a11-043e-4c72-b740-c26c6d9d0f45",
+    "383ef268-afee-4bdf-b331-ff65609adc34",
+    "af8e40b4-9bd5-4905-aae3-f0a01d1bafeb",
+    "88c75914-ceba-40c1-a0a5-afc9f56c290c",
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
+    "036b0ac6-9826-4310-b9fd-56c2afd99763",
+    "d866a1a7-bbb0-4f6f-bed2-26553bdfe490",
+    "da011621-bd0d-46af-ac41-748180f08331",
+    "336caa79-5f2d-49f0-a405-ea1176f1b06d",
+    "0564fa5f-91aa-41f2-8515-fcf5c192ec61",
+    "f63aa7f4-5e2c-4c11-8342-63dbef35e762"
+  ]
+}

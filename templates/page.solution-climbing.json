@@ -1,1 +1,327 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":0,"padding_bottom":0}},"383ef268-afee-4bdf-b331-ff65609adc34":{"type":"image-banner","blocks":{"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0":{"type":"heading","settings":{"heading":"Solution Climbing Gym","heading_size":"h0"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"],"custom_css":[".media {right: 10%; left: 10%; width: 80%;}"],"settings":{"image":"shopify:\/\/shop_images\/M1.jpg","image_overlay_opacity":30,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e":{"type":"rich-text","blocks":{"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0":{"type":"heading","settings":{"heading":"<p>澳門僅有攀石場<\/p>","heading_size":"h1"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1":{"type":"text","settings":{"text":"<p>地址 - 澳門, 友誼橋大馬路 196 號 海上居-商舖 地下 AO 座<\/p><p>可以從外港碼頭乘搭以下巴士到達Solution Climbing Gym<br\/>AP1: 在海上居站下車 (步行 1 分鐘)<br\/>3A: 在黑沙環中街\/黑沙環衛生中心站下車 (步行 4 分鐘)<\/p><p><\/p><p>開放時間 星期一至五：5pm-10pm 星期六日：1pm-9pm<\/p><p>Solution Climbing Gym 聲稱攀石可以成為壓力問題的“解決方案”。這是一個專門用於攀岩和抱石的地方。抱石牆平均高度約4.3米，有4種不同的角度變化，分別為8度傾斜、20度傾斜、多角度（Multi）和-4度（Slab）牆。無論是暴力拆解流，還是平衡協調的攀石愛好者，總能找到你想要挑戰的路線。<\/p>"}}},"block_order":["template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":52}},"48b425ce-415f-4ef2-9c98-f36546a0afec":{"type":"multicolumn","blocks":{"template--15952655024278__48b425ce-415f-4ef2-9c98-f36546a0afec-1677662154a18b39a6-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/waterfall.png","title":"多條路線選項","text":"","link_label":"","link":""}},"8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/money.jpg","title":"高性價比","text":"","link_label":"","link":""}},"a6cbad9e-8e44-4407-bbf8-5f827024d77a":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/infinity.png","title":"定期更換路線","text":"","link_label":"","link":""}},"d7ba897b-7c73-46ee-9cd9-18860c7eff16":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/flag.png","title":"設有-4°slab 牆","text":"","link_label":"","link":""}}},"block_order":["template--15952655024278__48b425ce-415f-4ef2-9c98-f36546a0afec-1677662154a18b39a6-0","8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0","a6cbad9e-8e44-4407-bbf8-5f827024d77a","d7ba897b-7c73-46ee-9cd9-18860c7eff16"],"custom_css":["h3 {color: white;}",".slider-counter {font-size: large;}"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":4,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":true,"padding_top":8,"padding_bottom":12}},"036b0ac6-9826-4310-b9fd-56c2afd99763":{"type":"multicolumn","blocks":{"e3a2111f-c3d6-4ad9-8966-4bb349f3e82b":{"type":"column","settings":{"title":"","text":"<p>平日日票 - MOP 120 (*80)<\/p>","link_label":"","link":""}},"cf255631-9bb3-40b0-839b-4b1c9118518a":{"type":"column","settings":{"title":"","text":"<p>週末 \/ 假日日票 - MOP 150 (*100)<\/p>","link_label":"","link":""}},"7f378fdd-67bb-4aef-8fcd-0443fb685892":{"type":"column","settings":{"title":"","text":"<p>1個月套票 - MOP 680 (*480)<\/p>","link_label":"","link":""}},"0105becb-5751-4904-8b0e-83f9b00ad01d":{"type":"column","settings":{"title":"","text":"<p>3個月套票 - MOP 1830 (*1290)<\/p>","link_label":"","link":""}},"65594708-5791-4e83-98ae-2710e7efa962":{"type":"column","settings":{"title":"","text":"<p>6個月套票 - MOP 3460 (*2440)<\/p>","link_label":"","link":""}},"7d7e8719-36d2-4285-9a65-cc4dca4afee3":{"type":"column","settings":{"title":"","text":"<p>1年套票 - MOP 6120 (*4320)<\/p>","link_label":"","link":""}},"96309e95-6e4f-4a61-9dd9-ad3af6455f56":{"type":"column","settings":{"title":"","text":"<p>10張共享套票 (2個月有效) - MOP 1150<\/p>","link_label":"","link":""}},"9d79acc9-5e62-42fc-9fa9-4828b6665454":{"type":"column","settings":{"title":"","text":"<p>攀石鞋租借 - MOP 20<\/p>","link_label":"","link":""}},"cf350895-508e-4fa9-8cd8-42e093322ce4":{"type":"column","settings":{"title":"","text":"<p>粉袋租借 - MOP 20<\/p>","link_label":"","link":""}},"1e71b062-f644-4f08-a91f-fb6148d21cd9":{"type":"column","settings":{"title":"","text":"<p>安全帶租借 - MOP 20<\/p>","link_label":"","link":""}},"a94d2bce-3ea5-4e23-b97b-506b9e015c53":{"type":"column","settings":{"title":"","text":"<p>優惠組合 (鞋&粉袋) - MOP 25<\/p>","link_label":"","link":""}},"fb020a80-6af5-4152-84d2-16e936df3751":{"type":"column","settings":{"title":"","text":"<p>儲物櫃每月租金 - MOP 30<\/p>","link_label":"","link":""}}},"block_order":["e3a2111f-c3d6-4ad9-8966-4bb349f3e82b","cf255631-9bb3-40b0-839b-4b1c9118518a","7f378fdd-67bb-4aef-8fcd-0443fb685892","0105becb-5751-4904-8b0e-83f9b00ad01d","65594708-5791-4e83-98ae-2710e7efa962","7d7e8719-36d2-4285-9a65-cc4dca4afee3","96309e95-6e4f-4a61-9dd9-ad3af6455f56","9d79acc9-5e62-42fc-9fa9-4828b6665454","cf350895-508e-4fa9-8cd8-42e093322ce4","1e71b062-f644-4f08-a91f-fb6148d21cd9","a94d2bce-3ea5-4e23-b97b-506b9e015c53","fb020a80-6af5-4152-84d2-16e936df3751"],"custom_css":["h3 {color: black;}"],"settings":{"title":"門票選項 (*學生)","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"da011621-bd0d-46af-ac41-748180f08331":{"type":"custom-liquid","settings":{"custom_liquid":"<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3693.711560586312!2d113.5542193149532!3d22.213065385369013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34017bfed62a1019%3A0x7410afe14a1064d!2sSolution%20Climbing%20Gym!5e0!3m2!1sen!2shk!4v1676342489306!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\">\n<\/iframe>","color_scheme":"background-1","padding_top":40,"padding_bottom":52}}},"order":["main","383ef268-afee-4bdf-b331-ff65609adc34","007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e","48b425ce-415f-4ef2-9c98-f36546a0afec","036b0ac6-9826-4310-b9fd-56c2afd99763","da011621-bd0d-46af-ac41-748180f08331"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "383ef268-afee-4bdf-b331-ff65609adc34": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Solution Climbing Gym",
+            "heading_size": "h0"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"
+      ],
+      "custom_css": [
+        ".media {right: 10%; left: 10%; width: 80%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/M1.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "澳門僅有攀石場",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>地址 - 澳門, 友誼橋大馬路 196 號 海上居-商舖 地下 AO 座<\/p><p>可以從外港碼頭乘搭以下巴士到達Solution Climbing Gym<br\/>AP1: 在海上居站下車 (步行 1 分鐘)<br\/>3A: 在黑沙環中街\/黑沙環衛生中心站下車 (步行 4 分鐘)<\/p><p><\/p><p>開放時間 星期一至五：5pm-10pm 星期六日：1pm-9pm<\/p><p>Solution Climbing Gym 聲稱攀石可以成為壓力問題的“解決方案”。這是一個專門用於攀岩和抱石的地方。抱石牆平均高度約4.3米，有4種不同的角度變化，分別為8度傾斜、20度傾斜、多角度（Multi）和-4度（Slab）牆。無論是暴力拆解流，還是平衡協調的攀石愛好者，總能找到你想要挑戰的路線。<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "48b425ce-415f-4ef2-9c98-f36546a0afec": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15952655024278__48b425ce-415f-4ef2-9c98-f36546a0afec-1677662154a18b39a6-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/waterfall.png",
+            "title": "多條路線選項",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/money.jpg",
+            "title": "高性價比",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a6cbad9e-8e44-4407-bbf8-5f827024d77a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/infinity.png",
+            "title": "定期更換路線",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d7ba897b-7c73-46ee-9cd9-18860c7eff16": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/flag.png",
+            "title": "設有-4°slab 牆",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15952655024278__48b425ce-415f-4ef2-9c98-f36546a0afec-1677662154a18b39a6-0",
+        "8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0",
+        "a6cbad9e-8e44-4407-bbf8-5f827024d77a",
+        "d7ba897b-7c73-46ee-9cd9-18860c7eff16"
+      ],
+      "custom_css": [
+        "h3 {color: white;}",
+        ".slider-counter {font-size: large;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 12
+      }
+    },
+    "036b0ac6-9826-4310-b9fd-56c2afd99763": {
+      "type": "multicolumn",
+      "blocks": {
+        "e3a2111f-c3d6-4ad9-8966-4bb349f3e82b": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>平日日票 - MOP 120 (*80)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "cf255631-9bb3-40b0-839b-4b1c9118518a": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>週末 \/ 假日日票 - MOP 150 (*100)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7f378fdd-67bb-4aef-8fcd-0443fb685892": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>1個月套票 - MOP 680 (*480)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0105becb-5751-4904-8b0e-83f9b00ad01d": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>3個月套票 - MOP 1830 (*1290)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "65594708-5791-4e83-98ae-2710e7efa962": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>6個月套票 - MOP 3460 (*2440)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7d7e8719-36d2-4285-9a65-cc4dca4afee3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>1年套票 - MOP 6120 (*4320)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "96309e95-6e4f-4a61-9dd9-ad3af6455f56": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>10張共享套票 (2個月有效) - MOP 1150<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "9d79acc9-5e62-42fc-9fa9-4828b6665454": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>攀石鞋租借 - MOP 20<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "cf350895-508e-4fa9-8cd8-42e093322ce4": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>粉袋租借 - MOP 20<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1e71b062-f644-4f08-a91f-fb6148d21cd9": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>安全帶租借 - MOP 20<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a94d2bce-3ea5-4e23-b97b-506b9e015c53": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>優惠組合 (鞋&粉袋) - MOP 25<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fb020a80-6af5-4152-84d2-16e936df3751": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>儲物櫃每月租金 - MOP 30<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "e3a2111f-c3d6-4ad9-8966-4bb349f3e82b",
+        "cf255631-9bb3-40b0-839b-4b1c9118518a",
+        "7f378fdd-67bb-4aef-8fcd-0443fb685892",
+        "0105becb-5751-4904-8b0e-83f9b00ad01d",
+        "65594708-5791-4e83-98ae-2710e7efa962",
+        "7d7e8719-36d2-4285-9a65-cc4dca4afee3",
+        "96309e95-6e4f-4a61-9dd9-ad3af6455f56",
+        "9d79acc9-5e62-42fc-9fa9-4828b6665454",
+        "cf350895-508e-4fa9-8cd8-42e093322ce4",
+        "1e71b062-f644-4f08-a91f-fb6148d21cd9",
+        "a94d2bce-3ea5-4e23-b97b-506b9e015c53",
+        "fb020a80-6af5-4152-84d2-16e936df3751"
+      ],
+      "custom_css": [
+        "h3 {color: black;}"
+      ],
+      "settings": {
+        "title": "門票選項 (*學生)",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "da011621-bd0d-46af-ac41-748180f08331": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3693.711560586312!2d113.5542193149532!3d22.213065385369013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34017bfed62a1019%3A0x7410afe14a1064d!2sSolution%20Climbing%20Gym!5e0!3m2!1sen!2shk!4v1676342489306!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\">\n<\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "383ef268-afee-4bdf-b331-ff65609adc34",
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
+    "48b425ce-415f-4ef2-9c98-f36546a0afec",
+    "036b0ac6-9826-4310-b9fd-56c2afd99763",
+    "da011621-bd0d-46af-ac41-748180f08331"
+  ]
+}

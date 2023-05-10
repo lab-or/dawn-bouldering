@@ -1,1 +1,379 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":0,"padding_bottom":0}},"383ef268-afee-4bdf-b331-ff65609adc34":{"type":"image-banner","blocks":{"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1":{"type":"text","settings":{"text":"","text_style":"body"}},"template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1","template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"],"custom_css":[".media{right: 10%; left: 10%; width: 80%;}"],"settings":{"image":"shopify:\/\/shop_images\/1_9fddcd4c-99d6-47cb-90f4-80568fb6155e.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e":{"type":"rich-text","blocks":{"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0":{"type":"heading","settings":{"heading":"<p>過百條抱石路線的攀石場<\/p>","heading_size":"h1"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1":{"type":"text","settings":{"text":"<p>地址 - 香港黃竹坑道49號得力工業大廈地下E鋪<\/p><p>開放時間 - 星期一至六: 11am-10:30pm 星期日及公眾假期: 11am-8pm <\/p><p>Attic V由攀石經驗豐富的一對情侶經營。除了設有過百條路線，特點是從起點便存在一定的挑戰，適合有經驗的climbers。不過，Attic V亦提供多款適合新手的路線(場內的綠色路線)，可逐步跨越當中的難度！<br\/>攀石場正中位置設有走廊，令climbers既可有位置休息，同時亦可”近距離觀戰”！<\/p>"}},"template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1","template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":32}},"3840052f-b99d-4d73-8914-adc89eda3f4f":{"type":"multicolumn","blocks":{"template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/point.png","title":"交通方便","text":"","link_label":"","link":""}},"452c7c6a-7177-4513-8997-06ad5f6603df":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/money.jpg","title":"高性價比","text":"","link_label":"","link":""}},"1628567c-5e0f-4e71-a7dd-db9246367281":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/pillow.png","title":"舒適的空間感","text":"","link_label":"","link":""}},"0294b889-8894-4b86-ab6c-071ea1fdeab9":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/waterfall.png","title":"多條路線選項","text":"","link_label":"","link":""}}},"block_order":["template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0","452c7c6a-7177-4513-8997-06ad5f6603df","1628567c-5e0f-4e71-a7dd-db9246367281","0294b889-8894-4b86-ab6c-071ea1fdeab9"],"custom_css":["h3 {color: white;}",".slider-counter {font-size: large;}"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":4,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":true,"padding_top":8,"padding_bottom":32}},"6769c2b8-8eb2-48e3-b1fa-ed114697f768":{"type":"slideshow","blocks":{"template--15885031407766__6769c2b8-8eb2-48e3-b1fa-ed114697f768-16827351153069a2a2-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Attic_v_1.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"71a83e3a-596e-41f3-af7c-075b1fa9ca6b":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Attic_V_2.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"1dd697ba-518e-4f4f-a970-d9491ed2aca4":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Attic_V_3.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"1c16f8c6-83a1-4653-a197-34234a2b6318":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Attic_V_4.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["template--15885031407766__6769c2b8-8eb2-48e3-b1fa-ed114697f768-16827351153069a2a2-1","71a83e3a-596e-41f3-af7c-075b1fa9ca6b","1dd697ba-518e-4f4f-a970-d9491ed2aca4","1c16f8c6-83a1-4653-a197-34234a2b6318"],"settings":{"layout":"grid","slide_height":"adapt_image","slider_visual":"counter","auto_rotate":false,"change_slides_speed":5,"show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"036b0ac6-9826-4310-b9fd-56c2afd99763":{"type":"multicolumn","blocks":{"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0":{"type":"column","settings":{"title":"","text":"<p>日票 $150 (*$130)<\/p>","link_label":"","link":""}},"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1":{"type":"column","settings":{"title":"","text":"<p>10張套票 $600 (*學生年滿18歲$550) (*學生未滿18歲$450)<\/p>","link_label":"","link":""}},"template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2":{"type":"column","settings":{"title":"","text":"<p>5張共享套票 (有效日期：1個月) $680<\/p>","link_label":"","link":""}},"96aba9ce-bd84-4ee7-bcad-64a1a94e234e":{"type":"column","settings":{"title":"","text":"<p>10張共享套票 (有效日期: 3個月) $1300<\/p>","link_label":"","link":""}},"4a428aa8-f215-4348-96ab-af1086871994":{"type":"column","settings":{"title":"","text":"<p>攀石鞋租借 $30<\/p>","link_label":"","link":""}},"259f89e2-21be-42a4-a487-ac95429623a1":{"type":"column","settings":{"title":"","text":"<p>粉袋租借 $30<\/p>","link_label":"","link":""}},"5fa627d0-2a27-4832-bd80-dd691814fc89":{"type":"column","settings":{"title":"","text":"<p>攀石鞋+粉袋租借 $50<\/p>","link_label":"","link":""}}},"block_order":["template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0","template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1","template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2","96aba9ce-bd84-4ee7-bcad-64a1a94e234e","4a428aa8-f215-4348-96ab-af1086871994","259f89e2-21be-42a4-a487-ac95429623a1","5fa627d0-2a27-4832-bd80-dd691814fc89"],"settings":{"title":"門票選項 (*學生)","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"da011621-bd0d-46af-ac41-748180f08331":{"type":"custom-liquid","settings":{"custom_liquid":"<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3692.753173276779!2d114.16563491557658!3d22.249441950360126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404002205fa3c67%3A0x4d3953bb1c245105!2sAttic%20V%20Climbing%20Gym!5e0!3m2!1sen!2shk!4v1669383036747!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%;\npadding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>","color_scheme":"background-1","padding_top":40,"padding_bottom":52}}},"order":["main","383ef268-afee-4bdf-b331-ff65609adc34","007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e","3840052f-b99d-4d73-8914-adc89eda3f4f","6769c2b8-8eb2-48e3-b1fa-ed114697f768","036b0ac6-9826-4310-b9fd-56c2afd99763","da011621-bd0d-46af-ac41-748180f08331"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "383ef268-afee-4bdf-b331-ff65609adc34": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"
+      ],
+      "custom_css": [
+        ".media{right: 10%; left: 10%; width: 80%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1_9fddcd4c-99d6-47cb-90f4-80568fb6155e.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "過百條抱石路線的攀石場",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>地址 - 香港黃竹坑道49號得力工業大廈地下E鋪<\/p><p>開放時間 - 星期一至六: 11am-10:30pm 星期日及公眾假期: 11am-8pm <\/p><p>Attic V由攀石經驗豐富的一對情侶經營。除了設有過百條路線，特點是從起點便存在一定的挑戰，適合有經驗的climbers。不過，Attic V亦提供多款適合新手的路線(場內的綠色路線)，可逐步跨越當中的難度！<br\/>攀石場正中位置設有走廊，令climbers既可有位置休息，同時亦可”近距離觀戰”！<\/p>"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 32
+      }
+    },
+    "3840052f-b99d-4d73-8914-adc89eda3f4f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/point.png",
+            "title": "交通方便",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "452c7c6a-7177-4513-8997-06ad5f6603df": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/money.jpg",
+            "title": "高性價比",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1628567c-5e0f-4e71-a7dd-db9246367281": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pillow.png",
+            "title": "舒適的空間感",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0294b889-8894-4b86-ab6c-071ea1fdeab9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/waterfall.png",
+            "title": "多條路線選項",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0",
+        "452c7c6a-7177-4513-8997-06ad5f6603df",
+        "1628567c-5e0f-4e71-a7dd-db9246367281",
+        "0294b889-8894-4b86-ab6c-071ea1fdeab9"
+      ],
+      "custom_css": [
+        "h3 {color: white;}",
+        ".slider-counter {font-size: large;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 32
+      }
+    },
+    "6769c2b8-8eb2-48e3-b1fa-ed114697f768": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15885031407766__6769c2b8-8eb2-48e3-b1fa-ed114697f768-16827351153069a2a2-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Attic_v_1.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "71a83e3a-596e-41f3-af7c-075b1fa9ca6b": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Attic_V_2.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1dd697ba-518e-4f4f-a970-d9491ed2aca4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Attic_V_3.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1c16f8c6-83a1-4653-a197-34234a2b6318": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Attic_V_4.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15885031407766__6769c2b8-8eb2-48e3-b1fa-ed114697f768-16827351153069a2a2-1",
+        "71a83e3a-596e-41f3-af7c-075b1fa9ca6b",
+        "1dd697ba-518e-4f4f-a970-d9491ed2aca4",
+        "1c16f8c6-83a1-4653-a197-34234a2b6318"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "036b0ac6-9826-4310-b9fd-56c2afd99763": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>日票 $150 (*$130)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>10張套票 $600 (*學生年滿18歲$550) (*學生未滿18歲$450)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>5張共享套票 (有效日期：1個月) $680<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "96aba9ce-bd84-4ee7-bcad-64a1a94e234e": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>10張共享套票 (有效日期: 3個月) $1300<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4a428aa8-f215-4348-96ab-af1086871994": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>攀石鞋租借 $30<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "259f89e2-21be-42a4-a487-ac95429623a1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>粉袋租借 $30<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5fa627d0-2a27-4832-bd80-dd691814fc89": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>攀石鞋+粉袋租借 $50<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0",
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1",
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2",
+        "96aba9ce-bd84-4ee7-bcad-64a1a94e234e",
+        "4a428aa8-f215-4348-96ab-af1086871994",
+        "259f89e2-21be-42a4-a487-ac95429623a1",
+        "5fa627d0-2a27-4832-bd80-dd691814fc89"
+      ],
+      "settings": {
+        "title": "門票選項 (*學生)",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "da011621-bd0d-46af-ac41-748180f08331": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3692.753173276779!2d114.16563491557658!3d22.249441950360126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404002205fa3c67%3A0x4d3953bb1c245105!2sAttic%20V%20Climbing%20Gym!5e0!3m2!1sen!2shk!4v1669383036747!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%;\npadding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "383ef268-afee-4bdf-b331-ff65609adc34",
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
+    "3840052f-b99d-4d73-8914-adc89eda3f4f",
+    "6769c2b8-8eb2-48e3-b1fa-ed114697f768",
+    "036b0ac6-9826-4310-b9fd-56c2afd99763",
+    "da011621-bd0d-46af-ac41-748180f08331"
+  ]
+}
