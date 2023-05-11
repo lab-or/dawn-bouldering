@@ -46,13 +46,14 @@
         ".media {right: 10%; left: 10%; width: 80%;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Gravity_1.jpg",
+        "image": "shopify:\/\/shop_images\/egaSTONE_logo.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -64,14 +65,14 @@
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
           "type": "heading",
           "settings": {
-            "heading": "好日山莊經營全國規模的抱石館",
+            "heading": "MegaSTONE",
             "heading_size": "h1"
           }
         },
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>開放時間 週一至六：10:00-23:00  週日及假日：10:00-22:00   <\/p><p>交通：與JR大阪站直接相連（步行5-10分鐘）<\/p><p>這是位於Grand Front Osaka 6樓由好日山莊經營的抱石館。擁有100坪大小、高4.5m、最大坡度132度的圍牆，準備了從初學者到高級玩家都可以享受的許多路線。此外，定期為初學者和兒童舉辦抱石活動。租借設備種類豐富，下班回家的路上也可以輕鬆享受抱石攀岩的樂趣。<\/p><p>Gravity Research Gym Osaka 擁有一支經驗豐富且經過認證的抱石教練團隊，他們為各個級別的抱石者提供課程和講習班。這些課程涵蓋技術、安全和健身等主題。<\/p><p>抱石館定期舉辦抱石比賽和活動，對會員和非會員開放。這些活動是結識其他抱石者並在新路線上挑戰自己的好方法。<\/p><p>除了抱石，Gravity Research Gym Osaka 還提供瑜伽和健身課程，是補充抱石訓練和提高整體健康水平的好方法。<\/p><p>抱石館位於大阪市西成區，公共交通便利。它還靠近幾家餐館和商店，對於想要在鍛煉後吃點東西或購物的抱石者來說，這裡是一個方便的地方。<\/p><p>總括而言，Gravity Research Gym Osaka 是所有級別的抱石者正在尋找的一流抱石館。<\/p>"
+            "text": "<p>地址: 台灣新北市新莊區中正路56巷5號  (從捷運頭前庄站步行約2分鐘)<\/p><p>營業時間：平日(週三外) 14:30-22:30<\/p><p>週三,週六與週日 10:00-20:00<\/p><p>Megastone Climbing Gym 是位於台灣台北的一間我既現代化又寬敞的攀岩館。它擁有超過2500平方米的攀岩牆，更擁有100多條攀岩路線。牆壁會定期重置，因此抱石者總是要應對新的挑戰。攀岩館有適合不同技能水平的各種牆壁，從初學者開始至到高級抱石者都能挑戰。牆壁由紋理表面製成，模擬真實岩石的感覺，提供具有挑戰性和真實的抱石體驗。<\/p><p>攀岩館配備了廣泛的攀岩設施，包括鉛攀岩牆、頂繩牆和抱石牆。領先攀岩牆的路線要求抱石者在攀登更高時夾入保護點，而頂繩牆則已經設置好繩索供抱石者使用。抱石牆較短，沒有繩索，允許抱石者在不需要夥伴的情況下練習他們的動作。<\/p><p>除了攀岩牆外，Megastone 還設有帶舉重和有氧運動器材的健身區以及瑜伽室。健身房提供各種課程和培訓項目，包括初學者入門課程和經驗豐富的登山者的高級技術課程。健身房還舉辦有關攀岩相關主題的講習班和研討會。<\/p><p>此外，館內常年舉辦各種攀岩比賽，包括抱石比賽、鉛攀比賽、速度攀登比賽等。這些活動是抱石者測試技能、與其他抱石者競爭並獲得樂趣的好方法。<\/p><p>最後但同樣重要的是，Megastone 為青年登山者提供課程，包括入門課程、高級培訓課程和夏令營。攀岩館經驗豐富的工作人員為年輕的登山者提供安全和支持性的學習和成長環境。<\/p><p>該設施乾淨，維護良好，並設有舒適的休息區，抱石者可以在攀登之間放鬆身心。還有淋浴和更衣室可供顧客使用。攀岩館提供所有必要的攀岩設備，包括攀石鞋和安全帶，如果需要，客戶可以租用粉袋和保護裝置。<\/p><p>總體而言，Megastone Climbing Gym 是一間一流的攀岩館，擁有一流的設施、經驗豐富的員工以及廣泛的攀岩路線和特色。是各級抱石者提高技能、玩樂的好去處。<\/p>"
           }
         }
       },
@@ -94,8 +95,8 @@
         "template--15952655024278__48b425ce-415f-4ef2-9c98-f36546a0afec-1677662154a18b39a6-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/stars.png",
-            "title": "設有獨有的抱石洞穴",
+            "image": "shopify:\/\/shop_images\/wall.png",
+            "title": "擁有高度達到15米的室內攀石牆",
             "text": "",
             "link_label": "",
             "link": ""
@@ -105,7 +106,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/flag.png",
-            "title": "國際色彩",
+            "title": "設有多於100條不同的路線",
             "text": "",
             "link_label": "",
             "link": ""
@@ -114,8 +115,8 @@
         "a6cbad9e-8e44-4407-bbf8-5f827024d77a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/infinity.png",
-            "title": "定期更換路線",
+            "image": "shopify:\/\/shop_images\/pillow.png",
+            "title": "設有優質的裝備及舒適的環境",
             "text": "",
             "link_label": "",
             "link": ""
@@ -124,8 +125,8 @@
         "d7ba897b-7c73-46ee-9cd9-18860c7eff16": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/weight.png",
-            "title": "設有訓練設施",
+            "image": "shopify:\/\/shop_images\/money.jpg",
+            "title": "價格親民",
             "text": "",
             "link_label": "",
             "link": ""
@@ -165,7 +166,7 @@
         "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Gravity_4.jpg",
+            "image": "shopify:\/\/shop_images\/egaSTONE_3.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -180,10 +181,10 @@
             "text_alignment_mobile": "center"
           }
         },
-        "115f759b-3a51-45bd-b1e3-8590d5960480": {
+        "9723bf62-85af-4a29-b51e-7de6a2ee056e": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Gravity_2.jpg",
+            "image": "shopify:\/\/shop_images\/egaSTONE_4.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -201,7 +202,7 @@
         "7df8e3e5-c0d0-4105-8646-42e31782bc16": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Gravity_3.jpg",
+            "image": "shopify:\/\/shop_images\/egaSTONE_6.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -219,7 +220,7 @@
       },
       "block_order": [
         "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0",
-        "115f759b-3a51-45bd-b1e3-8590d5960480",
+        "9723bf62-85af-4a29-b51e-7de6a2ee056e",
         "7df8e3e5-c0d0-4105-8646-42e31782bc16"
       ],
       "settings": {
@@ -228,6 +229,7 @@
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
@@ -239,7 +241,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>首次註冊費 ¥1,200<\/p>",
+            "text": "<p>成人 NT$360<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -248,7 +250,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>120分鐘 ¥1,800<\/p>",
+            "text": "<p>學生 NT$250<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -257,70 +259,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>學生120分鐘 ¥900<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "cf255631-9bb3-40b0-839b-4b1c9118518a": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>日票 ¥2,100 <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "e3280fb2-4bd2-4951-82ba-2b7c4a1cde0d": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>學生日票 ¥1,100 <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "2aca682d-630f-4849-95c4-faf25d7cfd28": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>女士或55歲以上日票 (僅限週一和周五*)  ¥1,400 <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "85660d4f-c024-4521-9ddc-051ddeb71d28": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>攀岩鞋租借 ¥400 <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "116125a5-eaf1-4d7c-b651-1a06dbc8c83c": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>鎂粉租借 ¥200 <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "b629c35b-1fd7-4358-b212-2abb15587f8f": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>攀石褲租借 ¥300<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "d58f8c72-7ffd-461d-8f99-07252439137e": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>襪子租借 ¥200<\/p>",
+            "text": "<p>兒童 NT$180<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -329,20 +268,13 @@
       "block_order": [
         "e3a2111f-c3d6-4ad9-8966-4bb349f3e82b",
         "f4548958-81a3-45ec-a9b9-95fd1b0461e9",
-        "388b75b0-17cf-45a2-938e-45c26acb27af",
-        "cf255631-9bb3-40b0-839b-4b1c9118518a",
-        "e3280fb2-4bd2-4951-82ba-2b7c4a1cde0d",
-        "2aca682d-630f-4849-95c4-faf25d7cfd28",
-        "85660d4f-c024-4521-9ddc-051ddeb71d28",
-        "116125a5-eaf1-4d7c-b651-1a06dbc8c83c",
-        "b629c35b-1fd7-4358-b212-2abb15587f8f",
-        "d58f8c72-7ffd-461d-8f99-07252439137e"
+        "388b75b0-17cf-45a2-938e-45c26acb27af"
       ],
       "custom_css": [
         "h3 {color: black;}"
       ],
       "settings": {
-        "title": "門票選項 含稅",
+        "title": "平日門票(週三除外)",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -358,64 +290,44 @@
         "padding_bottom": 36
       }
     },
-    "171e03d0-f043-4b34-b83f-8c7adf4740dc": {
+    "7f752700-5b6b-458f-947f-9591c406322c": {
       "type": "multicolumn",
       "blocks": {
-        "f84154ca-7273-41b6-88fe-8ecac0d38963": {
+        "3321927f-6773-4f30-a82b-f782899456f4": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>首次註冊費 ¥10,000<\/p>",
+            "text": "<p>成人 NT$400<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "562bf438-20da-4f37-8cd9-732fa09a0d13": {
+        "2d2e403e-6504-4cf2-8abe-a5244912d429": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>僅限註冊商店月票 ¥10,500 (¥5,500)<\/p>",
+            "text": "<p>學生 NT$300<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "ee29bfd7-7c13-4398-86e6-1cd844f22c50": {
+        "e08eeb36-620b-4bdf-8081-2cadb8ccaddb": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>一年合約僅限註冊商店月票 ¥9,450 (¥4,900)<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "c3591d42-f5b0-4d43-a851-8e9ce8f0a373": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>所有店鋪月票 ¥11,500 (¥6,000)<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "0c878ee6-3f8c-4575-bba1-a3487032d465": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>一年合約所有店鋪月票 ¥10,350 (¥5,400)<\/p>",
+            "text": "<p>兒童 NT$190<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "f84154ca-7273-41b6-88fe-8ecac0d38963",
-        "562bf438-20da-4f37-8cd9-732fa09a0d13",
-        "ee29bfd7-7c13-4398-86e6-1cd844f22c50",
-        "c3591d42-f5b0-4d43-a851-8e9ce8f0a373",
-        "0c878ee6-3f8c-4575-bba1-a3487032d465"
+        "3321927f-6773-4f30-a82b-f782899456f4",
+        "2d2e403e-6504-4cf2-8abe-a5244912d429",
+        "e08eeb36-620b-4bdf-8081-2cadb8ccaddb"
       ],
       "settings": {
-        "title": "會員計劃(*學生) 含稅",
+        "title": "週三,週六與週日門票",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -434,7 +346,7 @@
     "da011621-bd0d-46af-ac41-748180f08331": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d13119.885488451917!2d135.49477!3d34.705902!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e68e5565e075%3A0x6777a56804a7456d!2sGRAVITY%20RESEARCH%20UMEDA!5e0!3m2!1sen!2shk!4v1678848471910!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d14459.188530770409!2d121.460984!3d25.0409578!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a9be53d8e873%3A0x28471a968e81d8dd!2sMegaSTONE%20Climbing%20Gym!5e0!3m2!1sen!2suk!4v1683772096874!5m2!1sen!2suk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -448,7 +360,7 @@
     "48b425ce-415f-4ef2-9c98-f36546a0afec",
     "9cb85370-e1df-4257-9181-da5ab4af13a3",
     "036b0ac6-9826-4310-b9fd-56c2afd99763",
-    "171e03d0-f043-4b34-b83f-8c7adf4740dc",
+    "7f752700-5b6b-458f-947f-9591c406322c",
     "da011621-bd0d-46af-ac41-748180f08331"
   ]
 }
