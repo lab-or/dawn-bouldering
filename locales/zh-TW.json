@@ -194,7 +194,7 @@
       "reset": "重設",
       "sort_button": "排序",
       "sort_by_label": "排序依據：",
-      "to": "給",
+      "to": "到",
       "clear_filter": "移除篩選條件",
       "filter_selected_accessibility": "{{ type }} (已選取 {{ count }} 個篩選條件)",
       "show_more": "顯示更多內容",
