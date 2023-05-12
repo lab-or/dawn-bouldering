@@ -275,7 +275,6 @@
         },
         "62005267-6bc2-4f29-a918-33c640fc0c43": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "evolv"
           }
