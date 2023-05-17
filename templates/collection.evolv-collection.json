@@ -62,7 +62,7 @@
         "template--15828001554582__14451700-484b-42b4-afbc-6dd73d220b50-1680056126a8985ade-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Evolv於2003年在美國誕生，是專業的攀石鞋品牌，也是現代攀者的傑出代表。Evolv擁有傑出的設計師及工程師，採用優質原料，嚴格把控生產工藝，以維持最高的品質要求。<\/p>"
+            "text": "<p>Evolv於2003年在美國誕生，是專業的攀石鞋品牌，也是現代攀者的傑出代表。Evolv擁有傑出的設計師及工程師，採用優質原料，嚴格把控生產工藝，以維持最高的品質要求。<\/p><p><\/p>"
           }
         }
       },
@@ -77,6 +77,67 @@
         "full_width": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "45e5e71f-96aa-43fd-a0bc-1e5d2a3adc36": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16015255863446__45e5e71f-96aa-43fd-a0bc-1e5d2a3adc36-1684286546515110a7-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "EVOLV 攀石鞋選擇及尺碼建議：",
+            "icon": "check_mark",
+            "row_content": "<p>純新手推薦款式： DEFY \/ ELEKTRA \/ RAVE - 平底圓頭，舒適性高<br\/>進階新手推薦款式： KRONOS \/ KIRA - 同時適合高階訓練<br\/>戶外推薦款式： GESHIDO \/ GENERAL - 中底硬度高、支撐性更好<br\/>室內高階推薦款式： ZENIST - 鞋身非常軟，無中底支撐<br\/>室內外綜合推薦款式： DEFY \/ ELEKTRA \/ SHAMAN \/ PHANTOM<\/p>",
+            "page": ""
+          }
+        },
+        "template--16015255863446__45e5e71f-96aa-43fd-a0bc-1e5d2a3adc36-1684286546515110a7-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "EVOLV 外底科技",
+            "icon": "check_mark",
+            "row_content": "<p>EVOLV 嘅專利 – TRAX 科技嘅高性能橡膠外底係實驗室同眾多出色嘅材料物理學家聯同化學博士携手研製，通過不同配方帶出極緻嘅摩擦力和粘性、耐磨、耐用性，加上優秀嘅支撐性，係攀岩鞋市場領導科技之一。<\/p>",
+            "page": ""
+          }
+        },
+        "template--16015255863446__45e5e71f-96aa-43fd-a0bc-1e5d2a3adc36-1684286546515110a7-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "TRAX-SAS",
+            "icon": "check_mark",
+            "row_content": "<p>Evolv使用最多嘅外底型號，具有優秀嘅摩擦力和粘性 (90\/100)，非常耐磨同耐用性高 (85\/100)，同時係微小踩點提供良好嘅支撐性 (75\/100)。適用嘅場合同溫度廣泛，綜合性能出色。<\/p>",
+            "page": ""
+          }
+        },
+        "template--16015255863446__45e5e71f-96aa-43fd-a0bc-1e5d2a3adc36-1684286546515110a7-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "TRAX-XE",
+            "icon": "check_mark",
+            "row_content": "<p>強悍嘅微小踩點支撐性 (80\/100)，並且極其耐磨耐用 (100\/100)，但粘性較低 (50\/100) 。<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16015255863446__45e5e71f-96aa-43fd-a0bc-1e5d2a3adc36-1684286546515110a7-0",
+        "template--16015255863446__45e5e71f-96aa-43fd-a0bc-1e5d2a3adc36-1684286546515110a7-1",
+        "template--16015255863446__45e5e71f-96aa-43fd-a0bc-1e5d2a3adc36-1684286546515110a7-2",
+        "template--16015255863446__45e5e71f-96aa-43fd-a0bc-1e5d2a3adc36-1684286546515110a7-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "product-grid": {
@@ -102,6 +163,7 @@
     "banner",
     "6b44fe93-d4c0-4538-b59a-b249ecf71f21",
     "14451700-484b-42b4-afbc-6dd73d220b50",
+    "45e5e71f-96aa-43fd-a0bc-1e5d2a3adc36",
     "product-grid"
   ]
 }
