@@ -46,13 +46,14 @@
         ".media {right: 10%; left: 10%; width: 80%;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/B-pump_9.jpg",
-        "image_overlay_opacity": 20,
+        "image": "shopify:\/\/shop_images\/Noborock_logo_3.jpg",
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -64,14 +65,14 @@
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
           "type": "heading",
           "settings": {
-            "heading": "品牌歷史悠久",
+            "heading": "",
             "heading_size": "h1"
           }
         },
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>地址 - 113-0034 東京都文京區湯島１丁目１−8<br\/>面積：1980平方米<br\/>開放時間 週一至五：12:00-23:00  週六及假日：11:00-22:00   週日10:00-21:00<br\/>從秋葉原站步行7分鐘。<br\/>從茶水站步行6分鐘。<br\/><br\/>PUMP\/B-PUMP抱石館品牌自1993年創立至今已有30年，在日本擁有5間抱石館。<br\/><br\/>B-Pump Tokyo Akihabara 是一家位於日本東京秋葉原附近的抱石館。這裡是他們憑空想像創造的夢幻世界。日本最大規模的大型抱石館之一(約1980㎡)。  他們為初學者和高級抱石者提供各種體驗，包括抱石、頂繩攀岩和先鋒攀登。這是尋找新抱石夥伴的好地方——無需預訂，所有課程均免費（註冊費和入場費除外）。<br\/><br\/>除了主要的抱石區外，抱石館還設有帶防撞墊的獨立抱石區和充足的空間來鍛煉您的技術。抱石路線經常更改，因此總有新的嘗試。<br\/><br\/>B-Pump Tokyo Akihabara 有一個獨特的“太空牆”，這是一堵陡峭的懸垂牆，即使是最有經驗的抱石者也能挑戰。這堵牆的設計模仿了戶外抱石區的地形，並具有多種支撐點和功能來測試您的技能。<br\/><br\/>總括來說，B-Pump Tokyo Akihabara 是所有級別抱石者的熱門目的地，並會給您帶來有趣和具有挑戰性的抱石體驗。<\/p>"
+            "text": "<p>150-0031 東京都澀谷區櫻丘町９−1 ビアンクォードビル B1<br\/>開放時間 週一至五：10:00-23:00  週末及假日：10:00-22:00<\/p><p>面積：170平方米<\/p><p>從澀谷站步行7分鐘。<\/p><p>Noborock Shibuya 於 2008 年開業，並迅速成為日本東京最受歡迎嘅抱石館之一。在早期的時候，Noborock Shibuya 係一間相對較細抱寶石館，攀登路線數量有限，但係好快就以高質量嘅路線設置同友好嘅社區贏咗更多聲譽。隨著抱石館越來越受歡迎，Noborock擴大咗設施亦都增加咗更多攀石牆、訓練設備同項目，以滿足不斷增長嘅抱石者在社區嘅需求。<\/p><p>如今，Noborock 係日本最大、最受尊敬嘅抱石館之一。 Noborock Shibuya 位於日本東京繁華嘅澀谷區。抱石館設有寬敞明亮嘅室內抱石區，提供各種豐富多彩且具有挑戰性嘅抱石路線，這些路線會定期更新，牆壁高度從3米到4.5米不等。適合各個級別嘅抱石者，從初學者到高級抱石者。除了抱石，抱石館仲提供咗幫助登山者提高力量、技術同耐力嘅訓練項目，以及瑜伽同健身課程。此外，Noborock 多年來舉辦咗無數嘅比賽同活動，包括一年一度的嘅Noborock 杯，它吸引咗來自日本各地同其他地區嘅抱石者。<\/p><p>由以前到現在，Noborock Shibuya 一直致力於為各級抱石者提供安全、支持同具有挑戰性環境嘅使命。憑着其最先進嘅設施、友好喺社區同對卓越嘅承諾，Noborock Shibuya 已成為東京抱石界深受喜愛嘅地方，亦都係去日本抱石者必去嘅目的地。<\/p>"
           }
         }
       },
@@ -95,7 +96,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/stars.png",
-            "title": "設有室外抱石區",
+            "title": "設有兒童攀岩區",
             "text": "",
             "link_label": "",
             "link": ""
@@ -105,7 +106,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/money.jpg",
-            "title": "免費課程 (註冊費和入場費除外)",
+            "title": "年度Noborock杯",
             "text": "",
             "link_label": "",
             "link": ""
@@ -115,7 +116,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/infinity.png",
-            "title": "定期更換路線",
+            "title": "東京的主要交通樞紐",
             "text": "",
             "link_label": "",
             "link": ""
@@ -125,7 +126,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/wall.png",
-            "title": "設有獨有的太空牆",
+            "title": "日本最大、最受尊敬的抱石館之一",
             "text": "",
             "link_label": "",
             "link": ""
@@ -165,7 +166,61 @@
         "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bpump.jpg",
+            "image": "shopify:\/\/shop_images\/Noborock_1.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "c23aad63-cb30-48cc-ae22-e04d9ccb7eca": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/noborock_2.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "fd0673d8-31b7-4393-95be-ad035c42b745": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/noborock_3.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "6ccfc436-bbc4-4edb-a437-5043fb2e3089": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/noborock_4.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -182,7 +237,10 @@
         }
       },
       "block_order": [
-        "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0"
+        "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0",
+        "c23aad63-cb30-48cc-ae22-e04d9ccb7eca",
+        "fd0673d8-31b7-4393-95be-ad035c42b745",
+        "6ccfc436-bbc4-4edb-a437-5043fb2e3089"
       ],
       "settings": {
         "layout": "grid",
@@ -190,6 +248,7 @@
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
@@ -201,7 +260,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>工作日\/全天 ¥2,200 (¥1,650)<\/p>",
+            "text": "<p>平日 - 男士 ¥1,600<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -210,7 +269,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>平日\/白天 (營業~18:30) ¥1,980 (¥1,100)<\/p>",
+            "text": "<p>平日 - 女士 ¥1,200<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -219,7 +278,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>平日\/夜間 (18:00~) ¥1,980 (¥1,650)<\/p>",
+            "text": "<p>平日 - 學生 ¥1,000<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -228,7 +287,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>平日\/夜間 (21:00~) ¥1,430 (¥1,320)<\/p>",
+            "text": "<p>週末及假日 - 男士 ¥1,900<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -237,7 +296,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>週六、週日和節假日\/全天 ¥2,200 (¥1,650)<\/p>",
+            "text": "<p>週末及假日 - 女士 ¥1,400<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -246,7 +305,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>週六、週日和節假日\/夜間 (18:00~) ¥1,980 (¥1,650)<\/p>",
+            "text": "<p>週末及假日 - 學生 ¥1,400<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -255,7 +314,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>新年度會員 ¥126,000 (不含稅)(¥90,000) (不含稅)<\/p>",
+            "text": "<p>月費 - 男士<br\/>信用卡支付 - ¥6,980<br\/>現金支付 - ¥12,000<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -264,7 +323,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>連續年度情侶會員 ¥114,000 (¥81,000)<\/p>",
+            "text": "<p>月費 - 女士\/學生<br\/>信用卡支付 - ¥4,980<br\/>現金支付 - ¥9,500<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -273,7 +332,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>新半年會員 ¥76,000 (¥54,000)<\/p>",
+            "text": "<p>攀岩鞋 ¥300（首次租借免費）<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -282,43 +341,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>連續半年情侶會員 ¥69,000 (¥49,000)<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "a94d2bce-3ea5-4e23-b97b-506b9e015c53": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>每月會員 (可以使用一個 PUMP 抱石館) ¥12,600 (¥9,000)<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "fb020a80-6af5-4152-84d2-16e936df3751": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>黃金會員 (可以使用所有 PUMP 抱石館) ¥13,600 (¥10,000)<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "85660d4f-c024-4521-9ddc-051ddeb71d28": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>攀岩鞋 ¥330 (首次租借免費)<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "116125a5-eaf1-4d7c-b651-1a06dbc8c83c": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>鎂粉 ¥110 (首次租借免費)<\/p>",
+            "text": "<p>鎂粉 ¥100（首次租借免費）<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -334,17 +357,13 @@
         "96309e95-6e4f-4a61-9dd9-ad3af6455f56",
         "9d79acc9-5e62-42fc-9fa9-4828b6665454",
         "cf350895-508e-4fa9-8cd8-42e093322ce4",
-        "1e71b062-f644-4f08-a91f-fb6148d21cd9",
-        "a94d2bce-3ea5-4e23-b97b-506b9e015c53",
-        "fb020a80-6af5-4152-84d2-16e936df3751",
-        "85660d4f-c024-4521-9ddc-051ddeb71d28",
-        "116125a5-eaf1-4d7c-b651-1a06dbc8c83c"
+        "1e71b062-f644-4f08-a91f-fb6148d21cd9"
       ],
       "custom_css": [
         "h3 {color: black;}"
       ],
       "settings": {
-        "title": "門票選項 (*學生) 含稅",
+        "title": "門票選項",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -366,7 +385,7 @@
         "template--15968430751894__11f976b7-ab37-4a2b-8229-3b531ab64a8d-1677737659d479d384-1": {
           "type": "text",
           "settings": {
-            "text": "<p>註冊費（含稅）<\/p><p>如果您是第一次來 PUMP GYM ¥2,200<\/p><p>如果您已在任何其他 PUMP GYMS 註冊 ¥1,100<\/p>"
+            "text": "<p>首次註冊費 ¥1,000<\/p>"
           }
         }
       },
@@ -385,7 +404,7 @@
     "da011621-bd0d-46af-ac41-748180f08331": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d12960.286013700763!2d139.7679885!3d35.699858!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8dc11710e5d99829!2sB-PUMP%20TOKYO%20Akihabara!5e0!3m2!1sen!2shk!4v1677737548572!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d12967.601353254759!2d139.7028245!3d35.654827!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b5a40ce835b%3A0x4706ca4c05a22b4a!2sNOBOROCK%20Shibuya%20Bouldering%20GYM!5e0!3m2!1sen!2shk!4v1684999255819!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
