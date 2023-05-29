@@ -53,6 +53,7 @@
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -71,7 +72,7 @@
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>地址 - 香港鰂魚涌渣華道 321 號柯達大廈 1 期 4 樓<\/p><p>攀爬主題區樂園開放時間 - 星期一至五: 11:15am-7pm 星期六至日: 9:15am-7pm <\/p><p>攀石埸開放時間 - 星期一至五: 11am-11pm 星期六至日: 9am-9pm <\/p><p>Verm City 佔地面積約 20,000呎，除了提供不同難度的攀石埸外，更設有4.5米高攀石牆。最近 Verm City 亦推出藍精靈攀爬主題區樂園，當中的6米90度直角滑梯及4米梅花樁，亦深受小孩歡迎，絕對是高趣味性的適合親子活動！<\/p>"
+            "text": "<p>地址 - 香港鰂魚涌渣華道 321 號柯達大廈 1 期 4 樓<\/p><p>攀爬主題區樂園開放時間 - 星期一至五: 11am-7pm 星期六至日: 9am-7pm <\/p><p>攀石埸開放時間 - 星期一至五: 11am-11pm 星期六至日: 9am-9pm <\/p><p>Verm City 佔地面積約 20,000呎，除了提供不同難度的攀石埸外，更設有4.5米高攀石牆。最近 Verm City 亦推出藍精靈攀爬主題區樂園，當中的6米90度直角滑梯及4米梅花樁，亦深受小孩歡迎，絕對是高趣味性的適合親子活動！<\/p>"
           }
         },
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
@@ -259,6 +260,7 @@
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
@@ -270,7 +272,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>日票 $280<\/p>",
+            "text": "<p>日票 $280 (*$220)<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -315,7 +317,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>10張共享套票 $2600<\/p>",
+            "text": "<p>10張共享套票 (三個月有效) $2600<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -324,7 +326,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>20張共享套票 $5000<\/p>",
+            "text": "<p>20張共享套票 (六個月有效) $5000<\/p>",
             "link_label": "",
             "link": ""
           }
