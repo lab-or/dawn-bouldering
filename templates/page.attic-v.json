@@ -43,7 +43,7 @@
         "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"
       ],
       "custom_css": [
-        ".media{right: 10%; left: 10%; width: 80%;}"
+        ".media {right: 10%; left: 10%; width: 80%;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/1_9fddcd4c-99d6-47cb-90f4-80568fb6155e.png",
@@ -53,6 +53,7 @@
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -71,7 +72,7 @@
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>地址 - 香港黃竹坑道49號得力工業大廈地下E鋪<\/p><p>開放時間 - 星期一至六: 11am-10:30pm 星期日及公眾假期: 11am-8pm <\/p><p>Attic V由攀石經驗豐富的一對情侶經營。除了設有過百條路線，特點是從起點便存在一定的挑戰，適合有經驗的climbers。不過，Attic V亦提供多款適合新手的路線(場內的綠色路線)，可逐步跨越當中的難度！<br\/>攀石場正中位置設有走廊，令climbers既可有位置休息，同時亦可”近距離觀戰”！<\/p>"
+            "text": "<p>地址 - 香港黃竹坑道49號得力工業大廈地下E鋪<br\/>黃竹坑地鐵站A出口行3分鐘<\/p><p>開放時間 - 星期一至六: 11am-10:30pm 星期日及公眾假期: 11am-8pm <\/p><p>Attic V由攀石經驗豐富的一對情侶經營。除了設有過百條路線，特點是從起點便存在一定的挑戰，適合有經驗的climbers。不過，Attic V亦提供多款適合新手的路線(場內的綠色路線)，可逐步跨越當中的難度！<br\/>攀石場正中位置設有走廊，令climbers既可有位置休息，同時亦可”近距離觀戰”！<\/p>"
           }
         },
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
@@ -259,6 +260,7 @@
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
