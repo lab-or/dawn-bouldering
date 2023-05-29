@@ -53,6 +53,7 @@
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -259,6 +260,7 @@
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
@@ -288,7 +290,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>3個月套票 $2100<\/p>",
+            "text": "<p>3個月套票 $2100 (*$1750)<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -297,7 +299,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>6個月套票 $3900<\/p>",
+            "text": "<p>6個月套票 $3900 (*$3240)<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -306,7 +308,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>1年套票 $7320<\/p>",
+            "text": "<p>1年套票 $7320 (*$6100)<\/p>",
             "link_label": "",
             "link": ""
           }
