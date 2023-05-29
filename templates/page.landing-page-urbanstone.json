@@ -53,6 +53,7 @@
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -71,7 +72,7 @@
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>地址 - 新界葵涌葵豐街38-42號大鴻輝（葵涌）中心二期地下2號舖<\/p><p>開放時間 - 星期一至五: 11am-11pm 星期六: 10am-11pm 星期日: 10am-8pm<\/p><p>Urban Stone為於葵芳，佔地4000多尺，除了抱石區外，更設有領繩攀登區，多元化的攀登設施令每位climber體驗不同難度的路線。另外，場內設有休閑區，除了自己攀外，亦可在旁邊觀戰！<\/p>"
+            "text": "<p>地址 - 新界葵涌葵豐街38-42號大鴻輝（葵涌）中心二期地下2號舖<\/p><p>開放時間 - 星期一至五: 11am-11pm 星期六: 10am-10pm 星期日: 10am-8pm<\/p><p>Urban Stone為於葵芳，佔地4000多尺，除了抱石區外，更設有領繩攀登區，多元化的攀登設施令每位climber體驗不同難度的路線。另外，場內設有休閑區，除了自己攀外，亦可在旁邊觀戰！<\/p>"
           }
         },
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
@@ -240,6 +241,7 @@
         "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
@@ -252,6 +254,15 @@
           "settings": {
             "title": "",
             "text": "<p>日票 $218 (*$168)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "366a82d1-7954-410a-8a2b-718165b67793": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>晚票 (星期一至五晚上8-10點) $148<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -322,6 +333,7 @@
       },
       "block_order": [
         "template--15848049344662__12800802-383a-4447-af3e-332c59098c2f-166692544270a8a0e2-0",
+        "366a82d1-7954-410a-8a2b-718165b67793",
         "template--15848049344662__12800802-383a-4447-af3e-332c59098c2f-166692544270a8a0e2-1",
         "template--15848049344662__12800802-383a-4447-af3e-332c59098c2f-166692544270a8a0e2-2",
         "3033f70a-6415-426c-b205-924495df67d8",
