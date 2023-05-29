@@ -53,6 +53,7 @@
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -240,6 +241,7 @@
         "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
@@ -266,6 +268,15 @@
           }
         },
         "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>週票 $360<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "345b116c-7e53-470e-a461-8a7ff9631ba8": {
           "type": "column",
           "settings": {
             "title": "",
@@ -333,6 +344,7 @@
         "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0",
         "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1",
         "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2",
+        "345b116c-7e53-470e-a461-8a7ff9631ba8",
         "201491b4-deb5-4728-8810-382a63da656b",
         "e1eb27e8-cb0a-495b-92ce-de5dd362982e",
         "3bd7d3d5-05af-456e-8de5-08b91d645c3a",
@@ -504,6 +516,7 @@
         "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
