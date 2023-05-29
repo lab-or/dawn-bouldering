@@ -53,6 +53,7 @@
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -71,7 +72,7 @@
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>地址 - 新界將軍澳唐俊街28號海天晉滙120C及120D號舖<\/p><p>開放時間 - 星期一至五: 1pm-10pm 星期六: 11am-10pm <\/p><p>星期日及公眾假期: 10am-8pm<\/p><p>「Kizuna」是日語羈絆的意思，是人與自身以外的聯繫，不能割裂的情感關係。生活上時、地、人可能令你開始淡忘這個連結，而Kizuna則希望重新喚醒這段關係，令更多羈絆產生。<\/p>"
+            "text": "<p>地址 - 新界將軍澳唐俊街28號海天晉滙120C及120D號舖<\/p><p>開放時間 - 星期一至五: 1pm-10pm 星期六: 10am-10pm <\/p><p>星期日及公眾假期: 10am-8pm<\/p><p>「Kizuna」是日語羈絆的意思，是人與自身以外的聯繫，不能割裂的情感關係。生活上時、地、人可能令你開始淡忘這個連結，而Kizuna則希望重新喚醒這段關係，令更多羈絆產生。<\/p>"
           }
         },
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
@@ -259,6 +260,7 @@
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
@@ -446,6 +448,7 @@
         "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
