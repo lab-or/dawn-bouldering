@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
@@ -10,7 +11,7 @@
     "ec2f8799-cd70-4839-821c-b62db705f78c": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<iframe src=\"https:\/\/calendar.google.com\/calendar\/embed?src=felix.wu%40zuhlke.com&ctz=Asia%2FHong_Kong\" style=\"border: 0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"><\/iframe>",
+        "custom_liquid": "<iframe src=\"https:\/\/calendar.google.com\/calendar\/embed?height=600&wkst=1&bgcolor=%23616161&ctz=Asia%2FHong_Kong&showTabs=0&showTitle=0&showNav=0&showDate=0&showPrint=0&showCalendars=0&showTz=1&src=ZmVsaXgud3VAenVobGtlLmNvbQ&color=%23039BE5\" width=\"100%\" height=\"800\" style=\"border:0; padding-left: 5%;\npadding-right: 5%;\"scrolling=\"no\"><\/iframe>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
