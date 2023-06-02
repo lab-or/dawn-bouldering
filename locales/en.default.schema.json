@@ -639,18 +639,6 @@
         "name": "Custom Liquid"
       }
     },
-    "customisable_field": {
-      "name": "Customisable Input Field",
-      "settings": {
-        "customisable_field": {
-          "label": "Customisable Input Field",
-          "info": "Add customisable field for product"
-        }
-      },
-      "presets": {
-        "name": "Customisable Input Field"
-      }
-    },
     "featured-blog": {
       "name": "Blog posts",
       "settings": {
@@ -2022,6 +2010,18 @@
               "label": "Custom liquid",
               "info": "Add app snippets or other Liquid code to create advanced customizations."
             }
+          }
+        },
+        "customisable_field": {
+          "name": "Customisable Input Field",
+          "settings": {
+            "customisable_field": {
+              "label": "Customisable Input Field",
+              "info": "Add customisable field for product"
+            }
+          },
+          "presets": {
+            "name": "Customisable Input Field"
           }
         },
         "collapsible_tab": {
