@@ -63,11 +63,12 @@
         "vendor",
         "title",
         "price",
+        "description",
         "variant_picker",
+        "customisable_field",
         "67a9c921-e7f3-4a72-adf3-64b34c7e35d6",
         "quantity_selector",
         "buy_buttons",
-        "description",
         "share"
       ],
       "settings": {
