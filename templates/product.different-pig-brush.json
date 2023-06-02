@@ -29,7 +29,7 @@
         "67a9c921-e7f3-4a72-adf3-64b34c7e35d6": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<textarea \nrequired class=\"text-area\" placeholder=\"Type your custom text here!\" name=\"properties[custom_text]\" form=\"product-form-{{ section.id }}\"\n>\n<\/textarea>"
+            "custom_liquid": "<textarea required class=\"text-area\" placeholder=\"Type your custom text here!\" name=\"properties[custom_text]\" form=\"product-form-{{ section.id }}\"\n>\n<\/textarea>"
           }
         },
         "quantity_selector": {
