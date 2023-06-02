@@ -32,6 +32,9 @@
             "custom_liquid": "<textarea required class=\"text-area\" placeholder=\"Type your custom text here!\" name=\"properties[custom_text]\" form=\"product-form-{{ section.id }}\"\n>\n<\/textarea>"
           }
         },
+        "customisable_field": {
+          "type": "customisable_field"
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
