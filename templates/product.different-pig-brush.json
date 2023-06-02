@@ -31,6 +31,12 @@
           "settings": {
           }
         },
+        "67a9c921-e7f3-4a72-adf3-64b34c7e35d6": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<textarea name=\"properties[custom_text]\" form=\"product-form-template--16028241297558__main\">\n<\/textarea>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -56,6 +62,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "67a9c921-e7f3-4a72-adf3-64b34c7e35d6",
         "buy_buttons",
         "description",
         "share"
