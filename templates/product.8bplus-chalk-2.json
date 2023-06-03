@@ -39,7 +39,8 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
           }
         },
         "4cb569fc-186a-46fb-85c8-6676e54e2ebd": {
@@ -137,8 +138,11 @@
       "settings": {
         "enable_sticky_info": true,
         "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
         "gallery_layout": "stacked",
         "media_position": "left",
+        "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
@@ -197,43 +201,6 @@
         "include_margins": true
       }
     },
-    "image-with-text": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "image-with-text-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "8BPlus",
-            "heading_size": "h1"
-          }
-        },
-        "image-with-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>8BPLUS為運動攀岩和抱石領域打造攀岩裝備中的必需品。 設計上忠於自己的根源，亦同時兼備創新元素和想像力。 起源於阿爾卑斯山中部是他們引以為豪的傳統。8BPLUS 與攀登有著深厚的淵源，帶著原始的攀登精神。<br\/>所有8BPLUS產品均由攀登愛好者設計。<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "image-with-text-0",
-        "image-with-text-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/8BPLUS_2.png",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -256,7 +223,6 @@
     "main",
     "1681552880aa9abf2b",
     "166757769760b4b241",
-    "image-with-text",
     "product-recommendations"
   ]
 }
