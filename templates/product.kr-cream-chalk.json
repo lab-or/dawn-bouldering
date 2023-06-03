@@ -39,7 +39,8 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
           }
         },
         "collapsible-row-0": {
@@ -118,8 +119,11 @@
       "settings": {
         "enable_sticky_info": true,
         "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
         "gallery_layout": "stacked",
         "media_position": "left",
+        "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
@@ -141,43 +145,6 @@
       ],
       "settings": {
         "include_margins": true
-      }
-    },
-    "image-with-text": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "image-with-text-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "關於 KletterRetter",
-            "heading_size": "h1"
-          }
-        },
-        "image-with-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>KletterRetter 於 2010 年，當他們的創辦人 Dave 和他的妻子 Steph 正在世界各地攀登時誕生。當時Dave在一次攀登過程中， 撕開了手指上的老繭，然後形成了一個充滿痛楚的觸點。但正因為這次經歷令他們決定開發一款尊為攀登者而設的護膚產品。<br\/><br\/>從適用於乾燥和有龜裂情況皮膚的護手霜和香脂，到鎂粉、手指膠帶、急救、訓練產品等等，KletterRetter 可全方位幫助您提高攀石表現。<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "image-with-text-0",
-        "image-with-text-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Climbing_Gyms_Product_Shot_13_66935fe2-119f-493f-858f-8630cdf96f91.png",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "1670825272db14401c": {
@@ -236,7 +203,6 @@
   "order": [
     "main",
     "168109130674f08267",
-    "image-with-text",
     "1670825272db14401c",
     "product-recommendations"
   ]
