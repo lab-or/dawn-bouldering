@@ -39,7 +39,8 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
           }
         },
         "collapsible-row-0": {
@@ -118,8 +119,11 @@
       "settings": {
         "enable_sticky_info": true,
         "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
         "gallery_layout": "stacked",
         "media_position": "left",
+        "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
@@ -162,88 +166,6 @@
         "include_margins": true
       }
     },
-    "image-with-text": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "image-with-text-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "關於 Volcano",
-            "heading_size": "h1"
-          }
-        },
-        "image-with-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>VOLCANO HK 在2020年底由幾位運動員創立，大部分的成員主要接觸攀岩或體操這兩項運動。他們覺得在不斷變遷的生活環境中，大家常常要面對很多壓力，身心難免會疲累，他們希望可以透過 「<strong>IGNITE YOUR  PASSION<\/strong>」提醒大家心裡對目標的那份熱情，向著目標需要保持着無畏無懼、不屈不撓的精神。<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "image-with-text-0",
-        "image-with-text-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Climbing_Gyms_Product_Shot_23.png",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "41b2b5b2-4392-48ef-be88-858058677b70": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--15899709538454__41b2b5b2-4392-48ef-be88-858058677b70-16703777097dbf3d82-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "不斷地優化品質",
-            "heading_size": "h1"
-          }
-        },
-        "template--15899709538454__41b2b5b2-4392-48ef-be88-858058677b70-16703777097dbf3d82-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>在香港第三波的疫情期間，幾位成員因討論出體操及攀岩其中一個共通點是鎂粉的使用，但為什麼香港沒有本地製作的鎂粉？所以他們就決定做出能媲美日本鎂粉的香港鎂粉。說實話其實整個研發過程並不容易，只是調配鎂粉的品質也用了半年時間。無論是鎂粉的乾爽度、持續力、目數(每顆鎂粉的大小)及香味，也經過多番的嘗試及失敗才能研發出今天的VOLCANO CHALK。直到現在他們仍不斷地優化品質，開業後也曾兩度提升品質，務求做到極緻的效果，幫助各位有更好的運動表現。<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--15899709538454__41b2b5b2-4392-48ef-be88-858058677b70-16703777097dbf3d82-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15899709538454__41b2b5b2-4392-48ef-be88-858058677b70-16703777097dbf3d82-0",
-        "template--15899709538454__41b2b5b2-4392-48ef-be88-858058677b70-16703777097dbf3d82-1",
-        "template--15899709538454__41b2b5b2-4392-48ef-be88-858058677b70-16703777097dbf3d82-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/banner_about_us_2-1.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -265,8 +187,6 @@
   "order": [
     "main",
     "1676453295c5ef1fc8",
-    "image-with-text",
-    "41b2b5b2-4392-48ef-be88-858058677b70",
     "product-recommendations"
   ]
 }

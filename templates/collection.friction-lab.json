@@ -78,44 +78,6 @@
         "padding_bottom": 0
       }
     },
-    "e2a1d85e-a009-461f-84f0-bab4ec52558c": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--15986512232598__e2a1d85e-a009-461f-84f0-bab4ec52558c-16800563325d370f51-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "關於 Friction Lab",
-            "heading_size": "h1"
-          }
-        },
-        "template--15986512232598__e2a1d85e-a009-461f-84f0-bab4ec52558c-16800563325d370f51-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Friction Labs 團隊是由一群運動員所組成。他們意識到優質的鎂粉具備影響力——無論運動者用在攀石、揮動壺鈴還是網球場上，更好的抓握力意味著更好的表現。 經過與世界上一眾最優秀的登山者和運動員進行一系列嚴格測試後，終於創造出現時的配方。<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--15986512232598__e2a1d85e-a009-461f-84f0-bab4ec52558c-16800563325d370f51-0",
-        "template--15986512232598__e2a1d85e-a009-461f-84f0-bab4ec52558c-16800563325d370f51-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Transparent_Version.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -139,7 +101,6 @@
     "banner",
     "6b44fe93-d4c0-4538-b59a-b249ecf71f21",
     "14451700-484b-42b4-afbc-6dd73d220b50",
-    "e2a1d85e-a009-461f-84f0-bab4ec52558c",
     "product-grid"
   ]
 }

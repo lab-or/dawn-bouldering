@@ -39,7 +39,8 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
           }
         },
         "ddc77316-e80e-4acd-9f7a-7004429444e5": {
@@ -148,58 +149,16 @@
       "settings": {
         "enable_sticky_info": true,
         "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
         "gallery_layout": "stacked",
         "media_position": "left",
+        "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 12
-      }
-    },
-    "957bfcea-1226-4745-afba-8b9748929c7b": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--15882743283862__957bfcea-1226-4745-afba-8b9748929c7b-1668608524ce0fafb7-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--15882743283862__957bfcea-1226-4745-afba-8b9748929c7b-1668608524ce0fafb7-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--15882743283862__957bfcea-1226-4745-afba-8b9748929c7b-1668608524ce0fafb7-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15882743283862__957bfcea-1226-4745-afba-8b9748929c7b-1668608524ce0fafb7-0",
-        "template--15882743283862__957bfcea-1226-4745-afba-8b9748929c7b-1668608524ce0fafb7-1",
-        "template--15882743283862__957bfcea-1226-4745-afba-8b9748929c7b-1668608524ce0fafb7-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Chalk_Bag.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "16675776069bd32143": {
@@ -237,111 +196,6 @@
         "include_margins": true
       }
     },
-    "c8f32836-f54a-41c3-a31d-54f63082c352": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--15882743283862__c8f32836-f54a-41c3-a31d-54f63082c352-1676452473fafc5758-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_1832a2f5-21e0-44e8-b537-4fb99a7c056f.png",
-            "title": "管理你的訂閱計劃方法 - 建立帳戶",
-            "text": "<p>閣下可在下單前先建立帳戶，當訂單確認後，只需點擊帳戶管理，並選擇’Manage Subscription’。為了更方便管理訂閱計劃，我們建議建立屬於閣下的帳戶，並免費加入會員計劃，更可獲取積分而兌換多重優惠！<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15882743283862__c8f32836-f54a-41c3-a31d-54f63082c352-1676452473fafc5758-0"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "建立帳戶",
-        "button_link": "shopify:\/\/pages\/loyalty-program",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "fc9a28d6-ca28-426e-8037-ba620d9b20d6": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "d9ce1062-f9de-4ba5-821c-444a645f8bd9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3_ffbff69b-8b69-4345-9f81-d223c4298bd7.png",
-            "title": "管理訂閱計劃頁面",
-            "text": "<p>進入管理訂閱計劃頁面後，閣下可查閱訂單資料，亦可自由訂制或修改自己的計劃內容，包括頻率，跳過及新增訂單貨品等等。<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "d9ce1062-f9de-4ba5-821c-444a645f8bd9"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "19c839c5-91c5-4be2-917d-b2bdfa2e3ac8": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "d652cf8c-289e-4e3b-b309-01e4066f4f0c": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Subscription_Info_2.png",
-            "title": "取消或暫停訂閱計劃",
-            "text": "<p>如果閣下需要取消或暫停已選擇的訂閱計劃，可隨時在Manage Subscription的頁面內選擇所需的選項。一旦取消或暫停該訂閱計劃後，我們將不會再收取計劃的任何費用，亦不設任何退款。<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "d652cf8c-289e-4e3b-b309-01e4066f4f0c"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -362,11 +216,7 @@
   },
   "order": [
     "main",
-    "957bfcea-1226-4745-afba-8b9748929c7b",
     "16675776069bd32143",
-    "c8f32836-f54a-41c3-a31d-54f63082c352",
-    "fc9a28d6-ca28-426e-8037-ba620d9b20d6",
-    "19c839c5-91c5-4be2-917d-b2bdfa2e3ac8",
     "product-recommendations"
   ]
 }
