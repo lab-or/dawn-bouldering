@@ -104,118 +104,6 @@
         "padding_bottom": 36
       }
     },
-    "e9cfbde5-c3d6-4cd5-9de7-09095b873920": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--15828001620118__e9cfbde5-c3d6-4cd5-9de7-09095b873920-168318781427a40857-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Climbskin8_d062639f-0dad-4ab4-baa8-d1c9394d9a42.png",
-            "title": "",
-            "text": "<p>HK$160.00<\/p>",
-            "link_label": "Climbskin 護手霜 (30ml)",
-            "link": "shopify:\/\/products\/climbskin-handcream-skin-care"
-          }
-        },
-        "template--15828001620118__e9cfbde5-c3d6-4cd5-9de7-09095b873920-168318781427a40857-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FrictionLabNoAlcohol.png",
-            "title": "",
-            "text": "<p>HK$157.00<\/p>",
-            "link_label": "Friction Labs - 無酒精液態鎂粉",
-            "link": "shopify:\/\/products\/friction-lab-alcohol-free-secret-stuff"
-          }
-        },
-        "template--15828001620118__e9cfbde5-c3d6-4cd5-9de7-09095b873920-168318781427a40857-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/lati_7_158a034d-31c3-4e1a-986e-e0bdb9d43cee.png",
-            "title": "",
-            "text": "<p>HK$1199.00<\/p>",
-            "link_label": "Tenaya - Iati",
-            "link": "shopify:\/\/products\/tenaya-iati"
-          }
-        },
-        "50a0fd8f-97d2-4240-af59-4c1fc7116af3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackDiamondGoldChalk.png",
-            "title": "",
-            "text": "<p>HK$49.00起<\/p>",
-            "link_label": "Black Diamond - Black Gold Loose Chalk",
-            "link": "shopify:\/\/products\/black-diamond-black-gold-loose-chalk"
-          }
-        },
-        "17ef8d37-0125-4a4b-8a76-423c5d3d2d6b": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/VolcanoRing_9f5d79f6-a504-4074-b5b3-3eecf2c2cc9b.png",
-            "title": "",
-            "text": "<p>HK$100.00<\/p>",
-            "link_label": "Volcano Ring - 100ml",
-            "link": "shopify:\/\/products\/volcano-ring"
-          }
-        },
-        "798df3d3-5902-4880-a66e-fb5769239fee": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8B_liquidchalk_3_b1ff0b4d-2b35-4e03-8cf7-19d917b35921.png",
-            "title": "",
-            "text": "<p>HK$115.00<\/p>",
-            "link_label": "8BPlus - Liquid Chalk - 125 ml",
-            "link": "shopify:\/\/products\/8bplus-liquid-chalk-125ml"
-          }
-        },
-        "fc25949b-311b-4617-a76a-2e16559cc86c": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/KRCreamChalk_a538e142-fd31-49c8-b563-948c61527bca.png",
-            "title": "",
-            "text": "<p>HK$100.00<\/p>",
-            "link_label": "KletterRetter - 乳狀鎂粉150毫升",
-            "link": "shopify:\/\/products\/kletterretter-cream-chalk"
-          }
-        },
-        "3f523728-f08f-466f-a16d-d16b63a7d69c": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/backflag-fatboy.png",
-            "title": "",
-            "text": "<p>HK$59.00<\/p>",
-            "link_label": "Backflag - Fat Boy Chunky Chalk",
-            "link": "shopify:\/\/products\/fat-boy-chunky-chalk"
-          }
-        }
-      },
-      "block_order": [
-        "template--15828001620118__e9cfbde5-c3d6-4cd5-9de7-09095b873920-168318781427a40857-0",
-        "template--15828001620118__e9cfbde5-c3d6-4cd5-9de7-09095b873920-168318781427a40857-1",
-        "template--15828001620118__e9cfbde5-c3d6-4cd5-9de7-09095b873920-168318781427a40857-2",
-        "50a0fd8f-97d2-4240-af59-4c1fc7116af3",
-        "17ef8d37-0125-4a4b-8a76-423c5d3d2d6b",
-        "798df3d3-5902-4880-a66e-fb5769239fee",
-        "fc25949b-311b-4617-a76a-2e16559cc86c",
-        "3f523728-f08f-466f-a16d-d16b63a7d69c"
-      ],
-      "settings": {
-        "title": "精選商品",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "檢視全部",
-        "button_link": "https:\/\/laborsports.com\/pages\/expertrec-search?q=*",
-        "color_scheme": "background-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "456fd9f6-eb77-4b87-8a19-fdddcb3f1173": {
       "type": "collection-list",
       "blocks": {
@@ -405,7 +293,6 @@
   "order": [
     "85ae0ad4-4b3f-40dd-a70f-013c272aa89e",
     "507acba5-5310-4bda-a090-86817d0f5244",
-    "e9cfbde5-c3d6-4cd5-9de7-09095b873920",
     "456fd9f6-eb77-4b87-8a19-fdddcb3f1173",
     "ef14b0ae-f382-4540-8313-1acba6535481",
     "ce5988e8-e95d-4b45-a637-f6a32bf421bd"
