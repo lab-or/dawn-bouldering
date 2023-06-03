@@ -396,62 +396,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "d5b31819-263d-433f-b1a4-cc17843edc89": {
-      "type": "slideshow",
-      "disabled": true,
-      "blocks": {
-        "template--15850527588502__d5b31819-263d-433f-b1a4-cc17843edc89-166631577502e0098a-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sports_Fashion_2000_x_1500_px_9.png",
-            "heading": "絆の日第四彈 - 百鬼病院 8月28日~9月29日",
-            "heading_size": "h2",
-            "subheading": "逃離詭異精神病院，繼續不只於爬石！",
-            "button_label": "了解更多",
-            "link": "https:\/\/www.instagram.com\/p\/CjaPbRzPzu1\/",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 50,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--15850527588502__d5b31819-263d-433f-b1a4-cc17843edc89-166631577502e0098a-1": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sports_Fashion_2000_x_1500_px_10.png",
-            "heading": "絆の日第三彈 - 百鬼病院 9月25日",
-            "heading_size": "h2",
-            "subheading": "偵兇實錄🩸劇情中將有一單兇殺案需要大家動動腦袋🧠運用你嘅智慧🧐同場上不同嘅道具觀察同分析每項提示⚠️睇下邊個能夠搵到劇情中嘅真正兇手！",
-            "button_label": "了解更多",
-            "link": "https:\/\/www.instagram.com\/p\/CipcQxEvnCk\/",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 50,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--15850527588502__d5b31819-263d-433f-b1a4-cc17843edc89-166631577502e0098a-0",
-        "template--15850527588502__d5b31819-263d-433f-b1a4-cc17843edc89-166631577502e0098a-1"
-      ],
-      "settings": {
-        "layout": "grid",
-        "slide_height": "adapt_image",
-        "slider_visual": "dots",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
     }
   },
   "order": [
@@ -461,7 +405,6 @@
     "3840052f-b99d-4d73-8914-adc89eda3f4f",
     "44b2075d-04c3-4e75-b044-f248610a84c1",
     "e28df9af-f840-4197-99ab-bd7681193a89",
-    "3075085a-2a7c-4ee1-af68-8f9045da333b",
-    "d5b31819-263d-433f-b1a4-cc17843edc89"
+    "3075085a-2a7c-4ee1-af68-8f9045da333b"
   ]
 }

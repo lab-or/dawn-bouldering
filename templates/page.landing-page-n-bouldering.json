@@ -407,119 +407,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "1b314274-d80e-4e3c-bb24-3f945285c81c": {
-      "type": "slideshow",
-      "disabled": true,
-      "blocks": {
-        "template--15882729586838__1b314274-d80e-4e3c-bb24-3f945285c81c-16729976320b7c8684-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/N_Bouldering_3_9ee8511b-ed46-4393-944e-5a092e8639b4.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--15882729586838__1b314274-d80e-4e3c-bb24-3f945285c81c-16729976320b7c8684-1": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/N_Bouldering_4e48d986-ac00-4b6f-8cd3-ea82f56ab270.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "94ad8463-cfdc-489f-8e9b-e7a1fa0b83a9": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/N_Bouldering_2_159ced9d-528a-4bd7-a4f8-ac9a17dcdd58.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "81eed515-6a2b-4a0e-a765-caffd27d106a": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/N_Bouldering_2_feb16ed1-58f2-41d3-8d63-b43eb89e4bd2.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "7bb61faa-143c-4cca-bdf4-c719d925c49f": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/N_Bouldering_0cedb01d-5187-410c-bdaf-8a8160ec59f1.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--15882729586838__1b314274-d80e-4e3c-bb24-3f945285c81c-16729976320b7c8684-0",
-        "template--15882729586838__1b314274-d80e-4e3c-bb24-3f945285c81c-16729976320b7c8684-1",
-        "94ad8463-cfdc-489f-8e9b-e7a1fa0b83a9",
-        "81eed515-6a2b-4a0e-a765-caffd27d106a",
-        "7bb61faa-143c-4cca-bdf4-c719d925c49f"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "dots",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": "Slideshow about our brand"
-      }
     }
   },
   "order": [
@@ -530,7 +417,6 @@
     "ba5683dc-2d5a-48ba-b749-106b755429d6",
     "036b0ac6-9826-4310-b9fd-56c2afd99763",
     "88f49ba6-7778-4a93-a507-f23babb1bac9",
-    "c25bfe77-c2dc-4b45-b32c-3fa56069fab5",
-    "1b314274-d80e-4e3c-bb24-3f945285c81c"
+    "c25bfe77-c2dc-4b45-b32c-3fa56069fab5"
   ]
 }
