@@ -39,7 +39,8 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
           }
         },
         "c43b4664-c634-4c2d-8358-11346b5443b5": {
@@ -137,8 +138,11 @@
       "settings": {
         "enable_sticky_info": true,
         "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
         "gallery_layout": "stacked",
         "media_position": "left",
+        "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
@@ -187,43 +191,6 @@
         "include_margins": false
       }
     },
-    "image-with-text": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "image-with-text-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Climbskin",
-            "heading_size": "h1"
-          }
-        },
-        "image-with-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>2013年，攀石護膚品牌  Climbskin 在西班牙成立。一群攀手發現傳統的鎂粉和潤膚膏不足以防止皮膚損傷和促進皮膚再生，旨為找出更有效方法改善皮膚健康和表現而創立  Climbskin 。<\/p><p>針對上述問題，<br\/>Climbskin 團隊找來皮膚科醫生和化學家合作，開發了一系列專門為攀石者設計的護膚產品。產品採用天然和有機成分製成，有助於滋潤和保護皮膚，同時提高抓握力，防止水泡和其他皮膚損傷。<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "image-with-text-0",
-        "image-with-text-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Climbskin_logo_1024_x_1024px.png",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -246,7 +213,6 @@
     "main",
     "1671105833da759127",
     "593116363c3bcdb6c8",
-    "image-with-text",
     "product-recommendations"
   ]
 }
