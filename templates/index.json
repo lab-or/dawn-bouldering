@@ -3,6 +3,24 @@
     "85ae0ad4-4b3f-40dd-a70f-013c272aa89e": {
       "type": "slideshow",
       "blocks": {
+        "e2e4081c-e52d-49c3-b418-01573e2c8b2d": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wesbite_banner_1200_x_500_px.png",
+            "heading": "Volcano鎂粉快閃優惠",
+            "heading_size": "h2",
+            "subheading": "買2包乾粉即享85折！",
+            "button_label": "立即選購",
+            "link": "shopify:\/\/collections\/volcano-dry-chalk",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 40,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "16c8f386-da8e-4211-b33f-44d2b634aaf3": {
           "type": "slide",
           "settings": {
@@ -56,32 +74,13 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "e2e4081c-e52d-49c3-b418-01573e2c8b2d": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Wesbite_banner_1200_x_500_px.png",
-            "heading": "Volcano鎂粉快閃優惠",
-            "heading_size": "h2",
-            "subheading": "買2包乾粉即享85折！",
-            "button_label": "立即選購",
-            "link": "shopify:\/\/collections\/volcano-dry-chalk",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 40,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
+        "e2e4081c-e52d-49c3-b418-01573e2c8b2d",
         "16c8f386-da8e-4211-b33f-44d2b634aaf3",
         "370b5b57-2c9f-4515-82f1-59d0f68a5bc1",
-        "13db4520-59c8-4b40-8180-a4ff5f73f8d3",
-        "e2e4081c-e52d-49c3-b418-01573e2c8b2d"
+        "13db4520-59c8-4b40-8180-a4ff5f73f8d3"
       ],
       "custom_css": [
         "slideshow-component {}"
