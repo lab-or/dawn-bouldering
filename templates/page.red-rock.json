@@ -43,12 +43,12 @@
         "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"
       ],
       "custom_css": [
-        ".media {right: 10%; left: 10%; width: 80%;}"
+        ".media {right: 5%; left: 5%; width: 90%;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/boulcom_logo.png",
-        "image_overlay_opacity": 20,
-        "image_height": "medium",
+        "image": "shopify:\/\/shop_images\/Redrock_logo.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -166,7 +166,7 @@
         "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/boulcom_1.jpg",
+            "image": "shopify:\/\/shop_images\/Redrock_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -184,7 +184,7 @@
         "84ec57cc-00eb-41d5-bf73-b21025e91aed": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/boulcom_2.jpg",
+            "image": "shopify:\/\/shop_images\/Redrock_2.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -202,7 +202,7 @@
         "6f7e6d99-936c-49d3-9e56-99d317473a64": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/boulcom_3.jpg",
+            "image": "shopify:\/\/shop_images\/Redrock_4.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -220,7 +220,7 @@
         "c4f8b902-a73f-4039-8c78-e0c2a4751d33": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/boulcom_4.jpg",
+            "image": "shopify:\/\/shop_images\/Redrock_5.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -238,7 +238,7 @@
         "ab18f462-32bb-47f9-b414-642bdd8658be": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/boulcom_5.jpg",
+            "image": "shopify:\/\/shop_images\/Redrock_7.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -270,28 +270,6 @@
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "11f976b7-ab37-4a2b-8229-3b531ab64a8d": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15968430751894__11f976b7-ab37-4a2b-8229-3b531ab64a8d-1677737659d479d384-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>首次登記 - ¥1,650<\/h3>"
-          }
-        }
-      },
-      "block_order": [
-        "template--15968430751894__11f976b7-ab37-4a2b-8229-3b531ab64a8d-1677737659d479d384-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
       }
     },
     "72d4650d-5e1b-4ed8-9a25-a2713508c98b": {
@@ -413,7 +391,6 @@
     "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
     "48b425ce-415f-4ef2-9c98-f36546a0afec",
     "9cb85370-e1df-4257-9181-da5ab4af13a3",
-    "11f976b7-ab37-4a2b-8229-3b531ab64a8d",
     "72d4650d-5e1b-4ed8-9a25-a2713508c98b",
     "da011621-bd0d-46af-ac41-748180f08331"
   ]
