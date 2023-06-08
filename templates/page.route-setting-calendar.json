@@ -10,7 +10,7 @@
     "ec2f8799-cd70-4839-821c-b62db705f78c": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<iframe src=\"https:\/\/embed.styledcalendar.com\/#yjhtFE9Epn6rUANrkrFB\" title=\"Styled Calendar\" class=\"styled-calendar-container\" style=\"width: 100%; height: 700px; padding-left: 5%; padding-right: 5%; border: none;\" scrolling=\"yes\" data-cy=\"calendar-embed-iframe\"><\/iframe>\n<script async type=\"module\" src=\"https:\/\/embed.styledcalendar.com\/assets\/parent-window.js\"><\/script>",
+        "custom_liquid": "<iframe src=\"https:\/\/embed.styledcalendar.com\/#qqp1Pa93jnZlXjW9rDYP\" title=\"Styled Calendar\" class=\"styled-calendar-container\" style=\"width: 100%; height: 700px; padding-left: 5%; padding-right: 5%; border: none;\" scrolling=\"yes\" data-cy=\"calendar-embed-iframe\"><\/iframe>\n<script async type=\"module\" src=\"https:\/\/embed.styledcalendar.com\/assets\/parent-window.js\"><\/script>",
         "color_scheme": "background-1",
         "padding_top": 12,
         "padding_bottom": 16
@@ -19,14 +19,22 @@
     "68463f08-e82f-4b8b-a50e-74c1a528a6de": {
       "type": "rich-text",
       "blocks": {
+        "6187d16c-8725-4157-a182-26a04660031b": {
+          "type": "heading",
+          "settings": {
+            "heading": "聲明:",
+            "heading_size": "h2"
+          }
+        },
         "template--16030855397526__68463f08-e82f-4b8b-a50e-74c1a528a6de-1686120325023739be-1": {
           "type": "text",
           "settings": {
-            "text": "<p>聲明: <\/p>"
+            "text": "<p>本頁信息只供參考。 Lab-Or 唔保證所提供資料嘅準確性。建議你睇番每個攀石場嘅 IG 或者網站去獲得最新及最準確嘅信息。 Lab-Or 對因為本頁信息造成或引起嘅任何損失唔承擔任何責任 (唔好諗住屈我哋 ;))。<\/p>"
           }
         }
       },
       "block_order": [
+        "6187d16c-8725-4157-a182-26a04660031b",
         "template--16030855397526__68463f08-e82f-4b8b-a50e-74c1a528a6de-1686120325023739be-1"
       ],
       "settings": {
