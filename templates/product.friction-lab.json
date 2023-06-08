@@ -157,6 +157,7 @@
     },
     "41936f1a-5773-4764-9923-7169be7be245": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "template--16013531578518__41936f1a-5773-4764-9923-7169be7be245-168621544557683a78-0": {
           "type": "image",
@@ -181,6 +182,7 @@
     },
     "14cacdf4-8a82-474c-84e8-246398107930": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--16013531578518__14cacdf4-8a82-474c-84e8-246398107930-16862156387b8108c2-0": {
           "type": "heading",
