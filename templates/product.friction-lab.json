@@ -83,16 +83,6 @@
             "page": ""
           }
         },
-        "932f5850-089a-433d-b8ff-621b0ada9a71": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Returns and Refunds",
-            "icon": "truck",
-            "content": "<p>We do not accept refunds. In the rare occurrence of faulty products or boxes, please go to our contact page to contact us. We do not offer a switch or choice of products due to hygienic concerns.<\/p>",
-            "page": ""
-          }
-        },
         "share": {
           "type": "share",
           "disabled": true,
@@ -113,7 +103,6 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "932f5850-089a-433d-b8ff-621b0ada9a71",
         "share"
       ],
       "settings": {
