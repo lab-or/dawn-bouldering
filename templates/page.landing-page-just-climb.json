@@ -53,6 +53,7 @@
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -259,6 +260,7 @@
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
@@ -389,7 +391,7 @@
         "template--15885162479766__22650c2b-cd97-4870-b41e-8972d3c76375-168328473096c7511a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>全港最抵玩，大把獨家優惠等緊你<\/p><p>無限次入場我哋所有分店，<br\/>享有石門店&太古店 24\/7全天候服務！<br\/>優先報名參加所有比賽️&派對<br\/>買所有正價貨品仲可以享有9折添！<\/p><p>攀石咁好玩點可以吾分享<br\/>JUST CLIMBER每月可免費邀請1位從未登記過嘅新朋友一齊來體驗攀石‍<\/p><p>每當成功介紹1個朋友參與JUST CLIMBER計劃<br\/>即送你3張*Day Pass！️️️（ 價值: $278\/張）<br\/>成功介紹個朋友，就有6個Day Pass，如此類推！<\/p><p>2次Day Pass已經等於一個月費，仲有咩要考慮？！<br\/>快啲叫埋朋友仔一齊嚟玩啦！<\/p>",
+            "text": "<p>全港最抵玩，大把獨家優惠等緊你<\/p><p>無限次入場我哋所有分店，<br\/>享有石門店&太古店 24\/7全天候服務！<br\/>優先報名參加所有比賽️&派對<br\/>買所有正價貨品仲可以享有9折添！<\/p><p>攀石咁好玩點可以吾分享<br\/>JUST CLIMBER每月可免費邀請1位從未登記過嘅新朋友一齊來體驗攀石‍<\/p><p>每當成功介紹1個朋友參與JUST CLIMBER計劃<br\/>即送你3張*Day Pass！️️️（ 價值: $278\/張）<br\/>成功介紹2個朋友，就有6個Day Pass，如此類推！<\/p><p>2次Day Pass已經等於一個月費，仲有咩要考慮？！<br\/>快啲叫埋朋友仔一齊嚟玩啦！<\/p>",
             "text_style": "body"
           }
         }
@@ -407,6 +409,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
