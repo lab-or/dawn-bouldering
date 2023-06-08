@@ -96,8 +96,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/money.jpg",
-            "title": "價格實惠",
-            "text": "",
+            "title": "",
+            "text": "<p>3000呎寬躺空間<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -105,9 +105,9 @@
         "8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/stars.png",
-            "title": "5.5米的天花板高度",
-            "text": "",
+            "image": "shopify:\/\/shop_images\/wall.png",
+            "title": "",
+            "text": "<p>傾至60度Slab嘅地形<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -115,9 +115,9 @@
         "a6cbad9e-8e44-4407-bbf8-5f827024d77a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/coach.png",
-            "title": "有會說英語的工作人員",
-            "text": "",
+            "image": "shopify:\/\/shop_images\/waterfall.png",
+            "title": "",
+            "text": "<p>多達100條路線<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -125,9 +125,9 @@
         "d7ba897b-7c73-46ee-9cd9-18860c7eff16": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/wall.png",
-            "title": "設有topout抱石牆",
-            "text": "",
+            "image": "shopify:\/\/shop_images\/pillow.png",
+            "title": "",
+            "text": "<p>安全、舒適同有趣嘅環境<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -140,7 +140,7 @@
         "d7ba897b-7c73-46ee-9cd9-18860c7eff16"
       ],
       "custom_css": [
-        "h3 {color: white;}",
+        "p {color: white;}",
         ".slider-counter {font-size: large;}"
       ],
       "settings": {
