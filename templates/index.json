@@ -282,7 +282,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "了解更多",
-            "button_link_1": "shopify:\/\/collections\/frontpage",
+            "button_link_1": "shopify:\/\/pages\/route-setting-calendar",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
