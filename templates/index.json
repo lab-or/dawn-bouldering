@@ -3,24 +3,6 @@
     "85ae0ad4-4b3f-40dd-a70f-013c272aa89e": {
       "type": "slideshow",
       "blocks": {
-        "e2e4081c-e52d-49c3-b418-01573e2c8b2d": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Wesbite_banner_1200_x_500_px.png",
-            "heading": "Volcano鎂粉快閃優惠",
-            "heading_size": "h2",
-            "subheading": "買2包乾粉即享85折！",
-            "button_label": "立即選購",
-            "link": "shopify:\/\/collections\/volcano-dry-chalk",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 40,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "16c8f386-da8e-4211-b33f-44d2b634aaf3": {
           "type": "slide",
           "settings": {
@@ -77,7 +59,6 @@
         }
       },
       "block_order": [
-        "e2e4081c-e52d-49c3-b418-01573e2c8b2d",
         "16c8f386-da8e-4211-b33f-44d2b634aaf3",
         "370b5b57-2c9f-4515-82f1-59d0f68a5bc1",
         "13db4520-59c8-4b40-8180-a4ff5f73f8d3"
@@ -295,6 +276,9 @@
         "template--16013533937814__99b3497b-b06b-4d87-8a4c-00e9dbbbc864-168630581612591669-1",
         "template--16013533937814__99b3497b-b06b-4d87-8a4c-00e9dbbbc864-168630581612591669-2"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/1_9157e179-b6e9-4587-a2f6-a114ae865e59.png",
         "image_overlay_opacity": 40,
@@ -343,58 +327,12 @@
         "template--15828001620118__ce5988e8-e95d-4b45-a637-f6a32bf421bd-1666965589830c8cf8-1",
         "template--15828001620118__ce5988e8-e95d-4b45-a637-f6a32bf421bd-1666965589830c8cf8-2"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Updated_Banner_9a5ff58b-d9ce-4463-b997-7f20ba7c9fdb.png",
         "image_overlay_opacity": 60,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
-    "e639e98f-ef04-4c37-a2c0-efd980b0e4ab": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--16013533937814__e639e98f-ef04-4c37-a2c0-efd980b0e4ab-168630581612591669-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "香港室內抱石場的轉線時間表",
-            "heading_size": "h2"
-          }
-        },
-        "template--16013533937814__e639e98f-ef04-4c37-a2c0-efd980b0e4ab-168630581612591669-1": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "template--16013533937814__e639e98f-ef04-4c37-a2c0-efd980b0e4ab-168630581612591669-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "了解更多",
-            "button_link_1": "shopify:\/\/pages\/route-setting-calendar",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16013533937814__e639e98f-ef04-4c37-a2c0-efd980b0e4ab-168630581612591669-0",
-        "template--16013533937814__e639e98f-ef04-4c37-a2c0-efd980b0e4ab-168630581612591669-1",
-        "template--16013533937814__e639e98f-ef04-4c37-a2c0-efd980b0e4ab-168630581612591669-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Wesbite_banner_1200_x_500_px_1800_x_1000_px_1.png",
-        "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -413,7 +351,6 @@
     "456fd9f6-eb77-4b87-8a19-fdddcb3f1173",
     "ef14b0ae-f382-4540-8313-1acba6535481",
     "99b3497b-b06b-4d87-8a4c-00e9dbbbc864",
-    "ce5988e8-e95d-4b45-a637-f6a32bf421bd",
-    "e639e98f-ef04-4c37-a2c0-efd980b0e4ab"
+    "ce5988e8-e95d-4b45-a637-f6a32bf421bd"
   ]
 }
