@@ -414,7 +414,7 @@
     "b5de30c3-eb75-47cd-884d-745f3201a9c5": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<iframe src=\"https:\/\/embed.styledcalendar.com\/#Vqef9vhd13yzy5AGcJlc\" title=\"Styled Calendar\" class=\"styled-calendar-container\" style=\"width: 100%; border: none;\" data-cy=\"calendar-embed-iframe\"><\/iframe>\n<script async type=\"module\" src=\"https:\/\/embed.styledcalendar.com\/assets\/parent-window.js\"><\/script>",
+        "custom_liquid": "<iframe src=\"https:\/\/embed.styledcalendar.com\/#Vqef9vhd13yzy5AGcJlc\" title=\"Styled Calendar\" class=\"styled-calendar-container\" style=\"width: 100%; padding-left: 5%; padding-right: 5%; border: none;\" data-cy=\"calendar-embed-iframe\"><\/iframe>\n<script async type=\"module\" src=\"https:\/\/embed.styledcalendar.com\/assets\/parent-window.js\"><\/script>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52

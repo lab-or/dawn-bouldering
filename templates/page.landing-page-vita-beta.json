@@ -53,6 +53,7 @@
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -221,6 +222,7 @@
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
@@ -388,6 +390,15 @@
         "padding_bottom": 28
       }
     },
+    "be06677d-64f0-4091-b377-c597d33b6bdd": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/embed.styledcalendar.com\/#EntnHerea1D1Eja7vQtM\" title=\"Styled Calendar\" class=\"styled-calendar-container\" style=\"width: 100%; padding-left: 5%; padding-right: 5%; border: none;\" data-cy=\"calendar-embed-iframe\"><\/iframe>\n<script async type=\"module\" src=\"https:\/\/embed.styledcalendar.com\/assets\/parent-window.js\"><\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
     "9de6d64b-1aa8-45c8-9a76-57f2794fb8bb": {
       "type": "custom-liquid",
       "settings": {
@@ -406,6 +417,7 @@
     "0f326d8b-1f43-4991-ab7b-d6364c2a85b6",
     "036b0ac6-9826-4310-b9fd-56c2afd99763",
     "dcb1ca16-3678-4434-8349-1815e7e01830",
+    "be06677d-64f0-4091-b377-c597d33b6bdd",
     "9de6d64b-1aa8-45c8-9a76-57f2794fb8bb"
   ]
 }
