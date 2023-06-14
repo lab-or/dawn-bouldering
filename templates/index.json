@@ -41,7 +41,6 @@
         },
         "13db4520-59c8-4b40-8180-a4ff5f73f8d3": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Subscription_Plan_banner_-_darker_resized.png",
             "heading": "折扣高達八五折！",
@@ -57,31 +56,12 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "0ec31783-d295-4d7c-acf1-ad0ba752ef7f": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Updated_Banner_9a5ff58b-d9ce-4463-b997-7f20ba7c9fdb.png",
-            "heading": "只需要選擇區域，即可快速找到攀石場的位置！",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "開始搜尋",
-            "link": "shopify:\/\/pages\/selected-area",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 60,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
         "16c8f386-da8e-4211-b33f-44d2b634aaf3",
         "370b5b57-2c9f-4515-82f1-59d0f68a5bc1",
-        "13db4520-59c8-4b40-8180-a4ff5f73f8d3",
-        "0ec31783-d295-4d7c-acf1-ad0ba752ef7f"
+        "13db4520-59c8-4b40-8180-a4ff5f73f8d3"
       ],
       "custom_css": [
         "slideshow-component {}"
@@ -213,18 +193,8 @@
         "padding_bottom": 20
       }
     },
-    "7d4442d8-1716-407d-8be8-ebb40d6f281c": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<iframe src=\"https:\/\/embed.styledcalendar.com\/#yjhtFE9Epn6rUANrkrFB\" title=\"Styled Calendar\" class=\"styled-calendar-container\" style=\"width: 100%; height: 700px; padding-left: 5%; padding-right: 5%; border: none;\" scrolling=\"yes\" data-cy=\"calendar-embed-iframe\"><\/iframe>\n<script async type=\"module\" src=\"https:\/\/embed.styledcalendar.com\/assets\/parent-window.js\"><\/script>",
-        "color_scheme": "background-1",
-        "padding_top": 20,
-        "padding_bottom": 24
-      }
-    },
     "ef14b0ae-f382-4540-8313-1acba6535481": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--15828001620118__ef14b0ae-f382-4540-8313-1acba6535481-16651501978492c248-0": {
           "type": "heading",
@@ -270,118 +240,12 @@
         "stack_images_on_mobile": true,
         "show_text_below": false
       }
-    },
-    "99b3497b-b06b-4d87-8a4c-00e9dbbbc864": {
-      "type": "image-banner",
-      "blocks": {
-        "template--16013533937814__99b3497b-b06b-4d87-8a4c-00e9dbbbc864-168630581612591669-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "香港室內抱石場的轉線時間表",
-            "heading_size": "h2"
-          }
-        },
-        "template--16013533937814__99b3497b-b06b-4d87-8a4c-00e9dbbbc864-168630581612591669-1": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "template--16013533937814__99b3497b-b06b-4d87-8a4c-00e9dbbbc864-168630581612591669-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "了解更多",
-            "button_link_1": "shopify:\/\/pages\/route-setting-calendar",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16013533937814__99b3497b-b06b-4d87-8a4c-00e9dbbbc864-168630581612591669-0",
-        "template--16013533937814__99b3497b-b06b-4d87-8a4c-00e9dbbbc864-168630581612591669-1",
-        "template--16013533937814__99b3497b-b06b-4d87-8a4c-00e9dbbbc864-168630581612591669-2"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/1_9157e179-b6e9-4587-a2f6-a114ae865e59.png",
-        "image_overlay_opacity": 40,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
-    "ce5988e8-e95d-4b45-a637-f6a32bf421bd": {
-      "type": "image-banner",
-      "blocks": {
-        "template--15828001620118__ce5988e8-e95d-4b45-a637-f6a32bf421bd-1666965589830c8cf8-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "只需要選擇區域，即可快速找到攀石場的位置！",
-            "heading_size": "h2"
-          }
-        },
-        "template--15828001620118__ce5988e8-e95d-4b45-a637-f6a32bf421bd-1666965589830c8cf8-1": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "template--15828001620118__ce5988e8-e95d-4b45-a637-f6a32bf421bd-1666965589830c8cf8-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "開始搜尋",
-            "button_link_1": "shopify:\/\/pages\/selected-area",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--15828001620118__ce5988e8-e95d-4b45-a637-f6a32bf421bd-1666965589830c8cf8-0",
-        "template--15828001620118__ce5988e8-e95d-4b45-a637-f6a32bf421bd-1666965589830c8cf8-1",
-        "template--15828001620118__ce5988e8-e95d-4b45-a637-f6a32bf421bd-1666965589830c8cf8-2"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Updated_Banner_9a5ff58b-d9ce-4463-b997-7f20ba7c9fdb.png",
-        "image_overlay_opacity": 60,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
     }
   },
   "order": [
     "85ae0ad4-4b3f-40dd-a70f-013c272aa89e",
     "507acba5-5310-4bda-a090-86817d0f5244",
     "456fd9f6-eb77-4b87-8a19-fdddcb3f1173",
-    "ef14b0ae-f382-4540-8313-1acba6535481",
-    "99b3497b-b06b-4d87-8a4c-00e9dbbbc864",
-    "ce5988e8-e95d-4b45-a637-f6a32bf421bd",
-    "7d4442d8-1716-407d-8be8-ebb40d6f281c",
     "ef14b0ae-f382-4540-8313-1acba6535481"
   ]
 }
