@@ -369,6 +369,15 @@
         "padding_bottom": 36
       }
     },
+    "ffc41cf5-f666-4454-a31b-3fee87e8016f": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/embed.styledcalendar.com\/#VnoSgOAoHF74nb5pA5cR\" title=\"Styled Calendar\" class=\"styled-calendar-container\" style=\"width: 100%; padding-left: 5%; padding-right: 5%; border: none;\" data-cy=\"calendar-embed-iframe\"><\/iframe>\n<script async type=\"module\" src=\"https:\/\/embed.styledcalendar.com\/assets\/parent-window.js\"><\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
     "da011621-bd0d-46af-ac41-748180f08331": {
       "type": "custom-liquid",
       "settings": {
@@ -386,6 +395,7 @@
     "48b425ce-415f-4ef2-9c98-f36546a0afec",
     "7367a15d-54c0-4de2-972f-552525cbe775",
     "036b0ac6-9826-4310-b9fd-56c2afd99763",
+    "ffc41cf5-f666-4454-a31b-3fee87e8016f",
     "da011621-bd0d-46af-ac41-748180f08331"
   ]
 }
