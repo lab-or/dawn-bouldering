@@ -46,7 +46,7 @@
         ".media {right: 10%; left: 10%; width: 80%;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1_9fddcd4c-99d6-47cb-90f4-80568fb6155e.png",
+        "image": "shopify:\/\/shop_images\/logo.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -65,14 +65,14 @@
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
           "type": "heading",
           "settings": {
-            "heading": "過百條抱石路線的攀石場",
+            "heading": "兇狠堂",
             "heading_size": "h1"
           }
         },
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>地址 - 香港黃竹坑道49號得力工業大廈地下E鋪<br\/>黃竹坑地鐵站A出口行3分鐘<\/p><p>開放時間 - 星期一至六: 11am-10:30pm 星期日及公眾假期: 11am-8pm <\/p><p>Attic V由攀石經驗豐富的一對情侶經營。除了設有過百條路線，特點是從起點便存在一定的挑戰，適合有經驗的climbers。不過，Attic V亦提供多款適合新手的路線(場內的綠色路線)，可逐步跨越當中的難度！<br\/>攀石場正中位置設有走廊，令climbers既可有位置休息，同時亦可”近距離觀戰”！<\/p>"
+            "text": "<p>地址 - 大角咀洋松街89號, 3字樓<br\/>黃竹坑地鐵站A出口行3分鐘<\/p><p>開放時間 - 星期一至日 9am-10pm (只限會員及朋友)<\/p><p>Attic V由攀石經驗豐富的一對情侶經營。除了設有過百條路線，特點是從起點便存在一定的挑戰，適合有經驗的climbers。不過，Attic V亦提供多款適合新手的路線(場內的綠色路線)，可逐步跨越當中的難度！<br\/>攀石場正中位置設有走廊，令climbers既可有位置休息，同時亦可”近距離觀戰”！<\/p>"
           }
         },
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
@@ -272,74 +272,14 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>日票 $150 (*$130)<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>10張套票 $600 (*學生年滿18歲$550) (*學生未滿18歲$450)<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>5張共享套票 (有效日期：1個月) $680<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "96aba9ce-bd84-4ee7-bcad-64a1a94e234e": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>10張共享套票 (有效日期: 3個月) $1300<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "4a428aa8-f215-4348-96ab-af1086871994": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>攀石鞋租借 $30<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "259f89e2-21be-42a4-a487-ac95429623a1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>粉袋租借 $30<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "5fa627d0-2a27-4832-bd80-dd691814fc89": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>攀石鞋+粉袋租借 $50<\/p>",
+            "text": "<p>日票 $50<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0",
-        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1",
-        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2",
-        "96aba9ce-bd84-4ee7-bcad-64a1a94e234e",
-        "4a428aa8-f215-4348-96ab-af1086871994",
-        "259f89e2-21be-42a4-a487-ac95429623a1",
-        "5fa627d0-2a27-4832-bd80-dd691814fc89"
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0"
       ],
       "settings": {
         "title": "門票選項 (*學生)",
@@ -361,7 +301,7 @@
     "da011621-bd0d-46af-ac41-748180f08331": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3692.753173276779!2d114.16563491557658!3d22.249441950360126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404002205fa3c67%3A0x4d3953bb1c245105!2sAttic%20V%20Climbing%20Gym!5e0!3m2!1sen!2shk!4v1669383036747!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%;\npadding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d14763.226590760525!2d114.1624435!3d22.3231511!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13ff461278a69fb7%3A0xd9001dccccc03cec!2sClimberland!5e0!3m2!1sen!2suk!4v1686735680955!5m2!1sen!2suk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%;\npadding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
