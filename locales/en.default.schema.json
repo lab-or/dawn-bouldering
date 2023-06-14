@@ -2012,6 +2012,18 @@
             }
           }
         },
+        "customisable_field": {
+          "name": "Customisable Input Field",
+          "settings": {
+            "customisable_field": {
+              "label": "Customisable Input Field",
+              "info": "Add customisable field for product"
+            }
+          },
+          "presets": {
+            "name": "Customisable Input Field"
+          }
+        },
         "collapsible_tab": {
           "name": "Collapsible row",
           "settings": {
