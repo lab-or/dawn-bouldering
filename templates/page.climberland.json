@@ -65,14 +65,14 @@
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
           "type": "heading",
           "settings": {
-            "heading": "兇狠堂",
+            "heading": "香港老牌全自助攀石場",
             "heading_size": "h1"
           }
         },
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>地址 - 大角咀洋松街89號, 3字樓<br\/>黃竹坑地鐵站A出口行3分鐘<\/p><p>開放時間 - 星期一至日 9am-10pm (只限會員及朋友)<\/p><p>Attic V由攀石經驗豐富的一對情侶經營。除了設有過百條路線，特點是從起點便存在一定的挑戰，適合有經驗的climbers。不過，Attic V亦提供多款適合新手的路線(場內的綠色路線)，可逐步跨越當中的難度！<br\/>攀石場正中位置設有走廊，令climbers既可有位置休息，同時亦可”近距離觀戰”！<\/p>"
+            "text": "<p>地址 - 大角咀洋松街89號, 3字樓<br\/>黃竹坑地鐵站A出口行3分鐘<\/p><p>開放時間 - 星期一至日 9am-10pm (只限會員及朋友)<\/p><p><\/p><p>Q&A<\/p><p>Q. 有鞋租嗎？<br\/>A. 沒有，請自備。也沒有水賣，請自備。<\/p><p>Q. 付款方法？<br\/>A. 只收現金，不設找續<\/p><p>Q. 可以帶小朋友來嗎？<br\/>A. 12歲以下小童須由合資格教練陪同方可在場內攀爬。教練帶學員上來須預早通知本場。<\/p>"
           }
         },
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
@@ -178,7 +178,7 @@
         "template--15885031407766__6769c2b8-8eb2-48e3-b1fa-ed114697f768-16827351153069a2a2-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Attic_v_1.png",
+            "image": "shopify:\/\/shop_images\/IMG_20171129_142216_HDR.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -196,7 +196,7 @@
         "71a83e3a-596e-41f3-af7c-075b1fa9ca6b": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Attic_V_2.png",
+            "image": "shopify:\/\/shop_images\/IMG_20171129_142250_HDR.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -214,7 +214,7 @@
         "1dd697ba-518e-4f4f-a970-d9491ed2aca4": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Attic_V_3.png",
+            "image": "shopify:\/\/shop_images\/IMG_20171129_142216_HDR.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -232,7 +232,25 @@
         "1c16f8c6-83a1-4653-a197-34234a2b6318": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Attic_V_4.png",
+            "image": "shopify:\/\/shop_images\/IMG_20171129_142224_HDR.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "448e3540-be1a-40bf-acce-00026ac3adfe": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20171129_142616_HDR.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -252,7 +270,8 @@
         "template--15885031407766__6769c2b8-8eb2-48e3-b1fa-ed114697f768-16827351153069a2a2-1",
         "71a83e3a-596e-41f3-af7c-075b1fa9ca6b",
         "1dd697ba-518e-4f4f-a970-d9491ed2aca4",
-        "1c16f8c6-83a1-4653-a197-34234a2b6318"
+        "1c16f8c6-83a1-4653-a197-34234a2b6318",
+        "448e3540-be1a-40bf-acce-00026ac3adfe"
       ],
       "settings": {
         "layout": "grid",
