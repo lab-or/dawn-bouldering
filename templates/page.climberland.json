@@ -72,7 +72,7 @@
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>地址 - 大角咀洋松街89號, 3字樓<br\/>黃竹坑地鐵站A出口行3分鐘<\/p><p>開放時間 - 星期一至日 9am-10pm (只限會員及朋友)<\/p><p><\/p><p>Q&A<\/p><p>Q. 有鞋租嗎？<br\/>A. 沒有，請自備。也沒有水賣，請自備。<\/p><p>Q. 付款方法？<br\/>A. 只收現金，不設找續<\/p><p>Q. 可以帶小朋友來嗎？<br\/>A. 12歲以下小童須由合資格教練陪同方可在場內攀爬。教練帶學員上來須預早通知本場。<\/p>"
+            "text": "<p>地址 - 大角咀洋松街89號, 3字樓<br\/><\/p><p>開放時間 - 星期一至日 9am-10pm (只限會員及朋友)<\/p><p>香港老字號攀石場，全港最平自助式攀石場。不過留意番唔適合新手，因為場地無staff亦無鞋無粉袋租借，線路亦偏難偏兇狠，所以比較適合玩左幾個月想挑戰一下自我嘅climber。路線上同外間現時比較普及嘅設定唔同，都係散牆spray wall，路線以同色貼紙標記而唔係一般同一種顏色hold代表一條線。牆身比較矮同比較多overhang都幾過癮。場地亦有充足訓練裝備，不過留意番無水賣同埋只有風扇無冷氣，相對適合兇狠自虐型選手挑戰。<\/p><p>如果想去玩，可以留意番佢地facebook定期嘅新會員招待日或者搵個有鎖鑰嘅朋友，因為你未去過就咁上去係好大機會摸門釘。<\/p>"
           }
         },
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
@@ -107,8 +107,8 @@
         "template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/point.png",
-            "title": "交通方便",
+            "image": "shopify:\/\/shop_images\/climber.png",
+            "title": "適合老手挑戰",
             "text": "",
             "link_label": "",
             "link": ""
@@ -127,8 +127,8 @@
         "1628567c-5e0f-4e71-a7dd-db9246367281": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pillow.png",
-            "title": "舒適的空間感",
+            "image": "shopify:\/\/shop_images\/weight.png",
+            "title": "充足訓練裝備",
             "text": "",
             "link_label": "",
             "link": ""
@@ -137,8 +137,8 @@
         "0294b889-8894-4b86-ab6c-071ea1fdeab9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/waterfall.png",
-            "title": "多條路線選項",
+            "image": "shopify:\/\/shop_images\/wall.png",
+            "title": "散牆堆砌",
             "text": "",
             "link_label": "",
             "link": ""
