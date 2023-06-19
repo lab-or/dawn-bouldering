@@ -31,6 +31,13 @@
           "settings": {
           }
         },
+        "7fd4dc38-1373-41a4-b107-8c6d0226b2e9": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"\/pages\/鞋類換貨政策\" title=\"鞋類換貨政策\">鞋類換貨政策<\/a>",
+            "text_style": "body"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -39,7 +46,8 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
           }
         },
         "400a63d1-14f0-4fe2-94f1-41d35e77a646": {
@@ -135,6 +143,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "7fd4dc38-1373-41a4-b107-8c6d0226b2e9",
         "description",
         "buy_buttons",
         "400a63d1-14f0-4fe2-94f1-41d35e77a646",
@@ -148,8 +157,11 @@
       "settings": {
         "enable_sticky_info": true,
         "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
         "gallery_layout": "stacked",
         "media_position": "left",
+        "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
@@ -188,6 +200,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -224,6 +237,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
