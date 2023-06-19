@@ -63,81 +63,20 @@
             "link": "shopify:\/\/pages\/關於triangle-plus"
           }
         },
-        "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-1": {
+        "3ce94ebc-02e4-4761-8327-421b91bf0ac9": {
           "type": "column",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Gym_Elements_79f4f9d8-0115-400d-978f-620ab415afce.png",
-            "title": "",
+            "image": "shopify:\/\/shop_images\/Gym_Elements_2.png",
+            "title": "VitaBeta",
             "text": "",
-            "link_label": "選擇",
-            "link": "shopify:\/\/pages\/selected-kowloon"
-          }
-        },
-        "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-2": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/277812656_5710073299019887_2416420256591342174_n.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "選擇",
-            "link": "shopify:\/\/pages\/selected-new-territories"
-          }
-        },
-        "41df194e-4291-4a3f-895a-335670a839e5": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/63584b69f625ab5fe45bc283afda9238_20ad1b11-cc57-46f8-a4a0-79290c2edbaa.png",
-            "title": "",
-            "text": "",
-            "link_label": "選擇",
-            "link": ""
-          }
-        },
-        "3964bc00-1f6c-46d6-a5df-1db25777f628": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/The_Player_4_0d69a907-d01a-4536-b71d-975a62247352.png",
-            "title": "",
-            "text": "",
-            "link_label": "選擇",
-            "link": ""
-          }
-        },
-        "6293fb32-863a-461f-bfea-7089cf187cd2": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/The_Player_3_9ba997e8-42f8-423e-9fd2-bbbda130c46f.png",
-            "title": "",
-            "text": "",
-            "link_label": "選擇",
-            "link": ""
-          }
-        },
-        "13da0170-87fe-4f8d-83a1-df7b3dbb0dd8": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/The_Player_2_2b6bd363-1c9a-4e14-a20e-1be69081cbe0.png",
-            "title": "",
-            "text": "",
-            "link_label": "選擇",
-            "link": ""
+            "link_label": "了解更多",
+            "link": "shopify:\/\/pages\/關於triangle-plus"
           }
         }
       },
       "block_order": [
         "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-0",
-        "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-1",
-        "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-2",
-        "41df194e-4291-4a3f-895a-335670a839e5",
-        "3964bc00-1f6c-46d6-a5df-1db25777f628",
-        "6293fb32-863a-461f-bfea-7089cf187cd2",
-        "13da0170-87fe-4f8d-83a1-df7b3dbb0dd8"
+        "3ce94ebc-02e4-4761-8327-421b91bf0ac9"
       ],
       "settings": {
         "title": "",
