@@ -46,9 +46,9 @@
         ".media {right: 10%; left: 10%; width: 80%;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/boulcom_logo.png",
+        "image": "shopify:\/\/shop_images\/T_wall_logo.jpg",
         "image_overlay_opacity": 20,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -166,7 +166,7 @@
         "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/boulcom_1.jpg",
+            "image": "shopify:\/\/shop_images\/t_wall_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -184,7 +184,7 @@
         "84ec57cc-00eb-41d5-bf73-b21025e91aed": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/boulcom_2.jpg",
+            "image": "shopify:\/\/shop_images\/t_wall_6.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -202,7 +202,7 @@
         "6f7e6d99-936c-49d3-9e56-99d317473a64": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/boulcom_3.jpg",
+            "image": "shopify:\/\/shop_images\/t_wall_7.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -220,7 +220,7 @@
         "c4f8b902-a73f-4039-8c78-e0c2a4751d33": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/boulcom_4.jpg",
+            "image": "shopify:\/\/shop_images\/t_wall_5.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -238,7 +238,7 @@
         "ab18f462-32bb-47f9-b414-642bdd8658be": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/boulcom_5.jpg",
+            "image": "shopify:\/\/shop_images\/t_wall_2.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
