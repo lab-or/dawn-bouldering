@@ -332,13 +332,103 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "f6ee56f5-5c58-4c95-93ef-b85cc90849cb": {
+          "type": "column",
+          "settings": {
+            "title": "全店通用優惠券（10次）",
+            "text": "<p>普通 ¥19,800<br\/>學生及以下 ¥9,900 <br\/>學生繩牆 ¥12,870<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "04953e8a-f2d6-462e-a6ef-6d4c1eaf894b": {
+          "type": "column",
+          "settings": {
+            "title": "全店通用優惠券（20次）",
+            "text": "<p>普通 ¥37,400<br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "07fa95f4-0222-47da-8875-14938484d000": {
+          "type": "column",
+          "settings": {
+            "title": "晚票10張",
+            "text": "<p>¥14,850<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ef1b8f1e-9a44-4cb7-839a-447afdc48865": {
+          "type": "column",
+          "settings": {
+            "title": "月票(所有商店通用)",
+            "text": "<p>普通 ¥14,300<br\/>學生及以下 ¥7,150 <br\/>學生繩牆 ¥9,295<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4e15a805-aa52-46fb-ba90-41f5a8a3b492": {
+          "type": "column",
+          "settings": {
+            "title": "半年票(所有商店通用)",
+            "text": "<p>普通 ¥66,000<br\/>學生及以下 ¥33,000 <br\/>學生繩牆 ¥40,755<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "59ef9976-6a3f-4be4-9354-0c5476e2519d": {
+          "type": "column",
+          "settings": {
+            "title": "攀岩鞋租賃",
+            "text": "<p>¥440<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "cabebd47-e230-432c-b4af-0c453039aa24": {
+          "type": "column",
+          "settings": {
+            "title": "鎂粉袋租賃",
+            "text": "<p>¥220<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "22863e27-19a6-4370-80da-aaf555b00b56": {
+          "type": "column",
+          "settings": {
+            "title": "攀岩用安全帶租賃",
+            "text": "<p>¥330<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8ae483f0-b99c-479e-963d-9e9f62078c91": {
+          "type": "column",
+          "settings": {
+            "title": "出租繩索",
+            "text": "<p>¥440<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--15987430195350__72d4650d-5e1b-4ed8-9a25-a2713508c98b-1680143814b8cfbbd3-1",
         "template--15987430195350__72d4650d-5e1b-4ed8-9a25-a2713508c98b-1680143814b8cfbbd3-2",
         "81f60733-9f5f-457d-921c-b0acd3e54dd9",
-        "0d4de153-208f-4645-aeee-9c16ac612ad9"
+        "0d4de153-208f-4645-aeee-9c16ac612ad9",
+        "f6ee56f5-5c58-4c95-93ef-b85cc90849cb",
+        "04953e8a-f2d6-462e-a6ef-6d4c1eaf894b",
+        "07fa95f4-0222-47da-8875-14938484d000",
+        "ef1b8f1e-9a44-4cb7-839a-447afdc48865",
+        "4e15a805-aa52-46fb-ba90-41f5a8a3b492",
+        "59ef9976-6a3f-4be4-9354-0c5476e2519d",
+        "cabebd47-e230-432c-b4af-0c453039aa24",
+        "22863e27-19a6-4370-80da-aaf555b00b56",
+        "8ae483f0-b99c-479e-963d-9e9f62078c91"
       ],
       "settings": {
         "title": "設施費用",
