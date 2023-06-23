@@ -272,14 +272,36 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "11f976b7-ab37-4a2b-8229-3b531ab64a8d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15968430751894__11f976b7-ab37-4a2b-8229-3b531ab64a8d-1677737659d479d384-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>入場費 - ¥550<\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15968430751894__11f976b7-ab37-4a2b-8229-3b531ab64a8d-1677737659d479d384-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "72d4650d-5e1b-4ed8-9a25-a2713508c98b": {
       "type": "multicolumn",
       "blocks": {
         "template--15987430195350__72d4650d-5e1b-4ed8-9a25-a2713508c98b-1680143814b8cfbbd3-1": {
           "type": "column",
           "settings": {
-            "title": "男士",
-            "text": "<p>7:00～¥1,430<\/p><p>10:00～¥1,100<\/p><p>13:00～¥1,210<\/p><p>16:00～¥1,430<\/p><p>19:00～¥1,870<\/p><p>21:00～¥1,760<\/p>",
+            "title": "普通",
+            "text": "<p>日票 ¥2,200<br\/>平日20:00以後入場 ¥1,650<br\/>週末同假日18:00以後入場 ¥1,650<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -765,6 +787,7 @@
     "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
     "48b425ce-415f-4ef2-9c98-f36546a0afec",
     "9cb85370-e1df-4257-9181-da5ab4af13a3",
+    "11f976b7-ab37-4a2b-8229-3b531ab64a8d",
     "72d4650d-5e1b-4ed8-9a25-a2713508c98b",
     "9a7a9162-1d2a-46d3-8805-10619ddfa11d",
     "d9bb7d18-0e21-4ddc-baf1-8b104e26a3d8",
