@@ -324,15 +324,6 @@
             "link": ""
           }
         },
-        "0d4de153-208f-4645-aeee-9c16ac612ad9": {
-          "type": "column",
-          "settings": {
-            "title": "小學生及以下",
-            "text": "<p>開門至18:00嘅設施使用 ¥1,100<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "f6ee56f5-5c58-4c95-93ef-b85cc90849cb": {
           "type": "column",
           "settings": {
@@ -419,7 +410,6 @@
         "template--15987430195350__72d4650d-5e1b-4ed8-9a25-a2713508c98b-1680143814b8cfbbd3-1",
         "template--15987430195350__72d4650d-5e1b-4ed8-9a25-a2713508c98b-1680143814b8cfbbd3-2",
         "81f60733-9f5f-457d-921c-b0acd3e54dd9",
-        "0d4de153-208f-4645-aeee-9c16ac612ad9",
         "f6ee56f5-5c58-4c95-93ef-b85cc90849cb",
         "04953e8a-f2d6-462e-a6ef-6d4c1eaf894b",
         "07fa95f4-0222-47da-8875-14938484d000",
