@@ -95,8 +95,8 @@
         "template--15952655024278__48b425ce-415f-4ef2-9c98-f36546a0afec-1677662154a18b39a6-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/money.jpg",
-            "title": "價格實惠",
+            "image": "shopify:\/\/shop_images\/pillow.png",
+            "title": "面積寬躺",
             "text": "",
             "link_label": "",
             "link": ""
@@ -105,8 +105,8 @@
         "8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/stars.png",
-            "title": "5.5米的天花板高度",
+            "image": "shopify:\/\/shop_images\/wall.png",
+            "title": "設有高達12米的上攀牆",
             "text": "",
             "link_label": "",
             "link": ""
@@ -116,7 +116,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/coach.png",
-            "title": "有會說英語的工作人員",
+            "title": "在東京設有4間分店",
             "text": "",
             "link_label": "",
             "link": ""
@@ -125,8 +125,8 @@
         "d7ba897b-7c73-46ee-9cd9-18860c7eff16": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/wall.png",
-            "title": "設有topout抱石牆",
+            "image": "shopify:\/\/shop_images\/japan.png",
+            "title": "擁有多達20年以上歷史",
             "text": "",
             "link_label": "",
             "link": ""
