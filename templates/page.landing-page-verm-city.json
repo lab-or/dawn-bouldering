@@ -380,6 +380,24 @@
             "link": ""
           }
         },
+        "00d236a8-838b-4076-b39d-e1627683d00f": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>5張共享套票 (2個月有效) $1100<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c6c01a02-1067-41f3-b51c-ee9059a4c88a": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>10張共享套票 (4個月有效) $2000<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "template--15881314566294__b6eed878-af5b-4ace-8f8e-2ca3a234ac47-1668491684e4e47270-1": {
           "type": "column",
           "settings": {
@@ -392,6 +410,8 @@
       },
       "block_order": [
         "template--15881314566294__b6eed878-af5b-4ace-8f8e-2ca3a234ac47-1668491684e4e47270-0",
+        "00d236a8-838b-4076-b39d-e1627683d00f",
+        "c6c01a02-1067-41f3-b51c-ee9059a4c88a",
         "template--15881314566294__b6eed878-af5b-4ace-8f8e-2ca3a234ac47-1668491684e4e47270-1"
       ],
       "settings": {
