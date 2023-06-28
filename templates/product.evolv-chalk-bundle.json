@@ -31,6 +31,13 @@
           "settings": {
           }
         },
+        "2e214d58-d93c-4078-be9a-a52fd287906d": {
+          "type": "text",
+          "settings": {
+            "text": "買任何一對Evolv攀石鞋，就可以2折得到任何 Chalk！",
+            "text_style": "body"
+          }
+        },
         "dfc968c4-577f-4c97-bcc0-85d87e622d4b": {
           "type": "custom_liquid",
           "settings": {
@@ -42,11 +49,6 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
           }
         },
         "share": {
@@ -62,9 +64,9 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "2e214d58-d93c-4078-be9a-a52fd287906d",
         "dfc968c4-577f-4c97-bcc0-85d87e622d4b",
         "buy_buttons",
-        "description",
         "share"
       ],
       "settings": {
