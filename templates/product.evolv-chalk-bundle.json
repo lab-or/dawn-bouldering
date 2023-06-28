@@ -38,6 +38,13 @@
             "text_style": "body"
           }
         },
+        "f2752044-2c6c-45d7-9ef2-4bf82457d55f": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"https:\/\/laborsports.com\/pages\/%E9%9E%8B%E9%A1%9E%E6%8F%9B%E8%B2%A8%E6%94%BF%E7%AD%96\" title=\"鞋類換貨政策\">鞋類換貨政策<\/a>",
+            "text_style": "body"
+          }
+        },
         "dfc968c4-577f-4c97-bcc0-85d87e622d4b": {
           "type": "custom_liquid",
           "settings": {
@@ -65,6 +72,7 @@
         "variant_picker",
         "quantity_selector",
         "2e214d58-d93c-4078-be9a-a52fd287906d",
+        "f2752044-2c6c-45d7-9ef2-4bf82457d55f",
         "dfc968c4-577f-4c97-bcc0-85d87e622d4b",
         "buy_buttons",
         "share"
