@@ -38,6 +38,13 @@
             "show_gift_card_recipient": true
           }
         },
+        "143d9452-ba91-45b1-bf45-155881b41c22": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"\/pages\/鞋類換貨政策\" title=\"鞋類換貨政策\">鞋類換貨政策<\/a>",
+            "text_style": "body"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -57,6 +64,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "143d9452-ba91-45b1-bf45-155881b41c22",
         "description",
         "share"
       ],
