@@ -36,9 +36,47 @@
       ],
       "settings": {
       }
+    },
+    "72a0e074-1ab1-424c-9c38-92e5ba33aa57": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16048687317142__72a0e074-1ab1-424c-9c38-92e5ba33aa57-1688610072b6683f54-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Arete",
+            "heading_size": "h1"
+          }
+        },
+        "template--16048687317142__72a0e074-1ab1-424c-9c38-92e5ba33aa57-1688610072b6683f54-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>呢種牆要求你爬上牆角，就好似爬上一棟建築物嘅邊咁。通常都會有一個幾明顯嘅角度，而攀爬者係可以捉住牆嘅邊爬上去嘅。Toe hook 同heel hook 係呢種牆上面都經常會被用到㗎（當我哋介紹技術嘅時候我哋就會向你哋介紹呢兩種hook）。<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16048687317142__72a0e074-1ab1-424c-9c38-92e5ba33aa57-1688610072b6683f54-0",
+        "template--16048687317142__72a0e074-1ab1-424c-9c38-92e5ba33aa57-1688610072b6683f54-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Arete_new.gif",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "72a0e074-1ab1-424c-9c38-92e5ba33aa57"
   ]
 }
