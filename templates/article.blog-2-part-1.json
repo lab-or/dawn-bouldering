@@ -36,7 +36,8 @@
         "content"
       ],
       "custom_css": [
-        ".article-template__link {display: none;}"
+        ".article-template__link {display: none;}",
+        ".article-template__comment-wrapper {display: none;}"
       ],
       "settings": {
       }
