@@ -39,70 +39,9 @@
       ],
       "settings": {
       }
-    },
-    "7101d166-f009-4d8a-9df5-44f5a3b4a4ea": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16048687317142__7101d166-f009-4d8a-9df5-44f5a3b4a4ea-1688628769a0bfd6f9-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Send, hold, flash, slab? 喂，師兄你講乜呀？作為攀石新手可能會因為聽唔明啲術語而感到氣餒，所以我哋通過介紹一啲術語等大家可以融入得快啲，順便可以扮吓識野（話晒唔打得都睇得呀嘛 😉）。不過好明顯唔好亂用啦，呢啲野好易弄巧反拙嫁嘛。<\/p><p><strong>牆嘅種類<\/strong><\/p><p>第一樣你想學嘅係牆嘅種類，因為同你嘅安全同你要用到嘅技術都有關（有興趣可以睇番”攀石抱石你要知”個blog）。同埋講真，一入去個gym就見到啲牆先。<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16048687317142__7101d166-f009-4d8a-9df5-44f5a3b4a4ea-1688628769a0bfd6f9-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "72a0e074-1ab1-424c-9c38-92e5ba33aa57": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16048687317142__72a0e074-1ab1-424c-9c38-92e5ba33aa57-1688610072b6683f54-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Arete",
-            "heading_size": "h1"
-          }
-        },
-        "template--16048687317142__72a0e074-1ab1-424c-9c38-92e5ba33aa57-1688610072b6683f54-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>呢種牆要求你爬上牆角，就好似爬上一棟建築物嘅邊咁。通常都會有一個幾明顯嘅角度，而攀爬者係可以捉住牆嘅邊爬上去嘅。Toe hook 同heel hook 係呢種牆上面都經常會被用到㗎（當我哋介紹技術嘅時候我哋就會向你哋介紹呢兩種hook）。<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--16048687317142__72a0e074-1ab1-424c-9c38-92e5ba33aa57-1688610072b6683f54-0",
-        "template--16048687317142__72a0e074-1ab1-424c-9c38-92e5ba33aa57-1688610072b6683f54-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Arete_new.gif",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
     }
   },
   "order": [
-    "main",
-    "7101d166-f009-4d8a-9df5-44f5a3b4a4ea",
-    "72a0e074-1ab1-424c-9c38-92e5ba33aa57"
+    "main"
   ]
 }
