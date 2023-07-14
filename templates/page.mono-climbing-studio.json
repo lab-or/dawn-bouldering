@@ -53,6 +53,7 @@
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -71,7 +72,7 @@
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>地址: 532-0021 大阪市淀川區田川北 2-3-35<\/p><p>營業時間：週一至週日（全天）10:00～22:00<\/p><p>交通：搭乘大阪市營巴士69、97路（十三駅火車站步行3分鐘）於田川通站下車，步行4分鐘到達抱石館<\/p><p>City Rock Gym Osaka 是日本最大的室內抱石館之一，佔地面積約 1,000 平方米，自 1989 年以來已有 30 多年的歷史。館內設有各種抱石牆，包括 15 米高的抱石牆、4米高的抱石牆和10米高的頂繩牆。牆壁的設計適合所有包括從初學者到高級級別的抱石者。<\/p><p>抱石館為有需要的人提供租賃裝備，包括攀石鞋、安全帶和粉袋。他們還為所有年齡和技能水平的抱石者提供各種課程和項目，包括初學者入門課程、適合經驗豐富的抱石者的高級技術課程以及私人教練課程。<\/p><p>除了抱石之外，抱石館還提供健身訓練和瑜伽課程，幫助抱石者提高力量和柔韌性。而且還有一家專業商店，出售抱石裝備和用品。<\/p><p>City Rock Gym Osaka 擁有友好和支持的抱石者社區，工作人員知識淵博且經驗豐富。抱石館位於大阪市，交通便利，搭乘公共交通工具即可輕鬆抵達。<\/p><p>如果你正計劃去日本旅行並且對抱石感興趣，那麼City Rock Gym Osaka絕對值得一試！<\/p>"
+            "text": "<p>地址：812-0893 福岡縣福岡市博多區中3-27-27<\/p><p>平日：14:00-23:00<\/p><p>週六、週日同假日：10:00-22:00<\/p><p>逢星期二和星期四：上午10時至深夜12時（長時間營業）<\/p><p>距離JR竹下駅站步行約13分鐘<\/p>"
           }
         }
       },
@@ -209,6 +210,7 @@
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
