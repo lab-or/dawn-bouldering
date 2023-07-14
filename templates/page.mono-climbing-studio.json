@@ -222,7 +222,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>註冊費 ¥1,650<\/p>",
+            "text": "<p>註冊費 ¥1,100<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -231,16 +231,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>攀石鞋 ¥550<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "116125a5-eaf1-4d7c-b651-1a06dbc8c83c": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>粉袋 ¥110<\/p>",
+            "text": "<p>攀石鞋 ¥330<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -248,8 +239,7 @@
       },
       "block_order": [
         "fb020a80-6af5-4152-84d2-16e936df3751",
-        "85660d4f-c024-4521-9ddc-051ddeb71d28",
-        "116125a5-eaf1-4d7c-b651-1a06dbc8c83c"
+        "85660d4f-c024-4521-9ddc-051ddeb71d28"
       ],
       "custom_css": [
         "h3 {color: black;}"
@@ -278,7 +268,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>成人 ¥2,200 (*¥1,650)<\/p>",
+            "text": "<p>已經註冊會員2小時 ¥1,540 <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -287,7 +277,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>大學生 ¥1,990  (*¥1,550 )<\/p>",
+            "text": "<p>已經註冊會員1天 ¥1,980 <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -296,7 +286,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>幼兒園\/初中\/高中生 ¥1,100  (*¥1,100 )<\/p>",
+            "text": "<p>訪客(沒有註冊會員) 1天¥2,530<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -305,7 +295,16 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>每週二女士節 ¥1,100<\/p>",
+            "text": "<p>月票 ¥10,780<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "602c1257-93c1-4f9c-b50e-cd1c75007313": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>6個月票 ¥51,700<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -315,123 +314,11 @@
         "cef251b0-a007-4594-a596-b2963a5b6f2f",
         "ef222255-c36e-4250-8837-1c0199c225da",
         "508f2292-9b24-4e28-bb8c-b09b5bb05f7a",
-        "b6075c78-0080-48ee-afdb-7f5a98e63198"
+        "b6075c78-0080-48ee-afdb-7f5a98e63198",
+        "602c1257-93c1-4f9c-b50e-cd1c75007313"
       ],
       "settings": {
-        "title": "日票 (*夜間從下午 5:00 開始）",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "0cbc1591-742c-4e28-b3eb-8466206a3c76": {
-      "type": "multicolumn",
-      "blocks": {
-        "bd72d7ea-3948-4e4e-a533-01aae1b22b39": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>成人10張優惠券 ¥19,800 <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "086764ae-47e7-4656-a4ba-d5f49496b996": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>學生10張優惠券 ¥17,810<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "79306bf3-ecd3-492a-82bc-38a0dbd8bfa8": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>成人年票 ¥87,700<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "2deeaaf7-1ea5-485f-877c-c5ec9c6e9402": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>大學生年票 ¥75,200<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "acda78b6-1832-4ec7-9305-1ce6a082aa44": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>成人六個月票 ¥45,000<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "c1131a3b-f5af-4ed9-aa97-e274178b31d8": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>大學生六個月票 ¥38,600<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "84d20177-f6e9-4cd2-9cc4-3d656da7881e": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>成人月票 ¥8,800<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "99009bf7-fc32-4fcf-b3fb-5047208fa3a1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>大學生月票 ¥7,700<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "23e8c47c-1af3-4522-bb83-5b663076e0e2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>16歲以下月票 ¥5,770<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "bd72d7ea-3948-4e4e-a533-01aae1b22b39",
-        "086764ae-47e7-4656-a4ba-d5f49496b996",
-        "79306bf3-ecd3-492a-82bc-38a0dbd8bfa8",
-        "2deeaaf7-1ea5-485f-877c-c5ec9c6e9402",
-        "acda78b6-1832-4ec7-9305-1ce6a082aa44",
-        "c1131a3b-f5af-4ed9-aa97-e274178b31d8",
-        "84d20177-f6e9-4cd2-9cc4-3d656da7881e",
-        "99009bf7-fc32-4fcf-b3fb-5047208fa3a1",
-        "23e8c47c-1af3-4522-bb83-5b663076e0e2"
-      ],
-      "settings": {
-        "title": "會員計劃",
+        "title": "門票",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -465,7 +352,6 @@
     "9cb85370-e1df-4257-9181-da5ab4af13a3",
     "036b0ac6-9826-4310-b9fd-56c2afd99763",
     "3d3a4fad-dc21-4f60-80b0-27f5108e65b4",
-    "0cbc1591-742c-4e28-b3eb-8466206a3c76",
     "da011621-bd0d-46af-ac41-748180f08331"
   ]
 }
