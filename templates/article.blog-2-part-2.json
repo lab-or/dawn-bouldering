@@ -90,7 +90,7 @@
         ".image-with-text {margin: 0 auto;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Arete_new.gif",
+        "image": "shopify:\/\/shop_images\/Crimp.png",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -127,7 +127,7 @@
         "b894b1a8-ddb2-4784-ba5c-5de9f929e3cd"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Overhang.gif",
+        "image": "shopify:\/\/shop_images\/Jug.jpg",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -164,7 +164,7 @@
         "c6720a81-78fc-403c-b1a5-95f5d8791b16"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Roof.gif",
+        "image": "shopify:\/\/shop_images\/Pinch.jpg",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -201,7 +201,7 @@
         "7740f0f0-2805-4749-a055-3f34450f17c2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Slab.gif",
+        "image": "shopify:\/\/shop_images\/Pocket.webp",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -238,7 +238,7 @@
         "7c10f4e9-d453-4da6-bee7-03b3519cdefe"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Vertical.gif",
+        "image": "shopify:\/\/shop_images\/Sloper.jpg",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -275,7 +275,7 @@
         "1254ac5b-b0e5-48e6-9970-44d330f93142"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Vertical.gif",
+        "image": "shopify:\/\/shop_images\/Undercling.png",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -312,7 +312,7 @@
         "911dce06-015c-4b51-9f19-3cb7e61068d3"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Vertical.gif",
+        "image": "shopify:\/\/shop_images\/Volume.jpg",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -372,7 +372,7 @@
         "2392f157-0e4c-48de-a8bb-7e0622d275ed"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Vertical.gif",
+        "image": "shopify:\/\/shop_images\/Downpull.jpg",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -409,10 +409,10 @@
         "0bcc0122-e7e5-4037-9bd1-80ce5b1c517c"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Vertical.gif",
+        "image": "shopify:\/\/shop_images\/Gaston.jpg",
         "height": "medium",
         "desktop_image_width": "small",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -446,7 +446,7 @@
         "c41a41a2-472c-4d77-878e-d64cdaf2a49c"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Vertical.gif",
+        "image": "shopify:\/\/shop_images\/Sidepull.jpg",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "text_first",
