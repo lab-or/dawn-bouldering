@@ -278,7 +278,7 @@
         "image": "shopify:\/\/shop_images\/Vertical.gif",
         "height": "medium",
         "desktop_image_width": "small",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -325,6 +325,66 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "871927ca-e09a-4b53-ad5b-bfa3b6088a91": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16052996210838__871927ca-e09a-4b53-ad5b-bfa3b6088a91-1689321568c0e5ff50-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Motion",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--16052996210838__871927ca-e09a-4b53-ad5b-bfa3b6088a91-1689321568c0e5ff50-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1d18e3bb-b0a9-4237-a540-e6e2ce75a144": {
+      "type": "image-with-text",
+      "blocks": {
+        "e44b84f3-bcb8-4669-8885-48d0bcbef44b": {
+          "type": "heading",
+          "settings": {
+            "heading": "Volume",
+            "heading_size": "h1"
+          }
+        },
+        "2392f157-0e4c-48de-a8bb-7e0622d275ed": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Arguably not a hold but it allows different to be installed onto. You can also use them when climbing any routes, a very useful existence on the wall!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "e44b84f3-bcb8-4669-8885-48d0bcbef44b",
+        "2392f157-0e4c-48de-a8bb-7e0622d275ed"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Vertical.gif",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -336,6 +396,8 @@
     "6ab72ef8-f943-42b9-89e1-515d98be2a7a",
     "0b812ce0-22ba-4daf-a3bf-6529b4594cd5",
     "84e4deaf-a573-44f8-9d8d-bcdb0eebb119",
-    "b923b8d4-e328-409e-b80a-dade171c4cb9"
+    "b923b8d4-e328-409e-b80a-dade171c4cb9",
+    "871927ca-e09a-4b53-ad5b-bfa3b6088a91",
+    "1d18e3bb-b0a9-4237-a540-e6e2ce75a144"
   ]
 }
