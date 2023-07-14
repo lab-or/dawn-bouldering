@@ -45,14 +45,22 @@
     "99629d4c-1748-4a97-a5ca-487208865ca3": {
       "type": "rich-text",
       "blocks": {
+        "ced69f17-c63a-4f5a-b882-b69be9fee24d": {
+          "type": "heading",
+          "settings": {
+            "heading": "Types of holds",
+            "heading_size": "h1"
+          }
+        },
         "template--16048687317142__99629d4c-1748-4a97-a5ca-487208865ca3-1688632241399c6ef9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Types of holds<\/p><p>Now that you have some understanding of the types of walls in a climbing gym, you might be wondering what those different rocks are called on the wall. First thing first, they are called hold and below is a list of different types of holds.<\/p>"
+            "text": "<p>Now that you have some understanding of the types of walls in a climbing gym, you might be wondering what those different rocks are called on the wall. First thing first, they are called hold and below is a list of different types of holds.<\/p>"
           }
         }
       },
       "block_order": [
+        "ced69f17-c63a-4f5a-b882-b69be9fee24d",
         "template--16048687317142__99629d4c-1748-4a97-a5ca-487208865ca3-1688632241399c6ef9-1"
       ],
       "settings": {
