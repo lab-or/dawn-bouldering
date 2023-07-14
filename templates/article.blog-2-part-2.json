@@ -70,14 +70,14 @@
         "template--16048687317142__c35ca921-4aed-490e-83e9-085bba7308b1-1688631479e1f5bcfc-0": {
           "type": "heading",
           "settings": {
-            "heading": "Arete",
+            "heading": "Crimp",
             "heading_size": "h1"
           }
         },
         "template--16048687317142__c35ca921-4aed-490e-83e9-085bba7308b1-1688631479e1f5bcfc-1": {
           "type": "text",
           "settings": {
-            "text": "<p>呢種牆要求你爬上牆角，就好似爬上一棟建築物嘅邊咁。通常都會有一個幾明顯嘅角度，而攀爬者係可以捉住牆嘅邊爬上去嘅。Toe hook 同heel hook 係呢種牆上面都經常會被用到㗎（當我哋介紹技術嘅時候我哋就會向你哋介紹呢兩種hook）。<\/p>",
+            "text": "<p>A very small edge that only allows you to hang onto with your fingertips.<\/p>",
             "text_style": "body"
           }
         }
@@ -110,14 +110,14 @@
         "bc768f43-ca2a-4bb6-a086-a64e5c037e8c": {
           "type": "heading",
           "settings": {
-            "heading": "Overhang",
+            "heading": "Jug",
             "heading_size": "h1"
           }
         },
         "b894b1a8-ddb2-4784-ba5c-5de9f929e3cd": {
           "type": "text",
           "settings": {
-            "text": "<p>同地心吸力對抗嘅牆!最癲嘅overhang 就好係下面roof 牆咁, 成個人倒吊, 真係少啲core 同力水都搞唔掂㗎！<\/p>",
+            "text": "<p>A large and deep hold that fits your entire hand inside.<\/p>",
             "text_style": "body"
           }
         }
@@ -147,14 +147,14 @@
         "a5141fa2-5bec-48ba-9747-63af738ea822": {
           "type": "heading",
           "settings": {
-            "heading": "Roof",
+            "heading": "Pinch",
             "heading_size": "h1"
           }
         },
         "c6720a81-78fc-403c-b1a5-95f5d8791b16": {
           "type": "text",
           "settings": {
-            "text": "<p>因為香港樓底比較矮，所以比較少啲所謂嘅roof 牆, 不過會喺外國會見到好多㗎，尤其係lead climbing！個個都成個Spiderman 咁，你都咪話唔型，不過對新手嚟講可能幾有挑戰性。<\/p>",
+            "text": "<p>A hold that requires you to hold between your thumb and fingers, like squeezing the hold. They are generally set in vertical.<\/p>",
             "text_style": "body"
           }
         }
@@ -184,14 +184,14 @@
         "8966d1da-295e-4936-b1c5-df22b6ffe677": {
           "type": "heading",
           "settings": {
-            "heading": "Slab",
+            "heading": "Pocket",
             "heading_size": "h1"
           }
         },
         "7740f0f0-2805-4749-a055-3f34450f17c2": {
           "type": "text",
           "settings": {
-            "text": "<p>同overhang同埋roof係完全唔同嘅牆。Slab牆要求你貼住牆，然後將重心放喺你雙腳慢慢咁爬 （咁當然如果你係V10嘅，咁你唔使理我話你要慢慢爬㗎啦）。<\/p>",
+            "text": "<p>A hold that you can fit one, two or three fingers in to hang onto the hold (one of my personal favourites!).<\/p>",
             "text_style": "body"
           }
         }
@@ -221,14 +221,14 @@
         "b95af0da-3897-479c-911c-e203988b35a3": {
           "type": "heading",
           "settings": {
-            "heading": "Vertical",
+            "heading": "Sloper",
             "heading_size": "h1"
           }
         },
         "7c10f4e9-d453-4da6-bee7-03b3519cdefe": {
           "type": "text",
           "settings": {
-            "text": "<p>Vertical 就最直接啦，就係普通嘅牆，基本上你屋企所有牆都係可以叫做vertical，係少咗啲hold㗎炸！<\/p>",
+            "text": "<p>A hold, normally big and round, with no edges to hold onto. It generally requires climbers to rely on the friction from the entire palm to stick on it.<\/p>",
             "text_style": "body"
           }
         }
