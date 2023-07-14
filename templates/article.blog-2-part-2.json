@@ -355,14 +355,14 @@
         "e44b84f3-bcb8-4669-8885-48d0bcbef44b": {
           "type": "heading",
           "settings": {
-            "heading": "Volume",
+            "heading": "Downpull",
             "heading_size": "h1"
           }
         },
         "2392f157-0e4c-48de-a8bb-7e0622d275ed": {
           "type": "text",
           "settings": {
-            "text": "<p>Arguably not a hold but it allows different to be installed onto. You can also use them when climbing any routes, a very useful existence on the wall!<\/p>",
+            "text": "<p>A motion that is quite self-explanatory. You pull the hold down to pull yourself up. Simple as that!<\/p>",
             "text_style": "body"
           }
         }
@@ -370,6 +370,80 @@
       "block_order": [
         "e44b84f3-bcb8-4669-8885-48d0bcbef44b",
         "2392f157-0e4c-48de-a8bb-7e0622d275ed"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Vertical.gif",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "4d23ba9c-3eb8-447d-8428-88a0b49e6469": {
+      "type": "image-with-text",
+      "blocks": {
+        "ef64696c-0cc3-4c40-bc3a-08a3fca28c41": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gaston",
+            "heading_size": "h1"
+          }
+        },
+        "0bcc0122-e7e5-4037-9bd1-80ce5b1c517c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A motion that has the hold designed to have its grabby part facing towards you. It generally requires a lot of shoulder power on those motion.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "ef64696c-0cc3-4c40-bc3a-08a3fca28c41",
+        "0bcc0122-e7e5-4037-9bd1-80ce5b1c517c"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Vertical.gif",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "a9ca3725-b1d7-4751-93c0-1883621bcb1e": {
+      "type": "image-with-text",
+      "blocks": {
+        "2de8ca77-bdf2-4db5-ad7e-af337900d54f": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sidepull",
+            "heading_size": "h1"
+          }
+        },
+        "c41a41a2-472c-4d77-878e-d64cdaf2a49c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A motion that requires you to grab the hold sideways. Similar to a downpull but you will be asked to pull sideways rather than downwards.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "2de8ca77-bdf2-4db5-ad7e-af337900d54f",
+        "c41a41a2-472c-4d77-878e-d64cdaf2a49c"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Vertical.gif",
@@ -398,6 +472,8 @@
     "84e4deaf-a573-44f8-9d8d-bcdb0eebb119",
     "b923b8d4-e328-409e-b80a-dade171c4cb9",
     "871927ca-e09a-4b53-ad5b-bfa3b6088a91",
-    "1d18e3bb-b0a9-4237-a540-e6e2ce75a144"
+    "1d18e3bb-b0a9-4237-a540-e6e2ce75a144",
+    "4d23ba9c-3eb8-447d-8428-88a0b49e6469",
+    "a9ca3725-b1d7-4751-93c0-1883621bcb1e"
   ]
 }
