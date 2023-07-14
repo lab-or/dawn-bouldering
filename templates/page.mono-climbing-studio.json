@@ -72,7 +72,7 @@
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>地址：812-0893 福岡縣福岡市博多區中3-27-27<\/p><p>平日：14:00-23:00<\/p><p>週六、週日同假日：10:00-22:00<\/p><p>逢星期二和星期四：上午10時至深夜12時（長時間營業）<\/p><p>距離JR竹下駅站步行約13分鐘<\/p>"
+            "text": "<p>地址：812-0893 福岡縣福岡市博多區中3-27-27<\/p><p>平日：14:00-23:00<br\/>週六、週日同假日：10:00-22:00<br\/>逢星期二和星期四：上午10時至深夜12時（長時間營業）<\/p><p>距離JR竹下駅站步行約13分鐘<\/p><p>設施：<br\/>Mono Climbing 擁有各種不同角度、形狀同難度等級嘅攀岩牆。牆壁係由高品質材料所製成，設計用於模擬戶外岩石嘅形態。抱石館仲設有一個訓練區，配備咗重量、引體上升棒同其他器材，俾抱石者去提高自身力量同體能。<\/p><p>課程同訓練：<br\/>Mono Climbing 提供各種適合唔同級別抱石者嘅課程同訓練計劃，包括技巧課程、力量同體能課程以及針對高級抱石者嘅專業訓練計劃。抱石館仲提供私人教練課程，為啲需要更個性化指導嘅人提供服務。<\/p><p>比賽同活動：<br\/>Mono Climbing 喺全年舉辦各種唔同嘅比賽同活動，包括本地同全國性嘅抱石比賽。呢啲活動開放俾各級抱石者參加，為抱石者提供一個有趣同具有挑戰性嘅環境，令佢地可以測試自己嘅技能亦都同其他人競爭。<\/p><p>會員制度：<br\/>Mono Climbing 提供不同嘅會員選擇，包括月度同年度會籍。會員可以喺正常營業時間內入去抱石館，參加課程同活動，仲可以獲得器材同其他服務嘅折扣。遊客亦都可以俾錢入去。<\/p><p>位置：<br\/>Mono Climbing 位於日本九州島最大的城市福岡市，交通便利，附近有許多餐廳和其他景點。<\/p><p>總括嚟講，Mono Climbing 係福岡無論體驗抱石或者提高抱石技能嘅好選擇。抱石館氛圍友好，設施高質素，並提供適合各級抱石者嘅課程同活動。<\/p>"
           }
         }
       },
@@ -96,7 +96,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/japan.png",
-            "title": "歷史悠久始於1989年",
+            "title": "設有福岡難得一見的嘅Moon Board",
             "text": "",
             "link_label": "",
             "link": ""
@@ -105,8 +105,8 @@
         "8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5dots.png",
-            "title": "擁有100多條不同的路線",
+            "image": "shopify:\/\/shop_images\/flag.png",
+            "title": "交通方便",
             "text": "",
             "link_label": "",
             "link": ""
@@ -115,8 +115,8 @@
         "a6cbad9e-8e44-4407-bbf8-5f827024d77a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/weight.png",
-            "title": "提供健身訓練和瑜伽課程",
+            "image": "shopify:\/\/shop_images\/waterfall.png",
+            "title": "設有多條路線",
             "text": "",
             "link_label": "",
             "link": ""
@@ -125,8 +125,8 @@
         "d7ba897b-7c73-46ee-9cd9-18860c7eff16": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/wall.png",
-            "title": "設有4米、10米和15米，3種不同的抱石牆",
+            "image": "shopify:\/\/shop_images\/kids.png",
+            "title": "設有獨特兒童抱石牆",
             "text": "",
             "link_label": "",
             "link": ""
