@@ -1,0 +1,265 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "custom_css": [
+        ".article-template__link {display: none;}",
+        ".article-template__comment-wrapper {display: none;}"
+      ],
+      "settings": {
+      }
+    },
+    "99629d4c-1748-4a97-a5ca-487208865ca3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16048687317142__99629d4c-1748-4a97-a5ca-487208865ca3-1688632241399c6ef9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Send, hold, flash, slab? 喂，師兄你講乜呀？作為攀石新手可能會因為聽唔明啲術語而感到氣餒，所以我哋通過介紹一啲術語等大家可以融入得快啲，順便可以扮吓識野（話晒唔打得都睇得呀嘛 😉）。不過好明顯唔好亂用啦，呢啲野好易弄巧反拙嫁嘛。<\/p><p><strong>牆嘅種類<\/strong><\/p><p>第一樣你想學嘅係牆嘅種類，因為同你嘅安全同你要用到嘅技術都有關（有興趣可以睇番<a href=\"\/blogs\/攀石blog\/攀石抱石你要知\" title=\"攀石抱石你要知\">攀石抱石你要知<\/a>）。同埋講真，一入去個gym就見到啲牆先。<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16048687317142__99629d4c-1748-4a97-a5ca-487208865ca3-1688632241399c6ef9-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "c35ca921-4aed-490e-83e9-085bba7308b1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16048687317142__c35ca921-4aed-490e-83e9-085bba7308b1-1688631479e1f5bcfc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Arete",
+            "heading_size": "h1"
+          }
+        },
+        "template--16048687317142__c35ca921-4aed-490e-83e9-085bba7308b1-1688631479e1f5bcfc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>呢種牆要求你爬上牆角，就好似爬上一棟建築物嘅邊咁。通常都會有一個幾明顯嘅角度，而攀爬者係可以捉住牆嘅邊爬上去嘅。Toe hook 同heel hook 係呢種牆上面都經常會被用到㗎（當我哋介紹技術嘅時候我哋就會向你哋介紹呢兩種hook）。<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16048687317142__c35ca921-4aed-490e-83e9-085bba7308b1-1688631479e1f5bcfc-0",
+        "template--16048687317142__c35ca921-4aed-490e-83e9-085bba7308b1-1688631479e1f5bcfc-1"
+      ],
+      "custom_css": [
+        ".image-with-text {margin: 0 auto;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Arete_new.gif",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "6752b281-1541-4496-a171-641524a67b21": {
+      "type": "image-with-text",
+      "blocks": {
+        "bc768f43-ca2a-4bb6-a086-a64e5c037e8c": {
+          "type": "heading",
+          "settings": {
+            "heading": "Overhang",
+            "heading_size": "h1"
+          }
+        },
+        "b894b1a8-ddb2-4784-ba5c-5de9f929e3cd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>同地心吸力對抗嘅牆!最癲嘅overhang 就好係下面roof 牆咁, 成個人倒吊, 真係少啲core 同力水都搞唔掂㗎！<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "bc768f43-ca2a-4bb6-a086-a64e5c037e8c",
+        "b894b1a8-ddb2-4784-ba5c-5de9f929e3cd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Overhang.gif",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "4f43e11c-9cdb-47da-b5b0-9f7da12f4057": {
+      "type": "image-with-text",
+      "blocks": {
+        "a5141fa2-5bec-48ba-9747-63af738ea822": {
+          "type": "heading",
+          "settings": {
+            "heading": "Roof",
+            "heading_size": "h1"
+          }
+        },
+        "c6720a81-78fc-403c-b1a5-95f5d8791b16": {
+          "type": "text",
+          "settings": {
+            "text": "<p>因為香港樓底比較矮，所以比較少啲所謂嘅roof 牆, 不過會喺外國會見到好多㗎，尤其係lead climbing！個個都成個Spiderman 咁，你都咪話唔型，不過對新手嚟講可能幾有挑戰性。<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "a5141fa2-5bec-48ba-9747-63af738ea822",
+        "c6720a81-78fc-403c-b1a5-95f5d8791b16"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Roof.gif",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "6ab72ef8-f943-42b9-89e1-515d98be2a7a": {
+      "type": "image-with-text",
+      "blocks": {
+        "8966d1da-295e-4936-b1c5-df22b6ffe677": {
+          "type": "heading",
+          "settings": {
+            "heading": "Slab",
+            "heading_size": "h1"
+          }
+        },
+        "7740f0f0-2805-4749-a055-3f34450f17c2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>同overhang同埋roof係完全唔同嘅牆。Slab牆要求你貼住牆，然後將重心放喺你雙腳慢慢咁爬 （咁當然如果你係V10嘅，咁你唔使理我話你要慢慢爬㗎啦）。<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "8966d1da-295e-4936-b1c5-df22b6ffe677",
+        "7740f0f0-2805-4749-a055-3f34450f17c2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Slab.gif",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "0b812ce0-22ba-4daf-a3bf-6529b4594cd5": {
+      "type": "image-with-text",
+      "blocks": {
+        "b95af0da-3897-479c-911c-e203988b35a3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vertical",
+            "heading_size": "h1"
+          }
+        },
+        "7c10f4e9-d453-4da6-bee7-03b3519cdefe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vertical 就最直接啦，就係普通嘅牆，基本上你屋企所有牆都係可以叫做vertical，係少咗啲hold㗎炸！<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "b95af0da-3897-479c-911c-e203988b35a3",
+        "7c10f4e9-d453-4da6-bee7-03b3519cdefe"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Vertical.gif",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "99629d4c-1748-4a97-a5ca-487208865ca3",
+    "c35ca921-4aed-490e-83e9-085bba7308b1",
+    "6752b281-1541-4496-a171-641524a67b21",
+    "4f43e11c-9cdb-47da-b5b0-9f7da12f4057",
+    "6ab72ef8-f943-42b9-89e1-515d98be2a7a",
+    "0b812ce0-22ba-4daf-a3bf-6529b4594cd5"
+  ]
+}
