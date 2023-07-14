@@ -46,7 +46,7 @@
         ".media {right: 10%; left: 10%; width: 80%;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/City_Rock_Gym.jpg",
+        "image": "shopify:\/\/shop_images\/Mono_logo.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -166,7 +166,7 @@
         "a1168622-90da-43b6-b7dc-41bb7fce949c": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/City_Rock_Gym_1.jpg",
+            "image": "shopify:\/\/shop_images\/Mono_3.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -184,7 +184,43 @@
         "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/City_Rock_Gym_2.jpg",
+            "image": "shopify:\/\/shop_images\/Mono_2.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "e1b96741-f0d7-43c6-8296-891d43fb4976": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mono_4.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "2fbb3849-4d3c-413f-a414-be4f0d6c1e23": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mono_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -202,7 +238,9 @@
       },
       "block_order": [
         "a1168622-90da-43b6-b7dc-41bb7fce949c",
-        "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0"
+        "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0",
+        "e1b96741-f0d7-43c6-8296-891d43fb4976",
+        "2fbb3849-4d3c-413f-a414-be4f0d6c1e23"
       ],
       "settings": {
         "layout": "grid",
