@@ -1,0 +1,469 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "383ef268-afee-4bdf-b331-ff65609adc34": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h0"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"
+      ],
+      "custom_css": [
+        ".media {right: 10%; left: 10%; width: 80%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/City_Rock_Gym.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "City Rock Gym Osaka",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>地址: 532-0021 大阪市淀川區田川北 2-3-35<\/p><p>營業時間：週一至週日（全天）10:00～22:00<\/p><p>交通：搭乘大阪市營巴士69、97路（十三駅火車站步行3分鐘）於田川通站下車，步行4分鐘到達抱石館<\/p><p>City Rock Gym Osaka 是日本最大的室內抱石館之一，佔地面積約 1,000 平方米，自 1989 年以來已有 30 多年的歷史。館內設有各種抱石牆，包括 15 米高的抱石牆、4米高的抱石牆和10米高的頂繩牆。牆壁的設計適合所有包括從初學者到高級級別的抱石者。<\/p><p>抱石館為有需要的人提供租賃裝備，包括攀石鞋、安全帶和粉袋。他們還為所有年齡和技能水平的抱石者提供各種課程和項目，包括初學者入門課程、適合經驗豐富的抱石者的高級技術課程以及私人教練課程。<\/p><p>除了抱石之外，抱石館還提供健身訓練和瑜伽課程，幫助抱石者提高力量和柔韌性。而且還有一家專業商店，出售抱石裝備和用品。<\/p><p>City Rock Gym Osaka 擁有友好和支持的抱石者社區，工作人員知識淵博且經驗豐富。抱石館位於大阪市，交通便利，搭乘公共交通工具即可輕鬆抵達。<\/p><p>如果你正計劃去日本旅行並且對抱石感興趣，那麼City Rock Gym Osaka絕對值得一試！<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "48b425ce-415f-4ef2-9c98-f36546a0afec": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15952655024278__48b425ce-415f-4ef2-9c98-f36546a0afec-1677662154a18b39a6-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/japan.png",
+            "title": "歷史悠久始於1989年",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5dots.png",
+            "title": "擁有100多條不同的路線",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a6cbad9e-8e44-4407-bbf8-5f827024d77a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/weight.png",
+            "title": "提供健身訓練和瑜伽課程",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d7ba897b-7c73-46ee-9cd9-18860c7eff16": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wall.png",
+            "title": "設有4米、10米和15米，3種不同的抱石牆",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15952655024278__48b425ce-415f-4ef2-9c98-f36546a0afec-1677662154a18b39a6-0",
+        "8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0",
+        "a6cbad9e-8e44-4407-bbf8-5f827024d77a",
+        "d7ba897b-7c73-46ee-9cd9-18860c7eff16"
+      ],
+      "custom_css": [
+        "h3 {color: white;}",
+        ".slider-counter {font-size: large;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 12
+      }
+    },
+    "9cb85370-e1df-4257-9181-da5ab4af13a3": {
+      "type": "slideshow",
+      "blocks": {
+        "a1168622-90da-43b6-b7dc-41bb7fce949c": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/City_Rock_Gym_1.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/City_Rock_Gym_2.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "a1168622-90da-43b6-b7dc-41bb7fce949c",
+        "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "036b0ac6-9826-4310-b9fd-56c2afd99763": {
+      "type": "multicolumn",
+      "blocks": {
+        "fb020a80-6af5-4152-84d2-16e936df3751": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>註冊費 ¥1,650<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "85660d4f-c024-4521-9ddc-051ddeb71d28": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>攀石鞋 ¥550<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "116125a5-eaf1-4d7c-b651-1a06dbc8c83c": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>粉袋 ¥110<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "fb020a80-6af5-4152-84d2-16e936df3751",
+        "85660d4f-c024-4521-9ddc-051ddeb71d28",
+        "116125a5-eaf1-4d7c-b651-1a06dbc8c83c"
+      ],
+      "custom_css": [
+        "h3 {color: black;}"
+      ],
+      "settings": {
+        "title": "註冊\/租借",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3d3a4fad-dc21-4f60-80b0-27f5108e65b4": {
+      "type": "multicolumn",
+      "blocks": {
+        "cef251b0-a007-4594-a596-b2963a5b6f2f": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>成人 ¥2,200 (*¥1,650)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ef222255-c36e-4250-8837-1c0199c225da": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>大學生 ¥1,990  (*¥1,550 )<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "508f2292-9b24-4e28-bb8c-b09b5bb05f7a": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>幼兒園\/初中\/高中生 ¥1,100  (*¥1,100 )<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b6075c78-0080-48ee-afdb-7f5a98e63198": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>每週二女士節 ¥1,100<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "cef251b0-a007-4594-a596-b2963a5b6f2f",
+        "ef222255-c36e-4250-8837-1c0199c225da",
+        "508f2292-9b24-4e28-bb8c-b09b5bb05f7a",
+        "b6075c78-0080-48ee-afdb-7f5a98e63198"
+      ],
+      "settings": {
+        "title": "日票 (*夜間從下午 5:00 開始）",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0cbc1591-742c-4e28-b3eb-8466206a3c76": {
+      "type": "multicolumn",
+      "blocks": {
+        "bd72d7ea-3948-4e4e-a533-01aae1b22b39": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>成人10張優惠券 ¥19,800 <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "086764ae-47e7-4656-a4ba-d5f49496b996": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>學生10張優惠券 ¥17,810<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "79306bf3-ecd3-492a-82bc-38a0dbd8bfa8": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>成人年票 ¥87,700<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2deeaaf7-1ea5-485f-877c-c5ec9c6e9402": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>大學生年票 ¥75,200<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "acda78b6-1832-4ec7-9305-1ce6a082aa44": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>成人六個月票 ¥45,000<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c1131a3b-f5af-4ed9-aa97-e274178b31d8": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>大學生六個月票 ¥38,600<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "84d20177-f6e9-4cd2-9cc4-3d656da7881e": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>成人月票 ¥8,800<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "99009bf7-fc32-4fcf-b3fb-5047208fa3a1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>大學生月票 ¥7,700<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "23e8c47c-1af3-4522-bb83-5b663076e0e2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>16歲以下月票 ¥5,770<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "bd72d7ea-3948-4e4e-a533-01aae1b22b39",
+        "086764ae-47e7-4656-a4ba-d5f49496b996",
+        "79306bf3-ecd3-492a-82bc-38a0dbd8bfa8",
+        "2deeaaf7-1ea5-485f-877c-c5ec9c6e9402",
+        "acda78b6-1832-4ec7-9305-1ce6a082aa44",
+        "c1131a3b-f5af-4ed9-aa97-e274178b31d8",
+        "84d20177-f6e9-4cd2-9cc4-3d656da7881e",
+        "99009bf7-fc32-4fcf-b3fb-5047208fa3a1",
+        "23e8c47c-1af3-4522-bb83-5b663076e0e2"
+      ],
+      "settings": {
+        "title": "會員計劃",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "da011621-bd0d-46af-ac41-748180f08331": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3279.282434228879!2d135.4669280124247!3d34.72327458188639!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e5bff16fd611%3A0x39cf07c7d821229!2z44K344OG44Kj44Ot44OD44Kv44K444Og5aSn6Ziq5bqX!5e0!3m2!1sen!2shk!4v1681351326365!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "383ef268-afee-4bdf-b331-ff65609adc34",
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
+    "48b425ce-415f-4ef2-9c98-f36546a0afec",
+    "9cb85370-e1df-4257-9181-da5ab4af13a3",
+    "036b0ac6-9826-4310-b9fd-56c2afd99763",
+    "3d3a4fad-dc21-4f60-80b0-27f5108e65b4",
+    "0cbc1591-742c-4e28-b3eb-8466206a3c76",
+    "da011621-bd0d-46af-ac41-748180f08331"
+  ]
+}
