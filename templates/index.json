@@ -64,7 +64,7 @@
         "13db4520-59c8-4b40-8180-a4ff5f73f8d3"
       ],
       "custom_css": [
-        "slideshow-component {}"
+        "slideshow-component {margin-top: 2%;}"
       ],
       "settings": {
         "layout": "grid",
@@ -90,7 +90,7 @@
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
-        "view_all_style": "solid",
+        "view_all_style": "outline",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "adapt",
