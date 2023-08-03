@@ -46,7 +46,7 @@
         ".media {right: 10%; left: 10%; width: 80%;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/T_Up_Logo_1800x1000px.png",
+        "image": "shopify:\/\/shop_images\/Roca_logo.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -95,7 +95,7 @@
         "template--15952655024278__48b425ce-415f-4ef2-9c98-f36546a0afec-1677662154a18b39a6-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/network.png",
+            "image": "shopify:\/\/shop_images\/stars.png",
             "title": "提供顏色編碼去分辨路線難度",
             "text": "",
             "link_label": "",
@@ -105,7 +105,7 @@
         "8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/stars.png",
+            "image": "shopify:\/\/shop_images\/waterfall.png",
             "title": "擁有多過100多幾條路線",
             "text": "",
             "link_label": "",
@@ -115,7 +115,7 @@
         "a6cbad9e-8e44-4407-bbf8-5f827024d77a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/kids.png",
+            "image": "shopify:\/\/shop_images\/weight.png",
             "title": "提供重量同心肺訓練和",
             "text": "",
             "link_label": "",
@@ -125,7 +125,7 @@
         "d7ba897b-7c73-46ee-9cd9-18860c7eff16": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/waterfall.png",
+            "image": "shopify:\/\/shop_images\/wall.png",
             "title": "<strong>設<\/strong>有90°, 100°, 110°, 120°, 130°, 160° 攀石牆",
             "text": "",
             "link_label": "",
@@ -160,52 +160,13 @@
         "padding_bottom": 12
       }
     },
-    "8300c832-1730-4300-b130-9e91f2782dd9": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "2a8cccf2-7cca-4628-8cff-c0ca0b0e050f": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/T-UP_1.jpg"
-          }
-        },
-        "f159bcac-3dd0-46eb-91a4-e21da3cd59fa": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/T-UP_4.jpg"
-          }
-        },
-        "ec0fd321-4ebf-41ce-93dd-19f2139cd8f8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/T-UP_3.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "2a8cccf2-7cca-4628-8cff-c0ca0b0e050f",
-        "f159bcac-3dd0-46eb-91a4-e21da3cd59fa",
-        "ec0fd321-4ebf-41ce-93dd-19f2139cd8f8"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "9cb85370-e1df-4257-9181-da5ab4af13a3": {
       "type": "slideshow",
       "blocks": {
         "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/T-UP_1.jpg",
+            "image": "shopify:\/\/shop_images\/Roca_2.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -223,7 +184,7 @@
         "84ec57cc-00eb-41d5-bf73-b21025e91aed": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/T-UP_2.jpg",
+            "image": "shopify:\/\/shop_images\/Roca_3.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -241,25 +202,7 @@
         "6f7e6d99-936c-49d3-9e56-99d317473a64": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/T-UP_3.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "c4f8b902-a73f-4039-8c78-e0c2a4751d33": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/T-UP_4.jpg",
+            "image": "shopify:\/\/shop_images\/Roca_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -278,8 +221,7 @@
       "block_order": [
         "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0",
         "84ec57cc-00eb-41d5-bf73-b21025e91aed",
-        "6f7e6d99-936c-49d3-9e56-99d317473a64",
-        "c4f8b902-a73f-4039-8c78-e0c2a4751d33"
+        "6f7e6d99-936c-49d3-9e56-99d317473a64"
       ],
       "settings": {
         "layout": "grid",
@@ -298,8 +240,8 @@
         "template--15987430195350__72d4650d-5e1b-4ed8-9a25-a2713508c98b-1680143814b8cfbbd3-1": {
           "type": "column",
           "settings": {
-            "title": "成人",
-            "text": "<p>全天10:00-23:00 NT$450<br\/>早鳥10:00-13:00 NT$250<br\/>下午13:00-18:00 NT$320<br\/>晚上17:00-23:00 NT$400<br\/>星光20:30-23:00 NT$300<\/p>",
+            "title": "初始註冊費",
+            "text": "<p>1,100日元（含稅）<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -307,8 +249,8 @@
         "template--15987430195350__72d4650d-5e1b-4ed8-9a25-a2713508c98b-1680143814b8cfbbd3-2": {
           "type": "column",
           "settings": {
-            "title": "學生 (13-24 歲) 須出示證明",
-            "text": "<p>全天10:00-23:00 NT$350<br\/>早鳥10:00-13:00 NT$200<br\/>下午13:00-18:00 NT$250<br\/>晚上17:00-23:00 NT$300<br\/>星光20:30-23:00 NT$250<\/p>",
+            "title": "1日費用",
+            "text": "<p>2,200日元（含稅）<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -316,8 +258,53 @@
         "81f60733-9f5f-457d-921c-b0acd3e54dd9": {
           "type": "column",
           "settings": {
-            "title": "兒童",
-            "text": "<p>(6-12 歲) NT$250<br\/>( &lt;6 歲) NT$200<br\/>20:00後不開放入場<\/p>",
+            "title": "6張門票（無有效期）",
+            "text": "<p>11,000日元（含稅）<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "577801fd-5351-433c-b06a-3273b569aee1": {
+          "type": "column",
+          "settings": {
+            "title": "1個月門票",
+            "text": "<p>11,000日元（含稅）<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a6104daa-fda2-4542-8346-d5d07c8a7d58": {
+          "type": "column",
+          "settings": {
+            "title": "3個月門票",
+            "text": "<p>29,000日元（含稅）<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f27813a6-895e-42c4-a179-e842593050fe": {
+          "type": "column",
+          "settings": {
+            "title": "6個月門票",
+            "text": "<p>55,000日元（含稅）<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e3f4e6f1-79c9-4fe2-8360-d64d2bbc60d5": {
+          "type": "column",
+          "settings": {
+            "title": "鞋子和粉袋租賃",
+            "text": "<p>550日元（含稅）<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1e9453cb-871d-49a7-907d-21aa95b5b17f": {
+          "type": "column",
+          "settings": {
+            "title": "學生優惠（小學到大學學生）",
+            "text": "<p>減免550日元<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -326,10 +313,15 @@
       "block_order": [
         "template--15987430195350__72d4650d-5e1b-4ed8-9a25-a2713508c98b-1680143814b8cfbbd3-1",
         "template--15987430195350__72d4650d-5e1b-4ed8-9a25-a2713508c98b-1680143814b8cfbbd3-2",
-        "81f60733-9f5f-457d-921c-b0acd3e54dd9"
+        "81f60733-9f5f-457d-921c-b0acd3e54dd9",
+        "577801fd-5351-433c-b06a-3273b569aee1",
+        "a6104daa-fda2-4542-8346-d5d07c8a7d58",
+        "f27813a6-895e-42c4-a179-e842593050fe",
+        "e3f4e6f1-79c9-4fe2-8360-d64d2bbc60d5",
+        "1e9453cb-871d-49a7-907d-21aa95b5b17f"
       ],
       "settings": {
-        "title": "平日日票",
+        "title": "門票選項",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -342,109 +334,13 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "9a7a9162-1d2a-46d3-8805-10619ddfa11d": {
-      "type": "multicolumn",
-      "blocks": {
-        "d3a17746-078e-4644-94db-64bee9f1cfaa": {
-          "type": "column",
-          "settings": {
-            "title": "成人",
-            "text": "<p>全天09:00-21:00 NT$450<br\/>星光18:30-21:00 NT$300<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "2cd94db4-1a33-43d9-841a-cc82635e26d0": {
-          "type": "column",
-          "settings": {
-            "title": "學生 (13-24 歲) 須出示證明",
-            "text": "<p>全天09:00-21:00 NT$350<br\/>星光18:30-21:00 NT$250<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "14899dd0-160b-48f6-afeb-ebd94882fbfa": {
-          "type": "column",
-          "settings": {
-            "title": "兒童",
-            "text": "<p>(6-12 歲) NT$250<br\/>( &lt;6 歲) NT$200<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "d3a17746-078e-4644-94db-64bee9f1cfaa",
-        "2cd94db4-1a33-43d9-841a-cc82635e26d0",
-        "14899dd0-160b-48f6-afeb-ebd94882fbfa"
-      ],
-      "settings": {
-        "title": "週末和假期日票",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1063dfe2-f990-487c-96e2-c3f2fa0e4b2a": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15987430195350__1063dfe2-f990-487c-96e2-c3f2fa0e4b2a-1680143814b8cfbbd3-0": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>攀岩鞋 NT$100<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "d0b6b795-7c64-485d-aa4e-a50e44573b42": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>粉袋（含鎂粉）NT$80<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15987430195350__1063dfe2-f990-487c-96e2-c3f2fa0e4b2a-1680143814b8cfbbd3-0",
-        "d0b6b795-7c64-485d-aa4e-a50e44573b42"
-      ],
-      "settings": {
-        "title": "出租",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
         "padding_bottom": 36
       }
     },
     "da011621-bd0d-46af-ac41-748180f08331": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d14459.976222254278!2d121.4969244!3d25.0342758!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a9ac2acb144d%3A0xf3caecd547a1b56d!2sT-UP%20Climbing%20Gym%20(Wanhua)!5e0!3m2!1sen!2shk!4v1682580418803!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3280.94637059512!2d135.5000768123556!3d34.68130297281356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e71ebf1fe321%3A0xe6151a1de57748d3!2sBouldering%20gym%20roca%20(Roca)!5e0!3m2!1sen!2shk!4v1691031536830!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -456,11 +352,8 @@
     "383ef268-afee-4bdf-b331-ff65609adc34",
     "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
     "48b425ce-415f-4ef2-9c98-f36546a0afec",
-    "8300c832-1730-4300-b130-9e91f2782dd9",
     "9cb85370-e1df-4257-9181-da5ab4af13a3",
     "72d4650d-5e1b-4ed8-9a25-a2713508c98b",
-    "9a7a9162-1d2a-46d3-8805-10619ddfa11d",
-    "1063dfe2-f990-487c-96e2-c3f2fa0e4b2a",
     "da011621-bd0d-46af-ac41-748180f08331"
   ]
 }
