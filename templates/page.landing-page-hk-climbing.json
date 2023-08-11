@@ -53,6 +53,7 @@
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -71,7 +72,7 @@
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>地址 - 新界沙田大涌橋路52號富豪花園二期商場2樓<\/p><p>開放時間 - 星期一至五: 2pm-10pm 星期六日及公眾假期: 11am-8pm <\/p><p>Hong Kong Climbing Park設備完善，除了設有高達4.5米高的室內抱石區域及多達50條路線外，玻璃天花設計的高牆區更可增加戶外感，當中設有不同的難度，讓每位climber都可享受不同的攀爬體驗！<\/p>"
+            "text": "<p>新界沙田大涌橋路52號富豪花園二期商場2樓<\/p><p>開放時間 - 星期一至五: 2pm-10pm 星期六日及公眾假期: 11am-8pm <\/p><p>元朗康業街8號朗壹廣場地下14 & 15號舖<br\/>（乘坐屯馬線朗屏站F出口，再步行8分鐘）<\/p><p>開放時間 - 星期一至五: 12pm-10pm 星期六日及公眾假期: 10am-8pm <\/p><p>Hong Kong Climbing Park設備完善，除了設有高達4.5米高的室內抱石區域及多達50條路線外，玻璃天花設計的高牆區更可增加戶外感，當中設有不同的難度，讓每位climber都可享受不同的攀爬體驗！<\/p>"
           }
         },
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
@@ -240,6 +241,7 @@
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
@@ -471,7 +473,160 @@
         "e19ff83b-fffa-4207-828a-b3aa388dfee3"
       ],
       "settings": {
-        "title": "門票選項",
+        "title": "沙田分店門票",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c551cf96-0d02-4858-ad26-d4397b22b282": {
+      "type": "multicolumn",
+      "blocks": {
+        "bb3897e2-1563-49f9-b232-f7d1e4e317de": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>2小時體驗票 (星期一至五) (費用已包括租借安全帶及攀石鞋，另需繳付可退還按金) $218<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c9166214-c7c9-4172-a729-69e28e9eb20c": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>2小時體驗票 (星期六至日及公眾假期) (費用已包括租借安全帶及攀石鞋，另需繳付可退還按金)$258<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ce291528-b346-4495-ad5b-dc889c2fc688": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>日票 (星期一至五) $248<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "58d19462-0a9d-4922-b462-5fbe96ce6ecd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>日票 (星期六至日及公眾假期) $288<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "370831c6-5b5d-44e0-a0c6-3e8230cb440a": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>月票 $998<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "30d9e61a-be5d-4f15-81a4-7b54c577a545": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>季票 $2580<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8bff03f1-b2ea-4a33-a873-cc8dbf36fb76": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>半年票 $4788<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "143655c7-dce7-43e0-ad3b-ebef4206233b": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>年票 $8400<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ed7dfdc9-012e-4288-827f-602eb63d0a80": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>10張共享套票 $2200<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "9dc931fd-6ef6-4784-a163-2152890a4670": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>20張共享套票 $4160<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2f676462-0b0a-4860-86a1-27e324e71bef": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>40張共享套票 $7520<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c5f85c3e-034e-4dbb-aef3-45e5f82c690d": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>攀石鞋租借 $30<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5f5aff8b-0159-49b7-804a-1434d2e655a1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>安全帶 $30<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "bb3897e2-1563-49f9-b232-f7d1e4e317de",
+        "c9166214-c7c9-4172-a729-69e28e9eb20c",
+        "ce291528-b346-4495-ad5b-dc889c2fc688",
+        "58d19462-0a9d-4922-b462-5fbe96ce6ecd",
+        "370831c6-5b5d-44e0-a0c6-3e8230cb440a",
+        "30d9e61a-be5d-4f15-81a4-7b54c577a545",
+        "8bff03f1-b2ea-4a33-a873-cc8dbf36fb76",
+        "143655c7-dce7-43e0-ad3b-ebef4206233b",
+        "ed7dfdc9-012e-4288-827f-602eb63d0a80",
+        "9dc931fd-6ef6-4784-a163-2152890a4670",
+        "2f676462-0b0a-4860-86a1-27e324e71bef",
+        "c5f85c3e-034e-4dbb-aef3-45e5f82c690d",
+        "5f5aff8b-0159-49b7-804a-1434d2e655a1"
+      ],
+      "settings": {
+        "title": "元朗分店門票",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -534,6 +689,7 @@
     "3840052f-b99d-4d73-8914-adc89eda3f4f",
     "fe659369-9d71-4e9a-9f4a-187774e415c1",
     "036b0ac6-9826-4310-b9fd-56c2afd99763",
+    "c551cf96-0d02-4858-ad26-d4397b22b282",
     "5b0c13c9-03aa-479c-8eb4-b1ced39f9da6",
     "30b7d324-9cd1-42ce-b3a4-19d0aeba110f"
   ]
