@@ -195,7 +195,7 @@
                         </dl>
                       {%- else -%}
                         <span class="price price--end" data-mczr="{% if item.properties._mczr_designId %}item_original_line_price-{{ item.properties._mczr_designId }}{% else %}item_original_line_price-not-mczr{% endif %}">
-                          {{ item.original_line_price | money }}
+                          <span data-mczr="{% if item.properties._mczr_designId %}item_original_line_price-{{ item.properties._mczr_designId }}{% else %}item_original_line_price-not-mczr{% endif %}">{{ item.original_line_price | money }}</span>
                         </span>
                       {%- endif -%}
 
