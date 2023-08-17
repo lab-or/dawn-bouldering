@@ -76,8 +76,7 @@
             class="product-form__submit button button--full-width {% if show_dynamic_checkout %}button--secondary{% else %}button--primary{% endif %}"
             {% if product.selected_or_first_available_variant.available == false or quantity_rule_soldout %}
               disabled
-            {% endif %}
-          >
+            {% endif %} data-mczr="customize_button">
             <span>
               {%- if product.selected_or_first_available_variant.available == false or quantity_rule_soldout -%}
                 {{ 'products.product.sold_out' | t }}
@@ -98,7 +97,7 @@
             </div>
           </button>
           {%- if show_dynamic_checkout -%}
-            {{ form | payment_button }}
+            <div data-mczr="buy_it_now">{{ form | payment_button }}</div>
           {%- endif -%}
         </div>
       {%- endform -%}
@@ -110,8 +109,7 @@
           type="submit"
           name="add"
           class="product-form__submit button button--full-width button--primary"
-          disabled
-        >
+          disabled data-mczr="customize_button">
           {{ 'products.product.sold_out' | t }}
         </button>
       </div>
