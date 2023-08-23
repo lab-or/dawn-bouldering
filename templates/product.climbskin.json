@@ -150,12 +150,6 @@
         "padding_bottom": 12
       }
     },
-    "1671105833da759127": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "593116363c3bcdb6c8": {
       "type": "apps",
       "blocks": {
@@ -211,7 +205,6 @@
   },
   "order": [
     "main",
-    "1671105833da759127",
     "593116363c3bcdb6c8",
     "product-recommendations"
   ]
