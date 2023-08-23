@@ -2,10 +2,75 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
         "color_scheme": "background-1"
+      }
+    },
+    "e8b3c35c-73b3-4e6e-aa47-e7ac78e148c0": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16075197710486__e8b3c35c-73b3-4e6e-aa47-e7ac78e148c0-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/unleash_logo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16075197710486__e8b3c35c-73b3-4e6e-aa47-e7ac78e148c0-column-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "712e4684-0c45-45f6-9a4b-e0037e41edb4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16075197710486__712e4684-0c45-45f6-9a4b-e0037e41edb4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "關於 Unleash",
+            "heading_size": "h1"
+          }
+        },
+        "template--16075197710486__712e4684-0c45-45f6-9a4b-e0037e41edb4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unleash是一個香港戶外運動用品及攀石品牌，所有的攀石及運動產品都是100%自家設計及研發。品牌成位是希望為所有香港熱愛運動人仕提供優質又實惠的產品。Unleash每一件產品都是由自己親身試驗及多次改良後才推出，質素上能媲美一些國際品牌。同時希望香港人可以用更接近本地的價錢享用到高品質的運動用品。<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16075197710486__712e4684-0c45-45f6-9a4b-e0037e41edb4-heading-1",
+        "template--16075197710486__712e4684-0c45-45f6-9a4b-e0037e41edb4-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 8
       }
     },
     "product-grid": {
@@ -29,6 +94,8 @@
   },
   "order": [
     "banner",
+    "e8b3c35c-73b3-4e6e-aa47-e7ac78e148c0",
+    "712e4684-0c45-45f6-9a4b-e0037e41edb4",
     "product-grid"
   ]
 }
