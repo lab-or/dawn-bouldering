@@ -90,7 +90,7 @@
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
-        "view_all_style": "solid",
+        "view_all_style": "outline",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "adapt",
@@ -202,7 +202,6 @@
     },
     "ef14b0ae-f382-4540-8313-1acba6535481": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--15828001620118__ef14b0ae-f382-4540-8313-1acba6535481-16651501978492c248-0": {
           "type": "heading",
@@ -235,6 +234,7 @@
         "template--15828001620118__ef14b0ae-f382-4540-8313-1acba6535481-16651501978492c248-1",
         "template--15828001620118__ef14b0ae-f382-4540-8313-1acba6535481-16651501978492c248-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/BETTER_SHOES_FOR_EVERYONE_4.png",
         "image_overlay_opacity": 40,
