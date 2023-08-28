@@ -140,7 +140,6 @@
         "d7ba897b-7c73-46ee-9cd9-18860c7eff16"
       ],
       "custom_css": [
-        "p {color: white;}",
         ".slider-counter {font-size: large;}"
       ],
       "settings": {
