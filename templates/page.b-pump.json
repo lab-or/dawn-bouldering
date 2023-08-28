@@ -53,6 +53,7 @@
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -139,7 +140,6 @@
         "d7ba897b-7c73-46ee-9cd9-18860c7eff16"
       ],
       "custom_css": [
-        "h3 {color: white;}",
         ".slider-counter {font-size: large;}"
       ],
       "settings": {
@@ -190,6 +190,7 @@
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
