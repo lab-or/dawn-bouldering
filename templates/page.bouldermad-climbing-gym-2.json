@@ -1,0 +1,438 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "383ef268-afee-4bdf-b331-ff65609adc34": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"
+      ],
+      "custom_css": [
+        ".media {right: 10%; left: 10%; width: 80%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/11_0db90428-57d6-4103-95ba-5b550d42235c.png",
+        "image_overlay_opacity": 10,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "由戶外延續到室內的攀石瘋狂",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>地址 - 九龍觀塘鴻圖道26號威登中心302-303室 <\/p><p>開放時間 - 星期一至五: 11am-11pm 星期六至日及公眾假期: 10am-8pm <\/p><p>想在城市中延續攀石夢？只需從牛頭角站步行5分鐘，便可到訪BoulderMAD Climbing Gym突破自己！<br\/>除了在室內攀石場挑戰各種路線，Mad Adventure亦希望把climbers帶到戶外，例如戶外攀石飛索，由專業教練指導，感受在海面上飛翔的感覺！<\/p>"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 32
+      }
+    },
+    "3840052f-b99d-4d73-8914-adc89eda3f4f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/money.jpg",
+            "title": "高性價比",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "452c7c6a-7177-4513-8997-06ad5f6603df": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/point.png",
+            "title": "交通方便",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1628567c-5e0f-4e71-a7dd-db9246367281": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stars.png",
+            "title": "設有Kilter Board",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0294b889-8894-4b86-ab6c-071ea1fdeab9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/flag.png",
+            "title": "設有30°小斜牆",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15848049344662__3840052f-b99d-4d73-8914-adc89eda3f4f-1677491173c1257813-0",
+        "452c7c6a-7177-4513-8997-06ad5f6603df",
+        "1628567c-5e0f-4e71-a7dd-db9246367281",
+        "0294b889-8894-4b86-ab6c-071ea1fdeab9"
+      ],
+      "custom_css": [
+        ".slider-counter {font-size: large;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 32
+      }
+    },
+    "cc52b15a-d6cb-4eb4-88dc-abcab2e97ff0": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15884593397910__cc52b15a-d6cb-4eb4-88dc-abcab2e97ff0-16827351153069a2a2-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Boulder_Mad_1.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "dc757ac2-bf65-4c8f-81f4-c186ca8687c0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Boulder_Mad_2_48aff629-62ee-4327-b600-1cf444fec9e1.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "05803869-3810-450f-838d-a5b810f5b2c6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Boulder_Mad_3_512d5441-e355-47c3-b3a0-32ad7e610148.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15884593397910__cc52b15a-d6cb-4eb4-88dc-abcab2e97ff0-16827351153069a2a2-1",
+        "dc757ac2-bf65-4c8f-81f4-c186ca8687c0",
+        "05803869-3810-450f-838d-a5b810f5b2c6"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "036b0ac6-9826-4310-b9fd-56c2afd99763": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>日票 $170 (*$130)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>平日月票 $500 (*$460)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>月票 $590 (*$550)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "9ef12ffe-7df6-4bc6-9287-08a3913814c7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>平日季票 $1470 (*$1350)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e0ef69b2-e5b2-48c1-94be-ac5ba6086cdf": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>季票 $1740 (*$1620)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "60517f8d-99e9-4a92-b57d-346f0a6da1c8": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>平日半年票 $2910 (*$2670)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "22852bde-345c-4191-b4a8-ae237e0c3c8f": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>半年票 $3450 (*$3210)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "89f99c63-c302-463a-8a7a-d9e2b0fff999": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>平日年票 $5760 (*$5280)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fb0f19e6-2369-4114-9668-8ba310b44c53": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>年票 $6840 (*$6360)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "be82bee0-549e-4231-94aa-bd81ba630d34": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>10張共享套票 $1600 (*$1200)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "46cb7580-b88f-4ab7-8148-a7832faebea5": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>20張共享套票 $3040 (*$2300)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fd1f0f6d-85a5-42e3-90df-8324d14aefe6": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>50張共享套票 $7000 (*$5250)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1757438e-0b1b-4f5e-954e-66e11cbbd25e": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>攀石鞋租借 $25 (*$20)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4b510ed5-af0c-45d2-a3c2-1ed0136cac15": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>粉袋租借 $25 (*$20)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "86bc84d2-1054-47ed-9314-d29a6c51ffbe": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>攀石鞋+粉袋租借 $40 (*$30)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0",
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-1",
+        "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-2",
+        "9ef12ffe-7df6-4bc6-9287-08a3913814c7",
+        "e0ef69b2-e5b2-48c1-94be-ac5ba6086cdf",
+        "60517f8d-99e9-4a92-b57d-346f0a6da1c8",
+        "22852bde-345c-4191-b4a8-ae237e0c3c8f",
+        "89f99c63-c302-463a-8a7a-d9e2b0fff999",
+        "fb0f19e6-2369-4114-9668-8ba310b44c53",
+        "be82bee0-549e-4231-94aa-bd81ba630d34",
+        "46cb7580-b88f-4ab7-8148-a7832faebea5",
+        "fd1f0f6d-85a5-42e3-90df-8324d14aefe6",
+        "1757438e-0b1b-4f5e-954e-66e11cbbd25e",
+        "4b510ed5-af0c-45d2-a3c2-1ed0136cac15",
+        "86bc84d2-1054-47ed-9314-d29a6c51ffbe"
+      ],
+      "settings": {
+        "title": "門票選項 (*學生)",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "00ea55a3-11f4-433a-b3d4-853954ca14f9": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3691.0728553013764!2d114.21714521557732!3d22.313084248067913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340401e33ddffee1%3A0x6b3a831a21fe6189!2sBoulder%20MAD!5e0!3m2!1sen!2shk!4v1669430890150!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%;\npadding-right: 5%;\"allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "383ef268-afee-4bdf-b331-ff65609adc34",
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
+    "3840052f-b99d-4d73-8914-adc89eda3f4f",
+    "cc52b15a-d6cb-4eb4-88dc-abcab2e97ff0",
+    "036b0ac6-9826-4310-b9fd-56c2afd99763",
+    "00ea55a3-11f4-433a-b3d4-853954ca14f9"
+  ]
+}
