@@ -172,6 +172,12 @@
           "settings": {
             "collection": "different-pig-1"
           }
+        },
+        "df82872b-43a5-4ba5-a33d-70054375ef7c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "unleash"
+          }
         }
       },
       "block_order": [
@@ -185,7 +191,8 @@
         "f7d99446-e525-4658-af79-ac35a0460674",
         "d9e93abc-6e9e-48cf-a808-943b66bcb29f",
         "62005267-6bc2-4f29-a918-33c640fc0c43",
-        "1a8cf6bf-2a71-46dc-958d-928249b8045f"
+        "1a8cf6bf-2a71-46dc-958d-928249b8045f",
+        "df82872b-43a5-4ba5-a33d-70054375ef7c"
       ],
       "settings": {
         "title": "選擇品牌",
