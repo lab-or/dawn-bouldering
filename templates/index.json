@@ -64,7 +64,7 @@
         "13db4520-59c8-4b40-8180-a4ff5f73f8d3"
       ],
       "custom_css": [
-        "slideshow-component {}"
+        "slideshow-component {margin-top: 2%;}"
       ],
       "settings": {
         "layout": "grid",
