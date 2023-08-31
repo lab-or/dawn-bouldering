@@ -162,28 +162,10 @@
     "9cb85370-e1df-4257-9181-da5ab4af13a3": {
       "type": "slideshow",
       "blocks": {
-        "a1168622-90da-43b6-b7dc-41bb7fce949c": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Mono_3.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mono_2.jpg",
+            "image": "shopify:\/\/shop_images\/rock_02.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -201,7 +183,7 @@
         "e1b96741-f0d7-43c6-8296-891d43fb4976": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mono_4.jpg",
+            "image": "shopify:\/\/shop_images\/rock_03.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -219,7 +201,43 @@
         "2fbb3849-4d3c-413f-a414-be4f0d6c1e23": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mono_1.jpg",
+            "image": "shopify:\/\/shop_images\/rock_04.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "7d4a6a54-f827-4db3-b427-be8242e2f962": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rock_05.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "a1168622-90da-43b6-b7dc-41bb7fce949c": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rock_06.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -236,10 +254,11 @@
         }
       },
       "block_order": [
-        "a1168622-90da-43b6-b7dc-41bb7fce949c",
         "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0",
         "e1b96741-f0d7-43c6-8296-891d43fb4976",
-        "2fbb3849-4d3c-413f-a414-be4f0d6c1e23"
+        "2fbb3849-4d3c-413f-a414-be4f0d6c1e23",
+        "7d4a6a54-f827-4db3-b427-be8242e2f962",
+        "a1168622-90da-43b6-b7dc-41bb7fce949c"
       ],
       "settings": {
         "layout": "grid",
