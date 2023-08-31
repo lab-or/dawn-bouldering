@@ -374,7 +374,7 @@
     "da011621-bd0d-46af-ac41-748180f08331": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3324.44418845803!2d130.43949111230114!3d33.567814573231985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3541905a0d571fd3%3A0x6617f3168b8c4ae8!2zTW9ubyBDbGltYmluZyBTdHVkaW9b44Oi44OOIOOCr-ODqeOCpOODn-ODs-OCsCDjgrnjgr_jgrjjgqpdIOWNmuWkmuWMuuOBruODnOODq-ODgOODquODs-OCsA!5e0!3m2!1sen!2shk!4v1689317073440!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3876.896891378626!2d100.64307008534256!3d13.664033165090794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x311d5fc6d5103d27%3A0x92e8d3c417311a42!2sRock%20Domain%20Climbing%20Gym!5e0!3m2!1sen!2shk!4v1693464487809!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
