@@ -1,0 +1,394 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "383ef268-afee-4bdf-b331-ff65609adc34": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h0"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"
+      ],
+      "custom_css": [
+        ".media {right: 10%; left: 10%; width: 80%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mono_logo.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mono Climbing Studio",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>地址：812-0893 福岡縣福岡市博多區中3-27-27<\/p><p>平日：14:00-23:00<br\/>週六、週日同假日：10:00-22:00<br\/>逢星期二和星期四：上午10時至深夜12時（長時間營業）<\/p><p>距離JR竹下駅站步行約13分鐘<\/p><p>設施：<br\/>Mono Climbing 擁有各種不同角度、形狀同難度等級嘅攀岩牆。牆壁係由高品質材料所製成，設計用於模擬戶外岩石嘅形態。抱石館仲設有一個訓練區，配備咗重量、引體上升棒同其他器材，俾抱石者去提高自身力量同體能。<\/p><p>課程同訓練：<br\/>Mono Climbing 提供各種適合唔同級別抱石者嘅課程同訓練計劃，包括技巧課程、力量同體能課程以及針對高級抱石者嘅專業訓練計劃。抱石館仲提供私人教練課程，為啲需要更個性化指導嘅人提供服務。<\/p><p>比賽同活動：<br\/>Mono Climbing 喺全年舉辦各種唔同嘅比賽同活動，包括本地同全國性嘅抱石比賽。呢啲活動開放俾各級抱石者參加，為抱石者提供一個有趣同具有挑戰性嘅環境，令佢地可以測試自己嘅技能亦都同其他人競爭。<\/p><p>會員制度：<br\/>Mono Climbing 提供不同嘅會員選擇，包括月度同年度會籍。會員可以喺正常營業時間內入去抱石館，參加課程同活動，仲可以獲得器材同其他服務嘅折扣。遊客亦都可以俾錢入去。<\/p><p>位置：<br\/>Mono Climbing 位於日本九州島最大的城市福岡市，交通便利，附近有許多餐廳和其他景點。<\/p><p>總括嚟講，Mono Climbing 係福岡無論體驗抱石或者提高抱石技能嘅好選擇。抱石館氛圍友好，設施高質素，並提供適合各級抱石者嘅課程同活動。<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "48b425ce-415f-4ef2-9c98-f36546a0afec": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15952655024278__48b425ce-415f-4ef2-9c98-f36546a0afec-1677662154a18b39a6-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/japan.png",
+            "title": "設有福岡難得一見的嘅Moon Board",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/flag.png",
+            "title": "交通方便",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a6cbad9e-8e44-4407-bbf8-5f827024d77a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/waterfall.png",
+            "title": "設有多條路線",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d7ba897b-7c73-46ee-9cd9-18860c7eff16": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kids.png",
+            "title": "設有獨特兒童抱石牆",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15952655024278__48b425ce-415f-4ef2-9c98-f36546a0afec-1677662154a18b39a6-0",
+        "8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0",
+        "a6cbad9e-8e44-4407-bbf8-5f827024d77a",
+        "d7ba897b-7c73-46ee-9cd9-18860c7eff16"
+      ],
+      "custom_css": [
+        ".slider-counter {font-size: large;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 12
+      }
+    },
+    "9cb85370-e1df-4257-9181-da5ab4af13a3": {
+      "type": "slideshow",
+      "blocks": {
+        "a1168622-90da-43b6-b7dc-41bb7fce949c": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mono_3.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mono_2.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "e1b96741-f0d7-43c6-8296-891d43fb4976": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mono_4.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "2fbb3849-4d3c-413f-a414-be4f0d6c1e23": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mono_1.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "a1168622-90da-43b6-b7dc-41bb7fce949c",
+        "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0",
+        "e1b96741-f0d7-43c6-8296-891d43fb4976",
+        "2fbb3849-4d3c-413f-a414-be4f0d6c1e23"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "036b0ac6-9826-4310-b9fd-56c2afd99763": {
+      "type": "multicolumn",
+      "blocks": {
+        "fb020a80-6af5-4152-84d2-16e936df3751": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>註冊費 ¥1,100<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "85660d4f-c024-4521-9ddc-051ddeb71d28": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>攀石鞋 ¥330<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "fb020a80-6af5-4152-84d2-16e936df3751",
+        "85660d4f-c024-4521-9ddc-051ddeb71d28"
+      ],
+      "custom_css": [
+        "h3 {color: black;}"
+      ],
+      "settings": {
+        "title": "註冊\/租借",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3d3a4fad-dc21-4f60-80b0-27f5108e65b4": {
+      "type": "multicolumn",
+      "blocks": {
+        "cef251b0-a007-4594-a596-b2963a5b6f2f": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>已經註冊會員2小時 ¥1,540 <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ef222255-c36e-4250-8837-1c0199c225da": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>已經註冊會員1天 ¥1,980 <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "508f2292-9b24-4e28-bb8c-b09b5bb05f7a": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>訪客(沒有註冊會員) 1天¥2,530<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b6075c78-0080-48ee-afdb-7f5a98e63198": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>月票 ¥10,780<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "602c1257-93c1-4f9c-b50e-cd1c75007313": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>6個月票 ¥51,700<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "cef251b0-a007-4594-a596-b2963a5b6f2f",
+        "ef222255-c36e-4250-8837-1c0199c225da",
+        "508f2292-9b24-4e28-bb8c-b09b5bb05f7a",
+        "b6075c78-0080-48ee-afdb-7f5a98e63198",
+        "602c1257-93c1-4f9c-b50e-cd1c75007313"
+      ],
+      "settings": {
+        "title": "門票",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "da011621-bd0d-46af-ac41-748180f08331": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3324.44418845803!2d130.43949111230114!3d33.567814573231985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3541905a0d571fd3%3A0x6617f3168b8c4ae8!2zTW9ubyBDbGltYmluZyBTdHVkaW9b44Oi44OOIOOCr-ODqeOCpOODn-ODs-OCsCDjgrnjgr_jgrjjgqpdIOWNmuWkmuWMuuOBruODnOODq-ODgOODquODs-OCsA!5e0!3m2!1sen!2shk!4v1689317073440!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "383ef268-afee-4bdf-b331-ff65609adc34",
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
+    "48b425ce-415f-4ef2-9c98-f36546a0afec",
+    "9cb85370-e1df-4257-9181-da5ab4af13a3",
+    "036b0ac6-9826-4310-b9fd-56c2afd99763",
+    "3d3a4fad-dc21-4f60-80b0-27f5108e65b4",
+    "da011621-bd0d-46af-ac41-748180f08331"
+  ]
+}
