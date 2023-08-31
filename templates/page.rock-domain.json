@@ -96,7 +96,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/japan.png",
-            "title": "設有福岡難得一見的嘅Moon Board",
+            "title": "總面積多達1,440平方米",
             "text": "",
             "link_label": "",
             "link": ""
@@ -106,7 +106,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/flag.png",
-            "title": "交通方便",
+            "title": "超過140+個抱石路線",
             "text": "",
             "link_label": "",
             "link": ""
@@ -116,7 +116,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/waterfall.png",
-            "title": "設有多條路線",
+            "title": "設有11米頂繩牆和引導牆， 17米懸垂引導牆， 16米頂繩牆",
             "text": "",
             "link_label": "",
             "link": ""
@@ -126,7 +126,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/kids.png",
-            "title": "設有獨特兒童抱石牆",
+            "title": "每周重新設置路線",
             "text": "",
             "link_label": "",
             "link": ""
@@ -252,37 +252,74 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "036b0ac6-9826-4310-b9fd-56c2afd99763": {
+    "3d3a4fad-dc21-4f60-80b0-27f5108e65b4": {
       "type": "multicolumn",
       "blocks": {
-        "fb020a80-6af5-4152-84d2-16e936df3751": {
+        "cef251b0-a007-4594-a596-b2963a5b6f2f": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>註冊費 ¥1,100<\/p>",
+            "text": "<p>入會費 300<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "85660d4f-c024-4521-9ddc-051ddeb71d28": {
+        "ef222255-c36e-4250-8837-1c0199c225da": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>攀石鞋 ¥330<\/p>",
+            "text": "<p>一日通行證 450 (*350)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b6075c78-0080-48ee-afdb-7f5a98e63198": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>月票 1,950 (*1650)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "602c1257-93c1-4f9c-b50e-cd1c75007313": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>6個月票 12,800 (*9,900)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7e756aff-6a46-42b4-8fa6-7ecc2482fe33": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>年票 21,500 (*16,800)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "87ce6f16-96d8-467a-a107-ab5312e5f385": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>10次通行票 4,000<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "fb020a80-6af5-4152-84d2-16e936df3751",
-        "85660d4f-c024-4521-9ddc-051ddeb71d28"
-      ],
-      "custom_css": [
-        "h3 {color: black;}"
+        "cef251b0-a007-4594-a596-b2963a5b6f2f",
+        "ef222255-c36e-4250-8837-1c0199c225da",
+        "b6075c78-0080-48ee-afdb-7f5a98e63198",
+        "602c1257-93c1-4f9c-b50e-cd1c75007313",
+        "7e756aff-6a46-42b4-8fa6-7ecc2482fe33",
+        "87ce6f16-96d8-467a-a107-ab5312e5f385"
       ],
       "settings": {
-        "title": "註冊\/租借",
+        "title": "門票(*18歲以下)",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -298,64 +335,67 @@
         "padding_bottom": 36
       }
     },
-    "3d3a4fad-dc21-4f60-80b0-27f5108e65b4": {
+    "036b0ac6-9826-4310-b9fd-56c2afd99763": {
       "type": "multicolumn",
       "blocks": {
-        "cef251b0-a007-4594-a596-b2963a5b6f2f": {
+        "85660d4f-c024-4521-9ddc-051ddeb71d28": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>已經註冊會員2小時 ¥1,540 <\/p>",
+            "text": "<p>攀石鞋 100<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "ef222255-c36e-4250-8837-1c0199c225da": {
+        "6225acff-c970-4eba-b3a1-2bc5c794694f": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>已經註冊會員1天 ¥1,980 <\/p>",
+            "text": "<p>安全帶 50<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "508f2292-9b24-4e28-bb8c-b09b5bb05f7a": {
+        "93cc97cd-53ce-4d68-bcfc-cd7f0eb855c5": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>訪客(沒有註冊會員) 1天¥2,530<\/p>",
+            "text": "<p>挽索設備 20<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "b6075c78-0080-48ee-afdb-7f5a98e63198": {
+        "ac181ec3-9beb-4f61-a623-91fc277c0571": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>月票 ¥10,780<\/p>",
+            "text": "<p>繩索 200<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "602c1257-93c1-4f9c-b50e-cd1c75007313": {
+        "2860cb70-68d0-4949-bceb-b2fcc58a3a97": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>6個月票 ¥51,700<\/p>",
+            "text": "<p>鎂粉 30<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "cef251b0-a007-4594-a596-b2963a5b6f2f",
-        "ef222255-c36e-4250-8837-1c0199c225da",
-        "508f2292-9b24-4e28-bb8c-b09b5bb05f7a",
-        "b6075c78-0080-48ee-afdb-7f5a98e63198",
-        "602c1257-93c1-4f9c-b50e-cd1c75007313"
+        "85660d4f-c024-4521-9ddc-051ddeb71d28",
+        "6225acff-c970-4eba-b3a1-2bc5c794694f",
+        "93cc97cd-53ce-4d68-bcfc-cd7f0eb855c5",
+        "ac181ec3-9beb-4f61-a623-91fc277c0571",
+        "2860cb70-68d0-4949-bceb-b2fcc58a3a97"
+      ],
+      "custom_css": [
+        "h3 {color: black;}"
       ],
       "settings": {
-        "title": "門票",
+        "title": "租借",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -387,8 +427,8 @@
     "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
     "48b425ce-415f-4ef2-9c98-f36546a0afec",
     "9cb85370-e1df-4257-9181-da5ab4af13a3",
-    "036b0ac6-9826-4310-b9fd-56c2afd99763",
     "3d3a4fad-dc21-4f60-80b0-27f5108e65b4",
+    "036b0ac6-9826-4310-b9fd-56c2afd99763",
     "da011621-bd0d-46af-ac41-748180f08331"
   ]
 }
