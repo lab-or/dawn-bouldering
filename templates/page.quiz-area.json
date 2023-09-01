@@ -14,7 +14,7 @@
         "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hong_Kong_48402a2f-eefb-44a2-8a9c-898717c4eb17.png",
+            "image": "shopify:\/\/shop_images\/hongkongisland.png",
             "title": "",
             "text": "",
             "link_label": "選擇",
@@ -24,9 +24,9 @@
         "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Kowloon.png",
+            "image": "shopify:\/\/shop_images\/kowloon_482b07b2-7d86-4b5c-9d3d-a7cf57e32e30.png",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "選擇",
             "link": "shopify:\/\/pages\/kowloon"
           }
@@ -34,7 +34,7 @@
         "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/New_Territories_7768e636-4f3d-45a3-9db9-986ae02687bb.png",
+            "image": "shopify:\/\/shop_images\/newterritories.png",
             "title": "",
             "text": "",
             "link_label": "選擇",
