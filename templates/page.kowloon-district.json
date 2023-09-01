@@ -14,7 +14,7 @@
         "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/e07062f155b2db3155d7a4f1bb0e6531_a3fb2d16-d0f2-45b4-a1d4-77388ec4c8c4.png",
+            "image": "shopify:\/\/shop_images\/kowlooncity.png",
             "title": "",
             "text": "",
             "link_label": "選擇",
@@ -24,9 +24,9 @@
         "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/e9c2e25c6f5f7930f4d6c5f73fc4a69f_fb32156b-18f5-4ff7-a1d6-8727c8b2654a.png",
+            "image": "shopify:\/\/shop_images\/kwuntong.png",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "選擇",
             "link": "shopify:\/\/pages\/kwun-tong"
           }
@@ -34,9 +34,9 @@
         "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/19459d8db065fd1bff018a17883974ca.png",
+            "image": "shopify:\/\/shop_images\/shamshuipo.png",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "選擇",
             "link": "shopify:\/\/pages\/深水埗區"
           }
@@ -54,7 +54,7 @@
         "3964bc00-1f6c-46d6-a5df-1db25777f628": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/af592b41297bb44522876335fd97422b_3bf2bc2d-c6ad-43f4-97be-9df8c292d1e0.png",
+            "image": "shopify:\/\/shop_images\/yautsimmong.png",
             "title": "",
             "text": "",
             "link_label": "選擇",

@@ -14,7 +14,7 @@
         "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4537118818464481c7e9dc100e7d3722_117bae74-2efd-41f8-9a65-3bb5211fa0cc.png",
+            "image": "shopify:\/\/shop_images\/centralandwest.png",
             "title": "",
             "text": "",
             "link_label": "選擇",
@@ -24,9 +24,9 @@
         "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3427c71691c5e895f8df5682c77a5616_1c6c450f-ce54-4e64-b1d3-184dd3a678c6.png",
+            "image": "shopify:\/\/shop_images\/eastern_85cde0c9-8316-4b6f-869e-47ad81c8bdc7.png",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "選擇",
             "link": "shopify:\/\/pages\/eastern"
           }
@@ -34,7 +34,7 @@
         "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/645bad88b6edfd0f61af726ae8c08ebd_26ad4d29-46cf-4195-8d58-b14fa42e2d37.png",
+            "image": "shopify:\/\/shop_images\/southern.png",
             "title": "",
             "text": "",
             "link_label": "選擇",
@@ -44,9 +44,9 @@
         "41df194e-4291-4a3f-895a-335670a839e5": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/63584b69f625ab5fe45bc283afda9238_20ad1b11-cc57-46f8-a4a0-79290c2edbaa.png",
+            "image": "shopify:\/\/shop_images\/wanchai.png",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "選擇",
             "link": "shopify:\/\/pages\/wan-chai"
           }
