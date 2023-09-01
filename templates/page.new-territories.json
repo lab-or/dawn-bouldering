@@ -14,9 +14,9 @@
         "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/b97bc5a17b340dc6db3a7c53482112ca_cf2c3117-05b4-4db6-ba4e-1fe36a8aa721.png",
+            "image": "shopify:\/\/shop_images\/island.png",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "選擇",
             "link": "shopify:\/\/pages\/no-problem"
           }
@@ -24,9 +24,9 @@
         "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/6ed4f58488bbe80b0857e5e02f3ea4fd.png",
+            "image": "shopify:\/\/shop_images\/kwaitsing.png",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "選擇",
             "link": "shopify:\/\/pages\/kwai-tsing"
           }
@@ -34,9 +34,9 @@
         "template--15865425952918__d38b5b01-d441-4639-84a5-c880695d05ef-16669645061e40b63f-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3662c11500b2c6fad8d786febda3e34b.png",
+            "image": "shopify:\/\/shop_images\/north.png",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "選擇",
             "link": "shopify:\/\/pages\/no-problem"
           }
@@ -44,9 +44,9 @@
         "41df194e-4291-4a3f-895a-335670a839e5": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/b51ddfc47c545f41d7b59acedd32e9fb.png",
+            "image": "shopify:\/\/shop_images\/saikung.png",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "選擇",
             "link": "shopify:\/\/pages\/sai-kung"
           }
@@ -54,7 +54,7 @@
         "3964bc00-1f6c-46d6-a5df-1db25777f628": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4d099096ec6bb5437450eaf3a5ea786b_1b93ff8b-f96b-4e30-a712-063540d4c38f.png",
+            "image": "shopify:\/\/shop_images\/shatin.png",
             "title": "",
             "text": "",
             "link_label": "選擇",
@@ -64,9 +64,9 @@
         "6293fb32-863a-461f-bfea-7089cf187cd2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/62ba4771895292d43027d96747934d00.png",
+            "image": "shopify:\/\/shop_images\/taipo.png",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "選擇",
             "link": "shopify:\/\/pages\/no-problem"
           }
@@ -74,7 +74,7 @@
         "13da0170-87fe-4f8d-83a1-df7b3dbb0dd8": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/139cd98c2913d90b71c7c8e45b9b297d_ff4995a8-e8e7-4443-a5b8-793182e10780.png",
+            "image": "shopify:\/\/shop_images\/tseunwan.png",
             "title": "",
             "text": "",
             "link_label": "選擇",
@@ -84,9 +84,9 @@
         "b72f6e86-0c49-42a8-b097-660601f08831": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/c9fb7e5f797a4d41150e17e880ade9d6.png",
+            "image": "shopify:\/\/shop_images\/tuenmun.png",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "選擇",
             "link": "shopify:\/\/pages\/tuen-mun"
           }
@@ -94,9 +94,9 @@
         "38e5556f-d0a0-49e8-b5ea-43c427913385": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/388023885be91e409bf233b35d169e17.png",
+            "image": "shopify:\/\/shop_images\/yuenlong.png",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "link_label": "選擇",
             "link": "shopify:\/\/pages\/no-problem"
           }
