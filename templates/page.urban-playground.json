@@ -1,0 +1,453 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "383ef268-afee-4bdf-b331-ff65609adc34": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h0"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-0",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-1",
+        "template--15837400858774__383ef268-afee-4bdf-b331-ff65609adc34-16652365430698052b-2"
+      ],
+      "custom_css": [
+        ".media {right: 10%; left: 10%; width: 80%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/rock_logo_01.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Rock Domain",
+            "heading_size": "h1"
+          }
+        },
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>地址 -1780 Bangna-trad road, Bangna, Bangkok 10260, Thailand<\/p><p>營業時間 - 星期一至星期五：上午10時至晚上10時30分 星期六、星期日和公眾假期：上午9時至下午9時<\/p><p>Rock Domain係一間位於泰國曼谷市嘅知名抱石館。佢係泰國最大同最受歡迎嘅抱石館之一，吸引來自各種技能水平同背景嘅抱石者。<\/p><p>Rock Domain擁有寬敞嘅室內抱石區，設有多樣化嘅抱石牆，適應唔同嘅風格同難度。啲牆壁經過精心設計，模擬自然岩石嘅形態，為抱石者提供逼真而身臨其境嘅體驗。Rock Domain提供咗適合每個人嘅抱石選擇，從適合初學者嘅牆到具有挑戰性牆懸垂同技術路線。<\/p><p>安全係呢間館度非常重要。設施配備高質素嘅抱石裝備，並定期檢查，確保提供一個安全嘅環境。工作人員自己都係經驗豐富嘅抱石者，受過適當嘅指導同監督培訓。佢哋友善、知識豐富，隨時準備提供協助，令到館內對於抱石者嚟講係一個熱情同埋支持而不分技術水平嘅地方，。<\/p><p>Rock Domain提供各種抱石課程同活動，適合個人、團體甚至係兒童參加。無論您係初學者想要學習抱石嘅基礎知識定係高級抱石者想要提升技巧，Rock Domain都可以提供專業嘅指導同培訓，幫助您實現目標。<\/p><p>除咗抱石牆，Rock Domain抱石館仲設有配備完善嘅健身區，抱石者可以喺其中進行力量同體能訓練，以提升抱石能力，包括懸垂板、訓練板同自由重量設備，令抱石者可以發展力量、耐力同靈活性。<\/p><p>Rock Domain以其充滿活力同包容性而聞名。抱石愛好者聚集喺Rock Domain，分享佢地對呢項運動嘅熱愛，交流技巧同建議，並建立新嘅友誼。定期舉辦活動、比賽同工作坊，促進抱石者之間嘅友誼同支持氛圍。<\/p><p>總括嚟講，Rock Domain抱石館憑藉其令人印象深刻嘅抱石牆、專業指導同蓬勃發展的社群，令佢喺泰國成為最大同埋最受歡迎嘅抱石館之一。呢間館嘅位置相當方便，對於當地居民同遊客嚟講都好容易到達<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0",
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "48b425ce-415f-4ef2-9c98-f36546a0afec": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15952655024278__48b425ce-415f-4ef2-9c98-f36546a0afec-1677662154a18b39a6-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pillow.png",
+            "title": "總面積多達1,440平方米",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/flag.png",
+            "title": "超過140+個抱石路線",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a6cbad9e-8e44-4407-bbf8-5f827024d77a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wall.png",
+            "title": "設有11米頂繩牆和引導牆， 17米懸垂引導牆， 16米頂繩牆",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d7ba897b-7c73-46ee-9cd9-18860c7eff16": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/clock.png",
+            "title": "每周重新設置路線",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15952655024278__48b425ce-415f-4ef2-9c98-f36546a0afec-1677662154a18b39a6-0",
+        "8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0",
+        "a6cbad9e-8e44-4407-bbf8-5f827024d77a",
+        "d7ba897b-7c73-46ee-9cd9-18860c7eff16"
+      ],
+      "custom_css": [
+        ".slider-counter {font-size: large;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 12
+      }
+    },
+    "9cb85370-e1df-4257-9181-da5ab4af13a3": {
+      "type": "slideshow",
+      "blocks": {
+        "e1b96741-f0d7-43c6-8296-891d43fb4976": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rock_3.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "2fbb3849-4d3c-413f-a414-be4f0d6c1e23": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rock_4.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "7d4a6a54-f827-4db3-b427-be8242e2f962": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rock_2.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "a1168622-90da-43b6-b7dc-41bb7fce949c": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rock_3.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rock_02.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "e1b96741-f0d7-43c6-8296-891d43fb4976",
+        "2fbb3849-4d3c-413f-a414-be4f0d6c1e23",
+        "7d4a6a54-f827-4db3-b427-be8242e2f962",
+        "a1168622-90da-43b6-b7dc-41bb7fce949c",
+        "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "3d3a4fad-dc21-4f60-80b0-27f5108e65b4": {
+      "type": "multicolumn",
+      "blocks": {
+        "cef251b0-a007-4594-a596-b2963a5b6f2f": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>入會費 300<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ef222255-c36e-4250-8837-1c0199c225da": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>一日通行證 450 (*350)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b6075c78-0080-48ee-afdb-7f5a98e63198": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>月票 1,950 (*1650)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "602c1257-93c1-4f9c-b50e-cd1c75007313": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>6個月票 12,800 (*9,900)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7e756aff-6a46-42b4-8fa6-7ecc2482fe33": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>年票 21,500 (*16,800)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "87ce6f16-96d8-467a-a107-ab5312e5f385": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>10次通行票 4,000<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "cef251b0-a007-4594-a596-b2963a5b6f2f",
+        "ef222255-c36e-4250-8837-1c0199c225da",
+        "b6075c78-0080-48ee-afdb-7f5a98e63198",
+        "602c1257-93c1-4f9c-b50e-cd1c75007313",
+        "7e756aff-6a46-42b4-8fa6-7ecc2482fe33",
+        "87ce6f16-96d8-467a-a107-ab5312e5f385"
+      ],
+      "settings": {
+        "title": "門票(*18歲以下)",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "036b0ac6-9826-4310-b9fd-56c2afd99763": {
+      "type": "multicolumn",
+      "blocks": {
+        "85660d4f-c024-4521-9ddc-051ddeb71d28": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>攀石鞋 100<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6225acff-c970-4eba-b3a1-2bc5c794694f": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>安全帶 50<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "93cc97cd-53ce-4d68-bcfc-cd7f0eb855c5": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>挽索設備 20<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ac181ec3-9beb-4f61-a623-91fc277c0571": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>繩索 200<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2860cb70-68d0-4949-bceb-b2fcc58a3a97": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>鎂粉 30<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "85660d4f-c024-4521-9ddc-051ddeb71d28",
+        "6225acff-c970-4eba-b3a1-2bc5c794694f",
+        "93cc97cd-53ce-4d68-bcfc-cd7f0eb855c5",
+        "ac181ec3-9beb-4f61-a623-91fc277c0571",
+        "2860cb70-68d0-4949-bceb-b2fcc58a3a97"
+      ],
+      "custom_css": [
+        "h3 {color: black;}"
+      ],
+      "settings": {
+        "title": "租借",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "da011621-bd0d-46af-ac41-748180f08331": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3876.896891378626!2d100.64307008534256!3d13.664033165090794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x311d5fc6d5103d27%3A0x92e8d3c417311a42!2sRock%20Domain%20Climbing%20Gym!5e0!3m2!1sen!2shk!4v1693464487809!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%; padding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "383ef268-afee-4bdf-b331-ff65609adc34",
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e",
+    "48b425ce-415f-4ef2-9c98-f36546a0afec",
+    "9cb85370-e1df-4257-9181-da5ab4af13a3",
+    "3d3a4fad-dc21-4f60-80b0-27f5108e65b4",
+    "036b0ac6-9826-4310-b9fd-56c2afd99763",
+    "da011621-bd0d-46af-ac41-748180f08331"
+  ]
+}
