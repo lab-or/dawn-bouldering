@@ -252,7 +252,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>日票 $220 (*$160)<\/p>",
+            "text": "<p>日票 $250 (*$170)<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -261,7 +261,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>早鳥價票 (適用於平日10:30am-3:00pm)<br\/>星期六晚票 (需要7:00pm入場)<br\/> $150<\/p>",
+            "text": "<p>早鳥價票 (適用於平日10:30am-3:00pm)<br\/>星期六晚票 (需要7:00pm入場)<br\/> $160<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -270,7 +270,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>週票 $360<\/p>",
+            "text": "<p>週票 $480<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -279,7 +279,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>月票 $800 (*$620)<\/p>",
+            "text": "<p>月票 $880 (*$680)<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -288,7 +288,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>季票 $2000 (*$1500)<\/p>",
+            "text": "<p>季票 $2200 (*$1650)<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -306,7 +306,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>10張共享套票 (3個月有效期) (附送1張門票) $2200<\/p>",
+            "text": "<p>10張共享套票 (3個月有效期) (附送1張門票) $2450<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -315,16 +315,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>30張共享套票 (6個月有效期) $5550<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "b39154ca-c7d9-428d-b71a-b3a22b736dbd": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>50張共享套票 (9個月有效期) $8250<\/p>",
+            "text": "<p>30張共享套票 (6個月有效期) $6100<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -348,7 +339,6 @@
         "e1eb27e8-cb0a-495b-92ce-de5dd362982e",
         "3bd7d3d5-05af-456e-8de5-08b91d645c3a",
         "cba4327a-699a-4c3e-a448-7f289b948800",
-        "b39154ca-c7d9-428d-b71a-b3a22b736dbd",
         "d0dcc4cf-b76a-409f-a0ae-63cc5400a2cf"
       ],
       "settings": {
