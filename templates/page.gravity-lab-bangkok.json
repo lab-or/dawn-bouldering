@@ -260,7 +260,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>一日通行證 450 (*350)<\/p>",
+            "text": "<p>一日通行證 450 <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -280,7 +280,7 @@
         "b6075c78-0080-48ee-afdb-7f5a98e63198"
       ],
       "settings": {
-        "title": "門票(*18歲以下)",
+        "title": "門票",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
