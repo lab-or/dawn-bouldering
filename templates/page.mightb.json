@@ -46,7 +46,7 @@
         ".media {right: 10%; left: 10%; width: 80%;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/logo.jpg",
+        "image": "shopify:\/\/shop_images\/logo.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -65,14 +65,14 @@
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
           "type": "heading",
           "settings": {
-            "heading": "香港老牌全自助攀石場",
+            "heading": "Mighty B",
             "heading_size": "h1"
           }
         },
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>地址 - 大角咀洋松街89號建聯工業大廈3樓<\/p><p>開放時間 - 星期一至日 9am-10pm (只限會員及朋友)<\/p><p>香港老字號攀石場，全港最平自助式攀石場。不過留意番唔適合新手，因為場地無staff亦無鞋無粉袋租借，線路亦偏難偏兇狠，所以比較適合玩左幾個月想挑戰一下自我嘅climber。路線上同外間現時比較普及嘅設定唔同，都係spray wall，路線以同色貼紙標記而唔係一般同一種顏色hold代表一條線。牆身比較矮同比較多overhang都幾過癮。場地亦有充足訓練裝備，不過留意番無水賣同埋只有風扇無冷氣，相對適合兇狠自虐型選手挑戰。<\/p><p>如果想去玩，可以留意番佢地facebook定期嘅新會員招待日或者搵個有鎖鑰嘅朋友，因為你未去過就咁上去係好大機會摸門釘。<\/p>"
+            "text": "<p>地址 - 深水埗南昌街9號<\/p><p>開放時間 - 星期一至日 10am-11pm <\/p><p>請自備裝備。不設租借。<\/p>"
           }
         },
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-2": {
@@ -151,6 +151,7 @@
         "1628567c-5e0f-4e71-a7dd-db9246367281",
         "0294b889-8894-4b86-ab6c-071ea1fdeab9"
       ],
+      "disabled": true,
       "custom_css": [
         ".slider-counter {font-size: large;}"
       ],
@@ -272,6 +273,7 @@
         "1c16f8c6-83a1-4653-a197-34234a2b6318",
         "448e3540-be1a-40bf-acce-00026ac3adfe"
       ],
+      "disabled": true,
       "settings": {
         "layout": "grid",
         "slide_height": "adapt_image",
@@ -309,6 +311,7 @@
         "template--15844509417622__036b0ac6-9826-4310-b9fd-56c2afd99763-16669221706bc0982b-0",
         "29c42fa0-b204-46f8-8c30-8a610a064b45"
       ],
+      "disabled": true,
       "settings": {
         "title": "門票選項",
         "heading_size": "h1",
@@ -329,7 +332,7 @@
     "da011621-bd0d-46af-ac41-748180f08331": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3690.717202354398!2d114.15802981183495!3d22.32653257958286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404012ac66d1f29%3A0x24f0074401db5388!2sMightyB%20Bouldering!5e0!3m2!1sen!2shk!4v1696514407732!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%;\npadding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>\n<iframe src=\"\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3690.717202354398!2d114.15802981183495!3d22.32653257958286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404012ac66d1f29%3A0x24f0074401db5388!2sMightyB%20Bouldering!5e0!3m2!1sen!2shk!4v1696514407732!5m2!1sen!2shk\" width=\"100%\" height=\"450\" style=\"border:0; padding-left: 5%;\npadding-right: 5%;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
