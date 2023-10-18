@@ -57,6 +57,25 @@
             "text_alignment_mobile": "center"
           }
         },
+        "4c869f90-f91f-40ed-a393-3f15442d28bd": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Beyond_Ordinary_1.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "了解更多",
+            "link": "shopify:\/\/pages\/b-pump",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "57a996d6-1524-4deb-b1a9-4aa2b21e72dc": {
           "type": "slide",
           "disabled": true,
@@ -75,33 +94,14 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "4c869f90-f91f-40ed-a393-3f15442d28bd": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Beyond_Ordinary_6fbc73e4-952b-4e98-9869-523051e00e10.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "了解更多",
-            "link": "shopify:\/\/pages\/b-pump",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
         "16c8f386-da8e-4211-b33f-44d2b634aaf3",
         "370b5b57-2c9f-4515-82f1-59d0f68a5bc1",
         "13db4520-59c8-4b40-8180-a4ff5f73f8d3",
-        "57a996d6-1524-4deb-b1a9-4aa2b21e72dc",
-        "4c869f90-f91f-40ed-a393-3f15442d28bd"
+        "4c869f90-f91f-40ed-a393-3f15442d28bd",
+        "57a996d6-1524-4deb-b1a9-4aa2b21e72dc"
       ],
       "custom_css": [
         "slideshow-component {margin-top: 2%;}"
