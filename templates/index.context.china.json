@@ -1,0 +1,17 @@
+{
+  "parent": "index.json",
+  "context": {
+    "market": "china"
+  },
+  "sections": {
+    "85ae0ad4-4b3f-40dd-a70f-013c272aa89e": {
+      "blocks": {
+        "16c8f386-da8e-4211-b33f-44d2b634aaf3": {
+          "settings": {
+            "heading": "Beyond Ordinary"
+          }
+        }
+      }
+    }
+  }
+}
