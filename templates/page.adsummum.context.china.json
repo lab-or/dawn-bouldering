@@ -35,6 +35,13 @@
     "3d3a4fad-dc21-4f60-80b0-27f5108e65b4": {
       "settings": {
         "title": "First time: Member registration fee, daily usage fee, rental shoes and chalk fee included"
+      },
+      "blocks": {
+        "cef251b0-a007-4594-a596-b2963a5b6f2f": {
+          "settings": {
+            "text": "<p>Adult ¥3,300<\/p>"
+          }
+        }
       }
     }
   }
