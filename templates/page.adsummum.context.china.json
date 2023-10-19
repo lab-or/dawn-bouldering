@@ -151,7 +151,17 @@
         },
         "a7083f5b-7d73-451d-ad10-3b5b99414978": {
           "settings": {
-            "text": "<p>Climbing shoes<\/p>"
+            "text": "<p>Climbing shoes ¥300<\/p>"
+          }
+        },
+        "0bd98b8b-7a9c-4615-9e42-c90557f5ab06": {
+          "settings": {
+            "text": "<p>Chalk ¥100<\/p>"
+          }
+        },
+        "6b7fe004-c57c-46e5-b87d-b36d87834e05": {
+          "settings": {
+            "text": "<p>Pants ¥300<\/p>"
           }
         }
       }
