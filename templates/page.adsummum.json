@@ -612,7 +612,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>攀岩鞋<\/p>",
+            "text": "<p>攀岩鞋 ¥300<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -621,7 +621,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>鎂粉<\/p>",
+            "text": "<p>鎂粉 ¥100<\/p>",
             "link_label": "",
             "link": ""
           }
