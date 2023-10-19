@@ -341,7 +341,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>成人10張優惠券 ¥19,800 <\/p>",
+            "text": "<p>成人日票 ¥2,200<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -350,7 +350,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>學生10張優惠券 ¥17,810<\/p>",
+            "text": "<p>大學生日票 ¥1,700 <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -359,7 +359,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>成人年票 ¥87,700<\/p>",
+            "text": "<p>國中生\/高中生\/成人 (55歲以上) 日票 ¥1,200<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -368,7 +368,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>大學生年票 ¥75,200<\/p>",
+            "text": "<p>小學生日票 ¥800<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -377,7 +377,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>成人六個月票 ¥45,000<\/p>",
+            "text": "<p>成人月票 ¥15,000<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -386,7 +386,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>大學生六個月票 ¥38,600<\/p>",
+            "text": "<p>大學生月票 ¥11,500<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -395,7 +395,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>成人月票 ¥8,800<\/p>",
+            "text": "<p>國中生\/高中生\/成人 (55歲以上) 月票¥8,000<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -404,7 +404,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>大學生月票 ¥7,700<\/p>",
+            "text": "<p>小學生月票 ¥5,000<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -413,7 +413,205 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>16歲以下月票 ¥5,770<\/p>",
+            "text": "<p>成人3個月套票 ¥36,000<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "eff3d9b6-dba2-47da-88ab-4bd9410ae63b": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>大學生3個月套票 ¥26,800<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6676bba4-8c44-4135-b76f-a6b867db871f": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>國中生\/高中生\/成人 (55歲以上) 3個月套票 ¥17,500<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "05074bbb-2e6a-45aa-a1f8-91db719a9061": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>小學生3個月套票 ¥12,000<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5805c7e4-5f36-48fe-882f-0a4e0a35d923": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>成人6個月套票 ¥66,900<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d162388f-1a9c-41a9-8e88-ab0b58732c19": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>大學生6個月套票¥49,400<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "76026521-9150-42e3-9282-e9e1f2a4f1c6": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>國中生\/高中生\/成人 (55歲以上) 6個月套票 ¥33,000<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b9496b45-0bf5-4ef6-a329-c0076b22035e": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>小學生6個月套票 ¥20,000<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6455e1ef-47d6-4843-8759-4f96e4a04743": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>成人年票 ¥115,000<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ef510f3a-7357-4b4c-9c83-0c851cb005e9": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>大學生年票 ¥98,800<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7da8100e-1b7b-46b8-8668-225851fb74f0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>國中生\/高中生\/成人 (55歲以上) 年票 ¥66,000<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7f5a2eb7-18e6-4a82-b0b8-dcd84608b554": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>小學生年票 ¥36,000<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4774cefb-f9ad-4d3c-b678-c8cd4642fc3e": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>成人6次票 ¥11,400<br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0de05d46-54ff-412e-a8b3-1da274739a37": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>大學生6次票 ¥8,500<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a7861afc-51f4-4401-88d0-4809f1e4aea7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>國中生\/高中生\/成人 (55歲以上) 6次票 ¥5,700<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4104c476-7ac8-4b6f-a122-7fcda45545c0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>小學生6次票 ¥3,100<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "752e8af0-c552-4197-b829-3edd21b73799": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>成人12次票 ¥20,600<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "14074894-4087-4396-9581-5117e6e7bccf": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>大學生12次票 ¥15,500<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e73840aa-adcf-4ba8-ad11-9ed54e6950b6": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>國中生\/高中生\/成人 (55歲以上) 12次票 ¥10,300<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0e476008-7091-46f1-9dbb-fb657990567e": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>小學生12次票 ¥5,600<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a7083f5b-7d73-451d-ad10-3b5b99414978": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>攀岩鞋<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0bd98b8b-7a9c-4615-9e42-c90557f5ab06": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>鎂粉<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6b7fe004-c57c-46e5-b87d-b36d87834e05": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>褲子 ¥300<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -428,7 +626,29 @@
         "c1131a3b-f5af-4ed9-aa97-e274178b31d8",
         "84d20177-f6e9-4cd2-9cc4-3d656da7881e",
         "99009bf7-fc32-4fcf-b3fb-5047208fa3a1",
-        "23e8c47c-1af3-4522-bb83-5b663076e0e2"
+        "23e8c47c-1af3-4522-bb83-5b663076e0e2",
+        "eff3d9b6-dba2-47da-88ab-4bd9410ae63b",
+        "6676bba4-8c44-4135-b76f-a6b867db871f",
+        "05074bbb-2e6a-45aa-a1f8-91db719a9061",
+        "5805c7e4-5f36-48fe-882f-0a4e0a35d923",
+        "d162388f-1a9c-41a9-8e88-ab0b58732c19",
+        "76026521-9150-42e3-9282-e9e1f2a4f1c6",
+        "b9496b45-0bf5-4ef6-a329-c0076b22035e",
+        "6455e1ef-47d6-4843-8759-4f96e4a04743",
+        "ef510f3a-7357-4b4c-9c83-0c851cb005e9",
+        "7da8100e-1b7b-46b8-8668-225851fb74f0",
+        "7f5a2eb7-18e6-4a82-b0b8-dcd84608b554",
+        "4774cefb-f9ad-4d3c-b678-c8cd4642fc3e",
+        "0de05d46-54ff-412e-a8b3-1da274739a37",
+        "a7861afc-51f4-4401-88d0-4809f1e4aea7",
+        "4104c476-7ac8-4b6f-a122-7fcda45545c0",
+        "752e8af0-c552-4197-b829-3edd21b73799",
+        "14074894-4087-4396-9581-5117e6e7bccf",
+        "e73840aa-adcf-4ba8-ad11-9ed54e6950b6",
+        "0e476008-7091-46f1-9dbb-fb657990567e",
+        "a7083f5b-7d73-451d-ad10-3b5b99414978",
+        "0bd98b8b-7a9c-4615-9e42-c90557f5ab06",
+        "6b7fe004-c57c-46e5-b87d-b36d87834e05"
       ],
       "settings": {
         "title": "會員計劃",
