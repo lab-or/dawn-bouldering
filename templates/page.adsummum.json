@@ -46,7 +46,7 @@
         ".media {right: 10%; left: 10%; width: 80%;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/City_Rock_Gym.jpg",
+        "image": "shopify:\/\/shop_images\/Wesbite_banner_1800_x_1000_px.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -65,7 +65,7 @@
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
           "type": "heading",
           "settings": {
-            "heading": "City Rock Gym Osaka",
+            "heading": "Adsummum",
             "heading_size": "h1"
           }
         },
@@ -166,7 +166,7 @@
         "a1168622-90da-43b6-b7dc-41bb7fce949c": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/City_Rock_Gym_1.jpg",
+            "image": "shopify:\/\/shop_images\/1_8f017634-cdba-4bdc-a06d-91f51cd5fcbb.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -184,7 +184,7 @@
         "template--15968430751894__9cb85370-e1df-4257-9181-da5ab4af13a3-1677738697be105790-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/City_Rock_Gym_2.jpg",
+            "image": "shopify:\/\/shop_images\/2_958bd5e3-7950-41ae-b6d7-48fb5db5986e.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
