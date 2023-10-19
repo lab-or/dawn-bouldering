@@ -73,6 +73,26 @@
           "settings": {
             "text": "<p>University student  ¥1,700<\/p>"
           }
+        },
+        "79306bf3-ecd3-492a-82bc-38a0dbd8bfa8": {
+          "settings": {
+            "text": "<p>Junior high school students, high school students, senior (over 55 years old) day pass ¥1,200<\/p>"
+          }
+        },
+        "2deeaaf7-1ea5-485f-877c-c5ec9c6e9402": {
+          "settings": {
+            "text": "<p>Elementary school student day pass  ¥800<\/p>"
+          }
+        },
+        "acda78b6-1832-4ec7-9305-1ce6a082aa44": {
+          "settings": {
+            "text": "<p>Adult monthly pass ¥15,000<\/p>"
+          }
+        },
+        "c1131a3b-f5af-4ed9-aa97-e274178b31d8": {
+          "settings": {
+            "text": "<p>University student monthly pass ¥11,500<\/p>"
+          }
         }
       }
     }
