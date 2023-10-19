@@ -1,0 +1,41 @@
+{
+  "parent": "page.adsummum.json",
+  "context": {
+    "market": "china"
+  },
+  "sections": {
+    "007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e": {
+      "blocks": {
+        "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
+          "settings": {
+            "text": "<p>Address: 3\/F & 4\/F, 490 Nakasujicho, Nakagyo Ward, Kyoto, 604-8047, Japan<\/p><p>Opening Hours - Monday-Sunday: 10:00am - 22:00pm; No Public Holidays<\/p><p>Train: 7 minutes walk from Kawaramachi Station on the Hankyu Kyoto Main Line, <br\/>8 minutes walk from Kyoto Shiyakusho-mae Station on the Kyoto Municipal Subway Tozai Line<\/p><p>Climbing gym Adsummum, a renowned bouldering gym situated in Kyoto city, has garnered widespread acclaim for its expansive indoor climbing area adorned with well-designed walls and captivating climbing features. The gym's primary focus is to foster an environment that is both welcoming and inclusive, providing climbers with the space to practice and elevate their skills.<\/p><p>Adsummum offers a range of thrilling Olympic sports experiences. Lead climbing, a popular discipline, challenges participants to ascend while wearing a harness and rope, pushing themselves to reach new heights. Bouldering, the most beloved form of climbing in Japan, is also available, showcasing climbers' raw strength, agility, and problem-solving abilities as they navigate ropeless routes. Additionally, speed climbing, a lesser-known pursuit in Japan, allows climbers to compete against the clock and achieve the fastest ascent on a standardized course, testing their speed and agility.<\/p><p>In addition to the diverse climbing routes, Adsummum provides dedicated training areas commonly found in premier bouldering gyms. These areas are equipped with essential training tools such as campus boards, fingerboards, and hangboards. These tools prove invaluable for climbers looking to enhance their finger strength, grip, and overall climbing abilities.<\/p><p>At Adsummum, the convergence of state-of-the-art facilities, a supportive community, and an unwavering passion for the sport creates a haven for climbing enthusiasts. Whether one is a beginner embarking on their climbing journey or a seasoned climber seeking new challenges, Adsummum stands as a testament to Kyoto's vibrant and thriving climbing scene. It invites climbers to explore their abilities, foster a sense of camaraderie, and embark on a thrilling journey of personal growth.<\/p>"
+          }
+        }
+      }
+    },
+    "48b425ce-415f-4ef2-9c98-f36546a0afec": {
+      "blocks": {
+        "template--15952655024278__48b425ce-415f-4ef2-9c98-f36546a0afec-1677662154a18b39a6-0": {
+          "settings": {
+            "title": "Convenient transportation"
+          }
+        },
+        "8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0": {
+          "settings": {
+            "title": "Possessing a unique island-shaped bouldering area"
+          }
+        },
+        "a6cbad9e-8e44-4407-bbf8-5f827024d77a": {
+          "settings": {
+            "title": "Affordable price"
+          }
+        }
+      }
+    },
+    "3d3a4fad-dc21-4f60-80b0-27f5108e65b4": {
+      "settings": {
+        "title": "First time: Member registration fee, daily usage fee, rental shoes and chalk fee included"
+      }
+    }
+  }
+}
