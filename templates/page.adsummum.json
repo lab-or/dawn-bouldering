@@ -95,8 +95,8 @@
         "template--15952655024278__48b425ce-415f-4ef2-9c98-f36546a0afec-1677662154a18b39a6-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/japan.png",
-            "title": "歷史悠久始於1989年",
+            "image": "shopify:\/\/shop_images\/30_2.png",
+            "title": "交通方便",
             "text": "",
             "link_label": "",
             "link": ""
@@ -105,8 +105,8 @@
         "8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5dots.png",
-            "title": "擁有100多條不同的路線",
+            "image": "shopify:\/\/shop_images\/c24995c24a344c8a9db615beda4d217d_5f9176ff-3426-4837-9909-f66303fe9e5a.png",
+            "title": "擁有獨特島型嘅抱石區",
             "text": "",
             "link_label": "",
             "link": ""
@@ -115,8 +115,8 @@
         "a6cbad9e-8e44-4407-bbf8-5f827024d77a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/weight.png",
-            "title": "提供健身訓練和瑜伽課程",
+            "image": "shopify:\/\/shop_images\/6d9b69189eb7ebc745c23d619c421c31_74f755b0-9e35-486a-a547-e15730ebc5fb.png",
+            "title": "價錢實惠",
             "text": "",
             "link_label": "",
             "link": ""
@@ -124,6 +124,7 @@
         },
         "d7ba897b-7c73-46ee-9cd9-18860c7eff16": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/wall.png",
             "title": "設有4米、10米和15米，3種不同的抱石牆",
