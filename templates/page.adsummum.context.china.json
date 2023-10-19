@@ -41,6 +41,38 @@
           "settings": {
             "text": "<p>Adult ¥3,300<\/p>"
           }
+        },
+        "ef222255-c36e-4250-8837-1c0199c225da": {
+          "settings": {
+            "text": "<p>University student ¥2,800<\/p>"
+          }
+        },
+        "508f2292-9b24-4e28-bb8c-b09b5bb05f7a": {
+          "settings": {
+            "text": "<p>Junior high school students, high school students ¥2,300<\/p>"
+          }
+        },
+        "b6075c78-0080-48ee-afdb-7f5a98e63198": {
+          "settings": {
+            "text": "<p>Seniors (over 55 years old) ¥2,700<\/p>"
+          }
+        }
+      }
+    },
+    "0cbc1591-742c-4e28-b3eb-8466206a3c76": {
+      "settings": {
+        "title": "Member"
+      },
+      "blocks": {
+        "bd72d7ea-3948-4e4e-a533-01aae1b22b39": {
+          "settings": {
+            "text": "<p>Adult day pass ¥2,200<\/p>"
+          }
+        },
+        "086764ae-47e7-4656-a4ba-d5f49496b996": {
+          "settings": {
+            "text": "<p>University student  ¥1,700<\/p>"
+          }
         }
       }
     }
