@@ -93,6 +93,51 @@
           "settings": {
             "text": "<p>University student monthly pass ¥11,500<\/p>"
           }
+        },
+        "84d20177-f6e9-4cd2-9cc4-3d656da7881e": {
+          "settings": {
+            "text": "<p>Junior high school students, high school students, senior (over 55 years old) monthly pass ¥8,000<\/p>"
+          }
+        },
+        "99009bf7-fc32-4fcf-b3fb-5047208fa3a1": {
+          "settings": {
+            "text": "<p>Elementary school student monthly pass  ¥5,000<\/p>"
+          }
+        },
+        "23e8c47c-1af3-4522-bb83-5b663076e0e2": {
+          "settings": {
+            "text": "<p>Adult 3 months pass ¥36,000<\/p>"
+          }
+        },
+        "eff3d9b6-dba2-47da-88ab-4bd9410ae63b": {
+          "settings": {
+            "text": "<p>University student 3 months pass ¥26,800<\/p>"
+          }
+        },
+        "6676bba4-8c44-4135-b76f-a6b867db871f": {
+          "settings": {
+            "text": "<p>Junior high school students, high school students, senior (over 55 years old) 3 months pass ¥17,500<\/p>"
+          }
+        },
+        "05074bbb-2e6a-45aa-a1f8-91db719a9061": {
+          "settings": {
+            "text": "<p>Elementary school student 3 months pass ¥12,000<\/p>"
+          }
+        },
+        "5805c7e4-5f36-48fe-882f-0a4e0a35d923": {
+          "settings": {
+            "text": "<p>Adult 6 months pass ¥66,900<\/p>"
+          }
+        },
+        "d162388f-1a9c-41a9-8e88-ab0b58732c19": {
+          "settings": {
+            "text": "<p>University student 6 months pass ¥49,400<\/p>"
+          }
+        },
+        "76026521-9150-42e3-9282-e9e1f2a4f1c6": {
+          "settings": {
+            "text": "<p>Junior high school students, high school students, senior (over 55 years old) 6 months pass ¥33,000<\/p>"
+          }
         }
       }
     }
