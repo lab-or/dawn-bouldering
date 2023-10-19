@@ -278,7 +278,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>成人 ¥2,200 (*¥1,650)<\/p>",
+            "text": "<p>成人 ¥3,300<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -287,7 +287,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>大學生 ¥1,990  (*¥1,550 )<\/p>",
+            "text": "<p>大學生 ¥2,800<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -296,7 +296,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>幼兒園\/初中\/高中生 ¥1,100  (*¥1,100 )<\/p>",
+            "text": "<p>國中生\/高中生 ¥2,300  <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -305,7 +305,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>每週二女士節 ¥1,100<\/p>",
+            "text": "<p>成人 (55歲以上) ¥2,700<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -318,7 +318,7 @@
         "b6075c78-0080-48ee-afdb-7f5a98e63198"
       ],
       "settings": {
-        "title": "日票 (*夜間從下午 5:00 開始）",
+        "title": "首次入場: 含會員報名費、每日使用費、租鞋費、鎂粉費",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
