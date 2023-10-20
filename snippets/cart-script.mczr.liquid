@@ -269,11 +269,13 @@ MyCustomizerCart.initializeCheckoutValidation = () => {
   document.querySelectorAll("form[action='/cart']").forEach(MyCustomizerCart.createSubmitHandler);
 };
 MyCustomizerCart.updateQuantities = () => {
-  const designIds = MyCustomizerCart.cart.items.filter(MyCustomizerCart.isMczrCartItem).map(MyCustomizerCart.getItemDesignId);
+  const mczrItems = MyCustomizerCart.cart.items.filter(MyCustomizerCart.isMczrCartItem);
+  const designIds = mczrItems.map(MyCustomizerCart.getItemDesignId);
+  const quantities = mczrItems.map(MyCustomizerCart.getItemQuantity);
   if (designIds.length === 0) return Promise.resolve({
     updated: false
   });
-  return fetch(`/apps/kickflip/designs/quantities?designIds=${designIds.join(',')}`, {
+  return fetch(`/apps/kickflip/designs/quantities?designIds=${designIds.join(',')}&quantities=${quantities.join(',')}`, {
     method: 'GET',
     headers: {
       'Content-Type': 'application/json'
