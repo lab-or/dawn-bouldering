@@ -3,6 +3,24 @@
     "85ae0ad4-4b3f-40dd-a70f-013c272aa89e": {
       "type": "slideshow",
       "blocks": {
+        "57a996d6-1524-4deb-b1a9-4aa2b21e72dc": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Beyond_Ordinary_1_3b7df029-ebba-4ca6-8ac8-97fb738fc179.png",
+            "heading": "",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "了解更多",
+            "link": "shopify:\/\/collections\/lab-or-collection",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 20,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "16c8f386-da8e-4211-b33f-44d2b634aaf3": {
           "type": "slide",
           "settings": {
@@ -75,33 +93,14 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "57a996d6-1524-4deb-b1a9-4aa2b21e72dc": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5_83e32204-07bc-4986-baf1-6fe0e4042377.png",
-            "heading": "",
-            "heading_size": "h0",
-            "subheading": "",
-            "button_label": "了解更多",
-            "link": "shopify:\/\/pages\/b-pump",
-            "button_style_secondary": true,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 70,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
+        "57a996d6-1524-4deb-b1a9-4aa2b21e72dc",
         "16c8f386-da8e-4211-b33f-44d2b634aaf3",
         "370b5b57-2c9f-4515-82f1-59d0f68a5bc1",
         "13db4520-59c8-4b40-8180-a4ff5f73f8d3",
-        "4c869f90-f91f-40ed-a393-3f15442d28bd",
-        "57a996d6-1524-4deb-b1a9-4aa2b21e72dc"
+        "4c869f90-f91f-40ed-a393-3f15442d28bd"
       ],
       "custom_css": [
         "slideshow-component {margin-top: 2%;}"
