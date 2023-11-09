@@ -121,24 +121,12 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "d7ba897b-7c73-46ee-9cd9-18860c7eff16": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/wall.png",
-            "title": "設有4米、10米和15米，3種不同的抱石牆",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "template--15952655024278__48b425ce-415f-4ef2-9c98-f36546a0afec-1677662154a18b39a6-0",
         "8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0",
-        "a6cbad9e-8e44-4407-bbf8-5f827024d77a",
-        "d7ba897b-7c73-46ee-9cd9-18860c7eff16"
+        "a6cbad9e-8e44-4407-bbf8-5f827024d77a"
       ],
       "custom_css": [
         ".slider-counter {font-size: large;}"
@@ -148,7 +136,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
