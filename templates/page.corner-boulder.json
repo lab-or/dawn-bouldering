@@ -65,14 +65,14 @@
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Adsummum",
+            "heading": "<strong>角 • 攀岩館<\/strong>",
             "heading_size": "h1"
           }
         },
         "template--15837400858774__007d764c-e51c-4a5c-bc6d-1b5f4e4cbd7e-166523782908c9909e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>地址: 日本京都市中京區中筋町 490 號 3 樓\/4 樓，郵編 604-8047<\/p><p>營業時間：週一至週日（全天）10:00～22:00 (公眾假期照常開放)<\/p><p>交通：從阪急京都本線河原町站步行7分鐘<\/p><p>Climbing gym Adsummum，一家位於京都市嘅知名抱石館，以其擁有巧妙設計嘅牆壁同引人入勝嘅抱石特色裝飾嘅寬敞室內抱石區而廣受好評。該館嘅主要目標是營造一個既友好又包容嘅環境，為抱石者提供練習同提升技能嘅空間。<\/p><p>Adsummum提供一系列令人興奮嘅奧運運動體驗。領航抱石係一個受歡迎嘅項目，挑戰參與者在穿著安全帶同繩索嘅情況下攀登，使自己不斷超越極限。在日本最受喜愛嘅攀石形式——抱石，攀石者展示了他們嘅原始力量、敏捷性同解難能力，穿越沒有繩索嘅路線。此外，速度攀爬是日本較少人知嘅運動，允許攀石者與時間競爭，完成標準化路線上嘅最快攀登，測試他們嘅速度同敏捷度。<\/p><p>除了多樣化嘅抱石路線外，Adsummum還提供了專門嘅訓練區域，提供頂級抱石館常見嘅設施。呢啲區域配備了必要嘅訓練工具，好似懸垂板、指板同握力板。對於希望增強手指力量、握力同整體攀岩能力嘅攀石者來講，呢啲工具非常寶貴。<\/p><p>喺Adsummum，先進嘅設施、支持性嘅社區同對運動嘅不懈熱情嘅融合營造了抱石愛好者嘅天堂。無論是初學者開始抱石之旅，還是經驗豐富嘅<\/p><p>攀石者尋求新嘅挑戰，Adsummum都係京都充滿活力同蓬勃發展嘅抱石場景嘅明證。它邀請攀石者探索自己嘅能力，培養同伴情誼，同展開一段充滿刺激嘅個人成長之旅。<\/p>"
+            "text": "<p>地址: 台灣台北市中山區新生北路一段86號<\/p><p>營業時間：平日 10:00-23:00 週六與週日 09:00-21:00<\/p><p>CORNER抱石館目前有華山同中山兩家分店，皆位於台北市最好嘅地區。從捷運站步行10分鐘，附近有停車場，各種交通方式去都非常方便。<\/p><p>CORNER抱石館岩牆嘅設計以木地板切割拼裝為基礎，採用與東京奧運抱石比賽相同嘅無主螺栓孔岩壁設計新方法。唔單止岩壁厚度減小，岩點亦都不受主螺栓孔限制，設置線時位置同角度選擇更多，增加了攀爬面積同增加巨石嘅穩定性。 CORNER抱石館都有特別專屬攀岩點，設計感為向下引導嘅金色箭頭同木地板嘅岩壁，令抱石者喺抱石後可以更快搵到攀岩點;而且嵌入地板嘅抱石墊設計，減小咗同地面嘅高度差，令進出抱石區更加容易，而且避免咗巨石落地時滑倒同踩踏地面。可以話係，對於初學者來講，呢個係一個非常友善嘅抱石區。<\/p><p>CORNER抱石館華山分館嘅岩壁共有48條路線。兩區複合岩壁包括北邊常見嘅板平衡岩、懸岩同略彎曲嘅20度豎牆。兩間商店嘅路線涵蓋了最簡單嘅VB到V8 。 CORNER抱石館嘅教練經驗豐富，都係台灣攀岩界嘅資深人士。教練可以一目了然咁識別出抱石者攀登嘅弱點，並可以及時指出佢哋動作中嘅盲點，減少抱石者喺牆上不必要嘅動作。<\/p><p>抱石體驗費包攀石鞋同專門設計嘅粉袋，令您喺體驗課程期間可以使用漂亮粉袋，教練總會喺後面做護石動作，令抱石者可以安全咁嘗試更大挑戰性嘅抱石路線。體驗課程結束後，如果您對攀石或路線有任何疑問，可以直接詢問櫃檯教練。<\/p>"
           }
         }
       },
@@ -105,8 +105,8 @@
         "8bf5c0a2-44e5-4cc4-ba70-72d6fa6f79d0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/c24995c24a344c8a9db615beda4d217d_5f9176ff-3426-4837-9909-f66303fe9e5a.png",
-            "title": "擁有獨特島型嘅抱石區",
+            "image": "shopify:\/\/shop_images\/money.jpg",
+            "title": "價錢實惠",
             "text": "",
             "link_label": "",
             "link": ""
@@ -115,8 +115,8 @@
         "a6cbad9e-8e44-4407-bbf8-5f827024d77a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/6d9b69189eb7ebc745c23d619c421c31_74f755b0-9e35-486a-a547-e15730ebc5fb.png",
-            "title": "價錢實惠",
+            "image": "shopify:\/\/shop_images\/japan.png",
+            "title": "設有東京奧運嘅場地體驗",
             "text": "",
             "link_label": "",
             "link": ""
@@ -225,20 +225,11 @@
     "036b0ac6-9826-4310-b9fd-56c2afd99763": {
       "type": "multicolumn",
       "blocks": {
-        "fb020a80-6af5-4152-84d2-16e936df3751": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>註冊費 ¥1,650<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "85660d4f-c024-4521-9ddc-051ddeb71d28": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>攀石鞋 ¥550<\/p>",
+            "text": "<p>攀石鞋 NT$100<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -247,14 +238,13 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>粉袋 ¥110<\/p>",
+            "text": "<p>粉袋 NT$100<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "fb020a80-6af5-4152-84d2-16e936df3751",
         "85660d4f-c024-4521-9ddc-051ddeb71d28",
         "116125a5-eaf1-4d7c-b651-1a06dbc8c83c"
       ],
@@ -262,7 +252,7 @@
         "h3 {color: black;}"
       ],
       "settings": {
-        "title": "註冊\/租借",
+        "title": "租借",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -285,7 +275,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>成人 ¥3,300<\/p>",
+            "text": "<p>平日 10:00-12:00 NT$250元<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -294,7 +284,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>大學生 ¥2,800<\/p>",
+            "text": "<p>平日 12:00-18:00 NT$300元<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -303,7 +293,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>國中生\/高中生 ¥2,300  <\/p>",
+            "text": "<p>平日 18:00-20:30 NT$350元<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -312,7 +302,16 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>成人 (55歲以上) ¥2,700<\/p>",
+            "text": "<p>假期 NT$350<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4ca2f5c3-4778-4ba6-9a18-fcdff2cfffed": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>星光票NT$250<br\/>（當天最後兩個半小時）<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -322,343 +321,11 @@
         "cef251b0-a007-4594-a596-b2963a5b6f2f",
         "ef222255-c36e-4250-8837-1c0199c225da",
         "508f2292-9b24-4e28-bb8c-b09b5bb05f7a",
-        "b6075c78-0080-48ee-afdb-7f5a98e63198"
+        "b6075c78-0080-48ee-afdb-7f5a98e63198",
+        "4ca2f5c3-4778-4ba6-9a18-fcdff2cfffed"
       ],
       "settings": {
-        "title": "首次入場: 含會員報名費、每日使用費、租鞋費、鎂粉費",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "0cbc1591-742c-4e28-b3eb-8466206a3c76": {
-      "type": "multicolumn",
-      "blocks": {
-        "bd72d7ea-3948-4e4e-a533-01aae1b22b39": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>成人日票 ¥2,200<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "086764ae-47e7-4656-a4ba-d5f49496b996": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>大學生日票 ¥1,700 <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "79306bf3-ecd3-492a-82bc-38a0dbd8bfa8": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>國中生\/高中生\/成人 (55歲以上) 日票 ¥1,200<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "2deeaaf7-1ea5-485f-877c-c5ec9c6e9402": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>小學生日票 ¥800<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "acda78b6-1832-4ec7-9305-1ce6a082aa44": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>成人月票 ¥15,000<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "c1131a3b-f5af-4ed9-aa97-e274178b31d8": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>大學生月票 ¥11,500<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "84d20177-f6e9-4cd2-9cc4-3d656da7881e": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>國中生\/高中生\/成人 (55歲以上) 月票¥8,000<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "99009bf7-fc32-4fcf-b3fb-5047208fa3a1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>小學生月票 ¥5,000<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "23e8c47c-1af3-4522-bb83-5b663076e0e2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>成人3個月套票 ¥36,000<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "eff3d9b6-dba2-47da-88ab-4bd9410ae63b": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>大學生3個月套票 ¥26,800<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "6676bba4-8c44-4135-b76f-a6b867db871f": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>國中生\/高中生\/成人 (55歲以上) 3個月套票 ¥17,500<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "05074bbb-2e6a-45aa-a1f8-91db719a9061": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>小學生3個月套票 ¥12,000<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "5805c7e4-5f36-48fe-882f-0a4e0a35d923": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>成人6個月套票 ¥66,900<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "d162388f-1a9c-41a9-8e88-ab0b58732c19": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>大學生6個月套票¥49,400<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "76026521-9150-42e3-9282-e9e1f2a4f1c6": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>國中生\/高中生\/成人 (55歲以上) 6個月套票 ¥33,000<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "b9496b45-0bf5-4ef6-a329-c0076b22035e": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>小學生6個月套票 ¥20,000<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "6455e1ef-47d6-4843-8759-4f96e4a04743": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>成人年票 ¥115,000<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "ef510f3a-7357-4b4c-9c83-0c851cb005e9": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>大學生年票 ¥98,800<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "7da8100e-1b7b-46b8-8668-225851fb74f0": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>國中生\/高中生\/成人 (55歲以上) 年票 ¥66,000<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "7f5a2eb7-18e6-4a82-b0b8-dcd84608b554": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>小學生年票 ¥36,000<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "4774cefb-f9ad-4d3c-b678-c8cd4642fc3e": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>成人6次票 ¥11,400<br\/><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "0de05d46-54ff-412e-a8b3-1da274739a37": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>大學生6次票 ¥8,500<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "a7861afc-51f4-4401-88d0-4809f1e4aea7": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>國中生\/高中生\/成人 (55歲以上) 6次票 ¥5,700<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "4104c476-7ac8-4b6f-a122-7fcda45545c0": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>小學生6次票 ¥3,100<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "752e8af0-c552-4197-b829-3edd21b73799": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>成人12次票 ¥20,600<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "14074894-4087-4396-9581-5117e6e7bccf": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>大學生12次票 ¥15,500<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "e73840aa-adcf-4ba8-ad11-9ed54e6950b6": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>國中生\/高中生\/成人 (55歲以上) 12次票 ¥10,300<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "0e476008-7091-46f1-9dbb-fb657990567e": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>小學生12次票 ¥5,600<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "a7083f5b-7d73-451d-ad10-3b5b99414978": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>攀岩鞋 ¥300<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "0bd98b8b-7a9c-4615-9e42-c90557f5ab06": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>鎂粉 ¥100<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "6b7fe004-c57c-46e5-b87d-b36d87834e05": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>褲子 ¥300<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "bd72d7ea-3948-4e4e-a533-01aae1b22b39",
-        "086764ae-47e7-4656-a4ba-d5f49496b996",
-        "79306bf3-ecd3-492a-82bc-38a0dbd8bfa8",
-        "2deeaaf7-1ea5-485f-877c-c5ec9c6e9402",
-        "acda78b6-1832-4ec7-9305-1ce6a082aa44",
-        "c1131a3b-f5af-4ed9-aa97-e274178b31d8",
-        "84d20177-f6e9-4cd2-9cc4-3d656da7881e",
-        "99009bf7-fc32-4fcf-b3fb-5047208fa3a1",
-        "23e8c47c-1af3-4522-bb83-5b663076e0e2",
-        "eff3d9b6-dba2-47da-88ab-4bd9410ae63b",
-        "6676bba4-8c44-4135-b76f-a6b867db871f",
-        "05074bbb-2e6a-45aa-a1f8-91db719a9061",
-        "5805c7e4-5f36-48fe-882f-0a4e0a35d923",
-        "d162388f-1a9c-41a9-8e88-ab0b58732c19",
-        "76026521-9150-42e3-9282-e9e1f2a4f1c6",
-        "b9496b45-0bf5-4ef6-a329-c0076b22035e",
-        "6455e1ef-47d6-4843-8759-4f96e4a04743",
-        "ef510f3a-7357-4b4c-9c83-0c851cb005e9",
-        "7da8100e-1b7b-46b8-8668-225851fb74f0",
-        "7f5a2eb7-18e6-4a82-b0b8-dcd84608b554",
-        "4774cefb-f9ad-4d3c-b678-c8cd4642fc3e",
-        "0de05d46-54ff-412e-a8b3-1da274739a37",
-        "a7861afc-51f4-4401-88d0-4809f1e4aea7",
-        "4104c476-7ac8-4b6f-a122-7fcda45545c0",
-        "752e8af0-c552-4197-b829-3edd21b73799",
-        "14074894-4087-4396-9581-5117e6e7bccf",
-        "e73840aa-adcf-4ba8-ad11-9ed54e6950b6",
-        "0e476008-7091-46f1-9dbb-fb657990567e",
-        "a7083f5b-7d73-451d-ad10-3b5b99414978",
-        "0bd98b8b-7a9c-4615-9e42-c90557f5ab06",
-        "6b7fe004-c57c-46e5-b87d-b36d87834e05"
-      ],
-      "settings": {
-        "title": "會員計劃",
+        "title": "門票",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -677,7 +344,7 @@
     "da011621-bd0d-46af-ac41-748180f08331": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3268.00547885557!2d135.76474571236085!3d35.006567972699315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600108940bb09b77%3A0xd2842d7a6e67ccc9!2sClimbing%20gym%20Adsummum!5e0!3m2!1sen!2shk!4v1697687824506!5m2!1sen!2shk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3614.600645994873!2d121.52723521245984!3d25.04762333764749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a99250507b27%3A0x3c84c33f42f78351!2z6KeSIOKAoiDmlIDlsqnppKggLSDoj6_lsbEgQ09STkVSIEJvdWxkZXJpbmcgR3ltIC0gSHVhc2hhbg!5e0!3m2!1sen!2shk!4v1699536650373!5m2!1sen!2shk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -692,7 +359,6 @@
     "9cb85370-e1df-4257-9181-da5ab4af13a3",
     "036b0ac6-9826-4310-b9fd-56c2afd99763",
     "3d3a4fad-dc21-4f60-80b0-27f5108e65b4",
-    "0cbc1591-742c-4e28-b3eb-8466206a3c76",
     "da011621-bd0d-46af-ac41-748180f08331"
   ]
 }
