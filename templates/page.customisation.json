@@ -1,7 +1,56 @@
 {
   "sections": {
+    "04c6eb74-919c-4149-861b-34d8a847d4d4": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16220278522006__04c6eb74-919c-4149-861b-34d8a847d4d4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--16220278522006__04c6eb74-919c-4149-861b-34d8a847d4d4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--16220278522006__04c6eb74-919c-4149-861b-34d8a847d4d4-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16220278522006__04c6eb74-919c-4149-861b-34d8a847d4d4-heading-1",
+        "template--16220278522006__04c6eb74-919c-4149-861b-34d8a847d4d4-text-1",
+        "template--16220278522006__04c6eb74-919c-4149-861b-34d8a847d4d4-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Beyond_Ordinary_1_228279b5-a10d-4921-bfc1-138774e48598.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
@@ -9,6 +58,7 @@
     }
   },
   "order": [
+    "04c6eb74-919c-4149-861b-34d8a847d4d4",
     "main"
   ]
 }
