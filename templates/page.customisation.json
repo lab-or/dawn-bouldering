@@ -126,11 +126,60 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "7bd1e5e8-ea91-41cc-9297-feb43b1b2d4e": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16220278522006__7bd1e5e8-ea91-41cc-9297-feb43b1b2d4e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--16220278522006__7bd1e5e8-ea91-41cc-9297-feb43b1b2d4e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--16220278522006__7bd1e5e8-ea91-41cc-9297-feb43b1b2d4e-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16220278522006__7bd1e5e8-ea91-41cc-9297-feb43b1b2d4e-heading-1",
+        "template--16220278522006__7bd1e5e8-ea91-41cc-9297-feb43b1b2d4e-text-1",
+        "template--16220278522006__7bd1e5e8-ea91-41cc-9297-feb43b1b2d4e-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/7d16a44d2e73a76860a47c0dbd940496.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
     }
   },
   "order": [
     "04c6eb74-919c-4149-861b-34d8a847d4d4",
     "main",
-    "5e7e4509-31c2-4ea9-9120-08a8f61abe3e"
+    "5e7e4509-31c2-4ea9-9120-08a8f61abe3e",
+    "7bd1e5e8-ea91-41cc-9297-feb43b1b2d4e"
   ]
 }
