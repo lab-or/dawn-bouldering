@@ -38,6 +38,15 @@
             "show_gift_card_recipient": true
           }
         },
+        "4ad744f9-3575-4c0a-8d91-d6347398513c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "洗衣說明",
+            "icon": "check_mark",
+            "content": "<ul><li>機洗，水溫不超過40℃<\/li><li>低溫熨燙<\/li><li>翻轉衣服後再清洗<\/li><li>避免使用烘乾機，以免衣服縮水<\/li><\/ul>",
+            "page": ""
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -57,6 +66,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "4ad744f9-3575-4c0a-8d91-d6347398513c",
         "description",
         "share"
       ],
