@@ -42,9 +42,49 @@
             "picker_type": "button"
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
+        "12da8760-2691-46b0-b4f6-c4787d7bf365": {
+          "type": "collapsible_tab",
           "settings": {
+            "heading": "1. 選擇T-shirt顏色",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
+        },
+        "c51a8d15-a745-4596-8295-68517d682016": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2. 選擇設計圖",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
+        },
+        "517a4a98-7fe7-439f-93bc-fb24625c5989": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3. 確認設計圖位置",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
+        },
+        "6ae2f27b-59b9-48fb-9767-8d9f3bba8cdf": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "4. 付款",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
+        },
+        "70a303dc-5ea0-4079-8427-7e0780c7bc22": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "完成！(:",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
           }
         },
         "buy_buttons": {
@@ -54,6 +94,11 @@
             "show_gift_card_recipient": true
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "4ad744f9-3575-4c0a-8d91-d6347398513c": {
           "type": "collapsible_tab",
           "settings": {
@@ -61,11 +106,6 @@
             "icon": "shirt",
             "content": "<ul><li>機洗，水溫不超過40℃<\/li><li>低溫熨燙<\/li><li>翻轉衣服後再清洗<\/li><li>避免使用烘乾機，以免衣服縮水<\/li><\/ul>",
             "page": ""
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
           }
         },
         "share": {
@@ -80,10 +120,14 @@
         "title",
         "price",
         "variant_picker",
-        "quantity_selector",
+        "12da8760-2691-46b0-b4f6-c4787d7bf365",
+        "c51a8d15-a745-4596-8295-68517d682016",
+        "517a4a98-7fe7-439f-93bc-fb24625c5989",
+        "6ae2f27b-59b9-48fb-9767-8d9f3bba8cdf",
+        "70a303dc-5ea0-4079-8427-7e0780c7bc22",
         "buy_buttons",
-        "4ad744f9-3575-4c0a-8d91-d6347398513c",
         "description",
+        "4ad744f9-3575-4c0a-8d91-d6347398513c",
         "share"
       ],
       "settings": {
@@ -117,11 +161,28 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "3701dc1b-ead8-42ad-b7ed-e63a6a68660f": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/7d16a44d2e73a76860a47c0dbd940496.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "14abfac5-74b0-48cd-9c49-6590378c7734",
     "main",
-    "related-products"
+    "related-products",
+    "3701dc1b-ead8-42ad-b7ed-e63a6a68660f"
   ]
 }
