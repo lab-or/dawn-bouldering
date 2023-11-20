@@ -211,6 +211,54 @@
         "padding_bottom": 12
       }
     },
+    "4fd13a28-eaaa-4e9b-aa73-c75df175ad9b": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16245618966678__4fd13a28-eaaa-4e9b-aa73-c75df175ad9b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--16245618966678__4fd13a28-eaaa-4e9b-aa73-c75df175ad9b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--16245618966678__4fd13a28-eaaa-4e9b-aa73-c75df175ad9b-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16245618966678__4fd13a28-eaaa-4e9b-aa73-c75df175ad9b-heading-1",
+        "template--16245618966678__4fd13a28-eaaa-4e9b-aa73-c75df175ad9b-text-1",
+        "template--16245618966678__4fd13a28-eaaa-4e9b-aa73-c75df175ad9b-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3_5b82bbda-a6a7-4bf8-93e1-a2ecf09c81ab.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "3701dc1b-ead8-42ad-b7ed-e63a6a68660f": {
       "type": "image-banner",
       "settings": {
@@ -233,6 +281,7 @@
     "related-products",
     "f2963ef7-f616-4e72-8c36-fa08d42bf9ee",
     "main",
+    "4fd13a28-eaaa-4e9b-aa73-c75df175ad9b",
     "3701dc1b-ead8-42ad-b7ed-e63a6a68660f"
   ]
 }
