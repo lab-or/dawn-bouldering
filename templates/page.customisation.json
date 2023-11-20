@@ -89,7 +89,7 @@
         "template--16220278522006__5e7e4509-31c2-4ea9-9120-08a8f61abe3e-collapsible_row-4": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "4. 付款",
+            "heading": "4. 填寫寄送地址",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
