@@ -274,6 +274,48 @@
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
+    },
+    "7d9b5e15-7982-4d2d-91d0-9754b131f189": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16245618966678__7d9b5e15-7982-4d2d-91d0-9754b131f189-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--16245618966678__7d9b5e15-7982-4d2d-91d0-9754b131f189-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>如想下單或想FPS付款，歡迎可隨時WhastApp我們！<\/p>"
+          }
+        },
+        "template--16245618966678__7d9b5e15-7982-4d2d-91d0-9754b131f189-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "聯絡我們",
+            "button_link": "https:\/\/wa.me\/98560458",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16245618966678__7d9b5e15-7982-4d2d-91d0-9754b131f189-heading-1",
+        "template--16245618966678__7d9b5e15-7982-4d2d-91d0-9754b131f189-text-1",
+        "template--16245618966678__7d9b5e15-7982-4d2d-91d0-9754b131f189-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -282,6 +324,7 @@
     "f2963ef7-f616-4e72-8c36-fa08d42bf9ee",
     "main",
     "4fd13a28-eaaa-4e9b-aa73-c75df175ad9b",
-    "3701dc1b-ead8-42ad-b7ed-e63a6a68660f"
+    "3701dc1b-ead8-42ad-b7ed-e63a6a68660f",
+    "7d9b5e15-7982-4d2d-91d0-9754b131f189"
   ]
 }
